@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^kjc\.three38inc\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.kjc\.three38inc\.com$
+RewriteRule ^/?$ "http\:\/\/kjc\.three38inc\.com\/home" [R=301,L]
+

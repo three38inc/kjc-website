@@ -1,0 +1,30 @@
+[
+    {
+        "displayText" : "Health Care",
+        "keywords"    : "health, care",
+        "redirect"    : "index.php",     
+        "image"       : "world-business-icon.png",
+        "alt"         : "health-care"
+    },
+    {
+        "displayText" : "Student Life",
+        "keywords"    : "health, care",
+        "redirect"    : "index.php",     
+        "image"       : "world-business-icon.png",
+        "alt"         : "health-care"
+    },
+    {
+        "displayText" : "Master of Business Administration",
+        "keywords"    : "MBA, master, business, administration",
+        "redirect"    : "index.php",     
+        "image"       : "world-business-icon.png",
+        "alt"         : "health-care"
+    },
+    {
+        "displayText" : "MCA",
+        "keywords"    : "MCA, master, computer, application",
+        "redirect"    : "index.php",     
+        "image"       : "world-business-icon.png",
+        "alt"         : "health-care"
+    }
+]

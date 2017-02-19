@@ -1,0 +1,166 @@
+.pipaluk-button
+{
+	min-width: 100px;
+	max-width: 250px;
+	display: block;
+	margin: 1em;
+	padding: 0;
+	border: none;
+	background: none;
+	color: inherit;
+	vertical-align: middle;
+	text-align:center;
+	position: relative;
+	z-index: 1;
+	-webkit-backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+	margin-left:auto;
+	margin-right:auto;
+}
+.pipaluk-button:focus {
+	outline: none;
+}
+.pipaluk-button span {
+	text-align: center;
+}
+
+/* pipaluk */
+
+.button--pipaluk {
+	width: 100px;
+	height: 100px;
+	color: #fff;
+}
+.button--pipaluk.button--inverted {
+	color:#ecf0f1;
+}
+.button--pipaluk.button--inverted:hover {
+	color:#2c3e50;
+}
+.button--pipaluk::before,
+.button--pipaluk::after {
+	content: '';
+	border-radius: 50%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	-webkit-transition: -webkit-transform 0.3s, background-color 0.3s;
+	transition: transform 0.3s, background-color 0.3s;
+	-webkit-transition-timing-function: cubic-bezier(0.25, 0, 0.3, 1);
+	transition-timing-function: cubic-bezier(0.25, 0, 0.3, 1);
+}
+.button--pipaluk::before {
+	border: 2px solid #2c3e50;
+}
+.button--pipaluk.button--inverted::before {
+	border-color:#2c3e50;
+}
+.button--pipaluk::after {
+	background:#ecf0f1;
+}
+.button--pipaluk.button--inverted::after {
+	background: #2c3e50;
+}
+.button--pipaluk:hover::before {
+	-webkit-transform: scale3d(1, 1, 1);
+	transform: scale3d(1, 1, 1);
+}
+#divAnimate:hover .button--pipaluk::after,
+#divAnimate:hover ~ .button--pipaluk::after
+{
+	-webkit-transform: scale3d(0.8, 0.8, 1);
+	transform: scale3d(0.8, 0.8, 1);
+}
+.button--pipaluk:hover::after {
+	background-color:#ecf0f1;
+}
+.button--pipaluk.button--inverted:hover::after {
+	background-color: #ecf0f1;
+}
+
+/* Link effect */
+
+navmotion a {
+	position: relative;
+	display: inline-block;
+	margin: 15px 25px;
+	outline: none;
+	color: #2c3e50;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1.35em;
+}
+
+navmotion a:hover,
+navmotion a:focus {
+	outline: none;
+}
+
+.cl-effect-9 a {
+	width:100%;
+	margin: 0 20px;
+	padding: 18px 20px;
+}
+
+.cl-effect-9 a::before,
+.cl-effect-9 a::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 1px;
+	background: #2c3e50;
+	content: '';
+	opacity: 0.2;
+	-webkit-transition: opacity 0.3s, height 0.3s;
+	-moz-transition: opacity 0.3s, height 0.3s;
+	transition: opacity 0.3s, height 0.3s;
+}
+
+.cl-effect-9 a::after {
+	top: 100%;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+	-moz-transition: -moz-transform 0.3s, opacity 0.3s;
+	transition: transform 0.3s, opacity 0.3s;
+	-webkit-transform: translateY(-10px);
+	-moz-transform: translateY(-10px);
+	transform: translateY(-10px);
+}
+
+.cl-effect-9 a h5 {
+	z-index: 2;
+	display: block;
+	font-weight: 300;
+	cursor: pointer;
+}
+.cl-effect-9 a:hover::before,
+.cl-effect-9 a:focus::before {
+	height: 6px;
+}
+
+.cl-effect-9 a:hover::before,
+.cl-effect-9 a:hover::after,
+.cl-effect-9 a:active::before,
+.cl-effect-9 a:active::after,
+.cl-effect-9 a:focus::before,
+.cl-effect-9 a:focus::after {
+	opacity: 1;
+	-webkit-transform: translateY(0px);
+	-moz-transform: translateY(0px);
+	transform: translateY(0px);
+}
+
+.cl-effect-9 a:hover h5,
+.cl-effect-9 a:focus h5 {
+	opacity: 1;
+	-webkit-transform: translateY(0%);
+	-moz-transform: translateY(0%);
+	transform: translateY(0%);
+}

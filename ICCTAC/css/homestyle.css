@@ -1,0 +1,164 @@
+@media screen and (max-width: 768px) {
+    #myCarousel {
+      display: none;
+    }
+	#ieee1{
+		
+		width:50%;
+		height:50%;
+		margin-left:80px;
+	}
+
+	#conno{
+	font-size:12px;
+	text-align:justify;
+	margin-bottom:10px;
+	}
+	#chumma{
+		display: none;
+	}
+	#kjc1{
+		margin-top:20px;
+	}
+	#ieee_head{
+		font-size:14px;
+		text-align:center;
+	}
+	#rig{
+		display: none;
+	}
+	#menu1{
+
+	}
+  }
+	  text-align:left;
+  }
+
+	
+	p{
+		text-align:justify;
+	}	
+
+body{
+	background-color:blue;
+}
+
+#txtbx{
+	height:30px;
+	font-size:12px;
+	font-weight:100;
+}
+#label1{
+	font-size:14px;
+	font-weight:100;
+}
+
+#label1{
+	font-weight:none;
+}
+
+.modal-header {
+	text-align:center;
+	font-weight:bold;
+	
+}
+.title-small{
+	font-weight:bold;
+	margin-left:3.5%;
+	
+}
+#myCarousel{
+	margin-top:-19px;
+}
+#conno{
+		margin-bottom:10px;
+		font-weight:50;
+}
+#navv1{
+border:none;
+}
+#bbtn{
+	height:27px;
+	font-size:12px;
+	text-align:center;
+	color:#999;
+}
+#modhead{
+	background-color:#033b63;
+	color:white;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 440px;
+  margin-bottom: 30px;
+}
+
+#vara{
+	border-bottom:1px solid grey;
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 440px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 440px;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.top1{
+margin-top:0.5%;
+font-family:tahoma;
+font-weight:bold;
+font-size:20px;
+text-align:center;
+}
+
+.nav1{
+	font-family:tahoma;
+	font-size:14px;
+}
+
+.table table-bordered{
+	text-align:centre;
+}
+.panel-body{
+	background-color:;
+	color:#000;
+	font-weight:bold;
+}
+.footer1{
+	border-bottom:1px solid #ccc;
+	margin-top:2%;
+	margin-bottom:2%;
+}

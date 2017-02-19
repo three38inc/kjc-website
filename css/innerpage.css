@@ -1,0 +1,29 @@
+/*Inner Right Panel Links*/
+.content p{
+	font-size: 13px;
+}
+.innerRightPanel
+{
+	background-color: #f1c40f;
+}
+
+.innerRightPanel ul{
+	list-style: none;
+	text-align: left;
+	padding: 0px;
+}
+
+.innerRightPanel ul li{
+	text-align: left;
+}
+
+.innerRightPanel ul li a{
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.innerRightPanel ul li a:hover{
+	color: #e74c3c;
+}
+

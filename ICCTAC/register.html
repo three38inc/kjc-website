@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ICCTAC 2016</title>
+	<link href="css/homestyle.css" rel="stylesheet">
+    <link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="jquery-1.12.0.js"></script>
+	<script src="jquery-1.12.0.min.js"></script>
+	
+	
+	<link rel="stylesheet" href="jquery-ui.css">
+  <script src="jquery-1.10.2.js"></script>
+  <script src="jquery-ui.js"></script>
+  
+  
+ <script>
+  $(function() {
+  
+	
+	
+    $( ".fdate" ).datepicker({minDate: (new Date(2016, 3 - 1, 9)), maxDate: (new Date(2016, 3 - 1, 12))});
+	
+  });
+  </script>
+
+
+
+  </head>
+  <body>
+	
+	<nav id="navv1" class="navbar navbar-default">
+	<div class="container">
+	<div class="top1">
+		<div class="row">
+			<div id="kjc1" class="col-sm-4"><img src="images/college_logo1.png" width="90%" height="90%"></div>
+			<div class="col-sm-6"></div>
+			<div id="ieee1" class="col-sm-2"><img src="images/ieeelogo.png" width="90%" height="90%"></div>
+		</div>
+		<div class="top1">
+		<div class="row">
+		<div class="col-sm-2"></div>
+		<div class="col-sm-8" id="ieee_head">International Conference on Current Trends in Advanced Computing (ICCTAC)</div>
+		<div class="col-sm-2"></div>
+		</div>
+		<div id="conno" class="row"><font color="#e94444"><center><div id="chumma"> &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp  &nbsp</div> Conference Record Number: 38363</center></font></div>
+		</div>
+	</div>
+	</div>
+        <div class="container">
+		
+		<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+					<li><a class="page-scroll" href="index.php">Home</a></li>
+                    <li>
+                        <a class="page-scroll" href="About_ICCTAC.html">About ICCTAC</a>
+                    </li>
+					<li>
+                        <a href="call_for_papers.html">Call for Papers <span class="sr-only">Home</span></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="important_dates.html">Important Dates</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="Registration.html">Registration</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="programme_schedule.html">Programme Schedule</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="Committee.html">Committe</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="Contact.html">Contact Us</a>
+                    </li>
+					
+
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+        </div>
+    </nav>
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-6">
+	    <form action="" method="post">
+		<legend><font id="label2">I am a</font></legend>
+		
+		<div class="radio-inline">
+  <label><input type="radio" name="rp" value="form1">Participant</label>
+</div>
+<div class="radio-inline">
+  <label><input type="radio" name="rp" value="form2">Presenter</label>
+</div>
+		
+		<div id="form2" style="display:none;"><br>
+		<legend id="label2">Paper Details</legend>
+		
+		
+		<div class="col-sm-12">
+          <form class="form-horizontal">
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Paper ID <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="p_id"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Paper Title <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="p_title"/></div></div>
+            </div>
+</div>
+		
+		</div>
+		
+		<div id="form1" style="display:none;">
+		<legend id="label2"><font id="label2">Personal Details</font></legend>
+		
+        <div class="col-sm-12">
+          
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Name <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="name" pattern="[[a-zA-Z\s]+" required data-validation-required-message="*Please enter your name."/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Designtion <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="desg" required data-validation-required-message="*Please enter your Designation."/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Institution <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="institn"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Office Phone </label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="official"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Mobile <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="mobile"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Email <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="email"/></div></div>
+            </div>
+			</div>
+		
+            
+			
+			
+			
+
+<legend><font id="label2">Accomodation Details</font></legend>
+<div class="col-sm-12">
+<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Required <font color="red">*</font></label><div class="col-sm-9"><label><input type="radio" name="rrq" value="yes"> <font id="label1"> &nbsp Yes</font></label > &nbsp &nbsp &nbsp <label><input type="radio" name="rrq" value="no"><font id="label1"> &nbsp No</font></label></div></div>
+            </div>
+			<div id="yes" style="display:none;">
+<div class="form-group"><div class="row">
+			
+              <label id="label1" class="col-sm-3">Room Type <font color="red">*</font></label><div class="col-sm-9"><label><input type="radio" name="acc1" value="Non-A/C"> <font id="label1"> &nbsp Non-A/C</font></label> &nbsp <label><input type="radio" name="acc1" value="A/C"><font id="label1"> &nbsp A/C</font></label></div></div>
+            </div>
+
+		<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Date From <font color="red">*</font></label><div class="col-sm-6"><input type="text" id="fdate" class="fdate form-control" name="datefrom"/></div></div>
+			
+			</div>
+			
+			
+			     </script> 
+			
+			
+			
+			 
+		<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Date To <font color="red">*</font></label><div class="col-sm-6"><input type="text" id="date" class="fdate form-control" name="dateto"/></div></div>
+            </div>
+			</div>
+            </div>
+			
+<legend><font id="label2">Payment Details</font></legend>
+<div class="row">
+        <div class="col-sm-12">
+          
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">DD No <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="ddno"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Date <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="dd_date"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Bank Name <font color="red">*</font></label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="bank"/></div></div>
+            </div>
+			
+			<div class="form-group"><div class="row">
+              <label id="label1" class="col-sm-3">Amount <font color="red">*</font> </label><div class="col-sm-9"><input type="text" id="txtbx" class="form-control" name="amnt"/></div></div>
+            </div>
+			
+            </div>
+			
+</div>
+<div class="row"><div class="col-sm-5"></div><div class="col-sm-3"><button class="btn btn-default">Register >></button></div><div class="col-sm-3"></div>
+</div>
+
+<script type="text/javascript">
+    calendar.set("date");
+    
+</script>
+			
+			
+			
+			 <script type="text/javascript">  $(document).ready(function () {
+
+    var date = new Date();
+    var d = date.getDate();
+    var m = date.getMonth();
+    var y = date.getFullYear();
+
+    var calendar = $('#date').fullCalendar({
+        header: {
+            left: 'prev,next today',
+            center: 'title'
+        },
+        selectable: true,
+        selectHelper: true,
+        editable: true
+    });
+
+  });
+
+
+
+</form>
+</form>
+</div>
+</div>
+</div>
+<div class="container">	
+<div class="footer1"></div>   
+<footer>
+	
+        <p class="pull-right"><a href="#"><a href="#"><span height="" class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></a></p>
+        <p>&copy; 2016 <a href="http://www.kristujayanti.edu.in/ICCTAC">ICCTAC</a> | Designed By <a href="http://www.clixior.com/">Clixior Technologies</a> &middot; <a href="https://web.facebook.com/pages/International-Conference-on-Current-Trends-in-Advanced-Computing/162955283894923"><img src="images/fb.png" width="20" height="20" /></a> &middot; <a href="https://twitter.com/icctac"> <img src="images/twitter.png" width="20" height="20" /></a></p>
+      </footer></div>
+
+    </div>
+    </div>
+
+  </div>
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="css/bootstrap/js/bootstrap.min.js"></script>
+	<script src="dis.js"></script>
+
+
+  </body>
+  
+  <?php
+// check if fields passed are empty
+$accom="";
+$date_from="";
+$date_to="";
+
+
+	if($_POST['rp']=="form1"){
+		$role="Participant";
+		if(empty($_POST['name'])||empty($_POST['desg'])||empty($_POST['institn'])||
+		    
+		   empty($_POST['official']) 		||
+		   empty($_POST['mobile'])		||
+		   
+		    
+		   empty($_POST['ddno']) ||
+		   empty($_POST['dd_date']) ||
+		   empty($_POST['bank']) ||
+		   empty($_POST['amnt']) ||
+		   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
+		   {
+			echo "No  arguments Provided!";
+			return false;
+		   }
+		   if($_POST['rrq']=="yes"){
+			   if(empty($_POST['acc1'])||empty($_POST['datefrom'])||empty($_POST['dateto'])){
+				   echo"Please Provide Accomadation Details";
+				   return false;
+			   }
+			   else{
+				  $accom=$_POST['acc1'];
+				  $date_from=$_POST['datefrom'];
+				  $date_to=$_POST['dateto'];				  
+			   }
+		   }
+		   if($_POST['rrq']=="no"){
+			   $accom="Not Needed";
+		   }
+		   
+	}
+
+
+
+
+	else if($_POST['rp']=="form2")
+	{
+		$role="Presenter";
+		if(empty($_POST['name'])||empty($_POST['desg'])||empty($_POST['institn'])||
+		    
+		   empty($_POST['official']) 		||
+		   empty($_POST['mobile'])		||
+		   
+		    
+			empty($_POST['p_id']) ||
+		   empty($_POST['p_title']) ||
+		   
+		   empty($_POST['ddno']) ||
+		   empty($_POST['dd_date']) ||
+		   empty($_POST['bank']) ||
+		   empty($_POST['amnt']) ||
+		   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
+		   {
+			echo "No  arguments Provided!";
+			return false;
+		   }
+		   if($_POST['rrq']=="yes"){
+			   if(empty($_POST['acc1'])||empty($_POST['datefrom'])||empty($_POST['dateto'])){
+				   echo"Please Provide Accomadation Details";
+				   return false;
+			   }
+			   else{
+				  $accom=$_POST['acc1'];
+				  $date_from=$_POST['datefrom'];
+				  $date_to=$_POST['dateto'];				  
+			   }
+		   }
+		   if($_POST['rrq']=="no"){
+			   $accom="Not Needed";
+		   }
+	}
+
+
+$pid=$_POST["p_id"];
+$p_title=$_POST['p_title'];	
+$name = $_POST['name'];
+$desg = $_POST['desg'];
+$institn = $_POST['institn'];
+//$address=$_POST['address'];
+$phone=$_POST['official'];
+$mobile = $_POST['mobile'];
+$email = $_POST['email'];
+
+
+
+$ddno = $_POST['ddno'];
+$dd_date=$_POST['dd_date'];
+$bank=$_POST['bank'];
+
+	
+// create email body and send it               Mobile: $mobile\n\n	Address:$address\n\n
+$to = 'reciver_email';
+$email_subject = "Computer Science:Paper Presentation";
+ 
+$email_body = "You have received a new message from ICCTAC website's registration form.\n\n
+"."Here are the details:\n\n
+Name:$name\n\n
+Designation:$desg \n\n
+Institution: $institn\n\n
+
+Official Phone:$phone\n\n
+
+Email: $email\n\n
+Accomadation: $accom\n\n
+Date From:$date_from\n\n
+Date To:$date_to\n\n
+DD No:$ddno\n\n
+DD Date:$dd_date\n\n
+Bank:$bank";
+
+$headers = "From: $email";
+$headers .= "To: recivers_email";
+
+
+
+
+$to1 = 'reciver_email';
+$email_subject1 = "Computer Science:Paper Presentation";
+ 
+$email_body1 = "You have received a new message from ICCTAC website's registration form.\n\n
+"."Here are the details:\n\n
+Name:$name\n\n
+Designation:$desg \n\n
+Institution: $institn\n\n
+
+Official Phone:$phone\n\n
+
+Email: $email\n\n
+Accomadation: $accom\n\n
+Date From:$date_from\n\n
+Date To:$date_to\n\n
+DD No:$ddno\n\n
+DD Date:$dd_date\n\n
+Bank:$bank";
+
+$headers1 = "From: $email";
+$headers1 .= "To: recivers_email";		
+
+
+ 
+mail($to,$email_subject,$email_body,$headers);
+mail($to1,$email_subject1,$email_body1,$headers1);
+return true;			
+?>
+  
+  
+</html>
