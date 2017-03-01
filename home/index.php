@@ -304,11 +304,6 @@
                 });
             }
             
-            $('#prev-high').click(function(){
-                alert();
-                $('.owl-next').trigger('click');
-            });
-            
             
             
         });
