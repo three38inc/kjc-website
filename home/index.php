@@ -283,7 +283,7 @@
 
         $(document).ready(function(){
             
-            if(screen.width < 400){
+            if(screen.width < 600){
                 $('#frameHighLights').owlCarousel({
                     items: 1,
                     loop: true,
