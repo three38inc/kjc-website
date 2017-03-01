@@ -1,4 +1,3 @@
-
 <h4 style="background-image: url(../images/headline_bg.jpg);
            background-repeat: no-repeat;
            background-position: 0px bottom;
@@ -29,7 +28,7 @@
         <li>
             <img src="../images/MBA_carousel_102.jpg" class="img-responsive"/>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+              <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
             </div>
         </li>
         <li>
