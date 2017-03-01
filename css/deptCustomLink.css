@@ -1,14 +1,15 @@
+/*
 *, *:after, *:before { border-box; box-sizing: border-box; }
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
 
+*/
 a {
 	color: #404d5b;
 	text-decoration: none;
 	outline: none;
 	font-size: 20px;
 }
-
 a:hover,a:active,a:visited {
 	color: #404d5b;
 	text-decoration: none;
@@ -16,10 +17,9 @@ a:hover,a:active,a:visited {
 }
 section {
 	position: relative;
-	z-index: 1; /* needed for setting pseudo-element z-index */
+	z-index: 1; 
 	backface-visibility: hidden;
 }
-
 section a {
 	outline: none;
 	color: #404d5b;
@@ -29,7 +29,6 @@ section a {
 	display: inline-block;
 	vertical-align: bottom;
 }
-
 section a::before,
 section a::after {
 	pointer-events: none;
@@ -42,7 +41,6 @@ section a::after {
 /*	background: rgba(149,165,166,0.4);*/
 	background: rgba(255,255,255,0.4);
 }
-
 .link-arrow a {
 	left: 20px;
 	padding: 0 0.25em;
@@ -53,32 +51,26 @@ section a::after {
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 }
-
 .link-arrow a:hover{
 	-webkit-transform: translateX(1em);
 	transform: translateX(1em);
 }
-
-
 .link-arrow a::after {
 	-webkit-transform: translateX(-1em);
 	transform: translateX(-1em);
 }
-
 .link-arrow a::before,
 .link-arrow a::after {
 	position: absolute;
 	height: 100%;
 	content: '';
 }
-
 .link-arrow a::before {
 	left: 0px;
 	z-index: -1;
 	width: 100%;
 	background: #fff;
 }
-
 .link-arrow a::after {
 	left: 100%;
 	z-index: -2;
@@ -91,7 +83,6 @@ section a::after {
 	transition: transform 0.3s;
 	pointer-events: auto;
 }
-
 .link-arrow a:hover::after,
 .link-arrow a:focus::after {
 	-webkit-transform: translateX(0);

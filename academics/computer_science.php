@@ -122,7 +122,7 @@
 								<div class="col-lg-3">
 									<div class="content-right wow fadeIn">
 										<h4 style="margin-left:10px;">
-											<!--											<i class="fa fa-bookmark" style="color:#2980b9"></i>-->
+																						<i class="fa fa-bookmark" style="color:#2980b9"></i>
 											<span>&nbsp;<strong>Departmental Activites</strong></span>
 										</h4>
 										<section class="link-arrow">

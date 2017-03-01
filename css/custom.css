@@ -774,6 +774,7 @@ top: -6px;
     text-decoration: none;
     cursor: pointer;
     color: black;
+    font-size: inherit;
 }
 
 /*testimonial carousel*/
@@ -1884,3 +1885,4 @@ time.icon:hover, time.icon:focus
     color:#2980b9;
     font-size: 20px;
 }
+
