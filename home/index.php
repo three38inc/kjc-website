@@ -80,10 +80,7 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
                                         </h4>
-                                        <p> 
-                                            <span class="icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></span>
-                                        </p>
-                                        <p style="text-align: justify;">
+                                        <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
                                     </div>
@@ -93,10 +90,7 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
-                                        <p> 
-                                            <span class="icon"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></span>
-                                        </p>
-                                        <p style="text-align: justify;">
+                                        <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
                                     </div>
@@ -109,10 +103,7 @@
                                                    padding-bottom: 15px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
                                             <span style="font-size: 16px;">&nbsp;College of <strong style="color:#2980b9;font-size: 20px;">Law</strong></span>
                                         </h4>
-                                        <p> 
-                                            <span class="icon"><i class="fa fa-book" aria-hidden="true"></i></span>
-                                        </p>
-                                        <p style="text-align: justify;">
+                                        <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
                                     </div>
@@ -130,7 +121,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height:  656px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height:  635px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>

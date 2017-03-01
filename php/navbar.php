@@ -17,10 +17,10 @@
     </div>
       
     <div class="floating-nav hidden-md hidden-sm hidden-xs">
-        <a  href="https://www.facebook.com/KristuJayantiCollege" target="_blank"><img src="../img/social/fb.png" class="socialImg" /></a>
-        <a  href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="../img/social/youtube.png" class="socialImg" /></a>
-        <a  href="https://twitter.com/kristujayanti99" target="_blank"><img src="../img/social/twitter.png" class="socialImg" /></a>
-        <a  href="http://in.linkedin.com/in/kristujayanti" target="_blank"><img src="../img/social/link.png" class="socialImg" /></a>
+        <a href="https://www.facebook.com/KristuJayantiCollege" target="_blank"><i class="fa fa-facebook"></i></a>
+        <a href="http://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-youtube"></i></a>
+        <a href="https://twitter.com/kristujayanti99" target="_blank"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-linkedin"></i></a>
         <a  id="search">search<i class="fa fa-search"></i></a>
     </div>
       
