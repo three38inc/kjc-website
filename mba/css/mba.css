@@ -1,0 +1,49 @@
+
+
+.carousel {
+}
+
+
+.tint{
+    background-color: rgba(52,73,94,0.5);
+    width: 85.5%;
+    height: 32.7%;
+    margin: 0 7.2%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 120;
+}
+
+
+.floatDiv {
+    height:  577px;
+    overflow-y: hidden;
+    margin-top: -80%;
+    position: relative;
+    background-color: rgba(42,128,185,1);
+    z-index: 150;
+    box-shadow: none;
+    color: #fff;
+    padding: 30px 10px;
+}
+
+.innerDiv{
+    padding: 0 10px;
+    min-height: 150px;
+    border-bottom: 1px solid #155b89;
+    text-align: justify;
+}
+
+.floatDiv .innerDiv h2{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+/*    margin-bottom: 20px;*/
+    text-transform: uppercase;
+    
+}
+
+.floatDiv .innerDiv p{
+    font-size: 14px;
+}
