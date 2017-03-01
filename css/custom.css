@@ -1886,3 +1886,20 @@ time.icon:hover, time.icon:focus
     font-size: 20px;
 }
 
+
+.owl-prev{
+    position: absolute;
+    top: 0;
+    right: 50px;
+    background-color: #c7c7c7;
+    content: '<';
+}
+
+.owl-next{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #c7c7c7;
+    content: '>';
+}
+

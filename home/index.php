@@ -288,6 +288,8 @@
                     items: 1,
                     loop: true,
                     autoplay: true,
+                    nav: true,
+                    navSpeed: 500,
                     responsive : true
                 });
             }
@@ -296,13 +298,20 @@
                     items: 4,
                     loop: true,
                     autoplay: true,
+                    nav: true,
+                    navSpeed: 500,
                     responsive : true
                 });
             }
             
+            $('#prev-high').click(function(){
+                alert();
+                $('.owl-next').trigger('click');
+            });
+            
+            
+            
         });
-
-
     </script>
     <script type="text/javascript">
         function googleTranslateElementInit() {

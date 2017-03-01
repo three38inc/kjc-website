@@ -6,7 +6,7 @@
     <span style="font-size: 20px;">&nbsp;High<strong style="color:#2980b9;font-size: 24px;">lights</strong></span>
     <ul class="pagination pull-right" style="margin: 0px;">
         <li>
-            <a href="#" class="prev" id="prev-high">
+            <a role="button" class="prev" id="prev-high">
                 <i class="fa fa-chevron-left"></i>
             </a>
         </li>
