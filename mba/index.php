@@ -65,7 +65,7 @@
 						<div class="container">
 							<!--        <div class="row">-->
                             <div class="row empty" style="margin-bottom:2vh;"></div>
-                            <div class="row" style="padding:0% 5px;">         
+                            <div class="row" style="padding:0% 5px; position: relative;">         
                                 <div class="tint"></div>    	                    
                                 <?php include ('php/carouselMain.php'); ?>
                             </div>
