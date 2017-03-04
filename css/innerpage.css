@@ -30,13 +30,13 @@
 /*----------------------------------
     anchor tag custom styling
 -----------------------------------*/
-a {
+a.a-link-arrow {
 	color: #404d5b;
 	text-decoration: none;
 	outline: none;
 	font-size: 20px;
 }
-a:hover,a:active,a:visited {
+aa-link-arrow:hover,a.a-link-arrow:active,a.a-link-arrow:visited {
 	color: #404d5b;
 	text-decoration: none;
 	outline: none;
@@ -46,7 +46,7 @@ section {
 	z-index: 1; 
 	backface-visibility: hidden;
 }
-section a {
+section a.a-link-arrow {
 	outline: none;
 	color: #404d5b;
 	text-decoration: none;
@@ -55,8 +55,8 @@ section a {
 	display: inline-block;
 	vertical-align: bottom;
 }
-section a::before,
-section a::after {
+section a.a-link-arrow::before,
+section a.a-link-arrow::after {
 	pointer-events: none;
 	backface-visibility: hidden;
 }
@@ -65,7 +65,7 @@ section a::after {
 /*	background: rgba(149,165,166,0.4);*/
 	background: rgba(255,255,255,0.4);
 }
-.link-arrow a {
+.link-arrow a.a-link-arrow {
 	left: 20px;
 	padding: 0 0.25em;
 	font-weight: 500;
@@ -75,27 +75,27 @@ section a::after {
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 }
-.link-arrow a:hover{
+.link-arrow a.a-link-arrow:hover{
 	-webkit-transform: translateX(1em);
 	transform: translateX(1em);
 }
-.link-arrow a::after {
+.link-arrow a.a-link-arrow::after {
 	-webkit-transform: translateX(-1em);
 	transform: translateX(-1em);
 }
-.link-arrow a::before,
-.link-arrow a::after {
+.link-arrow a.a-link-arrow::before,
+.link-arrow a.a-link-arrow::after {
 	position: absolute;
 	height: 100%;
 	content: '';
 }
-.link-arrow a::before {
+.link-arrow a.a-link-arrow::before {
 	left: 0px;
 	z-index: -1;
 	width: 100%;
 	background: #fff;
 }
-.link-arrow a::after {
+.link-arrow a.a-link-arrow::after {
 	left: 100%;
 	z-index: -2;
 	width: 1em;
@@ -107,8 +107,8 @@ section a::after {
 	transition: transform 0.3s;
 	pointer-events: auto;
 }
-.link-arrow a:hover::after,
-.link-arrow a:focus::after {
+.link-arrow a.a-link-arrow:hover::after,
+.link-arrow a.a-link-arrow:focus::after {
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 }

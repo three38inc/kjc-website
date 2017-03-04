@@ -32,7 +32,37 @@
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
-    
+    <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
+
+    </style>
 
 </head>
 
@@ -71,126 +101,132 @@
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-
-                                <div class="content-left myWelcome wow fadeIn" style="min-height:644px;">
-                                    <h4>
-                                        <i class="fa fa-bookmark" style="color:#2980b9"></i>
-                                        <span>&nbsp;<strong>History</strong></span>
+                                <div class="content-left myWelcome wow fadeIn">
+                                    <img src="../images/principal.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <br/>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our <strong>History</strong></span>
                                     </h4>
-                                    <hr />
-                                    <div class="inner-content">
-                                        <p align="justify">
-<!--                                            <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                            Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) &amp; 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015.<br/>
-                                            The institution strives to fulfill its mission to provide educational opportunities to all aspiring youth to excel in life by developing academic excellence, fostering values, creating civic responsibility and building global competencies in a dynamic environment.<br/>
-                                            Kristu Jayanti College is affiliated to the Bangalore University, the largest University in the country. A majority of higher educational institutions are established in the southern and eastern parts of Bangalore. The northern part of Bangalore District, which is semi-urban and rural, lacked educational and industrial development. In order to build vibrant academic environment and expand opportunities for socio-economic change in this geographical area, the college was started at K.Narayanapura in Kothanur from Bangalore city.The college which had a humble beginning with 1 course, 9 students and 3 full time academic faculty in 1999, has grown exponentially in programme (26 programme including two Ph.D. programme), in number of students (3540) and in full time faculty strength (163), all in a matter of 16 years.
+
+                                    <br/>
+                                    <p align="justify">
+
+                                        Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) &amp; 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015.
+                                    </p>
+                                    <p align="justify">
+                                        The institution strives to fulfill its mission to provide educational opportunities to all aspiring youth to excel in life by developing academic excellence, fostering values, creating civic responsibility and building global competencies in a dynamic environment.</p>
+                                    <p align="justify">
+
+                                        Kristu Jayanti College is affiliated to the Bangalore University, the largest University in the country. A majority of higher educational institutions are established in the southern and eastern parts of Bangalore. The northern part of Bangalore District, which is semi-urban and rural, lacked educational and industrial development. In order to build vibrant academic environment and expand opportunities for socio-economic change in this geographical area, the college was started at K.Narayanapura in Kothanur from Bangalore city.The college which had a humble beginning with 1 course, 9 students and 3 full time academic faculty in 1999, has grown exponentially in programme (26 programme including two Ph.D. programme), in number of students (3540) and in full time faculty strength (163), all in a matter of 16 years.
 
 
-                                        </p>
+                                    </p>
 
 
-                                    </div>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-right wow fadeIn">
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Learn <strong>About us</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a href="founder.php">Founder</a></p>
+                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="history.php">History</a></p>
+                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="core_values.php">Core Values</a></p>
+                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="educational_philosophy.php">Educational Philosophy</a></p>
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="profile.php">Profile</a></p>
+                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="milestones.php">Milestones</a></p>
+                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="management.php">Management</a></p>
+                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="message.php">Principal's Message</a></p>
+                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="autonomous.php">Autonomous Info</a></p>
+                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
                                     </section>
 
 
 
                                 </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <?php include ('../php/sideMenu.php'); ?>
+
+                                <div class="content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+
+                                    <?php include ('../php/sideMenu.php'); ?>
+                                </div>
+
+                                
+                                    <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
+                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+                                            <div class="fb-xfbml-parse-ignore">
+                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                            </div>
+                                        </div>
                                     </div>
 
 
-
-                                    <!--
-										<div class="content-right wow fadeIn" style="height:153px;padding:10px;overflow-y:scroll;overflow-x:hidden;">
-											<div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote></div></div>
-										</div>
--->
-
-                                </div>
-
                             </div>
                         </div>
-
                     </div>
 
-                    <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
                     <?php include('../php/morphingSearch.php'); ?>
+
+
+
+
                 </div>
-
-
-
+                <!--/st-content-inner-->
             </div>
-            <!--/st-content-inner-->
+            <!-- this is the wrapper for the content-->
         </div>
-        <!-- this is the wrapper for the content-->
-    </div>
-    <!--st-pusher-->
+        <!--st-pusher-->
     </div>
     <!--st-container-->
 

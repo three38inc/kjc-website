@@ -32,7 +32,37 @@
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
+    <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
 
+    </style>
 </head>
 
 <body>
@@ -92,7 +122,7 @@
                                     </p>
                                     <p align="justify">
                                         <strong>i) Knowledge:</strong> Sa vidya vimuktaye (knowledge emancipates). Seeking to integrate education to meet global needs, national development, social responsibility. Kristu Jayanti College imparts knowledge with a quest for excellence. The curriculum stipulated by Bangalore University is enhanced through Value Added Courses, Certificate Courses, Institution Industry Interface, Seminars, Workshops, MDP, Panel Discussions, etc. The technology driven pedagogy is supplemented by an interactive and experiential learning experience.
-                                        
+
                                     </p>
                                     <p align="justify">
                                         <strong>ii) Skills:</strong> Global competency necessitates an academic ambience strengthened with necessary skills for a prospective career. The students are equipped with requisite skills through streamlined co-curricular and extra-curricular programme. While the various departmental associations and clubs provide the system and platform for skill development, the literary and cultural association and sports and games club chisel the students holistically. The finer aspects of soft skills are imbibed through various training and personality development programme.
@@ -110,80 +140,85 @@
                                 </div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-right wow fadeIn">
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Learn <strong>About Us</strong></span>
+                                        <span>&nbsp;Learn <strong>About us</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a href="founder.php">Founder</a></p>
+                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="history.php">History</a></p>
+                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="core_values.php">Core Values</a></p>
+                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="educational_philosophy.php">Educational Philosophy</a></p>
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="profile.php">Profile</a></p>
+                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="milestones.php">Milestones</a></p>
+                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="management.php">Management</a></p>
+                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="message.php">Principal's Message</a></p>
+                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a href="autonomous.php">Autonomous Info</a></p>
+                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
                                     </section>
+
 
 
                                 </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
+
+                                <div class="content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+                                    <?php include ('../php/sideMenu.php'); ?>
+                                </div>
 
 
 
 
-                                    <div class="content-right wow fadeIn" style="height:427px;padding:10px;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="405" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="339" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
-
-
                                 </div>
+
+
+
                             </div>
                         </div>
 

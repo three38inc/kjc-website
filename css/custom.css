@@ -921,6 +921,8 @@ top: -6px;
 .aTagMapLinks:hover{
 	text-decoration:none;
 	color:#FFF;
+    font-size: 70%;
+    
 	-webkit-transform: translate(.2em,0);
 	-moz-transform: translate(.2em,0);
 	-o-transform: translate(.2em,0);
