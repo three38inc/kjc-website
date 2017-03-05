@@ -39,6 +39,21 @@
             box-shadow: 0px 2px 3px -1px #ccc;
             border-radius: 2px;
         }
+        
+        .new-content-right {
+            background: transparent;
+            box-shadow: none;
+        }
+        
+        .new-content-right .side-menu {
+            background: transparent;
+        }
+        
+        .menu-list ul li {
+            height: 25px;
+            line-height: 25px;
+            margin: 10px auto;
+        }
 
     </style>
 </head>
@@ -169,7 +184,7 @@
 
                                 </div>
 
-                                <div class="content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;goto <strong>QuickLinks</strong></span>

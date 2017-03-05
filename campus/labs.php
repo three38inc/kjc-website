@@ -105,12 +105,12 @@
 							</div>
 							<div class="col-lg-3">
 								<div class="content-right wow fadeIn">
-									<h4><strong>Research</strong></h4>
+									<h4><strong>Campus</strong></h4>
 									<div class="innercontent-link" >
 										<ul>
-											<li><h5><a href="acadmic_arena.php">Academic Arena</a></h5></li>
+											<li><h5><a href="academic_arena.php">Academic Arena</a></h5></li>
 											<li><h5><a href="library_info.php">Library</a></h5></li>
-											<li><h5><a href="library.php">Library EPAC</a></h5></li>
+											<li><h5><a href="library_epac.php">Library EPAC</a></h5></li>
 											<li><h5><a href="labs.php">Labs</a></h5></li>
 											<li><h5><a href="sports_games.php">Sports &amp; Games</a></h5></li>
 											<li><h5><a href="hostel.php">Hostel</a></h5></li>

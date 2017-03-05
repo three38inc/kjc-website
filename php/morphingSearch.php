@@ -199,13 +199,17 @@
     <div class="morphsearch-content">
         <div class="dummy-column">
             <h2>&nbsp;</h2>
-            <a class="dummy-media-object" href="../research/index.php">
+            <a class="dummy-media-object" href="../research/research.php">
                 <img class="round" src="../images/SearchBar/unlock-icon.png" alt="founder Image"/>
-                <h3>Research Promotion Cell</h3>
+                <h3>Centre for Research</h3>
             </a>
-            <a class="dummy-media-object" href="../research/publications.php">
-                <img class="round" src="../images/SearchBar/puzzle-icon.png" alt="founder Image"/>
-                <h3>Publication</h3>
+            <a class="dummy-media-object" href="../research/research_projects.php">
+                <img class="round" src="../images/SearchBar/businessman-icon.png" alt="founder Image"/>
+                <h3>Research Projects</h3>
+            </a>
+            <a class="dummy-media-object" href="../research/patents.php">
+                <img class="round" src="../images/SearchBar/businessman-icon.png" alt="founder Image"/>
+                <h3>Patents</h3>
             </a>
         </div>
         <div class="dummy-column">
@@ -218,20 +222,21 @@
                 <img class="round" src="../images/SearchBar/globe-icon.png" alt="founder Image"/>
                 <h3>Extension Activities</h3>
             </a>
-            <a class="dummy-media-object" href="../research/research_centre_in_biotechnology.php">
-                <img class="round" src="../images/SearchBar/businessman-icon.png" alt="founder Image"/>
-                <h3>Research Guides</h3>
+            <a class="dummy-media-object" href="../research/publications.php">
+                <img class="round" src="../images/SearchBar/puzzle-icon.png" alt="founder Image"/>
+                <h3>Publication</h3>
             </a>
+            
         </div>
         <div class="dummy-column">
             <h2>&nbsp;</h2>
             <a class="dummy-media-object" href="../research/research_centre_in_biotechnology.php">
                 <img class="round" src="../images/SearchBar/certified-icon.png" alt="founder Image"/>
-                <h3>Ph.D In Lifescience</h3>
+                <h3>Research Centre In Lifescience</h3>
             </a>
             <a class="dummy-media-object" href="../research/research_centre_in_social_work.php">
                 <img class="round" src="../images/SearchBar/find-entry-icon.png" alt="founder Image"/>
-                <h3>Ph.D In Socialwork</h3>
+                <h3>Research Centre In Socialwork</h3>
             </a>
         </div>
 
@@ -321,6 +326,10 @@
             <a class="dummy-media-object" href="../student_services/placement.php">
                 <img class="round" src="../images/SearchBar/briefcase-money-icon.png" alt="founder Image"/>
                 <h3>Placement</h3>
+            </a>
+            <a class="dummy-media-object" href="../student_services/schlorship_loan_facilities.php">
+                <img class="round" src="../images/SearchBar/dollar-collection-icon.png" alt="founder Image"/>
+                <h3>Scholarship &amp; Loan Facilities</h3>
             </a>
         </div>
         <div class="dummy-column">
