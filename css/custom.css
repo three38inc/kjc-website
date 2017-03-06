@@ -64,7 +64,7 @@ body::-webkit-scrollbar-thumb
 .carousel{
     box-shadow:0 2px 3px #aaa;
     border-radius: 2px;
-    margin-top: 95px;
+    margin-top: 8%;
 }
 .main.carousel-caption {
   transition:height ease-in-out 0.5s;
@@ -3875,6 +3875,36 @@ time.icon:hover, time.icon:focus {
     height: 48px;
     padding: 10px;
     box-shadow: 0 1px 2px #ccc;
+}
+
+.FavStyles{
+    
+}
+
+.FavStyles i{
+    width: 0px;
+    overflow: hidden;
+    transition: all ease-in-out .3s;
+}
+
+.FavStyles a{
+    color: #404d5b;
+}
+
+.FavStyles a:hover{
+    color: #404d5b;
+    text-decoration: none;
+}
+
+.FavStyles>a:hover i {
+    width: 17px;
+}
+
+.FavStyles a:focus{
+    color: #404d5b;
+    border: none;
+    outline: none;
+    text-decoration: none;
 }
 
 >>>>>>> origin/master

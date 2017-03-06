@@ -1,8 +1,4 @@
 <style>
-	.FavStyles a:hover,.FavStyles a:active{
-		color: black;
-		text-decoration: none;
-	}
 	.tab-link-exam:active{
 		color:#1c6fb5;
 		text-decoration: none;

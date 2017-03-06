@@ -83,6 +83,9 @@
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="content-spl floatDiv wow fadeIn">
+                                        <?php include ('php/features.php'); ?>
+                                    </div>
+                                    <div class="content-spl wow fadeIn">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
