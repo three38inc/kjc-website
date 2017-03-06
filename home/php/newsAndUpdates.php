@@ -84,7 +84,7 @@
     .news-all{
         background-color: #fff;
         height: 40px;
-        width: 90%;
+        width: 97%;
         /*        box-shadow: 0px -1px 5px #bdc3c7;*/
         z-index: 1000;
         margin-left: -10px;

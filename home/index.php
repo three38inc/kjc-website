@@ -65,10 +65,10 @@
                         <div class="container">
                             <!--        <div class="row">-->
                             <div class="row empty" style="margin-bottom:2vh;"></div>
-                            <div class="row" style="padding:0% 15px;">             	                    
+                            <div class="row" style="padding:0% 5px;">             	                    
                                 <?php include ('php/carouselMain.php'); ?>
                             </div>
-                            <div class="row branchDiv" style="margin-top: 15px;margin-bottom: 15px;">
+                            <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                                 <div class="col-lg-4 space">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <!--
@@ -131,8 +131,8 @@
                             <div class="row" style="margin-top:10px;">
                                 <div class="col-lg-9">
                                     <div class="col-lg-4" style="padding: 0px;">
-                                        <div class="content-spl wow fadeIn" style="margin-right: 0;">
-                                            <div style="width: 100%; height: 41px; background-color: #2c3e50; padding: 10px; color: #fff;">
+                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
+                                            <div class="placementTitle">
                                                 <h4>Placement</h4>
                                             </div>
                                             <p style="text-align:justify;"> 
@@ -142,8 +142,8 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4 space">
-                                        <div class="content-spl wow fadeIn" style="margin-right: 0;">
-                                            <div style="width: 100%; height: 41px; background-color: #2c3e50; padding: 10px; color: #fff;">
+                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
+                                            <div class="placementTitle">
                                                 <h4>Placement</h4>
                                             </div>
                                             <p style="text-align:justify;"> 
@@ -153,8 +153,8 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4" style="padding: 0px;">
-                                        <div class="content-spl wow fadeIn">
-                                            <div style="width: 100%; height: 41px; background-color: #2c3e50; padding: 10px; color: #fff;">
+                                        <div class="content-spl wow fadeIn" style="padding-top: 0;">
+                                            <div class="placementTitle">
                                                 <h4>Placement</h4>
                                             </div>
                                             <p style="text-align:justify">
@@ -166,31 +166,23 @@
                                 </div>
                                 <div class="col-lg-3" style="padding:0;">
                                     <div class="col-lg-12">
-                                        <div class="content-spl wow fadeIn"  style="min-height: 20px;">
-                                            <div style="width: 100%; height: 38px; padding: 10px; color: #fff;">
-                                                <h4>Placement</h4>
-                                            </div>
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
+                                            <h4>Sample</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl wow fadeIn"  style="min-height: 20px;">
-                                            <div style="width: 100%; height: 38px; padding: 10px; color: #fff;">
-                                                <h4>Placement</h4>
-                                            </div>
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
+                                            <h4>Sample</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl wow fadeIn"  style="min-height: 20px;">
-                                            <div style="width: 100%; height: 38px; padding: 10px; color: #fff;">
-                                                <h4>Placement</h4>
-                                            </div>
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
+                                            <h4>Sample</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl wow fadeIn"  style="min-height: 20px;">
-                                            <div style="width: 100%; height: 38px; padding: 10px; color: #fff;">
-                                                <h4>Placement</h4>
-                                            </div>
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
+                                            <h4>Sample</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -216,7 +208,7 @@
                                                 </div>                      
                                             </div>
                                         </div>
-                                        <p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.
+                                        <p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
                                         </p>
                                     </div>
 
@@ -299,6 +291,7 @@
                     autoplay: true,
                     nav: true,
                     navSpeed: 500,
+                    navText : ["<",">"],
                     responsive : true
                 });
             }
@@ -309,10 +302,10 @@
                     autoplay: true,
                     nav: true,
                     navSpeed: 500,
+                    navText : ["<",">"],
                     responsive : true
                 });
             }
-            
             
             
         });
