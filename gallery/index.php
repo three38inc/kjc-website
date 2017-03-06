@@ -577,7 +577,7 @@ held on 30th January 2016</a></h5></li>
 							//								phtml=phtml+"<span>"+arr[i]+"</span>" 
 							//							}
 							//							$(".album-tab-thumbs-desc").html(phtml);
-
+                            console.log(data['html']);
 
 						}
 						else if(data['type']=='image')
@@ -585,6 +585,7 @@ held on 30th January 2016</a></h5></li>
 							$(".gallery-tab-thumbs").html(data['html']);
 							$(".gallery-tab span:nth-child(2)").html("Images 1 to "+data['no']+" of "+data['no']);
 							galleryImageNo=data['no'];
+                            console.log(data['html']);
 						}
 						$('#loadingmessage').hide(); // hide the loading message
 					},
