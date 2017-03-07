@@ -1832,6 +1832,7 @@ time.icon:hover, time.icon:focus
 }
 
 .mainDiv:hover{
+    margin-top: 0px;
     box-shadow: 4px 4px 5px 0px #ccc;
 }
 
