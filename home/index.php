@@ -2,8 +2,8 @@
 <html lang="en" class="no-js">
     <head>
         <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Kristu Jayanti College, Bengaluru</title>
         <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
@@ -28,7 +28,7 @@
         <link href="../css/custom.css" rel="stylesheet">
         <!-- javascript -->
         <script src="../js/jquery-1.11.0.min.js"></script>
-        <script src="../bootstrap/js/bootstrap.min.js"></script> 
+        <script src="../bootstrap/js/bootstrap.min.js"></script>
         <script src="../js/respond.js"></script>
         <script src="../js/custom.js"></script>
         <script src="../js/fakeLoader.js"></script>
@@ -59,13 +59,13 @@
         <div id="st-container" class="st-container">
             <?php include('../php/offCanvasMenu.php'); ?>
             <!-- content push wrapper -->
-            <div class="st-pusher">	
+            <div class="st-pusher">
                 <div class="st-content"><!-- this is the wrapper for the content -->
                     <div class="st-content-inner">
                         <div class="container">
                             <!--        <div class="row">-->
                             <div class="row empty" style="margin-bottom:2vh;"></div>
-                            <div class="row" style="padding:0% 5px;">             	                    
+                            <div class="row" style="padding:0% 5px;">
                                 <?php include ('php/carouselMain.php'); ?>
                             </div>
                             <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
@@ -132,7 +132,7 @@
                                             <div class="placementTitle">
                                                 <h4>Placement</h4>
                                             </div>
-                                            <p style="text-align:justify;"> 
+                                            <p style="text-align:justify;">
                                                 <br>
                                                 Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
                                             </p>
@@ -143,7 +143,7 @@
                                             <div class="placementTitle">
                                                 <h4>Placement</h4>
                                             </div>
-                                            <p style="text-align:justify;"> 
+                                            <p style="text-align:justify;">
                                                 <br>
                                                 Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
                                             </p>
@@ -198,11 +198,11 @@
                                         <div id="mainCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
                                             <div class="carousel-inner" role="listbox">
                                                 <div class="item active">
-                                                    <img src="../images/pic1.jpg" class="img-responsive"/>      
+                                                    <img src="../images/pic1.jpg" class="img-responsive"/>
                                                 </div>
                                                 <div class="item">
                                                     <img src="../images/pic2.jpg"/>
-                                                </div>                      
+                                                </div>
                                             </div>
                                         </div>
                                         <p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
@@ -214,7 +214,7 @@
                                     <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 458px; overflow: hidden;">
                                         <?php include ('php/events.php'); ?>
                                     </div>
-                                </div>                                        
+                                </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-12">
@@ -243,14 +243,14 @@
                         <?php include ('../php/alerts.php');  ?>
                         <?php include('../php/footer.php'); ?>
                         <?php include('../php/morphingSearch.php'); ?>
-                    </div>   
+                    </div>
 
 
 
-                </div> <!--/st-content-inner--> 
-            </div><!-- this is the wrapper for the content--> 
-        </div> <!--st-pusher--> 
-        </div> <!--st-container--> 
+                </div> <!--/st-content-inner-->
+            </div><!-- this is the wrapper for the content-->
+        </div> <!--st-pusher-->
+        </div> <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
     <script>
@@ -280,7 +280,7 @@
     <script>
 
         $(document).ready(function(){
-            
+
             if(screen.width < 700){
                 $('#frameHighLights').owlCarousel({
                     items: 1,
@@ -303,8 +303,8 @@
                     responsive : true
                 });
             }
-            
-            
+
+
         });
     </script>
     <script type="text/javascript">
@@ -313,5 +313,5 @@
         }
     </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-    </body>   
+    </body>
 </html>
