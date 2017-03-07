@@ -48,10 +48,6 @@ function get_sub_directory()
 			}
 		}
 	}
-
-	//	foreach($dirs as $dir){
-	//		$name=$name.",".$dir;
-	//	}
 	return $dirs;
 }
 
@@ -74,10 +70,7 @@ function generate($images_dir,$thumbs_dir,$i){
 				}
 			}
 			if($i==1){
-//				$name=explode("/",$images_dir);
-				// The actual image file -> '.$images_dir.$file.'
 				$GLOBALS['gallery']=$GLOBALS['gallery'].'<div class="album-tab-thumbs-img"><a href="#'.$images_dir.'" rel="gallery"><img src="'.$thumbnail_image.'" /></a></div>';
-//				<a href="#'.$images_dir.'" rel="gallery" class="album-tab-thumbs-desc-a"><div class="album-tab-thumbs-desc"><span style="font-size:14px;color:#fff;">'.$name[1].'</span></div></a>
 				break;
 			}
 			else{
@@ -86,13 +79,6 @@ function generate($images_dir,$thumbs_dir,$i){
 				</div>';
 				
 			}
-
-			//		if($index % $images_per_row == 0) 
-			//		{ 
-			//			$gallery=$gallery.'<div class="clear"></div>';
-			//			break;
-			//		}
-			
 		}
 		if($i!=1)
 			return $index;
@@ -137,7 +123,6 @@ else
 {
 	$dir=ltrim($type, '#');
 	$array=explode("/",$dir);
-	//$thumbs=rtrim($dir, "/").'-thumbs/';
 	
 	$thumbs='thumbs/'.$array[1].'-thumbs/';
 	$no=generate($dir,$thumbs,10);
