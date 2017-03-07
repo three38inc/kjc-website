@@ -1505,12 +1505,12 @@ box-shadow: 0px 0px 5px 0px rgba(189,189,189,1);
 }
 @media (min-width: 992px) {
     .myNav li{
-        width: 80%;
+        width: 95%;
     }
 }
 
 #myTabContent{
-    padding: 20px 10px 0px 10px;
+    padding: 0;
     border-radius: 5px;
     height: 220px;
 /*    border: solid 1px #ccc;*/
@@ -1524,7 +1524,8 @@ box-shadow: 0px 0px 5px 0px rgba(189,189,189,1);
     transition: all ease-in-out 0.3s;
 }
 .myNav li a:hover{
-    transform: translateX(30px);
+    background: #ccc;
+    color:#1c6fb5;
 }
 .myNav li.active a,.myNav li.active a:link{
     background: #ccc;
@@ -1895,25 +1896,33 @@ time.icon:hover, time.icon:focus
 .owl-prev{
     position: absolute;
     top: -69px;
-    right: 40px;
-    padding: 0px 14px;
-    font-weight: bold;
-    color: #808080;
+    right: 50px;
+    padding: 4px 17px;
+    font-size: 10px;
+    color: #2980b9;
     background-color: #eeeeee;
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.owl-prev:hover{
+    background-color: #ccc;    
 }
 
 .owl-next{
     position: absolute;
     top: -69px;
-    right: 0px;
-    padding: 0px 15px;
-    font-weight: bold;
-    color: #808080;
+    right: 11px;
+    padding: 4px 17px;
+    font-size: 10px;
+    color: #2980b9;
     background-color: #eeeeee;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.owl-next:hover{
+    background-color: #ccc;    
 }
 
 =======
@@ -1980,7 +1989,7 @@ body::-webkit-scrollbar-thumb {
 .carousel {
     box-shadow: 0 2px 3px #aaa;
     border-radius: 2px;
-    margin-top: 95px;
+    margin-top: 8%;
 }
 
 .main.carousel-caption {
@@ -3408,15 +3417,9 @@ body::-webkit-scrollbar-thumb {
 
 @media (min-width: 992px) {
     .myNav li {
-        width: 80%;
+        width: 95%;
+        margin-bottom: 9px;
     }
-}
-
-#myTabContent {
-    padding: 20px 10px 0px 10px;
-    border-radius: 5px;
-    height: 220px;
-    /*    border: solid 1px #ccc;*/
 }
 
 .myNav li a {
@@ -3428,7 +3431,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 .myNav li a:hover {
-    transform: translateX(30px);
+    background: #ccc;
+    color: #1c6fb5;
 }
 
 .myNav li.active a, .myNav li.active a:link {
@@ -3758,8 +3762,8 @@ time.icon:hover, time.icon:focus {
     cursor: pointer;
 }
 
-.mainDiv:hover .icon {
-    color: #2a80b9;
+.mainDiv:hover{
+    background-color: #ddd;
 }
 
 .mainDiv .icon {
@@ -3836,34 +3840,42 @@ time.icon:hover, time.icon:focus {
     box-shadow: 0 1px 2px #ccc;
 }
 
+<<<<<<< HEAD
+.tab-pane{
+    font-size: 20px;
+    padding: 0;
+=======
 .FavStyles{
 
+>>>>>>> origin/master
 }
 
-.FavStyles i{
-    width: 0px;
-    overflow: hidden;
-    transition: all ease-in-out .3s;
+.tab-pane h4{
+    font-size: 20px;
+    margin: 0;
 }
 
-.FavStyles a{
-    color: #404d5b;
+.tab-pane hr{
+    margin: 5px 0;
+}
+
+.FavStyles {
+    /*	background: rgba(149,165,166,0.4);*/
+    background: rgba(255,255,255,0.4);
+    margin: 10px 0!important;
+    position: relative;
+}
+.FavStyles a {
+    font-weight: 500;
+    font-size: 16px;
+    -webkit-transition: -webkit-transform 0.3s;
+    transition: transform 0.3s;
 }
 
 .FavStyles a:hover{
-    color: #404d5b;
+    color: #2c3e50;
     text-decoration: none;
 }
 
-.FavStyles>a:hover i {
-    width: 17px;
-}
-
-.FavStyles a:focus{
-    color: #404d5b;
-    border: none;
-    outline: none;
-    text-decoration: none;
-}
 
 >>>>>>> origin/master

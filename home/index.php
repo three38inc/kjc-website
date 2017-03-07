@@ -97,11 +97,8 @@
                                 </div>
                                 <div class="col-lg-4 space">
                                     <div class="content-spl mainDiv wow fadeIn">
-                                        <h4 style="background-image: url(../images/headline_bg.jpg);
-                                                   background-repeat: no-repeat;
-                                                   background-position: 0px bottom;
-                                                   padding-bottom: 15px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-                                            <span style="font-size: 16px;">&nbsp;College of <strong style="color:#2980b9;font-size: 20px;">Law</strong></span>
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                            <span>&nbsp;College of <strong> Law</strong></span>
                                         </h4>
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
@@ -291,7 +288,7 @@
                     autoplay: true,
                     nav: true,
                     navSpeed: 500,
-                    navText : ["<",">"],
+                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
                     responsive : true
                 });
             }
@@ -302,7 +299,7 @@
                     autoplay: true,
                     nav: true,
                     navSpeed: 500,
-                    navText : ["<",">"],
+                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
                     responsive : true
                 });
             }

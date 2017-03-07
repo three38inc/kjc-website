@@ -42,7 +42,7 @@
     {
         float:right;
         padding:0px;
-        display: none;
+        display: none!imporant;
         /*		background-color:#555;*/
     }
 

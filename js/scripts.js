@@ -58,15 +58,15 @@ $('.hide-btn').on('click',function(){
 $(window).on('scroll',function(e){
     if($(window).scrollTop() + $(window).height() > $(document).height() - 100)
     {
-        if(open)
-        {
-            $('.newsAlert').transition({ x: ($(window).width()-40)+'px' },500,'snap');
-            $('.newsAlert').css('border-radius','5px');
-            $('.hide-btn').css('margin-left','-5px');
-            $('.hide-btn i').removeClass('fa-angle-double-left');
-            $('.hide-btn i').addClass('fa-angle-double-right');
-            open = !open;
-        }
+      if(open)
+      {
+        $('.newsAlert').transition({ x: '-97%' },500,'snap');
+        $('.newsAlert').css('border-radius','5px');
+        $('.hide-btn').css('margin-left','-5px');
+        $('.hide-btn i').removeClass('fa-angle-double-left');
+        $('.hide-btn i').addClass('fa-angle-double-right');
+        open = !open;
+      }
     }
     if($(window).scrollTop()=='0')
     {
