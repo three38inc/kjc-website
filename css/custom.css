@@ -1831,8 +1831,8 @@ time.icon:hover, time.icon:focus
     cursor: pointer;
 }
 
-.mainDiv:hover .icon{
-    color:#2a80b9;
+.mainDiv:hover{
+    box-shadow: 4px 4px 5px 0px #ccc;
 }
 
 .mainDiv .icon{
