@@ -3,14 +3,14 @@ $(document).ready(function(e) {
     $('#mainCarousel').carousel();
     new WOW().init();
     //				setInterval(function(){
-    //					
+    //
     //					if($('#news').scrollTop()>="180")
     //					{
     //						/*$('#news').scrollTop("0");*/
     //						$('#news').animate({
     //							scrollTop: 0
     //						},500);
-    //						
+    //
     //					}
     //					else
     //					{
@@ -38,33 +38,33 @@ var open =true;
 
 $('.hide-btn').on('click',function(){
     if(open){
-        $('.newsAlert').transition({ x: ($(window).width()-40)+'px' },500,'snap');
+        $('.newsAlert').transition({ x: '-97%' },500,'snap');
         $('.newsAlert').css('border-radius','5px');
         $('.hide-btn').css('margin-left','-5px');
-        $('.hide-btn i').removeClass('fa-angle-double-right');
-        $('.hide-btn i').addClass('fa-angle-double-left');
+        $('.hide-btn i').removeClass('fa-angle-double-left');
+        $('.hide-btn i').addClass('fa-angle-double-right');
         open = !open;
     }
     else{
         $('.newsAlert').transition({ x: '0px' },500,'snap');
-        $('.newsAlert').css('border-radius','0px');
+        $('.newsAlert').css('border-radius','5px');
         $('.hide-btn').css('margin-left','5px');
-        $('.hide-btn i').removeClass('fa-angle-double-left');
-        $('.hide-btn i').addClass('fa-angle-double-right');
+        $('.hide-btn i').removeClass('fa-angle-double-right');
+        $('.hide-btn i').addClass('fa-angle-double-left');
         open = !open;
     }
 });
 
 $(window).on('scroll',function(e){
-    if($(window).scrollTop() + $(window).height() > $(document).height() - 100) 
+    if($(window).scrollTop() + $(window).height() > $(document).height() - 100)
     {
         if(open)
         {
             $('.newsAlert').transition({ x: ($(window).width()-40)+'px' },500,'snap');
             $('.newsAlert').css('border-radius','5px');
             $('.hide-btn').css('margin-left','-5px');
-            $('.hide-btn i').removeClass('fa-angle-double-right');
-            $('.hide-btn i').addClass('fa-angle-double-left');
+            $('.hide-btn i').removeClass('fa-angle-double-left');
+            $('.hide-btn i').addClass('fa-angle-double-right');
             open = !open;
         }
     }
@@ -85,7 +85,7 @@ $(window).on('scroll',function(e){
     {
         if($('#top').hasClass('big')&&$('#top1').hasClass('big'))
         {
-            $('#top').removeClass('big');							
+            $('#top').removeClass('big');
             $('#top1').removeClass('big');
         }
         $('.st-menu').css('padding-top',(document.body.scrollTop+60)+'px');
@@ -104,14 +104,14 @@ $(window).on('scroll',function(e){
 //			$('#mainCarousel').on('slide.bs.carousel', function () {
 //				var carouselData = $(this).data('bs.carousel');
 //				var currentIndex = carouselData.getItemIndex(carouselData.$element.find('.item.active'));
-//				
+//
 //				if(currentIndex!=2)
 //					currentIndex = currentIndex + 1;
 //				else
 //					currentIndex = 0;
-//					
+//
 //				//console.log('currentIndex = '+currentIndex+' - prevIndex = '+prevIndex);
-//				
+//
 //				if(prevIndex!=currentIndex)
 //				{
 //					$('#cap'+prevIndex).toggleClass('active');
@@ -119,7 +119,7 @@ $(window).on('scroll',function(e){
 //					prevIndex = currentIndex;
 //				}
 //			});
-//			
+//
 //			var previousIndex = 0;
 //			$('#testCarousel').on('slide.bs.carousel', function () {
 //				var carouselData = $(this).data('bs.carousel');
@@ -134,7 +134,7 @@ $(window).on('scroll',function(e){
 //                    currentIndex = 1;
 //                }
 //				//console.log('currentIndex = '+currentIndex+' - prevIndex = '+prevIndex);
-//				
+//
 //				if(previousIndex!=currentIndex)
 //				{
 //					$('#testcap'+previousIndex).toggleClass('active');
@@ -142,7 +142,7 @@ $(window).on('scroll',function(e){
 //					previousIndex = currentIndex;
 //				}
 //			});
-//			
+//
 
 $(document).ready(function () {
     $(".navbar-toggle").on("click", function () {
@@ -161,19 +161,19 @@ $(document).ready(function () {
 //				$('#SubHeading').html('International Collaboration');
 //				$('#innerContent').html('Kristu Jayanti college has established international collaboration with various universities across the world. The purpose of this agreement is to establish a framework within which academic and scientific...<a href="#">[Read More]</a>');
 //			});
-//			
+//
 //			$('#animatedButton2').on('click', function() {
 //				$('#topHeading').html('&nbsp;Student Life');
 //				$('#SubHeading').html('Student Life');
 //				$('#innerContent').html('Kristu Jayanti College moulds graduates with holistic sense, academic skills, to be socially responsible citizens to give themselves for the greater good. Students are encouraged to enjoy their studies...<a href="#">[Read More]</a>');
 //			});
-//			
+//
 //			$('#animatedButton3').on('click', function() {
 //				$('#topHeading').html('&nbsp;Achievements');
 //				$('#SubHeading').html('Achievements');
 //				$('#innerContent').html('The institution has experienced a rapid growth since its humble inception, inspired and guided by a charismatic management. Driven by a quest for excellence, it endeavors to impart, a holistic curriculum...<a href="#">[Read More]</a>');
 //			});
-//			
+//
 //			$('#animatedButton4').on('click', function() {
 //				$('#topHeading').html('&nbsp;Extra-Curriculam');
 //				$('#SubHeading').html('Beyond Curriculam');
