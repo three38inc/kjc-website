@@ -32,9 +32,10 @@
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
+<!--old style-->
+<!--
     <style>
         .link-arrow {
-            /* background: rgba(149,165,166,0.4); */
             background: rgba(255, 255, 255, 1.0);
             box-shadow: 0px 2px 3px -1px #ccc;
             border-radius: 2px;
@@ -53,6 +54,39 @@
             height: 25px;
             line-height: 25px;
             margin: 10px auto;
+        }
+
+    </style>
+-->
+<!--    new style-->
+    <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
         }
 
     </style>
@@ -195,8 +229,8 @@
 
 
 
-                                <div class="content-right wow fadeIn" style="height:320px;padding:10px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="320" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                         <div class="fb-xfbml-parse-ignore">
                                             <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
