@@ -32,8 +32,52 @@
 		<script src="../js/custom.js"></script>
 		<script src="../js/fakeLoader.js"></script>
 
-	</head>
-	<body>
+	<style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
+
+    </style>
+</head>
+
+<body>
+    <script type="text/javascript">
+        $crisp = [];
+        CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.im/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+
+    </script>
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
