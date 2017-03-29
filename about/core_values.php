@@ -66,6 +66,7 @@
 </head>
 
 <body>
+    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -106,7 +107,7 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn" style="min-height:1077px;">
+                                <div class="content-left myWelcome wow fadeIn" style="min-height:900px;">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
@@ -206,7 +207,7 @@
                                     <?php include ('../php/sideMenu.php'); ?>
                                 </div>
                                 <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="339" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="339" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
                                         <div class="fb-xfbml-parse-ignore">
                                             <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
