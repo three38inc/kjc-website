@@ -126,7 +126,7 @@
 											<span>&nbsp;<strong>Departmental Activites</strong></span>
 										</h4>
 										<section class="link-arrow">
-											<p><a href="#">Faculty Profile</a></p>
+											<p><a href="cs_faculty.php">Faculty Profile</a></p>
 										</section>
 										<section class="link-arrow">
 											<p><a href="#">Academic Calender</a></p>
