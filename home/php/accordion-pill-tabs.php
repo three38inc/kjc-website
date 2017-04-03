@@ -10,16 +10,16 @@
         <a href="#link-1" data-toggle="tab" aria-expanded="true"><i class="fa fa-hand-o-right"></i>&nbsp; My Favourites</a>
 	</li>
 	<li class="">
-        <a href="#link-2" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; IQAC</a>
+        <a href="#link-2" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; Examination</a>
 	</li>
 	<li class="">
-        <a href="#link-3" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; Jayantian Special</a>
+        <a href="#link-3" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; Student Life</a>
 	</li>
 	<li class="">
-        <a href="https:\\www.google.com" class="tab-link-exam" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; Examination Fee</a>
+        <a href="https:\\www.google.com" class="tab-link-exam" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; Collabrations</a>
 	</li>
 	<li class="">
-        <a href="#link-5" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; NACC Peer Team Visit</a>
+        <a href="#link-5" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; DEMO</a>
 	</li>
 </ul>
 <div id="myTabContent" class="tab-content col-lg-8 col-md-8 col-sm-12 col-xs-12">

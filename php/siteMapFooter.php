@@ -2,7 +2,8 @@
 <div class="col-lg-1 col-md-1 col-sm-1 hidden-xs">
 </div>
 <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 mobileFriendlySiteMap">
-	<h5>ABOUT</h5>
+	<h5 class="hidden-xs">ABOUT</h5>
+    <h5 class="visible-xs"><a href="../about/founder.php" style="color:#fff;">ABOUT</a></h5>
 	<p class="pTagMapLinks hidden-xs"><a class="aTagMapLinks" href="../about/founder.php">Founder</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../about/history.php">History</a></p>
 	<!-- <p class="pTagMapLinks" ></p>-->
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/milestones.php">Milestones</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../about/core_values.php">Core Values</a></p>
@@ -14,7 +15,8 @@
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/message.php">Principal's Message </a></p>
 </div>
 <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 mobileFriendlySiteMap">
-	<h5>ACADEMICS</h5>
+	<h5 class="hidden-xs">ACADEMICS</h5>
+    <h5 class="visible-xs"><a href="../academics/cs_faculty.php" style="color:#fff;">ACADEMICS</a></h5>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../academics/">MBA &amp; PGDM </a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="#">MCA </a> </p>
 	<!--<p class="pTagMapLinks" ></p>-->
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="#">Computer Science</a></p>
@@ -28,7 +30,8 @@
 	<!--<p class="pTagMapLinks" ><a class="aTagMapLinks" href="#">Certificate Programme</a></p>-->
 </div>
 <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 mobileFriendlySiteMap">
-	<h5>RESEARCH</h5>
+	<h5 class="hidden-xs">RESEARCH</h5>
+    <h5 class="visible-xs"><a href="../research/research.php" style="color:#fff;">RESEARCH</a></h5>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../research/centre_for_research.php">Centre for Research</a></p>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../research/publications.php">Publications</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../research/consultancy.php">Consultancy</a></p>
 	<!--<p class="pTagMapLinks" ></p>-->
@@ -38,7 +41,8 @@
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../research/research_projects.php">Research Projects</a></p>
 </div>
 <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 mobileFriendlySiteMap" >
-	<h5>CAMPUS</h5>
+	<h5 class="hidden-xs">CAMPUS</h5>
+    <h5 class="visible-xs"><a href="../campus/library.php" style="color:#fff;">CAMPUS</a></h5>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" title="" href="../campus/academic_arena.php">Academic  Arena</a></p>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../campus/library_info.php">Library</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../campus/labs.php">Labs</a></p>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../campus/library.php">Library Epac</a></p>

@@ -127,23 +127,24 @@
 <div id="morphsearch_academics" class="morphsearch">
     <div class="morphsearch-content">
         <div class="dummy-column">
-            <h2>Departments</h2>
-            <a class="dummy-media-object" href="../academics/computer_science.php">
+            <h2>School of Management</h2>
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/business-shield-icon.png" alt="founder Image"/>
-                <h3>Computer Science</h3>
+                <h3>MBA</h3>
 
             </a>
-            <a class="dummy-media-object" href="../academics/commerce.php">
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/business-shield-icon.png" alt="founder Image"/>
-                <h3>Commerce</h3>
+                <h3>PGDM</h3>
 
             </a>
 
-            <a class="dummy-media-object" href="../academics/management.php">
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/business-shield-icon.png" alt="founder Image"/>
-                <h3>Management</h3>
+                <h3>Diploma in PGDM</h3>
 
             </a>
+<!--
             <a class="dummy-media-object" href="../academics/life_science.php">
                 <img class="round" src="../images/SearchBar/business-shield-icon.png" alt="founder Image"/>
                 <h3>Life Science</h3>
@@ -164,30 +165,39 @@
                 <h3>Psychology</h3>
 
             </a>
+-->
 
 
 
         </div>
         <div class="dummy-column">
-            <h2>PG Courses</h2>
-            <a class="dummy-media-object" href="../mba/mba.php">
+            <h2>College of ARTS,SCIENCE,COMMERCE </h2>
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/dollar-cycle-icon.png" alt="founder Image"/>
-                <h3>MBA</h3>
+                <h3>Faculty of Sciences</h3>
             </a>
-            <a class="dummy-media-object" href="../mca/mca.php">
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/dollar-cycle-icon.png" alt="founder Image"/>
-                <h3>MCA</h3>
+                <h3>Faculty of Humanities</h3>
             </a>
-            <a class="dummy-media-object" href="../mba/mba.php">
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/dollar-cycle-icon.png" alt="founder Image"/>
-                <h3>PGDM</h3>
+                <h3>Faculty of Commerce &amp; Management</h3>
             </a>
         </div>
         <div class="dummy-column">
-            <h2>Diploma Programes</h2>
-            <a class="dummy-media-object" href="../academics/pgcourses.php">
+            <h2>School of Law</h2>
+            <a class="dummy-media-object" href="#">
                 <img class="round" src="../images/SearchBar/dollar-icon.png" alt="founder Image"/>
-                <h3>1 year PG Diploma Programe</h3>
+                <h3>BA LLB</h3>
+            </a>
+            <a class="dummy-media-object" href="#">
+                <img class="round" src="../images/SearchBar/dollar-icon.png" alt="founder Image"/>
+                <h3>BBA LLB</h3>
+            </a>
+            <a class="dummy-media-object" href="#">
+                <img class="round" src="../images/SearchBar/dollar-icon.png" alt="founder Image"/>
+                <h3>BCom LLB</h3>
             </a>
         </div>
 
@@ -248,10 +258,6 @@
     <div class="morphsearch-content">
         <div class="dummy-column">
             <h2>&nbsp;</h2>
-            <a class="dummy-media-object" href="../campus/academic_arena.php">
-                <img class="round" src="../images/SearchBar/bank-icon.png" alt="founder Image"/>
-                <h3>Academic Arena</h3>
-            </a>
             <a class="dummy-media-object" href="../campus/library.php">
                 <img class="round" src="../images/SearchBar/files-icon.png" alt="founder Image"/>
                 <h3>Library</h3>
@@ -260,6 +266,11 @@
                 <img class="round" src="../images/SearchBar/business-identity-icon.png" alt="founder Image"/>
                 <h3>Library EPAC</h3>
             </a>
+            <a class="dummy-media-object" href="../campus/academic_arena.php">
+                <img class="round" src="../images/SearchBar/bank-icon.png" alt="founder Image"/>
+                <h3>Academic Arena</h3>
+            </a>
+            
         </div>
         <div class="dummy-column">
             <h2>&nbsp;</h2>
@@ -323,10 +334,12 @@
                 <img class="round" src="../images/SearchBar/dollar-collection-icon.png" alt="founder Image"/>
                 <h3>Scholarship</h3>
             </a>
+<!--
             <a class="dummy-media-object" href="../student_services/placement.php">
                 <img class="round" src="../images/SearchBar/briefcase-money-icon.png" alt="founder Image"/>
                 <h3>Placement</h3>
             </a>
+-->
             <a class="dummy-media-object" href="../student_services/schlorship_loan_facilities.php">
                 <img class="round" src="../images/SearchBar/dollar-collection-icon.png" alt="founder Image"/>
                 <h3>Scholarship &amp; Loan Facilities</h3>
