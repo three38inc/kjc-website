@@ -86,7 +86,7 @@
 														</h5>
 													</div>
 													<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
-														<div class="panel-body">
+							<div class="panel-body">
 		<ul><li> Caste Certificate :- Signed by Tahasildar issued within the last 5 years (Reg no starting with RD)</li>
 
 <li> Income Certificate of the Parents:- Signed by Tahasildar & renewed on or after  July 2014. Income should be below 2.5 Lakh.</li>
