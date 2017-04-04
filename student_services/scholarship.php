@@ -132,7 +132,7 @@ following links and attach the copy of the same.</li>
 												<div class="panel panel-default">
 													<div class="panel-heading" role="tab" id="headingThree">
 														<h5 class="panel-title">
-															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 																Backward class Category(IIA, IIIA, Cat-I & other Hindus)
 															</a>
 														</h5>
