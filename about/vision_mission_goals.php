@@ -31,9 +31,40 @@
 		<script src="../js/respond.js"></script>
 		<script src="../js/custom.js"></script>
 		<script src="../js/fakeLoader.js"></script>
+        <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
 
+    </style>
 	</head>
 	<body>
+        <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -70,7 +101,7 @@
 								<div class="marginTopDiv">&nbsp;</div>
 								<div class="col-lg-9">
 
-									<div class="content-left myWelcome wow fadeIn" style="min-height:644px;">
+									<div class="content-left myWelcome wow fadeIn" style="min-height:750px;">
 										<h4>
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
 											<span>&nbsp;<strong>Vision, Mission and Goals</strong></span>
@@ -100,39 +131,88 @@
 								</div>
 							</div>
 							<div class="col-lg-3">
-								<div class="content-right wow fadeIn">
-									<h4 style="margin:10px 0px;"><strong>About us</strong></h4>
-									<div class="innercontent-link" >
-										<ul>
-											<li><h5><a href="founder.php">Founder</a></h5></li>
-											<li><h5><a href="history.php">History</a></h5></li>
-											<li><h5><a href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></h5></li>
-											<li><h5><a href="core_values.php">Core Values</a></h5></li>
-											<li><h5><a href="educational_philosophy.php">Educational Philosophy</a></h5></li>
-											<li><h5><a href="profile.php">Profile</a></h5></li>
-											<li><h5><a href="milestones.php">Milestones</a></h5></li>
-											<li><h5><a href="management.php">Management</a></h5></li>
-											<li><h5><a href="message.php">Principal's Message</a></h5></li>
-											<li><h5><a href="autonomous.php">Autonomous Info</a></h5></li>
-										</ul>
-									</div>
-								</div>
-								<div class="row" style="margin-left:2px; margin-right: 2px;">
-									<div class="content-right wow fadeIn">
-										<?php include ('../php/sideMenu.php'); ?>
-									</div>
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Learn <strong>About us</strong></span>
+                                    </h4>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
+                                    </section>
 
 
 
-									<!--
-<div class="content-right wow fadeIn" style="height:153px;padding:10px;overflow-y:scroll;overflow-x:hidden;">
-<div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote></div></div>
-</div>
+                                </div>
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                        </h4>
+
+                                        <?php include ('../php/sideMenu.php'); ?>
+                                    </div>
+
+
+
+<!--
+                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                        </div>
+                                    </div>
+                                </div>
 -->
 
-								</div>
+                                </div>
 
-							</div>
+                            </div>
 						</div>
 
 					</div>
