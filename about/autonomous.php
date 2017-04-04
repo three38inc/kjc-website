@@ -71,14 +71,39 @@
 									<div class="content-left myWelcome wow fadeIn" style="min-height:611px;">
 										<h4>
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Not Filled yet</strong></span>
+											<span>&nbsp;<strong>Autonomy Status</strong></span>
 										</h4>
 										<hr />
 										<div class="inner-content">
-											<p> Will update soon<br /><br />
+											<p> Autonomy
+Kristu Jayanti has become an autonomous college from the academic year 2013-14. It continues to be an affiliated college of the Bangalore University and is autonomous in the sense that it is free to frame its own courses of studies and to adopt innovative methods of teaching and evaluation. The University confers the degrees to the students after passing the examinations held by the college.<br /><br />
 												</p>
 											
-											
+											<p>Highlights </p>
+                                            <ul> <li type="bullet">Autonomous syllabus is designed to suit the industry needs and students centred.</li>
+                                            <li type="bullet"> Students are imparted Life Skills in collaboration with Rajiv Gandhi Institute of Youth Development, Chennai. </li>
+                                                <li type="bullet">Teachers help freshers to cope with studies in English.</li>
+                                                <li type="bullet">There is a wide choice in courses.</li>
+                                                <li type="bullet">Students are provided with various co-curricular and extra-curricular activities</li>
+                                                <li type="bullet">Regularity of students is ensured & attendance is part of CIA.</li>
+                                                <li type="bullet">Timely publication of results.</li>
+                                                <li type="bullet">Departments are free to adapt or adjust the syllabus according to needs.</li>
+                                                <li type="bullet">Scope for interaction with other department staff and even outside experts.</li>
+                                                <li type="bullet">Freedom in choice of courses.</li>
+                                                <li type="bullet">Wide range of electives helps students.</li>
+                                                <li type="bullet">Well-maintained discipline.</li>
+                                                 <li type="bullet">Improved student-teacher interaction.</li>
+                                                     <li type="bullet">Continuous assessment prompts students to study and learn meticulously, rather than make eleventh hour preparation. </li>
+                                                     <li type="bullet">Students are aware of examination dates well in advance.</li>
+                                                     <li type="bullet">Localized administration simplifies work.</li>
+                                                     <li type="bullet">Seminars , Conferences and guest lectures build confidence in the students.</li>
+                                                     <li type="bullet">Each question paper scrutinized by a Board, in addition to double valuation scheme for PG programmes .</li>
+                                            
+                                                
+                                                                    
+                                            
+                                            
+                                            </ul>
 										</div>
 									</div>
 								</div>
