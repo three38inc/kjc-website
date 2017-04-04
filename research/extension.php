@@ -32,37 +32,7 @@
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
-    <style>
-        .link-arrow a.a-link-arrow::before {
-            left: 0px;
-            z-index: -1;
-            width: 100%;
-            background: #f3f3f3;
-        }
-        
-        .link-arrow {
-            /* background: rgba(149,165,166,0.4); */
-            background: rgba(255, 255, 255, 0);
-        }
-        
-        .link-arrow a.a-link-arrow {
-            left: 10px;
-        }
-        
-        .menu-list ul li {
-            background: transparent;
-        }
-        
-        .side-menu {
-            background: transparent;
-        }
-        
-        .content-right {
-            background: transparent;
-            box-shadow: none;
-        }
-
-    </style>
+    
 </head>
 
 <body>
