@@ -98,16 +98,18 @@
 								  
 							</div>
 							<div class="row">
-<<<<<<< HEAD
-								<div class="col-lg-12">
-									<div class="content-left myWelcome wow fadeIn" style="min-height:611px;">
-										<h4>
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Autonomy Status</strong></span>
-										</h4>
-										<hr />
-										<div class="inner-content">
-											<p> Autonomy
+
+				            <div class="marginTopDiv">&nbsp;</div>
+                            <div class="col-lg-9">
+                                <div class="content-left myWelcome wow fadeIn">
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <br/>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our <strong>Autonomous Status</strong></span>
+                                    </h4>
+
+                                    <br/>
+                                    <p> Autonomy
 Kristu Jayanti has become an autonomous college from the academic year 2013-14. It continues to be an affiliated college of the Bangalore University and is autonomous in the sense that it is free to frame its own courses of studies and to adopt innovative methods of teaching and evaluation. The University confers the degrees to the students after passing the examinations held by the college.<br /><br />
 												</p>
 											
@@ -136,25 +138,6 @@ Kristu Jayanti has become an autonomous college from the academic year 2013-14. 
                                             
                                             
                                             </ul>
-										</div>
-									</div>
-								</div>
-								
-=======
-								<div class="marginTopDiv">&nbsp;</div>
-                            <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Autonoums Status</strong></span>
-                                    </h4>
-
-                                    <br/>
-                                    <p align="justify">
-
-                                        Will Update soon
-                                    </p>
                                     
 
 
@@ -240,7 +223,7 @@ Kristu Jayanti has become an autonomous college from the academic year 2013-14. 
 
 
                             </div>	
->>>>>>> refs/remotes/origin/master
+
 							</div>
 
 						</div>
@@ -249,7 +232,7 @@ Kristu Jayanti has become an autonomous college from the academic year 2013-14. 
 						<?php include ('../php/alerts.php');  ?>
 						<?php include('../php/footer.php'); ?>
 						<?php include('../php/morphingSearch.php'); ?>
-					</div>   
+<!--					</div>   -->
 
 
 
