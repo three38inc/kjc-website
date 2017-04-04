@@ -79,7 +79,7 @@
 Kristu Jayanti has become an autonomous college from the academic year 2013-14. It continues to be an affiliated college of the Bangalore University and is autonomous in the sense that it is free to frame its own courses of studies and to adopt innovative methods of teaching and evaluation. The University confers the degrees to the students after passing the examinations held by the college.<br /><br />
 												</p>
 											
-											<p>Highlights </p>
+                                            <p><b><u>Highlights</b></u> </p>
                                             <ul> <li type="bullet">Autonomous syllabus is designed to suit the industry needs and students centred.</li>
                                             <li type="bullet"> Students are imparted Life Skills in collaboration with Rajiv Gandhi Institute of Youth Development, Chennai. </li>
                                                 <li type="bullet">Teachers help freshers to cope with studies in English.</li>
