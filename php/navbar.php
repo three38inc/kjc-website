@@ -1,6 +1,4 @@
-
-
-<nav class="big navbar navbar-default navbar-fixed-top" id='top'>
+<nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
 <!--  <div class="container-fluid">-->
   <div class="container">
     <div class="navbar-header">
@@ -30,10 +28,92 @@
             <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
             <a href="../home/index.php" id="home">Home</a>
         </li>
-        <li>
-            <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-            <a  id="about">About Us</a>
-        </li>
+        <li class="dropdown yamm-fw">
+          <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+          <ul class="dropdown-menu">
+           <li>
+               <div class="yamm-content">
+                  <div class="row">
+                    <div class="col-lg-3">
+                      <div class="menu">
+                        <h3>Quick Links</h3>
+                        <ul>
+                          <li><a href="#">link 1</a></li>
+                          <li><a href="#">link 1</a></li>
+                          <li><a href="#">link 1</a></li>
+                          <li><a href="#">link 1</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                    <div class="col-lg-3">
+                      <div class="menu-alt">
+                        <h4>Founder</h4>
+                        <p>
+                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        </p>
+                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+           </li>
+         </ul>
+       </li>
         <li>
             <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
             <a  id="academics">Academics</a>
@@ -54,6 +134,7 @@
             <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
             <a  id="contact">Contact Us</a>
         </li>
+
         <li class="hidden-lg">
             <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
             <a  id="search1">Search</a>
