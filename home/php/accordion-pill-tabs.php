@@ -15,6 +15,11 @@
         margin: 5px 0;
     }
     
+    .FavStyles a:hover{
+        text-decoration: none;
+        color: #34495e;
+    }
+    
 </style>
 <ul class="nav nav-pills nav-stacked col-lg-4 col-md-4 col-sm-12 col-xs-12">
 	<li class="active">
