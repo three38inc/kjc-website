@@ -164,22 +164,22 @@
                                 <div class="col-lg-3" style="padding:0;">
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <h4>ENROLMENT FOR AN EVENT</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <h4>ALUMI CONNECT</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <h4>COACHING CENTERS</h4>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <h4>IQAC</h4>
                                         </div>
                                     </div>
                                 </div>

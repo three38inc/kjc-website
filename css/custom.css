@@ -990,6 +990,7 @@ top: -6px;
 	}
 	.FooterNewsletter{
 		text-align:center;
+        margin: 5px auto;
 	}
 	.poweredBy{
 		text-align: center;
@@ -3882,6 +3883,13 @@ time.icon:hover, time.icon:focus {
     padding: 10px;
     box-shadow: 0 1px 2px #ccc;
 }
+.goog-te-gadget {
+    font-size: 11px;
+    color: #fff !important;
+}
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-link:hover, .goog-logo-link:active{
+    color: #fff !important;
+}
 
 .tab-pane{
     font-size: 20px;
@@ -3914,6 +3922,7 @@ time.icon:hover, time.icon:focus {
     color: #2c3e50;
     text-decoration: none;
 }
+.morphsearch-content {margin-top: 5.5em;}
 
 
 >>>>>>> origin/master

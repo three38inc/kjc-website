@@ -32,8 +32,52 @@
 		<script src="../js/custom.js"></script>
 		<script src="../js/fakeLoader.js"></script>
 
-	</head>
-	<body>
+	<style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
+
+    </style>
+</head>
+
+<body>
+    <script type="text/javascript">
+        $crisp = [];
+        CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.im/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+
+    </script>
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -62,79 +106,95 @@
 				<div class="st-content"><!-- this is the wrapper for the content -->
 					<div class="st-content-inner">
 						<div class="container">
-							<!--        <div class="row">-->
-							<div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-								<img class="img-responsive col-lg-12" style="width:100%;max-height:300px;padding:0px;" src="../images/academicarena.jpg" alt="cover-img" />    
-							</div>
-							<div class="row">
-								<div class="col-lg-9">
-									<div class="content-left myWelcome wow fadeIn" style="min-height:611px;">
-										<h4>
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Academic Arena</strong></span>
-										</h4>
-										<hr />
-										<div class="inner-content">
-											<p> The institution's infrastructure is at pace with the changing needs of the student population. To be on par with the scientific and technological advancements, parallel expansion of infrastructure in the form of laboratories, library and other learning resources such as computers, e-resources and Wi-Fi facility are initiated.<br /><br />
+							<div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
+
+                        </div>
+                        <div class="row">
+                            <div class="marginTopDiv">&nbsp;</div>
+                            <div class="col-lg-9">
+                                <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <br/>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our <strong>Academic Arena</strong></span>
+                                    </h4>
+                                    <br />
+
+                                    <p align="justify"> The institution's infrastructure is at pace with the changing needs of the student population. To be on par with the scientific and technological advancements, parallel expansion of infrastructure in the form of laboratories, library and other learning resources such as computers, e-resources and Wi-Fi facility are initiated.<br /><br />
 												Physical facilities have been expanded to create an ambience conducive for academic excellence and holistic development. Various departments and administrative sections are housed in the Main Block. The MBA and MCA programmes function in a separate block. The college has spacious class rooms, auditoria, laboratories, conference halls, panel rooms and sports facilities.<br/><br/>
 												Infrastructural facilities have gradually developed in accordance with the growing student strength. Adequate ICT and technological facilities enable effective transmission of education. The auditoria, amphitheatre and quadrangle serve as launch pads for diverse co-curricular activities. Various sports and games facilities contribute to the development of students in extra-curricular activities. The dynamism of the students is evident in the optimal utilization of these facilities. Adequate attention is given to provide necessary infrastructural facilities to the differently-abled. The infrastructure has been augmented to suit the growing needs of students and additional funds have been set aside for effective upkeep.
 											</p>
 											
 											
-										</div>
+										
 									</div>
 								</div>
 								<div class="col-lg-3">
-									<div class="content-right wow fadeIn">
-										<h4><strong>Campus</strong></h4>
-										<div class="innercontent-link" >
-											<ul>
-											<li><h5><a href="academic_arena.php">Academic Arena</a></h5></li>
-											<li><h5><a href="library_info.php">Library</a></h5></li>
-											<li><h5><a href="library_epac.php">Library EPAC</a></h5></li>
-											<li><h5><a href="labs.php">Labs</a></h5></li>
-											<li><h5><a href="sports_games.php">Sports &amp; Games</a></h5></li>
-											<li><h5><a href="hostel.php">Hostel</a></h5></li>
-											<li><h5><a href="common_facilities.php">Common Facilities</a></h5></li>
-											<li><h5><a href="cafeteria.php">Cafeteria</a></h5></li>
-											<li><h5><a href="atm.php">Atm</a></h5></li>
-										</ul>
-										</div>
+									<div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our  <strong>Campus Profile</strong></span>
+                                    </h4>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="academic_arena.php">Academic Arena</a></p>
+                                    </section>
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="library_info.php">Library</a></p>
+                                    </section>
+                                     <section class="link-arrow">   
+                                        <p><a class="a-link-arrow" href="library.php">Library EPAC</a></p>
+                                    </section><section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
+                                    </section><section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="sports_games.php">Sports &amp; Games</a></p>
+                                    </section><section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="hostel.php">Hostel</a></p>
+                                    </section><section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="common_facilities.php">Common Facilities</a></p>
+                                    </section><section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="cafeteria.php">Cafeteria</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="atm.php">Atm</a></p>
+                                    </section>
+										
 									</div>
-									<div class="row" style="margin-left:2px; margin-right: 2px;">
-										<div class="content-right wow fadeIn">
-											<?php include ('../php/sideMenu.php'); ?>
-										</div>
-										
-										
-										
-<!--
-										<div class="content-right wow fadeIn" style="height:112px;padding:20px;">
-                                            <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote></div></div>
+									<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+                                    <?php include ('../php/sideMenu.php'); ?>
+                                </div>
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
--->
-										
-									</div>
-									
-								</div>
-							</div>
+                                    </div>
+                                </div>
 
-						</div>
+                            </div>
+                        </div>
+                    </div>
 
-<!--						                                </div>-->
-						<?php include ('../php/alerts.php');  ?>
-						<?php include('../php/footer.php'); ?>
-						<?php include('../php/morphingSearch.php'); ?>
-					</div>   
+                    <!--                                </div>-->
+                    <?php include ('../php/alerts.php');  ?>
+                    <?php include('../php/footer.php'); ?>
+                    <?php include('../php/morphingSearch.php'); ?>
+                </div>
 
 
 
-				</div> <!--/st-content-inner--> 
-			</div><!-- this is the wrapper for the content--> 
-		</div> <!--st-pusher--> 
-		</div> <!--st-container--> 
+            </div>
+            <!--/st-content-inner-->
+        </div>
+        <!-- this is the wrapper for the content-->
+    </div>
+    <!--st-pusher-->
+    <!--        </div> st-container -->
 
-	<script src="../js/cbpFWTabs.js"></script>
+    <!--<script src="../js/cbpFWTabs.js"></script>-->
 	<script>
 		(function() {
 

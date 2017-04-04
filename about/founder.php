@@ -32,10 +32,41 @@
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
+    <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
 
+    </style>
 </head>
 
 <body>
+    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -77,93 +108,108 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn" style="min-height:1077px;">
-<!--
-                                    <img src="../images/principal.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                <div class="content-left myWelcome wow fadeIn">
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
--->
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Founder 123</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">
+                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
                                         Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province of the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation in India. This congregation is the embodiment of the dream and vision of Saint Kuriakose Elias Chavara who was a nineteenth century educationist and social reformer in India. Kuriakose Chavara was born in 1805, in Kainakary, Kerala. In 1829 he was ordained as priest after his early schooling in the native village and priestly studKristu Jayanti College Founderies at Pallipuram seminary in Alapuzha.
                                     </p>
                                     <p align="justify">
-                                    Kuriakose Elias Chavara though he hailed from an upper caste Syrian Christian family, he played a major role in educating the people of the lower ranks of society. In 1846, Kuriakose Elias established St. Joseph's Press at Mannanam- a remote hamlet near the town of Kottayam in Central Kerala. This was the third printing press in Kerala and the first press founded by a Keralite without the help of foreigners. From this printing press came the first Malayalam newspaper Nasrani Deepika which later became a daily in 1887 and is circulated even today as Deepika. He also started a school at Mannanam in 1846. He was responsible for introducing noon day meals in schools, a practice later adopted by the rulers of Travancore and then by the Indian government. In 1864, while he was serving as the Vicar General of Syrian Catholics, he ordered to start a school along with every church which was successful in making free education available for everyone. Thus schools in Kerala came to be known as 'pallikudam'.
+                                        Kuriakose Elias Chavara though he hailed from an upper caste Syrian Christian family, he played a major role in educating the people of the lower ranks of society. In 1846, Kuriakose Elias established St. Joseph's Press at Mannanam- a remote hamlet near the town of Kottayam in Central Kerala. This was the third printing press in Kerala and the first press founded by a Keralite without the help of foreigners. From this printing press came the first Malayalam newspaper Nasrani Deepika which later became a daily in 1887 and is circulated even today as Deepika. He also started a school at Mannanam in 1846. He was responsible for introducing noon day meals in schools, a practice later adopted by the rulers of Travancore and then by the Indian government. In 1864, while he was serving as the Vicar General of Syrian Catholics, he ordered to start a school along with every church which was successful in making free education available for everyone. Thus schools in Kerala came to be known as 'pallikudam'.
                                     </p>
                                     <p align="justify">
-                                    In co-operation with Palackal Thoma Malpan and Thoma Porukara, Kuriakose Elias founded an Indian religious congregation for men, now known as the 'Carmelites of Mary Immaculate' (CMI). He believed that intellectual development and the education of women was the first step towards overall social welfare. Towards this end he founded, the 'Congregation of the Mother of Carmel' (CMC), the first religious congregation for women.<br/> Kuriakose Elias attained eternal peace on 3 January 1871, aged 66, at Koonammavu- a northern suburb of Cochin City. Kuriakose Elias was beatified at Kottayam on 8 February 1986, and later on November 23, 2014 he was canonized at St. Peter's Square by Pope Francis.
-                                            </p>
+                                        In co-operation with Palackal Thoma Malpan and Thoma Porukara, Kuriakose Elias founded an Indian religious congregation for men, now known as the 'Carmelites of Mary Immaculate' (CMI). He believed that intellectual development and the education of women was the first step towards overall social welfare. Towards this end he founded, the 'Congregation of the Mother of Carmel' (CMC), the first religious congregation for women.<br/> Kuriakose Elias attained eternal peace on 3 January 1871, aged 66, at Koonammavu- a northern suburb of Cochin City. Kuriakose Elias was beatified at Kottayam on 8 February 1986, and later on November 23, 2014 he was canonized at St. Peter's Square by Pope Francis.
+                                    </p>
                                     <p align="justify">
-                                    The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
+                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
 
 
-                                    
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-right wow fadeIn">
-                                    <h4 style="margin-left:10px;">
-                                        <i class="fa fa-bookmark" style="color:#2980b9"></i>
-                                        <span>&nbsp;<strong>About us</strong></span>
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Learn <strong>About us</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a href="founder.php">Founder</a></p>
+                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a href="history.php">History</a></p>
-                                    </section>
 
                                     <section class="link-arrow">
-                                        <p><a href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a href="core_values.php">Core Values</a></p>
-                                    </section>
 
                                     <section class="link-arrow">
-                                        <p><a href="educational_philosophy.php">Educational Philosophy</a></p>
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a href="profile.php">Profile</a></p>
-                                    </section>
 
                                     <section class="link-arrow">
-                                        <p><a href="milestones.php">Milestones</a></p>
+                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a href="management.php">Management</a></p>
-                                    </section>
 
                                     <section class="link-arrow">
-                                        <p><a href="message.php">Principal's Message</a></p>
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
                                     </section>
 
+
                                     <section class="link-arrow">
-                                        <p><a href="autonomous.php">Autonomous Info</a></p>
+                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
                                     </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
+                                    </section>
+
+
+
                                 </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                        </h4>
+
                                         <?php include ('../php/sideMenu.php'); ?>
                                     </div>
 
 
 
-                                    <div class="content-right wow fadeIn" style="height:153px;padding:10px;overflow-y:scroll;overflow-x:hidden;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
+                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
+                                </div>
 
                                 </div>
 

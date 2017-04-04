@@ -20,7 +20,7 @@
 	<a href="https://www.microsoft.com/en-us/store/apps/kristu-jayanti/9nblggh1r8v1"><i class="fa fa-windows fa-2x" style="padding-left:10px;color:white;"></i></a>
 </div>
 <!--    NewsLetter Subscription-->
-<div class="col-lg-4  col-md-4 col-sm-4 col-xs-12 FooterNewsletter">
+<div class="col-lg-3  col-md-3 col-sm-3 col-xs-12 FooterNewsletter">
 	<form class="form-inline" >
 		<div class="form-group">
 			<!--					<label for="inputGlimsesSubscribe" class="lblNewsLetter">NEWSLETTER SUBSCRIPTION</label>-->
@@ -32,9 +32,15 @@
 		</div>
 	</form>
 </div>
-<div class="col-lg-3 col-md 3 col-sm-3 col-xs-12 translator">
+<div class="col-lg-3 col-md 3 col-sm-3 col-xs-6 translator">
 	<!--		<p style="color:rgba(0,0,0,0.3);">Translate The Page</p>-->
-	<div id="google_translate_element"></div>
+	<div id="google_translate_element" style="color:#FFF"></div>
 </div>
-
+<div class="col-lg-1 col-md-1 col-sm-1 col-xs-6 FooterNewsletter" style="margin: 10px auto;">
+    <form class="form-inline" >
+		<div class="form-group">
+	<button type="submit" class="btn btn-default btn-sm btn-Subscribe">Careers @ KJC</button>
+            </div>
+	</form>
+</div>
 <!--/THE SOCIAL MEDIA SECTION ENDS HERE -->
