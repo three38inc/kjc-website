@@ -120,19 +120,20 @@
                                     </h4>
                                     <br />
 
-                                    <p align="justify"> The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information found in resources like books, magazines, Journals, statistics, encyclopedias, annual reports and the Internet. In addition, the library offers spacious seating arrangements and a calm ambience for learning.</p><br/>
+                                    <p align="justify"> The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information found in resources like books, magazines, Journals, statistics, encyclopedias, annual reports and the Internet. In addition, the library offers spacious seating arrangements and a calm ambience for learning.  </p><br/>
 												<h4 style="text-decoration:underline;">Opening Hours</h4>
 											
-												<p align="justify">The Library is available for the use of all members of Kristu Jayanti College. Its working hours are 8.30am to 5.30pm Monday to Friday and 8:30am to 1.30pm Saturday.</p><br/><br/>
+												<p align="justify">The Library is available for the use of all members of Kristu Jayanti College. Its working hours are 8.30am to 7.00pm Monday to Friday and 8:30am to 4.00pm Saturday.</p><br/><br/>
 											<h4  style="text-decoration:underline;">Facilities</h4>
 												<p align="justify">The KJC Library allows access to printed resources such as books, Journals and Magazines as well as Electronic Journals for the use of faculty and students at Kristu Jayanti College.</p>
 											<ul>
 												<li>Automated library enables easy accessibility and optimum usage.</li>
-												<li>Reading room, discussion room and self-study cubicles exclusively for faculty and students</li>
+												<li>Reading room, discussion room and self-study cubicles exclusively for faculty and students
+* OPAC facility is installed for easy search</li>
 												<li>OPAC facility is installed for easy search</li>
 												<li>Wireless router is installed to facilitate internet usage and laptop connectivity</li>
 												<li>Reprographic facility</li>
-												<li>Display of newspaper clippings on current topics and career / employment </li>
+												<li>Display of newspaper clippings on current topics and career / employment  </li>
 												<li>Book bank facility for economically backward students</li>
 												<li>Notice board for information display and notification</li>
 												<li>Continuous power backup facility</li>
@@ -142,11 +143,12 @@
 											<br/>
 											<h4 style="text-decoration:underline;">Collection Development</h4>
 											
-											<p align="justify">Books from vendors on approval will be available in the library from time to time.Faculties are encouraged to purchase the Titles in display and make recommendations. Recommendation forms are available at the library. Selected new books will be a displayed and are reserve for a period of two weeks before being available for general circulation.Any student may recommend new books &amp; Journal Subscription. The Library Committee will decide based on the input from faculty and the academic need.</p>
+											<p align="justify">Books from vendors on approval will be available in the library from time to time.Faculties are encouraged to purchase the Titles in display and make recommendations. Recommendation forms are available at the library. Selected new books will be a displayed and are reserve for a period of two weeks before being available for general circulation.</p>
+<p>Any student may recommend new books & Journal Subscription. The Library Committee will decide based on the input from faculty and the academic need..</p>
 											<br/><br/>
 											<h4 style="text-decoration:underline;">Circulation of Materials</h4>
 											
-											<p align="justify">Students may borrow books or Journals during working hours at the library Circulation Counter. A Student may borrow a maximum of three books, two Journals & two CD's to their name. The books are issued for Students maximum Ten days &amp; for faculty maximum ten books for one month and then they may be renewed if no reservations on the items indicated. Journals and CD's may be issued for maximum three days for students and one week for faculty.Books &amp; Journals placed on reserve by the library staff, are not issued out.
+											<p align="justify">Students may borrow books or Journals during working hours at the library Circulation Counter. A Student may borrow a maximum of three books, two Journals & two CD's to their name. The books are issued for Students maximum Ten days & for faculty maximum ten books for one month and then they may be renewed if no reservations on the items indicated. Journals and CD's may be issued for maximum three days for students and one week for faculty. Books & Journals placed on reserve by the library staff, are not issued out.
 											<br/>
 											The Library materials in certain advertised categories may not be issued without special permission:</p>
 											<ul>
@@ -157,29 +159,33 @@
 												<li>Project Reports</li>
 											</ul>
 											<p align="justify">Fine will be charged on late return of books, periodicals and CD's.
-											Books and Periodicals borrowed from the library cannot be taken outstation unless special permission is given. Students should deposit their borrowed materials in the library before they go on leave.<br/>Newly Arrived Journals/ Magazines &amp; Newspapers Newly arrived Books and Periodicals cannot be issued out of the Library before a specified period.
-											<br/>Collection Library Collection Books: 28,235+
-											<br/>Report Reports &amp; Bound Volumes : 1,608+ 
-											<br/>Periodicals : 256 National: 201 International: 55
-											<br/>Newspapers : 12
-											<br/>Databases : 02
-											<br/>CDs / DVDs : 2,143+
-											<br/>And Non-Book, Audio Cassettes &amp; Maps.
-											<br/><br/>
-                                    </p>
+											Books and Periodicals borrowed from the library cannot be taken outstation unless special permission is given. Students should deposit their borrowed materials in the library before they go on leave.Newly Arrived Journals/ Magazines & Newspapers Newly arrived Books and Periodicals cannot be issued out of the Library before a specified period.<br>
+                                                
+                                                
+											<br/>Total Number of Books: 49642+
+											<br/>Project Reports: 2700+ 
+											<br/>Bound Volumes: 2504+ 
+											<br/>Periodicals: 280
+											<br/>National: 190, International: 90
+											<br/>Case Studies: 03
+											<br/>Newspapers: 12
+                                              <br/>  Databases: 07 
+                                              <br/>  CDs / DVDs and Non-Book, Audio Cassettes & Maps: 2,735+</p>
 											<h4 style="text-decoration:underline;">Reference Books</h4>
 											
 											<p align="justify">Readers may reserve books or Journals for a period of one day by writing the name against the message ("Please leave"/"Don't disturb") and the date. This date may be changed once the reserved material is used, or the reserved material will be replaced on the shelves after the blocked date.</p>
 											<br/><h5>Online Journals/Resources</h5>
-											<p align="justify">Kristu Jayanti College Library subscribes to Online full text Journals &amp; Resources. It regularly adds new Journals &amp; Resources to the Collection for the benefits &amp; easy access to all the users.Downloading entire issues/volumes of these resources is legally incorrect; as it goes against the license agreement we have entered with the publishers. Thus we would emphasize that these resources have been governed by license agreements and copyright law. Download of entire journal issue or complete volume in a systematic fashion is strictly prohibited. The responsibility for the appropriate use of licensed material lies with the user. The misuse of or unauthorized use of licensed information could result in cancellation of the services.All KJC library users must respect the licensed agreements &amp; copyrights and make use of these resources fairly. This service is available to Kristu Jayanti College Network users only.</p>
+											<p align="justify">Kristu Jayanti College Library subscribes to online full text Journals & Resources. It regularly adds new Journals & Resources to the Collection for the benefits & easy access to all the users.
+Downloading entire issues/volumes of these resources is legally incorrect; as it goes against the license agreement we have entered with the publishers. Thus we would emphasize that these resources have been governed by license agreements and copyright law. Download of entire journal issue or complete volume in a systematic fashion is strictly prohibited. The responsibility for the appropriate use of licensed material lies with the user. The misuse of or unauthorized use of licensed information could result in cancellation of the services. 
+All KJC library users must respect the licensed agreements & copyrights and make use of these resources fairly. This service is available to Kristu Jayanti College Network users only.</p>
 											<br/><br/>
 											<h4 style="text-decoration:underline;">Audio Video Service</h4>
 											
 											<p align="justify">Audio video Service is available to Post Graduate students only. Management and Faculty of Kristu Jayanti College may recommend the purchase of desired or relevant Audio Video CD's to the Librarian.</p>
 											<br/><br/>
 											<h4 style="text-decoration:underline;">External Users/Visitors</h4>
-                                    <p align="justify">External users from other Institutions or Colleges are allowed to use the Library with a letter of reference from their Institution or College. External users are not permitted to issue Library items.Other Visitors to the Library may use it provided he gets a permission from the Director of Library to use it. Externals users and visitors are allowed to use the Library only during office hours.</p>
-                                                <br/><h5>Role of Library Staff in helping users</h5><p align="justify">During Normal Working hours the Librarian &amp; other Library Staff will assist the users. They will also assist in obtaining necessary reference material for individual users. The Library will provide necessary service to obtain personal subscription or book purchases for faculty and students.</p>
+                                    <p align="justify">External users from other Institutions or Colleges are allowed to use the Library with a letter of reference from their Institution or College. External users are not permitted to issue Library items.
+Other Visitors to the Library may use it provided he gets permission from the Director of Library to use it. Externals users and visitors are allowed to use the Library only during office hours. Role of Library Staff in helping users During Normal Working hours the Librarian & other Library Staff will assist the users. They will also assist in obtaining necessary reference material for individual users. The Library will provide necessary service to obtain personal subscription or book purchases for faculty and students.</p>
 											<br/><br/>
 											<h4 style="text-decoration:underline;">Code of Conduct</h4>
 											
