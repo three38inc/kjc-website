@@ -31,9 +31,40 @@
 		<script src="../js/respond.js"></script>
 		<script src="../js/custom.js"></script>
 		<script src="../js/fakeLoader.js"></script>
+        <style>
+        .link-arrow a.a-link-arrow::before {
+            left: 0px;
+            z-index: -1;
+            width: 100%;
+            background: #f3f3f3;
+        }
+        
+        .link-arrow {
+            /* background: rgba(149,165,166,0.4); */
+            background: rgba(255, 255, 255, 0);
+        }
+        
+        .link-arrow a.a-link-arrow {
+            left: 10px;
+        }
+        
+        .menu-list ul li {
+            background: transparent;
+        }
+        
+        .side-menu {
+            background: transparent;
+        }
+        
+        .content-right {
+            background: transparent;
+            box-shadow: none;
+        }
 
+    </style>
 	</head>
 	<body>
+        <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -67,22 +98,105 @@
 								  
 							</div>
 							<div class="row">
-								<div class="col-lg-12">
-									<div class="content-left myWelcome wow fadeIn" style="min-height:611px;">
-										<h4>
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Not Filled yet</strong></span>
-										</h4>
-										<hr />
-										<div class="inner-content">
-											<p> Will update soon<br /><br />
-												</p>
-											
-											
-										</div>
-									</div>
-								</div>
-								
+								<div class="marginTopDiv">&nbsp;</div>
+                            <div class="col-lg-9">
+                                <div class="content-left myWelcome wow fadeIn">
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <br/>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our <strong>Autonoums Status</strong></span>
+                                    </h4>
+
+                                    <br/>
+                                    <p align="justify">
+
+                                        Will Update soon
+                                    </p>
+                                    
+
+
+
+                                </div>
+                            </div>
+							<div class="col-lg-3">
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Learn <strong>About us</strong></span>
+                                    </h4>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
+                                    </section>
+
+
+
+                                </div>
+
+                                <div class="content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+
+                                    <?php include ('../php/sideMenu.php'); ?>
+                                </div>
+
+                                
+                                    <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
+                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+                                            <div class="fb-xfbml-parse-ignore">
+                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                            </div>	
 							</div>
 
 						</div>

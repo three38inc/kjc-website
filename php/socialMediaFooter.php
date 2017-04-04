@@ -34,7 +34,7 @@
 </div>
 <div class="col-lg-3 col-md 3 col-sm-3 col-xs-12 translator">
 	<!--		<p style="color:rgba(0,0,0,0.3);">Translate The Page</p>-->
-	<div id="google_translate_element"></div>
+	<div id="google_translate_element" style="color:#FFF"></div>
 </div>
 
 <!--/THE SOCIAL MEDIA SECTION ENDS HERE -->
