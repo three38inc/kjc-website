@@ -30,7 +30,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Fr. Augustine George
+                <h4>Dr. Calistus Jude AL
                 </h4>
                 <h5>Vice Principal</h5>
                 <p>

@@ -232,7 +232,7 @@
             //below code is for retrieving corresponding pages #START
             var activePage = 'page1';
             $.ajax({
-                url: 'snipets/' + activePage + '.php',
+                url: 'snipets/cs/' + activePage + '.php',
                 success: function(data) {
                     $('#page').html(data);
                 },
@@ -247,7 +247,7 @@
             $('.profile-pagination li a').click(function() {
                 var activePage = this.getAttribute('data-value');
                 $.ajax({
-                    url: 'snipets/' + activePage + '.php',
+                    url: 'snipets/cs/' + activePage + '.php',
                     success: function(data) {
                         $('#page').html(data);
                     },
