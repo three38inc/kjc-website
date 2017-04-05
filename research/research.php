@@ -111,6 +111,7 @@
 											<li><h5><a href="extension.php">Extension</a></h5></li>
 											<li><h5><a href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></h5></li>
 											<li><h5><a href="research_centre_in_social_work.php">Research centre in Social Work</a></h5></li>
+                                            <li><h5><a href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></h5></li>
 										</ul>
 									</div>
 								</div>

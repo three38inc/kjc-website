@@ -526,32 +526,30 @@
                                 <span>&nbsp;Student<strong>Services</strong></span>
                             </h4>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="#">Online Document Verification</a></p>
+                                <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="#">Entrepreneurship and Innovation Centre(EIC)</a></p>
+                                <p><a class="a-link-arrow" href="eic.php">Entrepreneurship and Innovation Centre(EIC)</a></p>
                             </section>
                             <section class="link-arrow">   
-                                <p><a class="a-link-arrow" href="#">Jayantian Entrepreneurs</a></p>
+                                <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php">Jayantian Entrepreneurs</a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="#">Counselling Centre</a></p>
+                            <p><a class="a-link-arrow" href="counselling_center.php">Counselling Centre</a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="#">Grievance Redressal </a></p>
+                            <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal </a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="#">Scholarship</a></p>
+                            <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="#">Placement </a></p>
-                            </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="#">Scholarship &amp; Loan Facilities</a></p>
+                            <p><a class="a-link-arrow" href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="#">Health Care</a></p>
+                                <p><a class="a-link-arrow" href="health_care.php">Health Care</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="#">International Student Forum</a></p>
+                                <p><a class="a-link-arrow" href="international_student_forum.php">International Student Forum</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="#">Coaching Centre</a></p>
+                                <p><a class="a-link-arrow" href="coaching_center.php">Coaching Centre</a></p>
                             </section>
 
                         </div>
@@ -590,7 +588,7 @@
 <!--st-pusher-->
 <!--        </div> st-container -->
 
-<!--<script src="../js/cbpFWTabs.js"></script>-->
+
 
 <script>
     (function() {
