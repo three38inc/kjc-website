@@ -123,33 +123,102 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Achievements </strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>Seminars and Conferences </strong><br><br>
                                     </p>
-                                    <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
-                                    </p>
-                                    <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
-                                    </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
                                     <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
+                                        <li>2010-11: National Seminar on Global Trends in Corporate Governance and Accounting </li>
+                                        <li>2011-12: National Seminar on Reforms in Accounting &amp; Taxation.</li>
+                                        <li>2012-13: National Conference on Indian Financial System. </li>
+                                        <li>2013-14: International conference on Global economic turbulence and its implication on Indian financial environment. </li>
+                                        <li>2014-15: International conference of Risk Management through Financial and Commodity Markets. </li>
+                                        <li>2015-16: International conference on Emerging Trends in Global accounting and finance </li>
+                                        <li>2016-17: International conference on Inclusive Business Growth &amp; Sustainable Development (ICIBGSD)</li>
+
                                     </ul>
-                                                                 
-                                   
+                                    <p align="justify">
+                                        <strong> Workshops </strong><br>
+                                    </p>
+                                    <ol>
+                                        <li>Workshop of Filing of Income Tax Returns by CA Maninder Singh,Tax &amp; Audit Manager, Matesh &amp; Ramana Charted Accountants for B.Com Professionals and B.Com ACCA on 7 March 2017</li>
+                                        <li>Workshop on Tax Management by CA Nimi Mohan, for 60 (VI Sem. B.Com Professional) students on 2nd and 3rd March, 2016.</li>
+                                        <li>Workshop on Self Branding by Prof Sen Mathews, Faculty, KJC for 60 (B.Com Professional) on 5 July 2014
+                                        </li>
+                                        <li>Workshop on Case Study Analysis by Dr. Rajesh Kumar, Finance and academic consultant for 37 (M.Com) on 24 July 2014
+                                        </li>
+                                        <li>Workshop on Branding and its importance in today’s world by Mr. Sangeeth and Mr Chetan, CEO, Red Cherry Tree for 100 Students of V Sem B.Com A &amp; B , III Sem B.Com B
+                                        </li>
+                                        <li>Workshop on Positive Attitude By Prof Anthony Williams, Director, Zeal Institute on 13 & 14 Aug 2013 for III Sem M.Com Students
+                                        </li>
+                                        <li>Workshop on online trading by Mr. Justin ,Regional manager on 23 and 24 may 2013 for III M.Com students
+                                        </li>
+                                        <li>Capacity Building Training on Life Skills on 21 Jan – 11 Feb 2013 for I Sem B.Com Students
+
+                                        </li>
+                                        <li>Workshop on Career Kraft by Mr Uday &amp; Mr Sujith on 15 and 16 June 2012 for V Sem. B.Com Students
+                                        </li>
+                                        <li>Workshop on Entrepreneurship Development Programme(Venture Capital) by Mr Lourdunathan F on 7 July 2012 For V Sem B.Com Students
+
+                                        </li>
+                                        <li>Workshop on Value Education and Empowerment By Prof. Anthony Williams,Director,Zeal Institute on 21 &amp;22 Nov 2012 for III Sem M.Com Students
+
+                                        </li>
+                                        <li>Capacity Building Training on Life Skills on 21 Jan – 11 Feb 2013 for VI Sem B.Com Students
+
+                                        </li>
+
+                                    </ol>
+
+                                    <p align="justify">
+                                        <strong> Panel Discussion : </strong><br>Panel Discussion on Union Budget 2015 -16 on 11th March, 2015. Moderator –CS Tygarajan. Panel Members-a) CS. Tygarajan b) CA. Gururaj Acharya c) Darlington Hector d) DNS. Kumar.
+                                    </p>
+                                    <p align="justify">
+                                        <strong> Faculty Development Programmes: </strong><br>
+                                    </p>
+                                    <ol>
+                                        <li>On 30 August 2014, A FDP on Research Empowerment Series was conducted by Dr. M.Victor Louis Anthuvan Prof and Coordinator of Ph.D Programme, LIBA for Commerce and Management Faculties.</li>
+                                        <li>On 20-Sept-2014, , A FDP on Research Empowerment Series was conducted by Prof. Mathew J Manimala, Professor @ OBHRM, IIM, for Commerce and Management Faculties.
+                                        </li>
+                                        <li>In house FDP on writing and publishing research articles on 13 Dec., 2013 for Commerce and Management faculties
+                                        </li>
+                                    </ol>
+                                    <p align="justify">
+                                        <strong> Guest Lectures : </strong><br>
+                                    </p>
+                                    <ol>
+                                        <li>Guest Lecture On Youth And Ethics by Mr. Samuel from Rhoumai Missions International for 280 (I B.Com students) on 23 June 2014</li>
+                                        <li>Guest Lecture on role of finance in organization from Mr.N. Danush Kodi,Chartered Accountant for 60 (B.Com Professional) on 19 June 2014</li>
+                                        <li>Guest Lecture on Reverse Mortgage from Mr.N. Danush Kodi,Chartered Accountant for 37 (M.Com) on 19 June 2014</li>
+                                        <li>Guest Lecture on Positive Path professional Consistency from Mrs Padmini, CA for 60(B.Com Professional) on 30 June 2014</li>
+                                        <li>Guest Lecture on Career Opportunities for CA & CS Students By Mr C.S.Pradeep John, CA for I B.Com Students professions on 20 July 2013.</li>
+                                        <li>Guest Lecture on Private Public partnership by Prof Kanishka, St Joseph college for III M.Com Students on 16 Aug 2013</li>
+                                        <li>Guest Lecture on Corporate Governance for I B.Com Profession Students on 24 August 2013 </li>
+                                        <li>Guest Lecture on Opportunities in Accounting and Finance by Mr Sai Krishna Vyas ,CFO,Commerce Champions on 13 July 2012 for V Sem B.Com students.</li>
+                                        <li>Guest Lecture On Campus to Corporate Transition by Mr.Bala Krishnamurthy, (Chief Strategy Officer of Mint Book), on 16th October 2015, for 5th Semester B.Com students</li>
+                                        <li>Guest Lecture on 'International Business Strategy' by Prof. Simon Sweeney, Senior Lecturer in International Business and International Political Economy, The York Management School, UK., on 9th February 2016, for 6th Semester B.Com students</li>
+                                        <li>Guest Lecture on 'Cost and Management Audit' by CMA. N. Raveendranath Kaushik, Cost Accountant, Ravendranath Kaushik and Associates, on 23rd January 2016, for 4th Semester M.Com, 2nd Semester M.Com and M.Com (F.A)</li>
+                                        <li>. Guest Lecture on ACCA Future Prospectus by Prof. Mohammed Sajid Khan Head of International Development ACCA on 21 June 2016 for 1st Semester B.Com ACCA Students</li>
+                                        <li>Guest Lecture on Importance of ACCA by Mr. Ravindran Balakrishnan ACCA and CIMA mentor on 14 July 16 for 1st and 3rd semester B.Com ACCA Students.</li>
+                                        <li>Guest Lecture on Career prospects in Tourism and Hospitality Industry by Prof. Vijayakumar Shivaraman, Department of Tourism and Management, Oman Tourism College, Oman on 03 August 2016 for 1st Semester B.Com Tourism Students.</li>
+                                        <li>Guest Lecture on Financial Planning by Srinivasan Lakshmi Narayanan Financial Planner / Trainer/Wealth coach Life Transformers India Bangalore on 14 December 2016 for 1st, 3rd and 5th sem B.Com Professional Students.</li>
+                                        <li>Guest Lecture on Investors awareness in stock trading by Mrs. Merina Jose Kanjikal, Resource Personnel BSE-IPF, Bangalore on 3rd and 6th February 2017 for 6th sem B.Com Students.</li>
+
+                                    </ol>
+
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -232,7 +301,7 @@
                                     </section>
 
 
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
@@ -256,6 +325,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +340,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +372,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

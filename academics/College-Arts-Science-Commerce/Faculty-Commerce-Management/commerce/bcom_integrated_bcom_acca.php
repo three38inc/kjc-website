@@ -236,6 +236,8 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <p align="justify"><br/><br/><strong>The detailed integration of ACCA courses with B.Com curriculum is given below:</strong></p><br/>
+                                    <p class="text-center"><a href="#">B.Com. with ACCA Course Curriculum (click here)</a></p>
 
                                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 
@@ -329,29 +331,29 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="profile.php"> Faculty Profile
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="milestones.php"> Academic Calendar
+                                        <p><a class="a-link-arrow" href="#"> Academic Calendar
                                             </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php"> Achievements </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php"> Seminars Conferences and Workshops </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php"> News Letter </a></p>
+                                        <p><a class="a-link-arrow" href="news_letter.php"> News Letter </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php"> Other departmental activities </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
 
                                 </div>

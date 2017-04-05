@@ -123,33 +123,47 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Fests</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        The Department conducts Excelsior an intra-Collegiate Fest and Adroit a National Level Inter-Collegiate Fest (UG Department) and Impulse an intra-Collegiate Fest and Commercia National Level Inter-Collegiate Fest (PG Department)
+
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                                        <strong>Excelsior: </strong>The Department of Commerce organises "Excelsior" an Intra- collegiate fest is conducted during the odd semester every year. Excelsior has been a milestone in the way to the student's overall growth. It has also made their path to success by imbibing in the students. the quality of managing the given resources. Every year final year students unite in a combined and synergized effort to organize this fest. Not only does it allow the first and second year students to explore their creative and business sensibilities but it also provides a platform to exhibit textbook managerial practices in a more realistic and personal environment thus strengthening and confirming their understanding of core concepts.
+
+                                    </p>
+
+                                    <p align="justify">
+                                        <strong>Adroit:  </strong>It is a National level Inter-collegiate Fest and has always been synonymous with great academics, intellect and high IQ's since the past 10 years. This event not only provides a platform for students to compete with each other but, promotes talent and explores new ideas among them. The event promises a multitude of activities and rewards for the talented. Thus, Adroit gives future business leaders a break-through from class rooms into the dynamic and even competitive corporate world through a variety of business related calendar of events, testing their skills, knowledge, expertise, as well as their attitude.
                                     </p>
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                        <strong>Impulse- Intra collegiate PG fest:   </strong> Impulse, an intra-collegiate fest conducted by the Department of Commerce-Post graduate studies. The objective of this fest is to provide hands on experience in order to participate in any inter-collegiate fest conducted at various colleges. The key events of this fest includes Best Manager, Business Quiz, Business Plan, Mock Stock, Human Resource Management, Balance Sheet Reading and Financial analysis etc., Final year students host this event for first year students to face the realities of corporate arena.
                                     </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+                                    <p align="justify">
+                                        <strong>Commercia - Inter collegiate PG fest : </strong>fest The Department of Commerce-Post Graduate Studies of Kristu Jayanti conducts Commercia-A National level inter-collegiate commerce which provides a platform for all its participants to exhibit their talents in the various commerce oriented events. COMMERCIA provides an environment for collaborating ideas which will be fuelled by innovation and enthusiasm. The fest provides platform to imbibe team work, creative learning, critical thinking and exposure to realities of business world. The key events of this fest includes Best manager, Business quiz, Business plan, Mock stock, Human resource management, Balance sheet reading and Financial analysis etc., Department of Commerce-PG will be the host and other colleges across the country will take part in this mega corporate carnival.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>Jai Hind: </strong> It is the Department's initiative to hold an event in honour of the Martyrs who laid their life for our country. It instils patriotism in each departmental student. The event includes a quiz programme, skits, tableau, mime and songs that extols the true Indian spirit.
+                                    </p>
+                                    <p align="justify">
+                                        The overall objectives of this fest is to enhance analytical and decision making skills of the students.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>Yaan: </strong> Department (Tourism Course) organizes 'YAAN' an Intra College Tourism Fest in connection with the World Tourism day Celebrations. Various activities like Food festival, Tourism Exhibition, Kite festival (christened as Drachen) as well as Traditional Cultural Programmes are conducted by the students.
+                                    </p>
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -232,7 +246,7 @@
                                     </section>
 
 
-                                   <section class="link-arrow">
+                                 <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
@@ -256,6 +270,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +285,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +317,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

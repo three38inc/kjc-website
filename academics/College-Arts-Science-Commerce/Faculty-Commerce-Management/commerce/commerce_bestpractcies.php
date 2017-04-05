@@ -123,33 +123,87 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Best Practices </strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        The Department of Commerce conducts various departmental co-curricular activities to stand with the vision of exploring new horizons together with collective wisdom.
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                                        <strong>1.Business Lab: </strong>The idea behind commerce lab is to inculcate knowledge and need-based work skills so that the graduates of the college find themselves prepared for employment and self-employment avenues as and when required. In order to accomplish this task we have incorporated practical aspects of the subject so the students may involve in experiential learning which is vital in present business world.
                                     </p>
-                                    <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
-                                    </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
+                                    <p><strong>The following is the snap shot of some of the programmes offered by commerce lab:</strong></p>
                                     <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
+                                        <li>Mission Connect: College Campus to Corporate Campus</li>
+                                        <li>Knowledge screen-Learning from leaders</li>
+                                        <li>Specimens and forms</li>
+                                        <li>Proforma of key business documents</li>
+
+
                                     </ul>
-                                                                 
-                                   
+                                    <p align="justify">
+                                        <strong>2. Investor's club: </strong>The Club envisages the dream of bringing the finance avenue closer to students by having the below given programmes.
+                                    </p>
+
+                                    <ul>
+                                        <li>Mock Trading Sessions for all commerce students</li>
+                                        <li>Access to Live broadcast of Business news channels </li>
+                                        <li>Discussions on share market trends with Club members</li>
+                                        <li>Screening of stock trading shows</li>
+                                        <li>Stock trading competition in association with ICICI Direct</li>
+                                        <li>Sessions on investment literacy for non commerce students</li>
+
+
+                                    </ul>
+                                    <p align="justify">
+                                        <strong>3. Beyond Ourselves: </strong>an initiative by the Department in enhancing the knowledge and upgrading the teachers to the new developments in industry, so as to lead the students in a competency based education.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>4. PIF-Professional Interface Forum: </strong>Professional Interface Forum is an exclusive platform for B.Com Professional course students, pursuing their B.Com degree with professional course, either CA or CS. This forum is set up to enable students to remain in continuous touch with the industry and professional bodies through interaction with the corporate world at frequent intervals so that they can imbibe corporate culture and norms followed there. The objective of PIF is to enlighten our student with ideas and views on challenges faced by CA and CS professionals
+                                    </p>
+                                    <p align="justify">
+                                        <strong>5. Quiz Club:</strong>
+                                    </p>
+                                    <p align="justify">
+                                        <strong></strong>The Quiz Club takes pride in being one of the most proactive and popular clubs among the students. The club is dedicated to prepare and host quality quizzes for the student population on the campus.<br/> Following is a glimpse of what the Club does:
+
+                                    </p>
+                                    <ul>
+                                        <li>Preparation of Quiz Calendar</li>
+                                        <li>To conduct a quiz test </li>
+                                        <li>Intra class Biz Quiz competition in Odd semesters</li>
+                                        <li>Inter class General Quiz in Even Semesters</li>
+                                        <li>Supply of course based quizzes to teachers on request</li>
+                                        <li>Preparing and hosting quality quizzes for Intra and Inter collegiate fest</li>
+                                    </ul>
+                                    <p align="justify">
+                                        <strong>6. Vanijya Darpan: </strong>A business skills exhibition- The purpose of the exhibition is to link what students learn in the classroom with how it is applied in the real world. It provides an avenue for students to showcase their skills and creativity. Students are divided into Groups, and have to present a model on various business areas.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>7. Samshodhan (Research Forum): </strong>To motivate the research culture among the post graduate commerce students of Kristu Jayanti College an initiation was taken to start a research forum. It is monitored by the Co-ordinator of M.Com Programme and Research methodology subject teacher. The forum aims To motivate and equip the students to undertake research, to help the students to publish the research papers in reputed journals, to improve the art of writing research report and thereby helping the members to identify research problems, have a weekly discussion on research topics, discussions on the prepared questionnaires and interview schedules, discussions on application of statistical tools and debate on published research papers.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>8. Gurukul-giving wings to students: </strong>It is an in house Seminar which is aimed at promoting Paper presentation and publication as a part of the curriculum. It is conducted for every semester.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>9. Teaching Assignment (For Aspiring Students):</strong>Post Graduate Commerce Students are given a chance to experience the real world of teaching. The practice has produced bountiful teachers from this College.
+                                    </p>
+                                    <p align="justify">
+                                        <strong>10. Mentoring Establishing a Mentor : </strong>Mentee relationship is the need of the hour, looking at the current social turbulence that we see around us. The Department is aware that a student's character also gets developed, once he is a part of this Institution. Keeping both the things in mind, the Management, Teachers and the College Counsellor do take proactive steps to instill and grow values that moulds a person into a better asset to the society.
+                                    </p>
+
+
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -256,6 +310,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +325,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +357,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>
