@@ -140,56 +140,82 @@
                                     <div class="col-lg-4" style="padding: 0px;">
                                         <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Media Releases</h4>
                                             </div>
                                             <p style="text-align:justify;">
-                                                <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
+                                                <ul class="mMenu">
+                                                  <li><a href="#">KJC in news <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Publications <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Glimpses <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Videos <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Social Media <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Brochures <i class="fa fa-angle-double-right"></i></a></li>
+                                                </ul>
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 space">
                                         <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Placements</h4>
                                             </div>
-                                            <p style="text-align:justify;">
-                                                <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
-                                            </p>
+                                            <div class="owl-carousel owl-theme" id="placementSlider">
+                                              <div class="item">
+                                                <img src="slider-images/arcesium.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/volvo.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/crossdomain.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/greatwest.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                          </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4" style="padding: 0px;">
                                         <div class="content-spl wow fadeIn" style="padding-top: 0;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Admissions</h4>
                                             </div>
-                                            <p style="text-align:justify">
+                                            <p style="text-align:center;padding: 3%;">
                                                 <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
+                                                Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                             </p>
+                                            <p class="text-center">
+                                              <a href="#" class="label label-primary text-center">
+                                                Click Here
+                                              </a>
+                                            </p>
+
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-3" style="padding:0;">
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="http://events.kristujayanti.edu.in/"><h4><i class="fa fa-calendar-o"></i> Enroll for an Event</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i> Alumini Connect</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="#"><h4><i class="fa fa-graduation-cap"></i> Coaching Centers</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="#"><h4><i class="fa fa-calendar"></i> Academic Calendar</h4></a>
                                         </div>
                                     </div>
                                 </div>
@@ -317,6 +343,13 @@
                             loop:false
                         }
                     }
+                });
+
+                $('#placementSlider').owlCarousel({
+                    loop:true,
+                    margin:10,
+                    nav:false,
+                    items: 1
                 });
 
 

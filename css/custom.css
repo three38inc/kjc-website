@@ -2064,11 +2064,11 @@ time.icon:focus {
     margin-right: 0px;
     box-shadow: 0 1px 2px #ccc;
     border-radius: 2px;
-    min-height: 200px;
+    height: 210px;
 }
 
 .content-spl h4 {
-    margin: 0px 0px 20px 0px;
+    margin: 5px 0px 20px 0px;
 }
 
 .mainheading {
@@ -2110,6 +2110,20 @@ time.icon:focus {
     box-shadow: 0 1px 2px #ccc;
 }
 
+.sideLinks a{
+  text-decoration: none;
+  color: rgba(44, 62, 80,1.0);
+  transition: all ease-in-out 0.3s;
+}
+.sideLinks a:hover{
+  color: #18bc9c;
+}
+
+.sideLinks a i{
+  font-size: 1.2em;
+  margin-right: 10px;
+}
+
 .tab-pane {
     font-size: 20px;
     padding: 0;
@@ -2118,6 +2132,7 @@ time.icon:focus {
 .tab-pane h4 {
     font-size: 20px;
     margin: 0;
+    color: #34495e!important;
 }
 
 .tab-pane hr {
@@ -2141,6 +2156,30 @@ time.icon:focus {
 .FavStyles a:hover {
     color: #2c3e50;
     text-decoration: none;
+}
+
+.FavStyles a i{
+  margin-right: 5px;
+}
+
+.mMenu{
+  padding: 10px 0px 0px 20px;
+  list-style-type: none;
+}
+
+.mMenu a{
+  text-decoration: none;
+}
+
+.mMenu a i{
+  margin-left: -10px;
+  opacity: 0;
+  transition: all ease-in-out 0.3s;
+}
+
+.mMenu a:hover i{
+  opacity: 1;
+  margin-left: 0px;
 }
 
 /* yamm navbar css */
@@ -2265,7 +2304,9 @@ time.icon:focus {
 }
 
 /* yamm navbar css end */
-
+a.read-more{
+  text-decoration: none;
+}
 a.read-more i{
   line-height: 1em;
   vertical-align: middle;
@@ -2293,6 +2334,20 @@ a.read-more:hover i{
 
 .navbar-fixed-top .navbar-collapse{
   max-height: 100vh;
+}
+
+#placementSlider .owl-item img{
+  width: 80%;
+  margin: 0 auto;
+}
+
+#placementSlider .owl-item a{
+  float: right;
+  text-decoration: none;
+}
+
+#placementSlider .owl-item a i{
+  margin-top: -3px;
 }
 
 
