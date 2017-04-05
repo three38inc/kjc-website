@@ -142,7 +142,7 @@ win=window.open(mypage,myname,settings);}
   <td width="200" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../mca/mca.php"><u>MCA</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/mca_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guideline_pg.php"><center><u>Application Form</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr></table><br />
                                     
  <div class="well">
