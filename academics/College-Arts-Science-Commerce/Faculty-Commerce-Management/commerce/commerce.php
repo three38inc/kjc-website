@@ -112,22 +112,25 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Founder</strong></span>
+                                        <span>&nbsp;Our <strong>Commerce</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province of the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation in India. This congregation is the embodiment of the dream and vision of Saint Kuriakose Elias Chavara who was a nineteenth century educationist and social reformer in India. Kuriakose Chavara was born in 1805, in Kainakary, Kerala. In 1829 he was ordained as priest after his early schooling in the native village and priestly studKristu Jayanti College Founderies at Pallipuram seminary in Alapuzha.
+                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities. 
                                     </p>
                                     <p align="justify">
-                                        Kuriakose Elias Chavara though he hailed from an upper caste Syrian Christian family, he played a major role in educating the people of the lower ranks of society. In 1846, Kuriakose Elias established St. Joseph's Press at Mannanam- a remote hamlet near the town of Kottayam in Central Kerala. This was the third printing press in Kerala and the first press founded by a Keralite without the help of foreigners. From this printing press came the first Malayalam newspaper Nasrani Deepika which later became a daily in 1887 and is circulated even today as Deepika. He also started a school at Mannanam in 1846. He was responsible for introducing noon day meals in schools, a practice later adopted by the rulers of Travancore and then by the Indian government. In 1864, while he was serving as the Vicar General of Syrian Catholics, he ordered to start a school along with every church which was successful in making free education available for everyone. Thus schools in Kerala came to be known as 'pallikudam'.
+                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus. 
                                     </p>
                                     <p align="justify">
-                                        In co-operation with Palackal Thoma Malpan and Thoma Porukara, Kuriakose Elias founded an Indian religious congregation for men, now known as the 'Carmelites of Mary Immaculate' (CMI). He believed that intellectual development and the education of women was the first step towards overall social welfare. Towards this end he founded, the 'Congregation of the Mother of Carmel' (CMC), the first religious congregation for women.<br/> Kuriakose Elias attained eternal peace on 3 January 1871, aged 66, at Koonammavu- a northern suburb of Cochin City. Kuriakose Elias was beatified at Kottayam on 8 February 1986, and later on November 23, 2014 he was canonized at St. Peter's Square by Pope Francis.
+                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally. 
                                     </p>
+                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
+<!--
                                     <p align="justify">
                                         The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
+-->
 
 
 
