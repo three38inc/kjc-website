@@ -112,13 +112,11 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;About the Department</span>
+                                        <span>&nbsp; Academic Project</span>
                                     </h4>
 
-                                    <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
-
-
+                                    <p align=justify>With an objective to provide the practical knowledge of operations of business organisations, department of management initiated a two week internship for IV Semester BBM students as part of their curriculum. Each student must select an organisation strictly from the suggested list of industries and do the internship between 4th May, 2018 and 6th June, 2018</p>
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">

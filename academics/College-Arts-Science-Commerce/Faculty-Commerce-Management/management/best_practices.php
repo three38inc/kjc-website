@@ -112,13 +112,18 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;About the Department</span>
+                                        <span>&nbsp; Best Practices</span>
                                     </h4>
 
-                                    <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+                                    <p>The Department of Management adopted some unique practices for the benefit of the students. Following are the major best practices of the department.</p>
 
+                                    <li>Workshop on management concepts called "Virtuoso" for the fresher by the seniors</li>
+                                    <li>Student attendance regulatory system to monitor the regularity of the students on hourly basis.</li>
+                                    <li> The department has introduced mentoring system, where each class animator has given the responsibility to monitor the growth of each student with help of mentor's handbook.</li>
+                                    <li> We have introduced "No due slip" during the even semester, which will monitor the readiness of students to prepare for examination.</li>
+                                    <li>"Meet your alumni", an interactive program, where the students have benefited by interacting with their alumnae, who settled in corporate.</li>
 
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">

@@ -112,11 +112,50 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;About the Department</span>
+                                        <span>&nbsp; One year Post Graduate Diploma Programme (Working Executives) </span>
                                     </h4>
 
-                                    <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+                                    <p> One year Post Graduate Diploma programme of Kristu Jayanti College (Autonomous) is a Part Time course offered for working professionals which provides diverse learning opportunities in a short span.</p>
+<p>The main focus of the programme is to transfer knowledge and sharpen the skills of the young working professionals in different functional areas of management.
+    The Educational Methodology used in the programme is an optimal blend of Class instruction, Case discussion, Skill development, Self-study & Project work.</p>
+                                    <p><b>Highlights of the Course</b><br>
+1. The degree is awarded by the Bangalore University<br>
+2. Updated, Industry oriented Curriculum under Autonomous<br>
+3. One year programme with two semesters<br>
+4. Classes scheduled during weekends<br>
+5. Interaction with industry leaders and visionaries<br>
+6. Choice of 3 Programmes<br>
+     - Post Graduate Diploma in Business Administration (PGDBA)<br>
+     - Post Graduate Diploma in Human Resource Management (PGDHRM)<br>
+                                        - Post Graduate Diploma in Marketing Management (PGDMM)</p>
+                                    <p><b>Eligibility:</b><br>
+                                        <b>Bachelor's Degree in any discipline.</b></p>
+                                    <p><b>Programme Fee:</b><br>
+                                        <b>The entire programme fee is Rs. 25,000/-</b><br>
+Other Fees involved<br>
+(a) Students from outside Karnataka<br>
+(i) Additional Fee (First Year only) : Rs.10,000.00<br>
+(ii) Eligibility Fee : Rs. 7000.00<br>
+(b) NRI students<br>
+(i) Additional Fee (First Year only) : Rs. 20,000.00<br>
+(ii) Eligibility Fee : Rs. 10000.00<br>
+c) Foreign Students<br>
+(i) Additional Fee (First Year only) : Rs. 1,30,000.00(or $ 2000)<br>
+(ii) Eligibility Fee : Rs. 14,000.00<br>
+(iii) AIU Equivalency Certificate (if required) : Fee to be paid by the student<br>
+d) Fee for Saarc Country students<br>
+(i) Additional Fee (First Year only) : Rs. 30,000.00 <br>
+(ii) Eligibility Fee : Rs. 14,000.00<br>
+(iii) AIU Equivalency Certificate (if required) : Fee to be paid by the student<br>
+(d) The Management / College does not collect any type of Capitation fees / Donation other than the fees mentioned above.
+Prospectus & Application Fee : Rs. 250/- D.D. drawn in favour of " The Principal, Kristu Jayanti College" payable at Bangalore)<br>
+Apply online: (Click)<br>
+                                        Classes will commence during the 1st week of August, 2016</p>
+                                    <p><b>For further Details Contact:</b><br>
+College Office: 080 - 28465611 / 28465353 / 28465770, <br>
+E-mail: admission@kristujayanti.com<br>
+Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
+                                        For details of Subjects (Click here)</p>
 
 
                                 </div>
