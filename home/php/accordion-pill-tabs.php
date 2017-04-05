@@ -38,7 +38,7 @@
         <a href="#link-5" data-toggle="tab" aria-expanded="false"><i class="fa fa-hand-o-right"></i>&nbsp; NACC Peer Team Visit</a>
 	</li>
 </ul>
-<div id="myTabContent" class="tab-content col-lg-8 col-md-8 col-sm-12 col-xs-12">
+<div id="myTabContent" class="col-lg-8 col-md-8 col-sm-12 col-xs-12 tab-content">
 
 	<div class="tab-pane fade active in" id="link-1">
         <h4>My Favourites</h4><hr />
@@ -187,7 +187,5 @@
 				</a>
 			</h5>
 		</div>
-
 	</div>
-
 </div>

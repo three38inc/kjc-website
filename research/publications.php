@@ -244,6 +244,9 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
                                     </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                    </section>
 
                                 </div>
                                 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">

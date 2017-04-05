@@ -112,13 +112,14 @@
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                         <?php include ('php/welcome.php'); ?>
                                     </div>
-                                    <div class="content-spl myNav wow fadeIn">
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
                                         <?php include ('php/accordion-pill-tabs.php'); ?>
-                                        <div class="clearfill"></div>
+                                        <div style="clear: both;"></div>
                                     </div>
+                                    <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height:  635px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 635px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
