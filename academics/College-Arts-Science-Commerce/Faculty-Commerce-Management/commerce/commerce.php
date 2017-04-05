@@ -127,7 +127,12 @@
                                         The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally. 
                                     </p>
                                     <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-<!--
+                                    <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+<!--                                
                                     <p align="justify">
                                         The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
 -->

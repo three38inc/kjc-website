@@ -4,7 +4,7 @@
     <div class="navbar-header">
 
         <div  class="navbar-brand">
-        <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/home/index.php"><img class="img-responsive" src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/images/kjcFlag.png" id='imgLink'/></a>
+        <a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/home/index.php"><img class="img-responsive" src="http://<?php echo $_SERVER['HTTP_HOST']; ?>github/kjc-website/images/kjcFlag.png" id='imgLink'/></a>
         </div>
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar">
         <span class="icon-bar"></span>
