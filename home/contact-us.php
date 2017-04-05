@@ -1,3 +1,26 @@
+<?php
+    if(isset($_REQUEST['flag']))
+	{
+		if($_REQUEST['flag']==1)
+		{
+			echo "<script>
+			alert('Email Provided is invalid | Please do reconsider the email !');
+			</script>";
+		}
+        else if($_REQUEST['flag']==2)
+		{
+			echo "<script>
+			alert('Message has been succesfully send to the concerned Personel.Thank You !');
+			</script>";
+		}
+        else if($_REQUEST['flag']==3)
+		{
+			echo "<script>
+			alert('Something has happened and your message could not be sent !!');
+			</script>";
+		}
+    }
+?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 
@@ -50,6 +73,10 @@
         .panel-body {
             padding: 0px 15px;
             margin-top: 10px;
+        }
+        
+        .well>p {
+            font-size: .9em;
         }
 
     </style>
@@ -108,7 +135,7 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn" style="min-height:900px;">
+                                <div class="content-left myWelcome wow fadeIn" style="min-height:1060px;">
                                     <!--                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />-->
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62186.352245210895!2d77.60756996054008!3d13.058126044477483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17578c79da7d%3A0xe96dcd8e2b982f8e!2sKristu+Jayanti+College!5e0!3m2!1sen!2sin!4v1491411672229" width="810" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                                     <br/>
@@ -120,30 +147,30 @@
 
 
 
-                                    <form class="form">
+                                    <form class="form" action="php/send-mail.php" method="post">
                                         <div class="form-group">
                                             <label for="inputEmail" class="col-lg-2 control-label">Name</label>
                                             <div class="col-lg-10">
-                                                <input type="text" class="form-control" id="inputEmail" placeholder="Email">
+                                                <input type="text" class="form-control" id="inputEmail" placeholder="Name" name="name">
                                             </div>
                                         </div>
                                         <div class="form-group">
                                             <label for="inputEmail" class="col-lg-2 control-label">Email</label>
                                             <div class="col-lg-10">
-                                                <input type="text" class="form-control" id="inputEmail" placeholder="Email">
+                                                <input type="text" class="form-control" id="inputEmail" placeholder="Email" name="email">
                                             </div>
                                         </div>
                                         <div class="form-group">
                                             <label for="inputEmail" class="col-lg-2 control-label">Phone</label>
                                             <div class="col-lg-10">
-                                                <input type="text" class="form-control" id="inputEmail" placeholder="Email">
+                                                <input type="text" class="form-control" id="inputEmail" placeholder="Phone" name="phone">
                                             </div>
                                         </div>
 
                                         <div class="form-group">
                                             <label for="textArea" class="col-lg-2 control-label">Message</label>
                                             <div class="col-lg-10">
-                                                <textarea class="form-control" rows="3" id="textArea"></textarea>
+                                                <textarea class="form-control" rows="3" id="textArea" name="message"></textarea>
                                                 <span class="help-block">Please be free to contact us. While you message your query please try to be more specific and give clear details about the matter.</span>
                                             </div>
                                         </div>
@@ -156,7 +183,8 @@
                                             </div>
                                         </div>
                                     </form>
-
+  
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -166,18 +194,20 @@
                                         <span>&nbsp;How to <strong>Reach us</strong></span>
                                     </h4>
                                     <div class="well">
-                                        <p><b> Mailing Address
-
-</b><br>Kristu Jayanti College, Autonomous<br>K. Narayanapura, Kothanur (PO) <br>Bengaluru 560077
+                                        <p><b> Mailing Address</b><br>Kristu Jayanti College (Autonomous)<br>K. Narayanapura, Kothanur (PO) <br>Bengaluru 560077
                                         </p>
-                                        <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center>
+                                        <p><b> Contact Nos.</b><br>(080)28465611<br>(080)28465770<br>(080)28465353
+                                        </p>
+                                        <p><b> Fax No.</b><br>(080) 28445161
+                                        </p>
+
                                     </div>
                                     <div class="panel panel-primary">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">Contact Mails &amp; Contact Personnels</h3>
+                                            <h3 class="panel-title">Official Contact Mails &amp; Contact Personnels</h3>
                                         </div>
                                         <div class="panel-body">
-                                            <font size=2>1. Official mail<br>info@kristujayanti.com<br> 2. Admission<br>admission@kristujayanti.com<br>3. Career Purpose<br>Career@kristujayanti.com</font>
+                                            <font size=2><b>1. Official mail</b><br>info@kristujayanti.com<br><b>2. Admission</b><br>admission@kristujayanti.com<br><b>3. Career Purpose</b><br>career@kristujayanti.com</font>
                                         </div>
 
                                         <div class="panel-body">
