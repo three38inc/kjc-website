@@ -75,17 +75,15 @@
 										</h4>
 										<hr />
 										<div class="inner-content">
-											<p> 
-												The <strong>Grievance Redressal Cell </strong>was constituted in July, 2006 with five members to probe into the student grievances. It redresses the grievances at individual and class level and grievances of common interest. The Cell maintains a conducive and unprejudiced educational environment. Complaints dropped in the 'Suggestion Box' by students and parents and oral complaints are also redressed. All complaints are scrutinized by the management and the grievance redressal cell.<br /><br />
-												The complaint management mechanism is carried out in three levels in the institution:<br /><br />
-											<ul>
-												<li>The departmental level grievances are attended by the concerned class teachers who are mentors and department heads.</li>
+											<p> The <strong>Grievance Redressal Cell </strong>was constituted in July, 2006 with five members to probe into the student grievances. It redresses the grievances at individual and class level and grievances of common interest. The Cell maintains a conducive and unprejudiced educational environment. Complaints dropped in the 'Suggestion Box' by students and parents and oral complaints are also redressed. All complaints are scrutinized by the management and the grievance redressal cell.</p>
+<p><b>The complaint management mechanism is carried out in three levels in the institution:</b><br>
+<ul>
+<li>The departmental level grievances are attended by the concerned class teachers who are mentors and department heads.</li>
 												<li>The student coordinators and staff coordinators of various clubs and associations act as facilitators to communicate and sort out the grievances pertaining to various clubs and associations.</li>
 												<li>Unresolved grievances at the departmental level and association level are referred to the Grievance Redressal Cell of the institution. The students can approach the Grievance Redressal Cell of the institution with their complaints of common interest too. They can drop their complaints in the suggestion box or directly communicate them to the Principal.</li>
 											</ul>
-											<br/><br/>
-											Depending on the seriousness of the problem, the issues are settled by the Cell or by the Principal in consultation with other members of the management, parents and faculty. The collective efforts of the management, department heads, class teachers, various staff coordinators of clubs and associations and the Grievance Redressal Cell resolve the complaints promptly and efficiently. The effective complaint management mechanism improves better stakeholder relationship and contentment.<br/><br/>
-											</p>
+											
+	<p>Depending on the seriousness of the problem, the issues are settled by the Cell or by the Principal in consultation with other members of the management, parents and faculty. The collective efforts of the management, department heads, class teachers, various staff coordinators of clubs and associations and the Grievance Redressal Cell resolve the complaints promptly and efficiently. The effective complaint management mechanism improves better stakeholder relationship and contentment.</p>
 									</div>
 								</div>
 							</div>
