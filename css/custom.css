@@ -2233,8 +2233,15 @@ a.read-more:hover i{
 }
 
 .social-light {
-    margin-top: 9px;
-    text-align: center;
+    /* margin-top: 8px; */
+    /* text-align: center; */
+    background: #fff;
+    position: absolute;
+    bottom: -7px;
+    right: 38px;
+    width: 83%;
+    text-align: right;
+    padding: 0px;
 }
 
 .item-thumbnail>div>img {
@@ -2248,9 +2255,26 @@ a.read-more:hover i{
     overflow: hidden;
 }
 
+.item-content::-webkit-scrollbar-track {
+    background-color: #fff;
+}
+
+.item-content::-webkit-scrollbar {
+    width: 7px;
+    background-color: #fff;
+}
+
+.item-content::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    background-color: #e7e7e7;
+}
 .item-content {
     padding: 8px;
     background-color: #fff;
+    min-height: 241px;
+    max-height: 241px;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .item-content>h4 {
@@ -2284,32 +2308,4 @@ a.read-more:hover i{
 
 
 /*faculty profile #End*/
-/* content-right design of inner pages #START*/
-.link-arrow a.a-link-arrow::before {
-            left: 0px;
-            z-index: -1;
-            width: 100%;
-            background: #f3f3f3;
-        }
-        
-        .link-arrow {
-            background: rgba(255, 255, 255, 0);
-        }
-        
-        .link-arrow a.a-link-arrow {
-            left: 10px;
-        }
-        
-        .menu-list ul li {
-            background: transparent;
-        }
-        
-        .side-menu {
-            background: transparent;
-        }
-        
-        .content-right {
-            background: transparent;
-            box-shadow: none;
-        }
-/* content-right design of inner pages #END*/
+
