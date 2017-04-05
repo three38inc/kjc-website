@@ -137,56 +137,27 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Learn <strong>About us</strong></span>
+                                        <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology &amp; Goals</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
+                                        <p><a class="a-link-arrow" href="core_values.php">M.Sc., MicroBiology</a></p>
                                     </section>
 
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
-                                    </section>
 
 
 
@@ -195,8 +166,74 @@
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                            <span>&nbsp;goto <strong>Activities</strong></span>
                                         </h4>
+                                        
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                    </section>
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="projects.php">Projects</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bestpractices.php">Best Practices</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="careeropportunity.php">Career Opportunity</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="book.php">Book Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
+                                    </section>
+                                        
+                                   
 
                                         <?php include ('../php/sideMenu.php'); ?>
                                     </div>
