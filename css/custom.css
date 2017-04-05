@@ -3962,6 +3962,7 @@ time.icon:hover, time.icon:focus {
   margin-top: 5px;
   font-size: 1.2em;
   color: #FFF;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .yamm .menu ul{
@@ -3970,8 +3971,20 @@ time.icon:hover, time.icon:focus {
   padding-left: 10px;
 }
 
+.yamm .menu li a{
+  transition: all ease-in-out 0.2s;
+  text-decoration: none;
+}
+.yamm .menu li a:hover{
+  color: #FFF;
+  padding-left: 5px;
+}
 .yamm .menu-alt{
   margin-bottom: 20px;
+}
+
+.yamm .menu-alt:hover h4{
+  color: #4FC3F7;
 }
 
 .yamm .menu-alt h4{
@@ -3979,24 +3992,80 @@ time.icon:hover, time.icon:focus {
   margin-bottom: 3px;
   font-size: 1.2em;
   font-weight: normal;
-  color: #2980b9;
+  color: #3498db;
   cursor: pointer;
+  font-family: 'PT Sans', sans-serif;
+  transition: all ease-in-out 0.2s;
 }
 .yamm .menu-alt h4:hover{
-  color: #FFF;
+  color: #4FC3F7;
 }
 
 .yamm .menu-alt p{
   color: #FFF;
   font-size: .8em;
+  height: 4em;
+  margin-bottom: 5px;
+  font-family: 'PT Sans', sans-serif;
+  overflow: hidden;
+  width: 90%;
+}
+
+.yamm .menu-alt.full{
+  padding-left: 20px;
+}
+
+.yamm .menu-alt.full h4{
+  font-size: 1.5em;
+}
+
+.yamm .menu-alt.full p{
+  height: auto;
+  font-size: 0.9em;
 }
 
 .yamm .menu-alt a{
+  font-size: 0.9em;
+  text-transform: capitalize;
   text-decoration: none;
+  font-family: 'PT Sans', sans-serif;
 }
 
+.yamm hr{
+  background-color: #777;
+  color: #777;
+}
 
 /* yamm navbar css end */
+
+a.read-more i{
+  line-height: 1em;
+  vertical-align: middle;
+  transition: all ease-in-out 0.2s;
+}
+a.read-more:hover i{
+  padding-left: 5px;
+}
+
+.floating-nav .link {
+    padding: 1px 10px 2px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 50px;
+    text-align: center;
+    font-weight: 100;
+    color: #ccc;
+    cursor: pointer;
+}
+
+.floating-nav .link i {
+    margin-left: 10px;
+    display: inline;
+    color: #fff;
+}
+
+.navbar-fixed-top .navbar-collapse{
+  max-height: 100vh;
+}
 
 
 >>>>>>> origin/master

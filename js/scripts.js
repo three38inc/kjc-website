@@ -104,15 +104,16 @@ $(document).ready(function(e) {
     $(".navbar-toggle").on("click", function () {
         $(this).toggleClass("active");
     });
+
     $(".navbar-default .navbar-nav > li > a").on('click',function(){
-        $(".navbar-collapse").toggleClass("in");
-        $(".navbar-toggle").toggleClass("active");
+        //$(".navbar-collapse").toggleClass("in");
+        //$(".navbar-toggle").toggleClass("active");
 
     });
 
 
     $(document).on('click', '.yamm .dropdown-menu', function(e) {
-      e.stopPropagation()
+      //e.stopPropagation()
     });
 
 
