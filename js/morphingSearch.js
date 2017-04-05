@@ -67,46 +67,46 @@
     //                    morphSearch.addEventListener( 'click', toggleSearch );
     //                    toggleSearch(e);
     //                });
-    about.addEventListener('click', function(e){
-        if( isOpen ) {
-            classie.remove( morphSearch, 'open' );isOpen = !isOpen;
-        }
-        morphSearch = document.querySelector( '#morphsearch_about' );
-        morphSearch.addEventListener( 'click', toggleSearch );
-        toggleSearch(e);
-    });
-    academics.addEventListener('click', function(e){
-        if( isOpen ) {
-            classie.remove( morphSearch, 'open' );isOpen = !isOpen;
-        }
-        morphSearch = document.querySelector( '#morphsearch_academics' );
-        morphSearch.addEventListener( 'click', toggleSearch );
-        toggleSearch(e);
-    });
-    research.addEventListener('click', function(e){
-        if( isOpen ) {
-            classie.remove( morphSearch, 'open' );isOpen = !isOpen;
-        }
-        morphSearch = document.querySelector( '#morphsearch_research' );
-        morphSearch.addEventListener( 'click', toggleSearch );
-        toggleSearch(e);
-    });
-    campus.addEventListener('click', function(e){
-        if( isOpen ) {
-            classie.remove( morphSearch, 'open' );isOpen = !isOpen;
-        }
-        morphSearch = document.querySelector( '#morphsearch_campus' );
-        morphSearch.addEventListener( 'click', toggleSearch );
-        toggleSearch(e);
-    });
-    student.addEventListener('click', function(e){
-        if( isOpen ) {
-            classie.remove( morphSearch, 'open' );isOpen = !isOpen;
-        }
-        morphSearch = document.querySelector( '#morphsearch_student' );
-        morphSearch.addEventListener( 'click', toggleSearch );
-        toggleSearch(e);
-    });
+    // about.addEventListener('click', function(e){
+    //     if( isOpen ) {
+    //         classie.remove( morphSearch, 'open' );isOpen = !isOpen;
+    //     }
+    //     morphSearch = document.querySelector( '#morphsearch_about' );
+    //     morphSearch.addEventListener( 'click', toggleSearch );
+    //     toggleSearch(e);
+    // });
+    // academics.addEventListener('click', function(e){
+    //     if( isOpen ) {
+    //         classie.remove( morphSearch, 'open' );isOpen = !isOpen;
+    //     }
+    //     morphSearch = document.querySelector( '#morphsearch_academics' );
+    //     morphSearch.addEventListener( 'click', toggleSearch );
+    //     toggleSearch(e);
+    // });
+    // research.addEventListener('click', function(e){
+    //     if( isOpen ) {
+    //         classie.remove( morphSearch, 'open' );isOpen = !isOpen;
+    //     }
+    //     morphSearch = document.querySelector( '#morphsearch_research' );
+    //     morphSearch.addEventListener( 'click', toggleSearch );
+    //     toggleSearch(e);
+    // });
+    // campus.addEventListener('click', function(e){
+    //     if( isOpen ) {
+    //         classie.remove( morphSearch, 'open' );isOpen = !isOpen;
+    //     }
+    //     morphSearch = document.querySelector( '#morphsearch_campus' );
+    //     morphSearch.addEventListener( 'click', toggleSearch );
+    //     toggleSearch(e);
+    // });
+    // student.addEventListener('click', function(e){
+    //     if( isOpen ) {
+    //         classie.remove( morphSearch, 'open' );isOpen = !isOpen;
+    //     }
+    //     morphSearch = document.querySelector( '#morphsearch_student' );
+    //     morphSearch.addEventListener( 'click', toggleSearch );
+    //     toggleSearch(e);
+    // });
 
     search.addEventListener('click', function(e){
 
@@ -114,13 +114,13 @@
             classie.remove( morphSearch, 'open' );isOpen = !isOpen;
         }
         if($('#top1').hasClass('big'))
-        {							
+        {
             $('#top1').removeClass('big');
         }
         //$('#search').html('<i class="fa fa-search"></i>');
 
         $.ajax({
-            url: "../php/searchContent.php", 
+            url: "../php/searchContent.php",
             success: function(result){
                 $("#result_container").html(result);
             }
@@ -137,13 +137,13 @@
         if( isOpen ) {
             classie.remove( morphSearch, 'open' );isOpen = !isOpen;
         }
-        if($('#top1').hasClass('big')){							
+        if($('#top1').hasClass('big')){
             $('#top1').removeClass('big');
         }
         //$('#search').html('<i class="fa fa-search"></i>');
 
         $.ajax({
-            url: "../php/searchContent.php", 
+            url: "../php/searchContent.php",
             success: function(result){
                 $("#result_container").html(result);
                 //alert(result);
@@ -158,41 +158,41 @@
 
 
     /***** for demo purposes only: don't allow to submit the form *****/
-    document.querySelector( '.morphsearch-form button[type="submit"]' ).addEventListener( 'click', function(ev) { 
+    document.querySelector( '.morphsearch-form button[type="submit"]' ).addEventListener( 'click', function(ev) {
         if($('.morphsearch-form input[type="search"]').val()==""){
             $.ajax({
-                url: "../php/searchContent.php", 
+                url: "../php/searchContent.php",
                 success: function(result){
                     $("#result_container").html(result);
                     alert("hi");
                 }
-            }); 
+            });
         }
         else{
             $.ajax({
-                url: "../php/fetchResult.php?q="+$('.morphsearch-form input[type="search"]').val(), 
+                url: "../php/fetchResult.php?q="+$('.morphsearch-form input[type="search"]').val(),
                 success: function(result){
                     $("#result_container").html(result);
                     //alert(result);
                 }
             });
         }
-        ev.preventDefault(); 
+        ev.preventDefault();
     } );
 
     $('.morphsearch-form input[type="search"]').on('keyup',function(e){
         if($('.morphsearch-form input[type="search"]').val()==""){
             $.ajax({
-                url: "../php/searchContent.php", 
+                url: "../php/searchContent.php",
                 success: function(result){
                     $("#result_container").html(result);
                     //alert(result);
                 }
-            }); 
+            });
         }
         else{
             $.ajax({
-                url: "../php/fetchResult.php?q="+$('.morphsearch-form input[type="search"]').val(), 
+                url: "../php/fetchResult.php?q="+$('.morphsearch-form input[type="search"]').val(),
                 success: function(result){
                     $("#result_container").html(result);
                     //alert(result);
