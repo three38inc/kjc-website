@@ -155,7 +155,7 @@
                                         </div>
                                     </div>
                                     <div class="col-lg-4 space">
-                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
+                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 210px;">
                                             <div class="placementTitle">
                                                 <h4>Placements</h4>
                                             </div>
