@@ -70,22 +70,22 @@
                             </div>
                             <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
-                                        <!--
-<h4 ><i class="fa fa-bookmark" style="color:#2980b9"></i>
-<span>&nbsp;Schools of <strong> Management</strong> </span>
-</h4>
--->
-
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
                                         </h4>
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
@@ -93,9 +93,14 @@
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Law</strong></span>
@@ -103,7 +108,11 @@
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div style="clear: both;"></div>
                             </div>
