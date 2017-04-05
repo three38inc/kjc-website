@@ -123,33 +123,130 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>B.Com Integrated (B.Com with ACCA)</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>ACCA - Association of Chartered Certified Accountants </strong><br/><br/> Finance is the main reason why most companies exist. They either want to make it, save it, use it more effectively or advise other companies on how to make it, save it or use it more effectively. Even charities and not-for-profit companies need to make sure they use their funds in the most efficient way. All organizations have one thing in common. They need accountancy professionals who understand finance, who can play a fundamental role in running the business and who can help make the business a success.
+
+                                    </p>
+
+                                    <p align="justify">
+                                        ACCA (Association of Chartered Certified Accountants) is an International Professional Accounting Body, which has members and students in over 173 countries. It has 162,000 members and 428,000 students with global network of 89 offices and active centres. It is recognised and respected by over 8,500 Approved Employers and has over 109 years experience and proven reputation for quality and excellence.
+
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                                        B.Com Integrated ( B.Com with ACCA) program helps the students to get exemption of first six papers of ACCA after the completion of first year. Since the curriculum is already integrated or embedded in the B.Com syllabus, the students can finish ACCA Professional qualification without much additional training.
+
+                                    </p>
+                                    <p align="justify"><strong>The student has to write only 8 external papers to get the ACCA qualification out of 14 papers.</strong>
                                     </p>
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                        Along with the ACCA Qualification, the students are eligible for getting certificate in IFRS from ACCA and ICFE (International Certificate in Financial English) form University of Cambridge after the Semester 3. In addition to this, the students have options for getting an Advanced Diploma and B.Sc in Applied Accounting after the completion of 3rd Semester.
                                     </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+                                    <p align="justify">
+                                        <strong>The syllabus comprises 14 examinations.. The qualification is structured in two parts. </strong><br>
+                                    </p>
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading" role="tab" id="headingOne">
+                                                <h5 class="panel-title">
+                                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                            The Fundamentals level consists of 9 examinations:
+                                                        </a>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                                                <div class="panel-body">
+                                                    <ul>
+                                                        <li>F1 Accountant in Business,
+                                                        </li>
+
+                                                        <li> F2 Management Accounting,
+                                                        </li>
+                                                        <li> F3 Financial Accounting,
+                                                        </li>
+                                                        <li> F4 Corporate and Business Law
+                                                        </li>
+                                                        <li> F5 Performance Management,
+                                                        </li>
+                                                        <li> F6 Taxation,
+                                                        </li>
+                                                        <li> F7 Financial Reporting,
+                                                        </li>
+                                                        <li> F8 Audit and Assurance, and
+                                                        </li>
+                                                        <li> F9 Financial Management.
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <br/>
+                                        <p align="justify">
+                                            <strong>The Professional level involves 5 examinations. </strong><br>
+                                        </p>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading" role="tab" id="headingTwo">
+                                                <h5 class="panel-title">
+                                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                            Within the Professional level three papers are compulsory:
+                                                        </a>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                                <div class="panel-body">
+                                                    <ul>
+                                                        <li>P1 Governance, Risk and Ethics
+                                                        </li>
+
+                                                        <li>P2 Corporate Reporting; and
+                                                        </li>
+                                                        <li> P3 Business Analysis.
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="panel panel-default">
+                                            <div class="panel-heading" role="tab" id="headingThree">
+                                                <h5 class="panel-title">
+                                                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                                           Two of the following four options papers must also be completed: 
+                                                        </a>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                                <div class="panel-body">
+                                                    <ul>
+                                                        <li>P4 Advanced Financial Management, 
+                                                        </li>
+
+                                                        <li>P5 Advanced Performance Management, 
+                                                        </li>
+                                                        <li> P6 Advanced Taxation and 
+                                                        </li>
+                                                        <li>
+                                                        P7 Advanced Audit and Assurance.</li>
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -271,7 +368,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -303,7 +400,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>
