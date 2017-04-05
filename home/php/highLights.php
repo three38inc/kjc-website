@@ -23,38 +23,44 @@
     <ul id="frameHighLights" class="owl-carousel">
         <li>
             <img src="../images/MBA_carousel_101.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+                <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
         <li>
             <img src="../images/MBA_carousel_102.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-              <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+              <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
         <li>
             <img src="../images/MBA_carousel_101.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+                <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
         <li>
             <img src="../images/MBA_carousel_102.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+                <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
         <li>
             <img src="../images/MBA_carousel_101.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+                <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
         <li>
             <img src="../images/MBA_carousel_102.jpg" class="img-responsive"/>
+            <span class="date">2 sept 2017</span>
             <div class="quote">
-                <h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4>
+                <a href="#"><h4>Jobith<br/><small>this is the best college in whole entire world that i ahve ever seen.</small></h4></a>
             </div>
         </li>
     </ul>
