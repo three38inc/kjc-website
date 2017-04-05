@@ -282,7 +282,6 @@
 
         $(document).ready(function(){
 
-            if(screen.width < 700){
                 $('#frameHighLights').owlCarousel({
                     items: 1,
                     loop: true,
@@ -290,20 +289,27 @@
                     nav: true,
                     navSpeed: 500,
                     navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
-                    responsive : true
+                    responsive :{
+                        0:{
+                            items:1,
+                            nav:true
+                        },
+                        500:{
+                            items:2,
+                            nav:true
+                        },
+                        700:{
+                            items:3,
+                            nav:false
+                        },
+                        1000:{
+                            items:4,
+                            nav:true,
+                            loop:false
+                        }
+                    }
                 });
-            }
-            else {
-                $('#frameHighLights').owlCarousel({
-                    items: 4,
-                    loop: true,
-                    autoplay: true,
-                    nav: true,
-                    navSpeed: 500,
-                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
-                    responsive : true
-                });
-            }
+
 
 
         });

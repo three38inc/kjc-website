@@ -1163,6 +1163,37 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     margin-top: -15px;
 }
 
+.frame-testimonials .owl-nav{
+  position: absolute;
+  top: -65px;
+  right: 20px;
+  font-size: 0.7em;
+  background: #EEE;
+  border-radius: 5px;
+  color:#2980b9;
+}
+
+.frame-testimonials .owl-nav .owl-prev{
+  float: left;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 5px 0px 0px 5px;
+}
+.frame-testimonials .owl-nav .owl-prev:hover{
+  background: #CCC;
+}
+
+.frame-testimonials .owl-nav .owl-next:hover{
+  background: #CCC;
+}
+
+.frame-testimonials .owl-nav .owl-next{
+  float: right;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 0px 5px 5px 0px;
+}
+
 .frame-testimonials {
     width: 100%;
     height: 215px;
@@ -1342,9 +1373,12 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     cursor: pointer;
     overflow: hidden;
 }
+.frame-testimonials li a{
+  text-decoration: none;
+}
 
 .frame-testimonials li:hover>img {
-    -webkit-filter: blur(5px) grayscale(70%) brightness(80%);
+    -webkit-filter: blur(2px) brightness(80%);
     max-width: 100%;
 }
 
@@ -1358,25 +1392,37 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     transition: all ease-in-out 0.3s;
 }
 
+.frame-testimonials li .date{
+  background-color: rgba(41, 128, 185,0.5);
+  padding: 2px 5px;
+  color: #EEE;
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  font-size: 0.7em;
+  border-radius: 5px;
+}
+
 .frame-testimonials li .quote {
     position: relative;
     z-index: 99;
     width: 96%;
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 0, 0, 0.6);
     margin: 0 2%;
     margin-top: -48%;
     padding: 5px 5px;
-    border: solid 1px #eee;
     transition: all ease-in-out 0.3s;
+    border-radius: 5px;
+    height: 200px;
 }
 
 .frame-testimonials li .quote h4 {
-    color: #555;
+    color: #EEE;
     text-align: justify;
 }
 
 .frame-testimonials li .quote h4 small {
-    color: #777;
+    color: #CCC;
     text-align: justify;
 }
 
