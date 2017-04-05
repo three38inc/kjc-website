@@ -1,6 +1,7 @@
 /* custom stylesheet */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic');
 
-@import url(https://fonts.googleapis.com/css?family=Carrois+Gothic);
 html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -2291,23 +2292,23 @@ a.read-more:hover i{
             width: 100%;
             background: #f3f3f3;
         }
-        
+
         .link-arrow {
             background: rgba(255, 255, 255, 0);
         }
-        
+
         .link-arrow a.a-link-arrow {
             left: 10px;
         }
-        
+
         .menu-list ul li {
             background: transparent;
         }
-        
+
         .side-menu {
             background: transparent;
         }
-        
+
         .content-right {
             background: transparent;
             box-shadow: none;
