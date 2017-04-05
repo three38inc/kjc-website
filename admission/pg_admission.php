@@ -122,102 +122,87 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;<strong>PG Admission</strong></span>
                                     </h4>
 
-                                  
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
-
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Jaipur</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-  </div>
-</div>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Bengaluru</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-          
-           <div class="well well-sm">
-  <center>PG COUNSELLING</center></div>    
-     <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-<!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
-<font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-         <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-<a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a> 
-         
-         
-         <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-             <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font> <a href="admission_guidelines.php"><font size=2>(Apply online Now)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
-</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-             <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-             
-             <div class="well well-sm">
-  <center>UG COUNSELLING</center></div>  
-      
-      <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-          <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font> <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-          <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-          
-          <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-              <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font><a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-              <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a></p>
-          
-  </div>
-</div>
-                                    
-                                 
+     <table border="1" cellpadding="0" cellspacing="0">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
+  <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
+  </tr></table>
+ 
+  <table border="1" cellpadding="0" cellspacing="0">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mcom.php"><u>M.Com</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+<td width="200"><p><a href="pop_up_admission/mcom_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+<td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/socialwork/social_work.php"><u>MSW</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/msw_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_microbiology.php"><u>M.Sc (Microbiology)</u></font></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/msc_mb_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_biotechnology.php"><u>M.Sc (Biotechnology)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> 
+  & Status</u>
+  </center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/msc_bt_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_programoffered.php"><u>M.Sc (Psychology)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/msc_psychology_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_economics.php"><u>MA Economics</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/ma_economics_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_english_literatures.php"><u>MA English Literature</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/ma_english_literature_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_mass_communication_journalism.php"><u>MA Journalism & <br /> Mass Communication</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/ma_journalism_mass_communicationfee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mfa.php"><u>M.Com <br />(Financial Analysis)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/mfa_feee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mcom_fa_cgma.php"><u>M.Com <br />(Financial Analysis<br /> with CGMA)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  
+  </table>
     
 
 
-<p><b><i>B.Com. Programmes</i></b><br />
-<b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-<b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-<b>*</b> Counselling dates will be announced in the website</p>
-
-<p><b><i> NRI Candidates</i></b><br />
-Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
-
-<p><b><i>Foreign Nationals</i></b><br />
-Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
- <li>Original marks card</li> 
-<li> Translated copy of marks card</li>
-<li>Copy of passport</li>  
-<li>First year tuition fee</li> </p>
-<p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-<li>The above Course will commence in the first week of January 2017</li> 
-<li> Duration of this programme is four months</li>
-<li>The Bona fide certificate will be issued in the month of December 2016</li> 
-<li>Candidates can later apply for regular degree or postgraduate programme</li> 
-<a href="admission_international_students.php" target="_blank">For more details click here</a></p>
-
-      <p>for further clarifications or issues<br>
-Contact Mob No: +91 9449451111<br>
-          E-mail: admission@kristujayanti.com</p>                             
+                       
 
                                 </div>
                             </div>

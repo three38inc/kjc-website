@@ -63,16 +63,6 @@
         }
 
     </style>
-    <script language="javascript" type="text/javascript">
-var win=null;
-function NewWindow(mypage,myname,w,h,scroll,pos){
-if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):200;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):200;}
-if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:200;}
-else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
-settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no,dialog=yes';
-win=window.open(mypage,myname,settings);}
-
-</script>
 </head>
 
 <body>
@@ -122,102 +112,87 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;<strong>Instructions</strong></span>
                                     </h4>
 
-                                  
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
+                                  <p>Kindly use Mozilla Firefox or Google Chrome as your browser for applying online<br />
+Following steps are involved in submitting application form online</p>
+        
+      <table border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+        <td width="800" bgcolor="#eaeaea">
+<p><b> <font color="#006699">Step 1 (Registration and Application fee payment):</font></b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.<br /><br />
 
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Jaipur</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-  </div>
-</div>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Bengaluru</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-          
-           <div class="well well-sm">
-  <center>PG COUNSELLING</center></div>    
-     <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-<!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
-<font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-         <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-<a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a> 
-         
-         
-         <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-             <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font> <a href="admission_guidelines.php"><font size=2>(Apply online Now)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
-</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-             <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-             
-             <div class="well well-sm">
-  <center>UG COUNSELLING</center></div>  
-      
-      <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-          <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font> <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-          <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-          
-          <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-              <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font><a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-              <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a></p>
-          
-  </div>
-</div>
-                                    
-                                 
-    
+<b> <font color="#006699">Step 2 (Complete the detailed E-Form):</font></b> <br />Use the user ID & password from the email to complete the E-Form.</p>
+
+<p><b> <font color="#006699">Step 3 (Submit the hard copy of application form in college office):</font></b><br />
+<b>(Not applicable for online fee paid applicants)</b><br />
+
+Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p>
+
+ 
+</td>
+        </tr>
+        </table><br>
+         <p><b><u><font color="#FF0000">Note: Your admission process will be initiated only after completing the above steps.</font></u></b><br />
+        Shortlisted Applicants will be notified via email about the counselling schedules one week before the date of counselling.</p>
+
+<p><b><i>(for further issues or clarifications on online application form)<br /> contact <u>Mob No:</u> 9449451111</i></b><br />
+<i><b>E-mail:</b> admission@kristujayanti.com</i></p>
+ <p><b><u>Note:</u> You can also apply from the college campus</b></p>
+ 
+ 
+ <!--<p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
+ 
+ <p><b>2. </b> <font color="#FF0000"><b><u>If the session is idle for 10 minutes (If you are not clicking the screen within a period of 10 minutes) you need to restart filling application form again.</u></b></font></p>
+ 
+<p><b>3.</b> <font color="#FF0000"><b><u>There are two steps involved to submitting application form online.<br /></u>
+&nbsp;&nbsp;&nbsp;&nbsp;(a)<u> Once you Register by clicking online Application Registration you will get a mail</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>immediately to the mail id you Provided with your login name and Password.</u><br />
+&nbsp;&nbsp;&nbsp;&nbsp;(b)<u> Fill the Application Form Completely using the login id and Password. </u></b></font></p>
+<p><b>4.</b><font color="#FF0000"> <b><u>You are advised to click the link below for online Registration only after reading the Guidelines.</u></b></font>  </p>-->
+<b><a href="http://www.digialm.com/EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank"><font size="+1" color="#FF0000">[Click here to register for application form]</font></a></b></p>
+
+<!--<p><font color="#FF0000" size="3"><b>Application forms will be availabe only after 1st December 2015</b></font></p>-->
 
 
-<p><b><i>B.Com. Programmes</i></b><br />
-<b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-<b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-<b>*</b> Counselling dates will be announced in the website</p>
+ 
+<p><b><font color="#3399FF" size="3">Frequently Asked Questions</font></b><br />
+<b>Why is my Application form status 'Pending'?</b><br />
+The status of the online application form will be shown as <b>'Pending'</b> until the applicant reports for the counselling.</p>
 
-<p><b><i> NRI Candidates</i></b><br />
-Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
+<p><b>Do I have to send the hard copy of Application form to the college?</b><br />
+Hard copy submissions will be needed only for those applicants who have paid the application fee by Demand Draft (DD) or cash payment in the college office. Applicants who have made online payment need not submit the hard copy. </p>
 
-<p><b><i>Foreign Nationals</i></b><br />
-Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
- <li>Original marks card</li> 
-<li> Translated copy of marks card</li>
-<li>Copy of passport</li>  
-<li>First year tuition fee</li> </p>
-<p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-<li>The above Course will commence in the first week of January 2017</li> 
-<li> Duration of this programme is four months</li>
-<li>The Bona fide certificate will be issued in the month of December 2016</li> 
-<li>Candidates can later apply for regular degree or postgraduate programme</li> 
-<a href="admission_international_students.php" target="_blank">For more details click here</a></p>
+<p><b>How will I know whether my application submission is sucessful?</b><br />
+All applicantions will be verfied and acknowledged by the office of admissions by an email within 3 days from the date of form submissions.</p>
 
-      <p>for further clarifications or issues<br>
-Contact Mob No: +91 9449451111<br>
-          E-mail: admission@kristujayanti.com</p>                             
+<p><b>I have not written any Entrance Exams. Can I still Apply for MBA/MCA?</b><br />
+Applicants can apply online and attend the respective counselling in the college. The Applicants can attend the upcoming entrance exams as per the schedule available for various National Level Management Test.</p>
+
+<p><b>What Entrance Exam should I take up for MCA Admission?</b><br />
+All Applicants opting for Management quota will have to attend KMAT Exam. Applicants opting for university quota will have to attend PGCET Exam. </p>
+
+<p><b>Am I Eligible for applying through University quota?</b><br />
+Applicants opting for university quota will have to attend PGCET Exam. To opt for university quota, the applicant should have studied minimum of seven years in Karnataka state.</p>
+
+<p><b><i>Result Awaiting Applicants</i></b><br />
+In the qualifying exam details page (Page 3) of the E-form, Applicants can opt for Result status as Awaiting and Provide Semester marks published and fill marks details</p>
+
+<p><b><i>Marks Card with Grades</i></b><br />
+As Marks column in the E-forms can be filled with numerals. Kindly fill the grades equivalent percentage in the respective marks boxes. Eg: if Grade awarded for English is 'A' and if the percentage equivalent for Grade 'A' is 70% - 80%. Fill Marks obtained as 80 and maximum marks as 100.</p>
+
+<p><b><i>Marks Card with Grade Points</i></b><br />
+Provide the respective grade points in the marks obtained column and maximum grade point in the maximum marks column. Eg: if Grade point awarded for English is 7.5 and if the maximum grade point for that subject is 10. Fill Marks obtained as 7.5 or 8 and maximum marks as 10</p>
+
+<p><b><i>Problem with DOB and DD Date.</i></b><br />
+Even after filling a valid date, you may be prompted for providing the correct date of birth or to provide a valid email id. To fix this you may have to update your computer's Date and time settings. For assistance in, how to update
+system clock? <a href="http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDQQFjAA&url=http%3A%2F%2Fwww.microsoft.com%2Fresources%2Fdocumentation%2Fwindows%2Fxp%2Fall%2Fproddocs%2Fen-us%2Fwindows_date_update_time.mspx&ei=Yk_hUKGdHs2srAfvs4CoDQ&usg=AFQjCNGTkPyP3GUGAsEcaQ-rO5sKi7lzgA&bvm=bv.1355534169,d.bmk" target="_blank"> Click here</a></p>
+
+<p><b><i>Error Message</i></b><br />
+If the page displays the following error message "An error seems to have occurred please try after sometime"</p>
+
+<p>This may be due to browser compatibility issues. Mozilla Firefox is preferred as the internet browser for applying. If not installed you may download the same browser from the following link click here </p> <PROVIDE THE LINK> </p>
+
 
                                 </div>
                             </div>

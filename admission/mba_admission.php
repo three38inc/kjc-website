@@ -122,102 +122,59 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;<strong>MBA/PGDM Admission</strong></span>
                                     </h4>
-
-                                  
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
-
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
                                     
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Jaipur</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-  </div>
+                                    <p><b><font color="#FF0000"><u>MBA/PGDM: </u></font></b> Counselling result held on <b>18<sup>th</sup> March, 2017</b>
+                                        <a href="mba_pgdm_counselling_result_march_18_2017.php"><b><font size=2>[View Result]</font></b>
+ </a><br /> Next Counselling will be held on <b>05<sup>th</sup> May, 2017</b></p>
+                                    
+                                    
+  <table border="1" cellpadding="0" cellspacing="0">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
+  <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
+  </tr></table>
+  
+  <table border="1" cellpadding="0" cellspacing="0">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../mba/mba.php"><u>MBA/PGDM</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/mba_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../mba/mba_pgdm_international_finance.php"><u>MBA/PGDM <br />International<br /> Finance</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/mba_international_finance_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  </table><br>
+                                    
+ <div class="well">
+<div align="center"><font size="3" color="#006699"><b><u>Why MBA at Kristu Jayanti College?</u></b></font></div>
+                                    <li> Holistic pedagogy based on attitude, skill, value and knowledge.</li>
+                                    <li> Faculty diaspora from industry and academia.</li>
+                                    <li> Option of dual specialization from Finance, Human Resource, Marketing, Systems and General Management.</li>
+                                    <li> Flexibility of choosing elective papers for specialization.</li>
+                                    <li> Appositive international exposure.</li>
+                                    <li> International student exchange programmes.</li>
+                                    <li> Interactive insights from global and national business leaders.</li>
+                                    <li> Domain skill reengineering through certificate programs, seminars, conferences,MDP's.</li>
+                                    <li> Value added courses based on industry certifications, life skills, and aptitude.</li>
+                                    <li> Reinvigorating expert lectures.</li>
+                                    <li> Industry savvy tech talks.</li>
+                                    <li> Activity learning methodology based on planning, coordination and execution.</li>
+                                    <li> Exquisite infrastructure including conference rooms, panel rooms, discussion rooms, auditorium and amphitheater.</li>
+                                    <li> Excellent learning and leisure facilities.</li>
+                                    <li> Spacious library with 24/7 access to e resources.</li>
+                                    <li> Dedicated department for career grooming - CPCR.</li>
+                                    <li> Focus on employability skill development.</li>
+                                    <li> Vibrant Alumni network.</li>
 </div>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Bengaluru</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-          
-           <div class="well well-sm">
-  <center>PG COUNSELLING</center></div>    
-     <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-<!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
-<font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-         <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-<a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a> 
-         
-         
-         <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-             <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font> <a href="admission_guidelines.php"><font size=2>(Apply online Now)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
-</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-             <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-             
-             <div class="well well-sm">
-  <center>UG COUNSELLING</center></div>  
-      
-      <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-          <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font> <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-          <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-          
-          <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-              <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font><a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-              <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a></p>
-          
-  </div>
-</div>
-                                    
-                                 
-    
+  
 
-
-<p><b><i>B.Com. Programmes</i></b><br />
-<b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-<b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-<b>*</b> Counselling dates will be announced in the website</p>
-
-<p><b><i> NRI Candidates</i></b><br />
-Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
-
-<p><b><i>Foreign Nationals</i></b><br />
-Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
- <li>Original marks card</li> 
-<li> Translated copy of marks card</li>
-<li>Copy of passport</li>  
-<li>First year tuition fee</li> </p>
-<p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-<li>The above Course will commence in the first week of January 2017</li> 
-<li> Duration of this programme is four months</li>
-<li>The Bona fide certificate will be issued in the month of December 2016</li> 
-<li>Candidates can later apply for regular degree or postgraduate programme</li> 
-<a href="admission_international_students.php" target="_blank">For more details click here</a></p>
-
-      <p>for further clarifications or issues<br>
-Contact Mob No: +91 9449451111<br>
-          E-mail: admission@kristujayanti.com</p>                             
+                                    <p>Candidates who have explored our website, browsed through the details regarding our courses and are desirous of joining Kristu Jayanti College are requested to review our admission procedure, selection process, eligibility, guidelines and fee structure for the particular course. Candidates can either apply online (details are given on this page) or collect application form from the college office. All relevant information regarding admission will be published on this site and on college notice board.</p>
 
                                 </div>
                             </div>

@@ -63,16 +63,6 @@
         }
 
     </style>
-    <script language="javascript" type="text/javascript">
-var win=null;
-function NewWindow(mypage,myname,w,h,scroll,pos){
-if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):200;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):200;}
-if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:200;}
-else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
-settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no,dialog=yes';
-win=window.open(mypage,myname,settings);}
-
-</script>
 </head>
 
 <body>
@@ -122,102 +112,112 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;<strong>Why Kristu Jayanti College ?</strong></span>
                                     </h4>
+                                    
+                                  
+                                    
+                                    <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Academic Excellence</h3>
+  </div>
+  <div class="panel-body">
+<li>Ranked as one of the Best Colleges in India and one among the Top Ten Commerce colleges in Bangalore</li>
+<li>Ranked as the Best Emerging Commerce College in India</li>
+<li>Rated as the Best Emerging Science College in India</li>
+<li>Ranked 32 among the Top 100 Arts Colleges in India</li>
+<li>Five University Ranks on an average every academic year</li>
+  </div>
+</div>
+                                  
+ <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Re-engineering Domain Skills</h3>
+  </div>
+  <div class="panel-body">
+      <li>    International, National and State level conferences and symposia</li>
+      <li>Path-breaking Value Added / Certificate programs in various domains</li>
+      <li>Professional Training for specific careers - Company Secretary ship, CA & CIMA</li>
+      <li>Innovative Work shops and Exhibitions</li>
+      <li>Enriching Industrial Visits</li>
+      <li>Job-oriented internships</li>
+      <li>Global synergy through academic collaborations with International Universities </li>
+
+  </div>
+</div>
+
+                                    
+   <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Holistic Excellence</h3>
+  </div>
+  <div class="panel-body">
+      <li>Consecutive Champions at Bangalore University Youth Festival 'Yuvajanotsava'</li>
+      <li>Consecutive winners in western music at the Inter-University Youth Festivals (South Zone and National Level)</li>
+      <li>Undisputed victors in various national and state level inter-college academic, literary and cultural fests</li>
+      <li>Success ful organization of intra-college academic, literary and cultural fests</li>
+      <li>Triumphant winners at zonal and University level basket ball, foot ball and volley ball</li>
+      <li>A unique inter-college fest only for dance - 'Nrityanjali'</li>
+      <li>Musical and the at rical production s every year</li>
+      <li>Expert training and workshops in theater, dance and music</li>
+      <li>Expert coaching in football, volleyball and basket ball</li>
+
+  </div>
+</div>
+                                    
+                                    <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Social Transformation</h3>
+  </div>
+  <div class="panel-body">
+      <li>Village Exposure Programmes for social sensitization</li>
+      <li>'Bhavishyajyothi' programme to support under privileged students</li>
+      <li>Social transformation through Outreach Programmes</li>
+  </div>
+</div>
+                                    
+                                     <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Insights from Leaders</h3>
+  </div>
+  <div class="panel-body">
+      <li> Vichaarmanthan - an interaction with Global and Indian Visionaries</li>
+      <li>Vinimay - Leadership Talk Series</li>
+      <li>3i - Industry Institution Interface</li>
+      <li>Re-invigorating Expert Lectures</li>
+      <li>Industry savvy 'Tech-talks' </li>
+  </div>
+</div>
+                                    
+                                       <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">Centre for Placement & Corporate Relations</h3>
+  </div>
+  <div class="panel-body">
+      <li>Talent Transformation Team- enhancing employability</li>
+      <li>Nodal centre for pool campus hiring and placement extension services</li>
+      <li>Placement Aptitude Training</li>
+      <li>Functional competency building</li>
+      <li>More than 60 corporate s recruit students on campus</li>
+  </div>
+</div>
+
+                                    
+                                       <div class="panel panel-danger">
+  <div class="panel-heading">
+    <h3 class="panel-title">IT Support System</h3>
+  </div>
+  <div class="panel-body">
+      <li> Continuous Internet Connectivity with High End networking technologies</li>
+      <li>Collaboration with TCS for Campus Enterprise and Learning Management Solutions</li>
+      <li>E-Learning Management System supplemented by E-resources and data bases</li>
+  </div>
+</div>
 
                                   
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
-
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Jaipur</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-  </div>
-</div>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Bengaluru</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-          
-           <div class="well well-sm">
-  <center>PG COUNSELLING</center></div>    
-     <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-<!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
-<font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-         <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-<a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a> 
-         
-         
-         <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-             <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font> <a href="admission_guidelines.php"><font size=2>(Apply online Now)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
-</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-             <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-             
-             <div class="well well-sm">
-  <center>UG COUNSELLING</center></div>  
-      
-      <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-          <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font> <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-          <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-          
-          <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-              <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font><a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-              <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a></p>
-          
-  </div>
-</div>
-                                    
-                                 
-    
+                                  
 
 
-<p><b><i>B.Com. Programmes</i></b><br />
-<b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-<b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-<b>*</b> Counselling dates will be announced in the website</p>
-
-<p><b><i> NRI Candidates</i></b><br />
-Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
-
-<p><b><i>Foreign Nationals</i></b><br />
-Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
- <li>Original marks card</li> 
-<li> Translated copy of marks card</li>
-<li>Copy of passport</li>  
-<li>First year tuition fee</li> </p>
-<p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-<li>The above Course will commence in the first week of January 2017</li> 
-<li> Duration of this programme is four months</li>
-<li>The Bona fide certificate will be issued in the month of December 2016</li> 
-<li>Candidates can later apply for regular degree or postgraduate programme</li> 
-<a href="admission_international_students.php" target="_blank">For more details click here</a></p>
-
-      <p>for further clarifications or issues<br>
-Contact Mob No: +91 9449451111<br>
-          E-mail: admission@kristujayanti.com</p>                             
 
                                 </div>
                             </div>
@@ -235,9 +235,6 @@ Contact Mob No: +91 9449451111<br>
                                    </section>
                                      <section class="link-arrow">   
                 <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
                                     </section><section class="link-arrow">
                                     
                                     <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>

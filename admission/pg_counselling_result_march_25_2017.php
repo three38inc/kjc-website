@@ -122,102 +122,233 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;<strong>PG Counselling Result on 25th March 2017 </strong></span>
                                     </h4>
 
                                   
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
+                               <p>Applicants provisionally selected for various PG programmes after the counseling held on March 25, 2017. <b>Selected applicants are requested to take admission on or before <font color="#FF0000"> April 10<sup>th</sup>, 2017 ,</font> by submitting all available original documents and paying fee for first year.</b></p>
+<table border="1" cellspacing="2" cellpadding="1" width="800" align="center">
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p><strong>App. No.</strong></p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p><strong>Name</strong></p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p><strong>Course Selected</strong></p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ0480</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>STEEVE MATHEW ABRAHAM</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ0996</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>BETTINA BIJU JACOB</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA English Literature</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1164</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>AKSHAYA ANN ROSE SANTHOSH</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1167</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ROJA H</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA English Literature</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1205</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>SHREETA NARESH VASANT</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Psychology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1221</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>VIVEK MATHEW ABRAHAM</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA Mass Communication</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1250</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>SANGAVI K R</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA English Literature</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1251</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>DON JOHNSON</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1285</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>SRUJITH J KUMAR</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCom FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1309</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>FREEDA JELLY MARTHARINE J</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Psychology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1322</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>DHANISHA M</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSW</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1324</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ROSHNI R</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1348</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>MARIA K PANICKER</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1367</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>PATRICIA MARIA WEIGHTMAN</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Psychology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1388</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>JOSEPH COLIN</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSW</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1389</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>MANJU SAREN S</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1425</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>TANMAY TANAJI SHINDE </p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1426</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>AKSHITHA Y</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com.</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1427</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>BHAVYA N</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com.</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1450</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>RAJITHA N</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Psychology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1453</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ALLWIN MICHAEL</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Microbiology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1479</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ANUSREE K O</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1489</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ANUJA THOMAS</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1542</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>SAINI MADHAVI</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MCA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1551</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>AKSHAYA P</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Biotechnology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1553</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>JINCY JOHNSON</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Biotechnology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1588</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>CHITRA V NAIR</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA English Literature</p></td>
+  </tr>
+   <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1594</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>NITHIN MATHEW</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA with CGMA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1715</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ROSNEARA KHATUN</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MA Mass Communication</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1732</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>SHREYA PAUL</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1744</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>ASWATHY A S</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com. FA</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1808</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>PREETI RANI</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Microbiology]</p></td>
+  </tr>
+  <tr>
+    <td width="94" nowrap="nowrap" valign="bottom"><p>17KJ1810</p></td>
+    <td width="315" nowrap="nowrap" valign="bottom"><p>AVANTIKA RANA</p></td>
+    <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Microbiology]</p></td>
+  </tr>
+</table>
 
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Jaipur</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-  </div>
-</div>
-                                    
-                                    <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Admission Drive in Bengaluru</h3>
-  </div>
-  <div class="panel-body">
-      <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b> <a href="admission_guidelines.php"><font size=2>(Apply Online Now)</font></a>
-          <br />
-<font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-<font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font></p>
-          
-           <div class="well well-sm">
-  <center>PG COUNSELLING</center></div>    
-     <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-<!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
-<font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-         <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-<a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a> 
-         
-         
-         <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-             <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font> <a href="admission_guidelines.php"><font size=2>(Apply online Now)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
-</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-             <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-             
-             <div class="well well-sm">
-  <center>UG COUNSELLING</center></div>  
-      
-      <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-          <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font> <a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-          <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a>
-          
-          <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-              <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font><a href="admission_guidelines.php"><font size=2>(Apply Online)</font></a><br />
-<font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-<font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-              <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank"><font size=2>Click here for Admission process</font> </a></p>
-          
-  </div>
-</div>
-                                    
-                                 
-    
 
 
-<p><b><i>B.Com. Programmes</i></b><br />
-<b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-<b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-<b>*</b> Counselling dates will be announced in the website</p>
 
-<p><b><i> NRI Candidates</i></b><br />
-Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
+<p><b><u>Waiting List:</u></b></p>
 
-<p><b><i>Foreign Nationals</i></b><br />
-Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
- <li>Original marks card</li> 
-<li> Translated copy of marks card</li>
-<li>Copy of passport</li>  
-<li>First year tuition fee</li> </p>
-<p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-<li>The above Course will commence in the first week of January 2017</li> 
-<li> Duration of this programme is four months</li>
-<li>The Bona fide certificate will be issued in the month of December 2016</li> 
-<li>Candidates can later apply for regular degree or postgraduate programme</li> 
-<a href="admission_international_students.php" target="_blank">For more details click here</a></p>
+  <p>Those who are in the waiting list can contact the Admission Office  after <b>April 18, 2017</b></p>
+ 
+  <table border="1" cellspacing="2" cellpadding="1" width="800" align="center">
+       <tr>
+      <td width="133" nowrap="nowrap" valign="bottom"><p><strong>App. No.</strong></p></td>
+      <td width="216" nowrap="nowrap" valign="bottom"><p><strong>Name</strong></p></td>
+      <td width="198" nowrap="nowrap" valign="bottom"><p><strong>Course Selected</strong></p></td>
+    </tr>
+    <tr>
+      <td width="133" nowrap="nowrap" valign="bottom"><p>17KJ0668</p></td>
+      <td width="216" nowrap="nowrap" valign="bottom"><p>MEHAK JAIN</p></td>
+      <td width="198" nowrap="nowrap" valign="bottom"><p>MA English Literature</p></td>
+    </tr>
+    <tr>
+      <td width="133" nowrap="nowrap" valign="bottom"><p>17KJ1615</p></td>
+      <td width="216" nowrap="nowrap" valign="bottom"><p>JUDITH NEHA K</p></td>
+      <td width="198" nowrap="nowrap" valign="bottom"><p>M.Com.</p></td>
+    </tr>
+    <tr>
+      <td width="133" nowrap="nowrap" valign="bottom"><p>17KJ1730</p></td>
+      <td width="216" nowrap="nowrap" valign="bottom"><p>NIKHILL MENNON</p></td>
+      <td width="198" nowrap="nowrap" valign="bottom"><p>MSc [Psychology]</p></td>
+    </tr>
+  </table>
 
-      <p>for further clarifications or issues<br>
-Contact Mob No: +91 9449451111<br>
-          E-mail: admission@kristujayanti.com</p>                             
+  <p><b><u>DOCUMENTS REQUIRED</u></b><br />
+  (Original Plus Two Copies)<br />
+  
+  1.	Original Marks Card ( X, XII &amp; Degree)<br />
+  2.	Transfer Certificate<br />
+  3.	Provisional / Degree Certificate<br />
+  4.	Conduct Certificate<br />
+  5.	Migration Certificate (if applicable)<br />
+  6.	Caste Certificate (if applicable)<br />
+  7.	AIU Equivalency Certificate (for students who have done their qualifying  examination in any curriculum other than Indian Educational Curriculum)<br />
+  8.	Five Passport size  Photos<br />
+  9.	First year fees</p>
+
+<p><b><u>In addition to the above, NRI and Foreign Students should produce:</u></b><br />
+a.	Valid Passport<br />
+b.	Residential Permit from the Commissioner of Police Bengaluru (for foreign students only<br />
+c.	HIV Test Certificate</p>
+
+                     
 
                                 </div>
                             </div>
