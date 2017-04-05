@@ -21,6 +21,7 @@
 		<link rel="stylesheet" href="../css/navTabs.css">
 		<link rel="stylesheet" href="../css/animate.css">
 		<link rel="stylesheet" href="../css/fakeLoader.css">
+        <link href="../css/owl.carousel.min.css" rel="stylesheet" />
 		<!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
 		<!--custom css-->
 		<link href="../css/custom.css" rel="stylesheet">
@@ -87,7 +88,21 @@
                                     </div>
                                     <div class="content-spl wow fadeIn">
                                         <?php include ('php/newsAndUpdates.php'); ?>
+                                    </div>                                    
+                                </div>
+                                <div class="clearfill"></div>
+                            </div>
+                            
+                            <div class="row" >
+                                <div class="col-lg-9">
+                                    <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
+                                        <?php include ('php/highLights.php'); ?>
                                     </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="content-spl wow fadeIn">
+                                        <?php include ('php/testimonial.php'); ?>
+                                    </div>                                    
                                 </div>
                                 <div class="clearfill"></div>
                             </div>
@@ -129,6 +144,7 @@
 	<script src="../js/sly.js"></script>
 	<script src="../js/customSly.js"></script>
 	<script src="../js/wow.min.js"></script>
+    <script src="../js/owl.carousel.min.js" type="text/javascript"></script>
 	<!--    <script src="js/res-navtabs.js"></script>-->
 	<script src="../js/scripts.js"></script>
 	<script type="text/javascript">
@@ -136,6 +152,48 @@
 			new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 		}
 	</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+    
+    <script>
+        $(document).ready(function(){
+
+            if(screen.width < 700){
+                $('#frameHighLights').owlCarousel({
+                    items: 1,
+                    loop: true,
+                    autoplay: true,
+                    nav: true,
+                    navSpeed: 500,
+                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+                    responsive : true
+                });
+            }
+            else {
+                $('#frameHighLights').owlCarousel({
+                    items: 4,
+                    loop: true,
+                    autoplay: true,
+                    nav: true,
+                    navSpeed: 500,
+                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+                    responsive : true
+                });
+            }
+            
+            $('#testimonials').owlCarousel({
+                    items: 1,
+                    loop: true,
+                    autoplayHoverPause: true,
+                    autoplay: true,
+                    nav: true,
+                    navSpeed: 500,
+                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
+                    responsive : true
+                });
+
+
+        });
+    </script>
 
 	</body>   
 </html>
