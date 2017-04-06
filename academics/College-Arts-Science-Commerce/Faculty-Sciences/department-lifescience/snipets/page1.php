@@ -5,78 +5,21 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Ramanathan.G
+                <h4>Dr. Elcey C. Daniel
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.C.A.
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Software engineering, Software Testing
-                </p>
-                <p>
-                    <span>Experience </span><br/> Teaching - 6.2 years , Industry - 1.9 years
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> Diana Susan
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M.C.A ,M.Tech
-                </p>
-                <p>
-                    <span>Areas of interest</span><br/>  .NET,Database Management Systems,JAVA 
+                    <span>Specialization </span><br/>Environmental Biotechnology/
+Microbial Technology
                 </p>
                  <p>
-                    <span>Experience </span><br/> 4 years 
+                    <span> Years of experience </span><br/>25 Years
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 1 
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. Anthony Vincent. B
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>MBA. IT, Ph.D  
-                </p>
-                <p>
-                    <span>Areas of interest </span><br/> DB2, Cloud Computing and Big Data
-                </p>
-                <p>
-                    <span>Experience </span><br/>   Industry - 6.5 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/>  International
-                    Presented/Published-03, National Presented/Published-04,
-                    International Guest Lecture-1.
+                 <p>
+                    <span> Area of Research </span><br/>Environmental Biotechnology/Microbial
+Technology/Industrial Microbiology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -94,20 +37,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Dr. S.Nagarajan
+                <h4>Dr. Calistus Jude AL
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc.,M.Phil.,Ph.D
+                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D. 
+                </p>
+                 <p>
+                    <span>Specialization </span> <br/>Zoology 
+                </p>
+                 <p>
+                    <span>Years of experience </span> <br/>19 years 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Document Image Processing,Data Mining
-                </p>
-                <p>
-                    <span>Experience  </span><br/> 14 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/>International Journal-03,
-                    International Conference-04 National Conference-04
+                    <span>Area of Research </span><br/>Human Genetics, Genotoxicity studies
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -125,19 +67,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Vinothina V 
+                <h4>Dr. Vijayanand.S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil., (Ph.D.)
+                    <span>Qualification </span> <br/>M.Sc., M.Phil., NET., Ph.D 
+                </p>
+                 <p>
+                    <span>Specialization </span> <br/>Biochemistry 
+                </p>
+                 <p>
+                    <span>Years of experience </span> <br/>15 Years 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Object Oriented Programming, Cloud Computing
-                </p>
-                <p>
-                    <span>Experience  </span><br/> 13 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 8
+                    <span>Area of Research </span><br/>Plant Biochemistry and Biotechnology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -149,25 +91,25 @@
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4">
+    <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>M.Manasa Manjunath
+                <h4>Dr.Challaraj Emmanuel, E.S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Tech 
+                    <span>Qualification </span> <br/>M.Sc., Ph.D 
+                </p>
+                 <p>
+                    <span>Specialization </span> <br/>Microbiology 
+                </p>
+                 <p>
+                    <span>Years of experience </span> <br/>17 Years 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> JAVA,C++,C,OPERATING SYSTEM
-                </p>
-                <p>
-                    <span>Experience  </span><br/>  3 years
-                </p>
-                <p>
-                    <span>Papers presented or published  </span><br/>  1
+                    <span>Area of Research </span><br/>Diagnostic and Environmental Microbiology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -179,10 +121,64 @@
             </div>
         </div>
     </div>
-</div>
-
-
-
-
-
-        
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>Dr. M. Sonia Angeline
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>M.Sc., Ph. D 
+                </p>
+                 <p>
+                    <span>Specialization </span> <br/>Biotechnology- Neuroscience 
+                </p>
+                 <p>
+                    <span>Years of experience </span> <br/>5 years 
+                </p>
+                <p>
+                    <span>Area of Research </span><br/> Neuroscience, Molecular Biology, Protein Expression
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>Priya M Tomy
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>M.Sc.,M.Phil 
+                </p>
+                 <p>
+                    <span>Specialization </span> <br/>Biochemistry 
+                </p>
+                 <p>
+                    <span>Years of experience </span> <br/>15 years 
+                </p>
+                <p>
+                    <span>Area of Research </span><br/>Extracellular matrix proteins,cellular and
+Immunopharmacology, animal cell culture
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>

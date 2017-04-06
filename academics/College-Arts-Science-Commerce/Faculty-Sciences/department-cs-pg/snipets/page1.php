@@ -5,43 +5,20 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Mini Gopalakrishnan
+                <h4>Fr. Augustine George
                 </h4>
-                <p>
-                    <span>Qualification </span> <br/> MSc ,BE d.
+                 <p>
+                    <span>Designation </span> <br/> Vice Principal  
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Advanced Algebra.
-                </p>
-                <p>
-                    <span>Experience </span><br/>17 years
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>Liji George
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M.Sc.(Statistics) , M.Phil (Statistics) 
-                </p>
-                <p>
-                    <span>Areas of interest</span><br/>  Bio-Stats 
+                    <span>Qualification </span> <br/>MCA., M.Phil(CS), Pursuing Ph.D(CS)
                 </p>
                  <p>
-                    <span>Experience </span><br/> 15 years 
+                    <span> Experience </span><br/>20 Years
+                </p>
+                <p>
+                    <span>Area of Specialization </span><br/>Programming Language,
+Computer Networks, Data Mining
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -53,25 +30,25 @@
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4">
+<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  R. Aswin Herbert Sathish
+                <h4>Prof. R. Kumar
                 </h4>
-                <p>
-                    <span>Qualification </span> <br/>MCA.,MPhil 
+                 <p>
+                    <span>Designation </span> <br/> Head of the Department  
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Algorithms, Networks
+                    <span>Qualification </span> <br/>M.Sc(CS)., M.Phil(CS), Pursuing Ph.D(CS) 
+                </p>
+                 <p>
+                    <span> Experience </span><br/>22 years
                 </p>
                 <p>
-                    <span>Experience </span><br/>  14.5 years
-                </p>
-                <p>
-                    <span>Papers presented or published  </span><br/> 2
+                    <span>Area of Specialization </span><br/> Relational Database Management Systems, Data Mining 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -83,26 +60,23 @@
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4 ">
+<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Vani Chakraborty
+                <h4>Prof. A.Muruganantham
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>B.E, M.C.A
+                    <span>Qualification </span> <br/>M.Sc., M.phil(CS), Pursuing Ph.D(CS)
+                </p>
+                 <p>
+                    <span> Experience </span><br/>19 years
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Neural networks, Web mining, Embedded
-System
-                </p>
-                <p>
-                    <span>Experience  </span><br/> 13 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Area of Specialization </span><br/> Web mining, Java Programming,
+Web Technologies, Middleware Technologies, Ecommerce 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -114,25 +88,24 @@ System
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4 ">
+<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>G.Prathap 
+                <h4>Prof. Velmurugan R 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MCA, M.PHIL
+                    <span>Qualification </span> <br/>M.Sc., Computer Science , Pursuing Ph.D 
+                </p>
+                 <p>
+                    <span> Experience </span><br/>17 years
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>Computer Networks, Java Programming
-                </p>
-                <p>
-                    <span>Experience  </span><br/> 13 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 1
+                    <span>Area of Specialization </span><br/>Software Engineering, Object Oriented
+Programming Concepts, UML Technologies, Simulation and 
+Modeling, Data Base Systems
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -144,22 +117,24 @@ System
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4">
+<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Ann Mary Joyson 
+                <h4>Prof. Jyothi Manoj 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc (Mathematics), BEd, MPhil 
+                    <span>Qualification </span> <br/>B.Ed, M.Sc( Statistics) M.Phil(Statistics),
+Pursuing Ph.D
+                </p>
+                 <p>
+                    <span> Experience </span><br/>14 years
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Differential Calculus
-                </p>
-                <p>
-                    <span>Experience  </span><br/>  12 years
+                    <span>Area of Specialization </span><br/>Quality Control, Econometrics and 
+Operations Research
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -171,10 +146,30 @@ System
             </div>
         </div>
     </div>
-</div>
-
-
-
-
-
-        
+<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>Prof. Bino Joseph
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> M.Sc. Applied Electronics
+                </p>
+                 <p>
+                    <span> Experience </span><br/>12 years
+                </p>
+                <p>
+                    <span>Area of Specialization </span><br/>Embedded Systems, Device Automation, Computer System Architecture, Microcontroller &amp; Microprocessor Architectures.
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
