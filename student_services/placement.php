@@ -71,15 +71,15 @@
 									<div class="content-left myWelcome wow fadeIn">
 										<h4 >
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Counselling Center</strong></span>
+											<span>&nbsp;<strong>
+Placement</strong></span>
 										</h4>
 										<hr />
 										<div class="inner-content">
-											<p>The youth of today are on the fast track to compete with one another to excel in every field. As a flipside to it they are subjected to lot of stress and pressure. Most often these pent up emotions lead to depression or mishandled outbursts. To ease out these bottled up emotions the college has a counselling centre and guidance cell that offers comfort, relief and confidentiality. With an in house counsellor available at all time the students receive personal and professional guidance in every aspect of life.</p>
-												<p>The institution has a full time Counselor to provide guidance and to help students in their personal problems. The services of the counselor are available to the students.</p>
-												<p>As mentors, faculty guide mentees in their personal and academic matters, and maintain a record of their academic and personal profile. The mentor directs the mentee to the college counselor for guidance if needed.</p>
-												<p>The existing counselling services give equal importance to women, though the college does not have separate guidance and counseling center for women. <strong>The Women Empowerment Cell</strong> of the institution empowers girls through awareness programmes, talks and extension activities. Expert lectures on 'Women and Atrocities' and 'Women and Gynaecological Issues,' workshops on 'Entrepreneurship' and 'Trafficking,' film reviews and monetary assistance to poor women are some of the activities of the Cell.</p>
-												
+											<p> 
+												Under Maintenance...!!!!!
+<!--												<br /><br /><br /><br /><br /><br /><br /><br /><br />-->
+											</p>
 										</div>
 									</div>
 								</div>
@@ -88,7 +88,7 @@
 										<h4><strong>Student Services</strong></h4>
 										<div class="innercontent-link" >
 											<ul>
-												<li><h5><a href="counselling_center.php">Counselling Center</a></h5></li>
+												<li><h5><a href="index.php">Counselling Center</a></h5></li>
 												<li><h5><a href="grievance_redressal.php">Grievance Redressal</a></h5></li>
 												<li><h5><a href="scholarship.php">Scholarship</a></h5></li>
 												<li><h5><a href="placement.php">Placement</a></h5></li>

@@ -89,76 +89,47 @@
 										</div>
 									</div>
 								</div>
-						           <div class="col-lg-3">
-                        <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                            <h4 style="margin-left:10px;" class="mainheading">
-                                <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
-                            </h4>
-                            <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
-                            </section>
-                            <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="eic.php">Entrepreneurship and Innovation Centre(EIC)</a></p>
-                            </section>
-                            <section class="link-arrow">   
-                                <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php">Jayantian Entrepreneurs</a></p>
-                            </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="counselling_center.php">Counselling Centre</a></p>
-                            </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal </a></p>
-                            </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
-                            </section>
-                           
-                            <section class="link-arrow">
-                            <p><a class="a-link-arrow" href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></p>
-                            </section>
-                            <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="health_care.php">Health Care</a></p>
-                            </section>
-                            <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="international_student_forum.php">International Student Forum</a></p>
-                            </section>
-                            <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="coaching_center.php">Coaching Centre</a></p>
-                            </section>
+								<div class="col-lg-3">
+									<div class="content-right wow fadeIn">
+										<h4><strong>Student Services</strong></h4>
+										<div class="innercontent-link" >
+											<ul>
+												<li><h5><a href="index.php">Counselling Center</a></h5></li>
+												<li><h5><a href="grievance_redressal.php">Grievance Redressal</a></h5></li>
+												<li><h5><a href="scholarship.php">Scholarship</a></h5></li>
+												<li><h5><a href="placement.php">Placement</a></h5></li>
+												<li><h5><a href="health_care.php">Health Care</a></h5></li>
+												<li><h5><a href="international_student_forum.php">International Student Forum</a></h5></li>
+												<li><h5><a href="coaching_center.php">Coaching Center</a></h5></li>
+												<li><h5><a href="bank_loan.php">Bank Loan</a></h5></li>
+												<li><h5><a href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></h5></li>
+											</ul>
+										</div>
+									</div>
+									<div class="row" style="margin-left:2px; margin-right: 2px;">
+										<div class="content-right wow fadeIn">
+											<?php include ('../php/sideMenu.php'); ?>
+										</div>
+									</div>
+								</div>
+							</div>
 
-                        </div>
-                        <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                            <h4 style="margin-left:10px;" class="mainheading">
-                                <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                            </h4>
-                            <?php include ('../php/sideMenu.php'); ?>
-                        </div>
-                        <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                            <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                <div class="fb-xfbml-parse-ignore">
-                                    <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                </div>
-                            </div>
-                        </div>
+						</div>
 
-                    </div>
-                </div>
-            </div>
-
-            <!--                                </div>-->
-            <?php include ('../php/alerts.php');  ?>
-            <?php include('../php/footer.php'); ?>
-            <?php include('../php/morphingSearch.php'); ?>
-        </div>
+						<!--                                </div>-->
+						<?php include ('../php/alerts.php');  ?>
+						<?php include('../php/footer.php'); ?>
+						<?php include('../php/morphingSearch.php'); ?>
+					</div>   
 
 
 
-        </div>
-    <!--/st-content-inner-->
-    </div>
-<!-- this is the wrapper for the content-->
-</div>
-<!--st-pusher-->
-<!--        </div> st-container -->
+				</div> <!--/st-content-inner--> 
+			</div><!-- this is the wrapper for the content--> 
+		</div> <!--st-pusher--> 
+		</div> <!--st-container--> 
+
+	<script src="../js/cbpFWTabs.js"></script>
 	<script>
 		(function() {
 
