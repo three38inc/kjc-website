@@ -42,7 +42,6 @@
     {
         float:right;
         padding:0px;
-        display: none!imporant;
         /*		background-color:#555;*/
     }
 
@@ -84,14 +83,17 @@
     }
     .news-all{
         background-color: #fff;
-        height: 35px;
+        height: 40px;
         width: 97%;
-        padding-top: 6px;
+        /*        box-shadow: 0px -1px 5px #bdc3c7;*/
         z-index: 1000;
+        margin-left: -10px;
         position: absolute;
-        left: 20px;
+        bottom: 0;
         text-align: center;
+        padding: 10px;
         border-radius: 2px;
+        border: 1px solid #eee;
     }
     .news-all:hover{background-color: #eee;}
     .news-all:active {
@@ -107,7 +109,7 @@
 
 
 </style>
-<div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:623px;">
+<div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:625px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
         <span>&nbsp;New &amp;<strong> Updates</strong></span>
         <ul class="pagination pull-right" style="margin: 0px;">
@@ -130,7 +132,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/1.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/1.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>MBA/PGDM:</b> Counselling will be held on 23<sup>rd</sup>January, 2016.
                                     Apply online on or before 18thJanuary, 2016  <a href="../admission/admission_2016.php">(Apply online)</a></td>
                             </tr>
@@ -139,7 +141,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/1.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/1.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>MCA:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27thJanuary, 2016
                                     <a href="../admission/admission_2016.php">(Apply online)</a></td>
                             </tr>
@@ -148,7 +150,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/1.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/1.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b> All other PG Programme:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27<sup>th</sup>January, 2016
                                     <a href="../admission/admission_2016.php">(Apply online)</a></td>
                             </tr>
@@ -157,7 +159,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/megaphone-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/megaphone-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>51st Convocation of Bangalore University <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -165,7 +167,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/trophy-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/trophy-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KALAJYOTHI <a href="#">[CLICK HERE FOR RESULT]</a></td>
                             </tr>
                         </table>
@@ -173,7 +175,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 <a href="#">[CLICK HERE FOR DETAILS]</a></td>
                             </tr>
                         </table>
@@ -181,7 +183,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -189,7 +191,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -197,7 +199,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -205,7 +207,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -213,7 +215,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/focus-icon.png" width="50" class="img-circle" /></td>
+                                <td><img src="../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -223,10 +225,10 @@
         </div>
     </div>
 
-    
+    <a href="../events/events.php" class="a-News-All">
         <div class="row news-all">
-            <a href="../events/events.php"><p>Read More</p> </a>
+            <p>Read More</p>
         </div>
-   
+    </a>
     <!--	<div class="panel-footer"> </div>-->
 </div>

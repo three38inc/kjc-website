@@ -22,7 +22,7 @@
     </div>
     
     <!-- Left and right controls -->
-      <a class="left carousel-control" href="#atKJCCarousel" role="button" data-slide="prev">
+      <a class="left carousel-control owl-prev" href="#atKJCCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 <!--        <span class="sr-only">Previous</span>-->
       </a>
