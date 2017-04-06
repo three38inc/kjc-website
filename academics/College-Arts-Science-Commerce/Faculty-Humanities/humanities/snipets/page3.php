@@ -5,19 +5,15 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Dhanamalar.M
+                <h4>  Jibhi Bhaskaran 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.C.A., M.Phil.
+                    <span>Qualification </span> <br/>  Ph. D (Submitted) (The English and Foreign 
+Languages University) M. Phil (University of Hyderabad) M.A
+(Kannur University)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Compiler Design, Theory of Computation
-                </p>
-                <p>
-                    <span>Experience </span><br/>12 years
-                </p>
-                 <p>
-                    <span>Papers presented or published </span><br/>2
+                    <span>Experience </span><br/>1 Year 9 months
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -35,16 +31,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Mary Jacob
+                <h4> Evangeline Richard
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MCA 
-                </p>
-                <p>
-                    <span>Areas of interest</span><br/>  Data Structures , Database Management System , Analysis of algorithms 
+                    <span>Qualification </span> <br/>  MA English Literature
                 </p>
                  <p>
-                    <span>Experience </span><br/> 11 years 
+                    <span>Experience </span><br/> (Collegiate Teaching -7 months) (3 years assisted in Corporate Training)
+                </p>
+                 <p>
+                    <span>Areas of Interests</span><br/> Literature &amp; Language
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -62,16 +58,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Amjad Hassan Khan MK
+                <h4>   Ms. Ramya . B 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc, M.Phill 
+                    <span>Qualification </span> <br/>    MA (History and Tourism), M. Phil, SLET 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>  Communication systems, high power devices
+                    <span>Areas of interest </span><br/>   Modern History and Tourism 
                 </p>
                 <p>
-                    <span>Experience </span><br/>  11 years
+                    <span>Experience </span><br/> 14 years
+                </p>
+                 <p>
+                    <span>Papers Presented or Published</span><br/> 12
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -89,19 +88,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Anita C
+                <h4> SJ.Michael
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MCA , MBA
+                    <span>Qualification </span> <br/> MA, PDPMIR 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> DBMS,Data Structures ,C & C++Programming
+                    <span>Areas of interest </span><br/>  Administration and Social service
                 </p>
                 <p>
-                    <span>Experience  </span><br/> 10 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 2
+                    <span>Experience</span><br/> 24 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -119,19 +115,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>K.Kalaiselvi 
+                <h4>  Shrestha Ghosh Chowdhury  
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc (Comp.Sci) M.Phil, (Ph.D)
+                    <span>Qualification </span> <br/>pursuing PhD research from Jadavpur University has completed MA in IR from JU in 2012 and Bed from JU in 2013.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>Cryptography,cyber security,genetic programming
+                    <span>Areas of Interest</span><br/>include Theories of International relations, Strategic Studies and ICT. 
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  Academic - 12 industry - 3
+                    <span>Experience</span><br/> 3 years 
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 5
+                 <p>
+                    <span>Papers Presented or Published </span> <br/>  "ICT and Governance in India: A Theoretical Analysis" in an international refereed journal with ISSN number "Research Reinforcement" (May 2016 issue) 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -149,19 +145,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Ayshwarya B
+                <h4> Sreedhar P.D 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc (IT &amp; CA)., M.Phil. 
+                    <span>Qualification </span> <br/> MA, PHD in Hindi, MA Kannada
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Microsoft Technologies
+                    <span>Areas of interest </span><br/> Translation and Social Service
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  8 Years
-                </p>
-                <p>
-                    <span>Papers presented or published  </span><br/>  2
+                    <span>Experience </span><br/>  13 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

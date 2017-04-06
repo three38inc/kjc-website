@@ -60,11 +60,11 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php require ("../../../../php/navbar.php"); ?>
+            <?php require ("../../php/navbar.php"); ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include("../../../../php/offCanvasMenu.php"); ?>
+        <?php include("../../php/offCanvasMenu.php"); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -163,7 +163,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                     </h4>
-                                    <?php include ('../../../../php/sideMenu.php'); ?>
+                                    <?php include ('../../php/sideMenu.php'); ?>
                                 </div>
                                 <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                     <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
@@ -177,9 +177,9 @@
                         </div>
                     </div>
 
-                    <?php include ('../../../../php/alerts.php');  ?>
-                    <?php include('../../../../php/footer.php'); ?>
-                    <?php include('../../../../php/morphingSearch.php'); ?>
+                    <?php include ('../../php/alerts.php');  ?>
+                    <?php include('../../php/footer.php'); ?>
+                    <?php include('../../php/morphingSearch.php'); ?>
                 </div>
 
 

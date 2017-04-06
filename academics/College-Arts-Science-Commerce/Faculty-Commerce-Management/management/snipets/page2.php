@@ -5,19 +5,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Ranjitha.M
+                <h4> Suku Thomas Samuel 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MCA, M.Phil,(P.hD)
+                    <span>Qualification </span> <br/>  MBA 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Image Processing, Image Mining, Algorithms, Data Mining
+                    <span>Areas of Interest </span><br/>Financial Accounting, Management Accounting, Cost Accounting 
                 </p>
                 <p>
-                    <span>Experience </span><br/> 18 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/>17
+                    <span>Teaching Experience </span><br/>02 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -35,19 +32,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> S.Saravana Kumar
+                <h4>Prachi Shakya
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc., DCS., M.Phil., (Ph.D)
+                    <span>Qualification </span> <br/>  B.Sc. MBA M.Phil
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>  Software Testing, Network Security
+                    <span>Areas of interest</span><br/>  Marketing Management, Consumer Behavior, Organizational Behavior and Environmental Science
                 </p>
                  <p>
-                    <span>Experience </span><br/>  Academic: 11 Years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 10 &amp; 05 
+                    <span>Teaching Experience </span><br/>7 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -65,19 +59,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Gopika S
+                <h4>  Dr. A.J. Excelce
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> B.Tech , M.E(CSE)  
+                    <span>Qualification </span> <br/> M.Com, MBA, Ph.D. 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Image Processing
+                    <span>Areas of interest </span><br/> Finance, Marketing and Accounts
                 </p>
                 <p>
-                    <span>Experience </span><br/>   10 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/>  3
+                    <span>Teaching Experience </span><br/> 4 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -89,7 +80,35 @@
             </div>
         </div>
     </div>
-
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>  Priya. M
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  M.Com, MBA
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/> Finance and Accounts
+                </p>
+                <p>
+                    <span>Teaching Experience</span><br/>3 years 
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+   
+   
 </div>
 
 

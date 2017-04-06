@@ -5,14 +5,17 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Fr. Augustine George
+                <h4> Dr. Amitha Santiago 
                 </h4>
-                <h5>Vice Principal</h5>
                 <p>
-                    <span>Qualification </span> <br/>MCA, MPhil (Ph.D Pursuing)
+                    <span>Qualification </span> <br/> M.A. English language and Literature Ph.D. 
+in Caribbean Studies 
                 </p>
                 <p>
-                    <span>Papers published </span><br/> 1
+                    <span>Areas of Interest </span><br/>  Literary Studies; Cultural Studies; Post-Colonial Studies; Gender Studies
+                </p>
+                <p>
+                    <span>Experience </span><br/>18 Years, 6 months 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -30,17 +33,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. Calistus Jude AL
+                <h4> Dr. Arpita Ghosh 
                 </h4>
-                <h5>Dean, Sciences</h5>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D
-                </p>
-                <p>
-                    <span>Teaching &amp; Research Experience</span><br/>  15 years 
+                    <span>Qualification </span> <br/>  Ph.D (Banaras Hindu University)
+                    MA English Literature (Banaras Hindu University),
+                    UGC-NET (English)
+                    UGC Research Fellowship 2007-2011  
                 </p>
                  <p>
-                    <span>Area of Research</span><br/> Human Genetics 
+                    <span>Teaching Experience </span><br/>  2 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -58,17 +60,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Fr. Lijo P. Thomas
+                <h4>   Mr. Kirankumar Nittali 
                 </h4>
-                <h5>H.O.D., Computer Science</h5>
                 <p>
-                    <span>Qualification </span> <br/>Msc (Mathematics)
+                    <span>Qualification </span> <br/>   M.A., (Ph.D. Pursuing)
                 </p>
                 <p>
-                    <span>Experience </span><br/> 03 Years
+                    <span>Areas of interest </span><br/> Partition Narratives, Women Studies, Border Issues, & Postcolonial Literature and Theory, British Literature etc. 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Graph Theory
+                    <span>Experience </span><br/> (2.9 years Collegiate Teaching & 4.3 years Research) 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -86,19 +87,20 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> A. Sevuga Pandian
+                <h4> Kavitha Vijaikar
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>MCA ,MPhil
+                    <span>Qualification </span> <br/> MA, English Literature
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Operating Systems and Networking
+                    <span>Areas of interest </span><br/>  European Literature, Common Literature,
+Women Studies
                 </p>
                 <p>
-                    <span>Experience  </span><br/> 11 Years
+                    <span>Experience</span><br/>(2.9 years Collegiate Teaching &amp; 4.3 years Research)
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 1
+                 <p>
+                    <span>Subject expertise </span><br/> English Language and Literature
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -116,19 +118,20 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Nagendra.S
+                <h4>   Meera Nair M 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> B.E. , MSc(IT)
+                    <span>Qualification </span> <br/> MA, PGCTE, PGDTE, PhD (Pursuing)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Electronics
+                    <span>Areas of Interest</span><br/>European Literature, Common Literature,
+Women Studies
                 </p>
                 <p>
-                    <span>Experience  </span><br/> 21 years
+                    <span>Experience</span><br/> (2.9 years Collegiate Teaching &amp; 4.3 years Research) 
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 1
+                 <p>
+                    <span>Subject expertise </span> <br/>  English Language and Literature
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -146,19 +149,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Suni Ajaykaumar
+                <h4>Achu Anna Mathew 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc(statistics),M.Phil(Statistics),Pursuing P.hd
+                    <span>Qualification </span> <br/>  M.A., B. Ed.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Applied statistics
+                    <span>Areas of interest </span><br/>Language and Literature
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  17 years
+                    <span>Experience </span><br/>  2 Years 4 Months
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Subject expertise </span><br/>  English Language And Literature
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

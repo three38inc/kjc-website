@@ -5,73 +5,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Mini Gopalakrishnan
+                <h4>  Mohamed Nayaz Pasha 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc ,BE d.
+                    <span>Qualification </span> <br/> MA Hindi, MA Kannada, B.Ed 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Advanced Algebra.
-                </p>
-                <p>
-                    <span>Experience </span><br/>17 years
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>Liji George
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M.Sc.(Statistics) , M.Phil (Statistics) 
-                </p>
-                <p>
-                    <span>Areas of interest</span><br/>  Bio-Stats 
+                    <span>Experience </span><br/>11 years
                 </p>
                  <p>
-                    <span>Experience </span><br/> 15 years 
+                    <span>Areas of Interests </span><br/> Hindi Literature
                 </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>  R. Aswin Herbert Sathish
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>MCA.,MPhil 
-                </p>
-                <p>
-                    <span>Areas of interest </span><br/> Algorithms, Networks
-                </p>
-                <p>
-                    <span>Experience </span><br/>  14.5 years
-                </p>
-                <p>
-                    <span>Papers presented or published  </span><br/> 2
+                 <p>
+                    <span>Papers Presented or Published  </span><br/>1. Methods of teaching 2. Bendre literature 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -89,50 +35,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Vani Chakraborty
+                <h4>  Vinod Meghsham
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>B.E, M.C.A
+                    <span>Qualification </span> <br/> M.A, B.Ed , M.Phil
                 </p>
-                <p>
-                    <span>Areas of interest </span><br/> Neural networks, Web mining, Embedded
-System
+                 <p>
+                    <span>Experience </span><br/> 08 years
                 </p>
-                <p>
-                    <span>Experience  </span><br/> 13 years
+                 <p>
+                    <span>Areas of Interests</span><br/> Literature
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 3
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>G.Prathap 
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> MCA, M.PHIL
-                </p>
-                <p>
-                    <span>Areas of interest </span><br/>Computer Networks, Java Programming
-                </p>
-                <p>
-                    <span>Experience  </span><br/> 13 years
-                </p>
-                <p>
-                    <span>Papers presented or published </span><br/> 1
+                  <p>
+                    <span>Papers Presented</span><br/>  01
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -150,16 +65,71 @@ System
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Ann Mary Joyson 
+                <h4>  Sarvesha B.S.
+ 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc (Mathematics), BEd, MPhil 
+                    <span>Qualification </span> <br/>   MA , M.Ed, M.Phil  
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Differential Calculus
+                    <span>Areas of interest </span><br/>  Literature
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  12 years
+                    <span>Experience </span><br/>  10 years
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4> Narayanaswamy. M
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA, M.Ed NET  
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/>  Social Work
+                </p>
+                <p>
+                    <span>Experience</span><br/>  10 years
+                </p>
+                <p>
+                    <span>Papers Presented or Published</span><br/> 1. Methods of teaching 2. Bendre literature 
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>  Chandrashekar .N  
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA, M.Ed 
+                </p>
+                <p>
+                    <span>Experience</span><br/> 06 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
