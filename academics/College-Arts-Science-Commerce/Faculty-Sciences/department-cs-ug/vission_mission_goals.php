@@ -81,24 +81,20 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Vision,Mission and<strong> Goals </strong></span></h4>
+                               
+                                <p><b>VISION: </b><br>
+                                    To provide quality education that enhances intellectual capabilities and career opportunities moulding prolific and ethical individuals.</p>
+                                <p><b>MISSION: </b><br>
+                                    To ensure intellectual, ethical, high quality education and career growth of the students</p>
+                                <p><b>GOALS:</b><br>
+                                    <li> To continuously update the  knowledge through innovative curriculum design.</li>
+                                    <li> To demonstrate mastery of computing skills.</li>
+                                    <li> To educate ethical and social implication in usage of computers.</li>
+                                    <li> To establish and maintain an atmosphere that supports faculty development and growth encouraging the faculty to embrace constant changes in technology.</li>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

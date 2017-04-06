@@ -81,25 +81,94 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Value Added and <strong> Certificate Courses  </strong></span></h4>
+                               
+                                <p align=justify>At Kristu Jayanti College we believe in going beyond books and equipping our students with real life skills that turn out to be invaluable in their personal and professional life. The department conducts Value Added Courses aiming to provide an additional, learner centric, skill oriented technical training with the primary objective of improving the employability skills of the students. The various value added courses offered for the academic year (2016-17) are as follows:</p>
+                                
+                                <p><b>Value Added Courses</b></p>
+      <table class="table table-bordered" align=center>
+  <thead>
+    <tr>
+      
+      <th>Class</th>
+      <th>Value Added Program</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+     
+      <td>II BCA</td>
+      <td>Basic HTML & XML </td>
+      
+    </tr>
+    <tr>
+     
+      <td>II B.Sc.(CSMS/CSME)</td>
+      <td>MS EXCEL</td>
+     
+    </tr>
+    <tr>
+     <td>III BCA</td>
+      <td>PL/SQL </td>
+      </tr>
+     <tr>
+     <td>IV BCA</td>
+      <td>VB.NET </td>
+      </tr>
+       <tr>
+     <td>V B.Sc.(CSMS/CSME)</td>
+      <td>ASP.NET </td>
+      </tr>
+       <tr>
+     <td>V BCA & V BSc.(CSMS/CSME)</td>
+      <td>QUANTITATIVE APTITUDE</td>
+      </tr>
+      </tbody>
+          
+</table>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+<p><b>Certificate Courses</b></p>
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+     <table class="table table-bordered" align=center>
+ <tr>
+      
+      <td>V BCA</td>
+      <td>EMC2  Certification Course - Information Storage and Management</td>
+      </tr>
+  
+  
+    <tr>
+     <td>I BCA & III BCA</td>
+      <td>NSDC Animation Certification Course  </td>
+         </tr></table>
+         
+         <p><b>Bridge Course</b></p>
+        
+            <table class="table table-bordered" align=center>
+ <tr>
+      
+      <td>I B.Sc.(CSMS/CSME) </td>
+      <td>Basic Problem solving techniques and Basic Mathematics.</td>
+      </tr>
+  </table>   
+                                
+                                <p><b>Open Badges</b></p>
+        
+            <table class="table table-bordered" align=center>
+ <tr>
+      
+      <td>VMware Digital Badges</td>
+      <td>Courses for the VMware Digital Badge are:<br>
+          <li>Data Center Virtualization Fundamentals [V6]</li>
+          <li>Data Center Virtualization Fundamentals [V6]</li>
+          <li>VMware Network Virtualization Fundamentals</li>
+          <li>VMware Cloud Fundamentals</li>
+</td>
+      </tr>
+  </table>   
+                            
+                            
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
