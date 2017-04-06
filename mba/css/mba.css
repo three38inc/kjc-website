@@ -74,7 +74,7 @@
     top: 100%;
     left: 0;
     padding: 3%;
-    transition: all ease-in-out .1s;
+    transition: all ease-in-out .3s;
 }
 
 #testimonials li:hover>.quote{
@@ -118,4 +118,36 @@
     color: #34495e;
     font-size: 12px;
     font-weight: thin;
+}
+
+
+#testimonials .owl-nav{
+  position: absolute;
+  top: -65px;
+  right: 20px;
+  font-size: 0.7em;
+  background: #EEE;
+  border-radius: 5px;
+  color:#2980b9;
+}
+
+#testimonials .owl-nav .owl-prev{
+  float: left;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 5px 0px 0px 5px;
+}
+#testimonials .owl-nav .owl-prev:hover{
+  background: #CCC;
+}
+
+#testimonials .owl-nav .owl-next:hover{
+  background: #CCC;
+}
+
+#testimonials .owl-nav .owl-next{
+  float: right;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 0px 5px 5px 0px;
 }
