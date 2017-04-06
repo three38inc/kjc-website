@@ -1,6 +1,7 @@
 
 $(document).ready(function(e) {
     $('#mainCarousel').carousel();
+    $('#atKJCCarousel').carousel();
     new WOW().init();
     //				setInterval(function(){
     //
@@ -40,9 +41,10 @@ $(document).ready(function(e) {
         if(open){
             $('.newsAlert').transition({ x: '-97%' },500,'snap');
             $('.newsAlert').css('border-radius','5px');
-            $('.hide-btn').css('margin-left','-5px');
+            $('.hide-btn').css('margin-right','-5px');
             $('.hide-btn i').removeClass('fa-angle-double-left');
             $('.hide-btn i').addClass('fa-angle-double-right');
+            $('.hide-btn').css('float','right');
             open = !open;
         }
         else{
@@ -51,6 +53,7 @@ $(document).ready(function(e) {
             $('.hide-btn').css('margin-left','5px');
             $('.hide-btn i').removeClass('fa-angle-double-right');
             $('.hide-btn i').addClass('fa-angle-double-left');
+            $('.hide-btn').css('float','left');
             open = !open;
         }
     });
@@ -63,7 +66,8 @@ $(document).ready(function(e) {
           {
             $('.newsAlert').transition({ x: '-97%' },500,'snap');
             $('.newsAlert').css('border-radius','5px');
-            $('.hide-btn').css('margin-left','-5px');
+            $('.hide-btn').css('margin-right','-5px');
+            $('.hide-btn').css('float','right');
             $('.hide-btn i').removeClass('fa-angle-double-left');
             $('.hide-btn i').addClass('fa-angle-double-right');
             open = !open;

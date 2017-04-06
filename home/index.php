@@ -70,22 +70,22 @@
                             </div>
                             <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
-                                        <!--
-<h4 ><i class="fa fa-bookmark" style="color:#2980b9"></i>
-<span>&nbsp;Schools of <strong> Management</strong> </span>
-</h4>
--->
-
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
                                         </h4>
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
@@ -93,9 +93,14 @@
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div class="col-lg-4 space">
+                                  <a href="#">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Law</strong></span>
@@ -103,7 +108,11 @@
                                         <p style="text-align: center;">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                                         </p>
+                                        <p style="text-align: center;">
+                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                        </p>
                                     </div>
+                                  </a>
                                 </div>
                                 <div style="clear: both;"></div>
                             </div>
@@ -112,13 +121,14 @@
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                         <?php include ('php/welcome.php'); ?>
                                     </div>
-                                    <div class="content-spl myNav wow fadeIn">
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
                                         <?php include ('php/accordion-pill-tabs.php'); ?>
-                                        <div class="clearfill"></div>
+                                        <div style="clear: both;"></div>
                                     </div>
+                                    <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height:  635px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 635px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
@@ -130,56 +140,82 @@
                                     <div class="col-lg-4" style="padding: 0px;">
                                         <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Media Releases</h4>
                                             </div>
                                             <p style="text-align:justify;">
-                                                <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
+                                                <ul class="mMenu">
+                                                  <li><a href="#">KJC in news <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Publications <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Glimpses <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Videos <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Social Media <i class="fa fa-angle-double-right"></i></a></li>
+                                                	<li><a href="#">Brochures <i class="fa fa-angle-double-right"></i></a></li>
+                                                </ul>
                                             </p>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 space">
-                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
+                                        <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 210px;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Placements</h4>
                                             </div>
-                                            <p style="text-align:justify;">
-                                                <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
-                                            </p>
+                                            <div class="owl-carousel owl-theme" id="placementSlider">
+                                              <div class="item">
+                                                <img src="slider-images/arcesium.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/volvo.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/crossdomain.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                              <div class="item">
+                                                <img src="slider-images/greatwest.jpg" />
+                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                              </div>
+                                          </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4" style="padding: 0px;">
                                         <div class="content-spl wow fadeIn" style="padding-top: 0;">
                                             <div class="placementTitle">
-                                                <h4>Placement</h4>
+                                                <h4>Admissions</h4>
                                             </div>
-                                            <p style="text-align:justify">
+                                            <p style="text-align:center;padding: 3%;">
                                                 <br>
-                                                Sample Content to be displayed.<br/><br/><br/><br/><br/><br/>
+                                                Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                             </p>
+                                            <p class="text-center">
+                                              <a href="#" class="label label-primary text-center">
+                                                Click Here
+                                              </a>
+                                            </p>
+
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-3" style="padding:0;">
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="http://events.kristujayanti.edu.in/"><h4><i class="fa fa-calendar-o"></i> Enroll for an Event</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i> Alumini Connect</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="#"><h4><i class="fa fa-graduation-cap"></i> Coaching Centers</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 20px;">
-                                            <h4>Sample</h4>
+                                            <a href="#"><h4><i class="fa fa-calendar"></i> Academic Calendar</h4></a>
                                         </div>
                                     </div>
                                 </div>
@@ -189,24 +225,7 @@
                             <div class="row" style="margin-top: 14px;">
                                 <div class="col-lg-9">
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-top: -5px;">
-                                        <h4 style="background-image: url(../images/headline_bg.jpg);
-                                                   background-repeat: no-repeat;
-                                                   background-position: 0px bottom;
-                                                   padding-bottom: 7px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-                                            <span style="font-size: 20px;">&nbsp;At<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
-                                        </h4>
-                                        <div id="mainCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
-                                            <div class="carousel-inner" role="listbox">
-                                                <div class="item active">
-                                                    <img src="../images/pic1.jpg" class="img-responsive"/>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="../images/pic2.jpg"/>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
-                                        </p>
+                                        <?php include ('php/atKJC.php'); ?>
                                     </div>
 
                                 </div>
@@ -281,7 +300,6 @@
 
         $(document).ready(function(){
 
-            if(screen.width < 700){
                 $('#frameHighLights').owlCarousel({
                     items: 1,
                     loop: true,
@@ -289,20 +307,34 @@
                     nav: true,
                     navSpeed: 500,
                     navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
-                    responsive : true
+                    responsive :{
+                        0:{
+                            items:1,
+                            nav:true
+                        },
+                        500:{
+                            items:2,
+                            nav:true
+                        },
+                        700:{
+                            items:3,
+                            nav:false
+                        },
+                        1000:{
+                            items:4,
+                            nav:true,
+                            loop:false
+                        }
+                    }
                 });
-            }
-            else {
-                $('#frameHighLights').owlCarousel({
-                    items: 4,
-                    loop: true,
-                    autoplay: true,
-                    nav: true,
-                    navSpeed: 500,
-                    navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"],
-                    responsive : true
+
+                $('#placementSlider').owlCarousel({
+                    loop:true,
+                    margin:10,
+                    nav:false,
+                    items: 1
                 });
-            }
+
 
 
         });

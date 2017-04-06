@@ -46,3 +46,76 @@
 .floatDiv .innerDiv p{
     font-size: 14px;
 }
+
+/*Testimonial designs*/
+
+.testMain{
+    padding: 0;
+}
+
+#testimonials {
+    padding: 0;
+    z-index: 0;
+    list-style-type: none;
+    background-color: rgba(0,0,0,0.6);
+}
+
+#testimonials li{
+    position: relative;
+    cursor: pointer;
+}
+
+#testimonials li>.quote{
+    background-color: rgba(0,0,0,0.3);
+    width: 100%;
+    height: 100%;
+    color: #e7e7e7;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 3%;
+    transition: all ease-in-out .1s;
+}
+
+#testimonials li:hover>.quote{
+    top: 0;
+}
+
+
+#testimonials li>.quote>i{
+    font-size: 1.4em;
+    line-height: 1em;
+    color: #2a80b9;
+    margin: 10px 0;
+}
+
+#testimonials li>.quote>p{
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+}
+
+#testimonials li>.title{
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    bottom: 13%;
+    padding: 5px;
+    z-index: 9;
+    line-height: 20px;
+    transition: all ease-in-out .1s;
+}
+
+#testimonials li>.title>p{
+    color: #34495e;
+    font-size: 1.2em;
+    letter-spacing: 1px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+#testimonials li>.title>span{
+    color: #34495e;
+    font-size: 12px;
+    font-weight: thin;
+}
