@@ -517,7 +517,7 @@
 
     <li>
         <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-        <a  href="#" id="contact">Admission</a>
+        <a  href="../admission/admission.php" id="contact">Admission</a>
     </li>
 
     <li class="hidden-lg">

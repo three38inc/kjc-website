@@ -32,8 +32,53 @@
         <script src="../js/custom.js"></script>
         <script src="../js/fakeLoader.js"></script>
 
+        <style>
+            .link-arrow a.a-link-arrow::before {
+                left: 0px;
+                z-index: -1;
+                width: 100%;
+                background: #f3f3f3;
+            }
+
+            .link-arrow {
+                /* background: rgba(149,165,166,0.4); */
+                background: rgba(255, 255, 255, 0);
+            }
+
+            .link-arrow a.a-link-arrow {
+                left: 10px;
+            }
+
+            .menu-list ul li {
+                background: transparent;
+            }
+
+            .side-menu {
+                background: transparent;
+            }
+
+            .content-right {
+                background: transparent;
+                box-shadow: none;
+            }
+
+
+        </style>
     </head>
+
     <body>
+        <script type="text/javascript">
+            $crisp = [];
+            CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
+            (function() {
+                d = document;
+                s = d.createElement("script");
+                s.src = "https://client.crisp.im/l.js";
+                s.async = 1;
+                d.getElementsByTagName("head")[0].appendChild(s);
+            })();
+
+        </script>
         <div id="fakeLoader"></div>
         <script>
             $("#fakeLoader").fakeLoader({
@@ -62,28 +107,46 @@
                 <div class="st-content"><!-- this is the wrapper for the content -->
                     <div class="st-content-inner">
                         <div class="container">
-                            <!--        <div class="row">-->
-                            <div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-                                <img class="img-responsive" src="http://lorempixel.com/1170/250/nature" alt="cover-img" />    
+                            <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
+
                             </div>
                             <div class="row">
+                                <div class="marginTopDiv">&nbsp;</div>
                                 <div class="col-lg-9">
-                                    <div class="content-left myWelcome wow fadeIn">
-                                        <h4 >
-                                            <i class="fa fa-bookmark" style="color:#2980b9"></i>
-                                            <span>&nbsp;<strong>Counselling Center</strong></span>
+                                    <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
+                                        <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <br/>
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                            <span>&nbsp;Jayantian <strong> Entrepreneurs</strong></span>
                                         </h4>
-                                        <hr />
-                                        <div class="inner-content">
-                                            <p>The youth of today are on the fast track to compete with one another to excel in every field. As a flipside to it they are subjected to lot of stress and pressure. Most often these pent up emotions lead to depression or mishandled outbursts. To ease out these bottled up emotions the college has a counselling centre and guidance cell that offers comfort, relief and confidentiality. With an in house counsellor available at all time the students receive personal and professional guidance in every aspect of life.</p>
-                                            <p>The institution has a full time Counselor to provide guidance and to help students in their personal problems. The services of the counselor are available to the students.</p>
-                                            <p>As mentors, faculty guide mentees in their personal and academic matters, and maintain a record of their academic and personal profile. The mentor directs the mentee to the college counselor for guidance if needed.</p>
-                                            <p>The existing counselling services give equal importance to women, though the college does not have separate guidance and counseling center for women. <strong>The Women Empowerment Cell</strong> of the institution empowers girls through awareness programmes, talks and extension activities. Expert lectures on 'Women and Atrocities' and 'Women and Gynaecological Issues,' workshops on 'Entrepreneurship' and 'Trafficking,' film reviews and monetary assistance to poor women are some of the activities of the Cell.</p>
+                                        <br />
 
-                                        </div>
-                                    </div>
-                                </div>
-                                         <div class="col-lg-3">
+                                        <p align="justify"> Jayantian Entrepreneurs' Club is an association of Jayantian Entrepreneurs dedicated to promote the spirit of entrepreneurship among the students of Kristu Jayanti College. It was formally established in December 06, 2014 under the flagship of Luminary E-Cell of Kristu Jayanti College.
+                                            <br />
+                                        </p>
+                                        <strong>Vision</strong></h4>
+                                    <p align="justify">
+                                        The aim of JEC is to encourage the Jayantian to start their own enterprise by following means:</p>
+                                    <p>
+                                    <ul>
+                                        <li>Organizing workshop and Lectures periodically by the present Jayantian Entrepreneurs to create awareness about entrepreneurship</li>
+                                        <li>Functioning as a guide for the present students with creative ideas which can be transformed to real business enterprise</li>
+                                        <li>Functioning as a guide for the present students with creative ideas which can be transformed to real business enterprise</li>
+                                        <li>Providing Mentorship to students for launching their start-ups</li>
+                                        <li>Facilitating the present student for internship and practical work experience in the various domain</li>
+                                    </ul><br>
+
+                                    <strong>History</strong></h4>
+                                <p align="justify">
+                                    JEC was formed in December 06, 2014, formally inaugurated by Rev. Fr. Josekutty PD, Principal of Kristu Jayanti College along with the Jayantians who turned entrepreneurs. The 1st Jayantian Entrepreneurs Meet was held on the same day with a presence of 33 Jayantian Entrepreneurs who marked their presence on the inauguration day</p>
+                                </p>
+                                                     
+
+
+
+            </div>
+        </div>
+                 <div class="col-lg-3">
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
@@ -151,34 +214,35 @@
 </div>
 <!--st-pusher-->
 <!--        </div> st-container -->
-    <script>
-        (function() {
 
-            [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
-                new CBPFWTabs( el );
-            });
+<script>
+    (function() {
 
-        })();
-    </script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/spin.min.js"></script>
-    <script src="../js/mySpin.js"></script>
-    <script src="../js/swipeview.js"></script>
-    <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
-    <script src="../js/sidebarEffects.js"></script>
-    <script src="../js/transit.js"></script>
-    <script src="../js/sly.js"></script>
-    <script src="../js/customSly.js"></script>
-    <script src="../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../js/scripts.js"></script>
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-        }
-    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+            new CBPFWTabs( el );
+        });
 
-    </body>   
+    })();
+</script>
+<script src="../js/modernizr.custom.js"></script>
+<script src="../js/spin.min.js"></script>
+<script src="../js/mySpin.js"></script>
+<script src="../js/swipeview.js"></script>
+<script src="../js/jquery.bootstrap.newsbox.min.js"></script>
+<script src="../js/classie.js"></script>
+<script src="../js/morphingSearch.js"></script>
+<script src="../js/sidebarEffects.js"></script>
+<script src="../js/transit.js"></script>
+<script src="../js/sly.js"></script>
+<script src="../js/customSly.js"></script>
+<script src="../js/wow.min.js"></script>
+<!--    <script src="js/res-navtabs.js"></script>-->
+<script src="../js/scripts.js"></script>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>   
 </html>
