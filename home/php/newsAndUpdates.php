@@ -93,6 +93,7 @@
         text-align: center;
         padding: 10px;
         border-radius: 2px;
+        border: 1px solid #eee;
     }
     .news-all:hover{background-color: #eee;}
     .news-all:active {

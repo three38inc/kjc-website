@@ -225,24 +225,7 @@
                             <div class="row" style="margin-top: 14px;">
                                 <div class="col-lg-9">
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-top: -5px;">
-                                        <h4 style="background-image: url(../images/headline_bg.jpg);
-                                                   background-repeat: no-repeat;
-                                                   background-position: 0px bottom;
-                                                   padding-bottom: 7px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-                                            <span style="font-size: 20px;">&nbsp;At<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
-                                        </h4>
-                                        <div id="mainCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
-                                            <div class="carousel-inner" role="listbox">
-                                                <div class="item active">
-                                                    <img src="../images/pic1.jpg" class="img-responsive"/>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="../images/pic2.jpg"/>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
-                                        </p>
+                                        <?php include ('php/atKJC.php'); ?>
                                     </div>
 
                                 </div>

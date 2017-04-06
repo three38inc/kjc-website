@@ -1,6 +1,7 @@
 
 $(document).ready(function(e) {
     $('#mainCarousel').carousel();
+    $('#atKJCCarousel').carousel();
     new WOW().init();
     //				setInterval(function(){
     //

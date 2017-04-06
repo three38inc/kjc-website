@@ -2440,3 +2440,14 @@ a.read-more:hover i{
             box-shadow: none;
         }
 /* content-right design of inner pages #END*/
+
+
+/* Styles for atKJC Carousel */
+
+#atKJCCarousel .carousel-caption{
+    width: 100%;
+    bottom: -100px;
+    left: 0;
+    z-index: 999;
+    text-align: left;
+}
