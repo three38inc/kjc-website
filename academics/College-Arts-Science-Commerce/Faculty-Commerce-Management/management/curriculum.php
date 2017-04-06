@@ -112,10 +112,15 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; Management Curriculum</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+
+                                <p align=justify>The curriculum of Bachelor of Business Management has been designed to satisfy the diverse needs of the students, to match the requirements of corporate world and to fulfill the aspirations of young budding management students.</p>
+
+                                    <p align=justify>The curriculum has been developed by the Board of Studies, which includes faculty members from Department of Management, subject experts from other reputed institutions and experts from industry.</p>
+
+                                    <p>The curriculum will be updated on a regular basis according to the changes in the dynamic environment and corporate world.</p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">

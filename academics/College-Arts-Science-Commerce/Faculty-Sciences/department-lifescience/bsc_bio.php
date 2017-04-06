@@ -66,18 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
-        $crisp = [];
-        CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
-        (function() {
-            d = document;
-            s = d.createElement("script");
-            s.src = "https://client.crisp.im/l.js";
-            s.async = 1;
-            d.getElementsByTagName("head")[0].appendChild(s);
-        })();
-
-    </script>
+    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -119,37 +108,52 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
+                                <div class="content-left myWelcome wow fadeIn">
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;B.Sc., <strong>Biotechnology (Biotechnology, Biochemistry, Genetics)</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                       <strong>Course Duration: 3 Years / Six Semesters</strong> <br> <br>
+                                        <strong>Eligibility</strong> <br><br>
+Pass in 10 + 2 / Pre-University Course / Equivalent. Candidate should have studied Biology / Chemistry as one of the subjects.<br><br><strong>
+Biotechnology</strong> <br><br>
+Biotechnology is an area of multi-disciplinary sciences, involving a variety of distinct subjects where living organisms or their derivatives are modified and put into effective use in catering the welfare of humanity. Applications of Biotechnology have been found in several sectors, including Agriculture, Food Science and Medicine. 
+Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable career in their life.
+The course introduces the students to detailed study of biological molecules, cell biology, genetics, microbiology, biophysics, molecular biology, recombinant DNA technology, genetic engineering, environmental biotechnology, animal biotechnology, immunology and plant biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.
+
+   <br><br>
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                          <strong>  Biochemistry</strong>             <br> <br>
+Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.
+This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.
+
                                     </p>
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                      <strong> Genetics </strong><br> <br>
+B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.
+A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.
+The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.
+
                                     </p>
-                                     <br/>
+<!--
                                     <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
                                     <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+-->
+<!--                                
+                                    <p align="justify">
+                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
+-->
+
 
 
                                 </div>
@@ -158,132 +162,123 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Programs  <strong>Offered</strong></span>
+                                       <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom.php">B.Com</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_tourism.php">B.Com Tourism</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_professioal.php">B.Com Professional</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_integrated_bcom_acca.php">B.Com with ACCA</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
                                     </section>
 
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
 
                                 </div>
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our  <strong>Activities</strong></span>
-                                    </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_vision_mission.php"> Vision, Mission &amp; Goals   </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_fests.php"> Fests </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_value_added_courses.php"> Value Added Program &amp;  Certificate courses  </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_bestpractcies.php"> Best Practices</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_carrer_opportunity.php"> Career Opportunity</a></p>
-                                    </section>
-
-
-                                   <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Faculty Profile
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Academic Calendar
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news_letter.php"> News Letter </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
-                                    </section>
-                                </div>
-
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                    </section>
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="projects.php">Projects</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bestpractices.php">Best Practices</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="careeropportunity.php">Career Opportunity</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="book.php">Book Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
+                                    </section>
+                                        
+                                    </div>
+                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
-
                                         <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
 
 
-<!--
-                                    <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
+                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
--->
+                                </div>
 
                                 </div>
 
                             </div>
-
                         </div>
 
                     </div>
@@ -302,7 +297,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    </div>
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

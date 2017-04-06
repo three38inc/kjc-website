@@ -123,33 +123,49 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Value added Programmes and Certificate Courses </strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>NSDC (National Skill development Corporation) : </strong>certificate programme on BFSI (Banking Financial Services and Insurance) by the Government of Idia under STAR (Standard Training Assessment and Rewards) </p>
+                                    <p align="justify">
+                                        The Department has a set of Value Added Courses which adds merit to the curriculum learning of students. It's run under the banner "Moolyavardan" and Certificate courses in Insurance Management, Retail Management, Excel, and Stock Market Management.</p>
+                                    <p align="justify">
+
+                                        Department offers value added courses to make the students eligible for professional courses and enhance their knowledge base.
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
-                                    </p>
+                                        <strong>CENTRE FOR PROFESSIONAL STUDIES (CPS): </strong> Centre for Professional Studies(CPS) was established with the objective of providing value based quality education to the B.Com and BBA students Who wanted to take various professional courses. It is a platform to get prepared for the entry level exams of Company Secretaryship and Chartered Accountant courses. </p>
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                        The Centre is in touch with the Professional Bodies like Institute of Chartered Accountant of India-(ICAI) and Institute of Company Secretaries of India (ICSI).</p>
+                                    <p align="justify">
+
+                                        The Centre coaches students, with the help of in house faculty members. Periodical attendance monitoring and timely tests keep students prepared for the oncoming exams which occurs every June and December.
                                     </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+
+
+                                    <p align="justify">
+                                        <strong>Certification Programme on Tally ERP 9: </strong><br/>The Certification programme is offered by Tally in collaboration with NICT for all the B.Com students. The programme is part of curriculum with an objective to impart practical training on Tally ERP 9.
+
+                                    </p>
+                                    <p class="text-center">
+                                        <a href="#">CENTRE FOR PROFESSIONAL STUDIES</a><br/><br/>
+                                        <a href="#">CA-CS Parallel Program Inauguration</a><br/><br/>
+                                        <a href="#">CA-CPT and CS Founcation Syllabus </a>
+                                    </p>
+
+
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -232,7 +248,7 @@
                                     </section>
 
 
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
@@ -256,6 +272,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +287,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +319,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

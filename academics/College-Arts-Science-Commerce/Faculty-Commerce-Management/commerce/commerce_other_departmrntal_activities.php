@@ -123,33 +123,51 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Other Departmental Activities </strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>Kite Festival:</strong>
+
                                     </p>
-                                    <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
-                                    </p>
-                                    <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
-                                    </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
                                     <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
+                                        <li>First ever Kite flying competition – </li>
+                                        <li>Drachen was held on 26th September 2014</li>
+                                        <li>Pratibimba Parva 2016 held on 27 September 2016</li>
+
+
                                     </ul>
-                                                                 
-                                   
+                                    <p align="justify">
+                                        <strong>Industrial Visits:</strong>
+
+                                    </p>
+                                    <ul>
+
+                                        <li>Industrial Visit to Komul Milk Diary,Kolar for M.Com and B.Com students on 18th and 19th July, 2014. </li>
+                                        <li>Industrial Visit to Unibic Biscuit Factory,Tumkur for M.Com students on 15th July, 2014.</li>
+                                        <li>On 10 June 2013 IV Sem M.Com Students (38 Students) visited Toyota Kirloskar Motors, Bidadi, Bangalore</li>
+                                        <li>On 29th Jan to 2 Feb 2014 II Sem B.Com(Tourism 63 Students) visited Hampi, Badami and Pattadackal, Aihole and Bijapur  </li>
+                                        <li>On 5th to 8th February 2016 for II Sem B.Com Tourism Students at Hampi, Badami and Pattadackal</li>
+                                        <li>On 11th to 14th Feb 2016 for IV Sem B.Com Tourism Students at Tanjore, Madurai and Kodikanal</li>
+                                        <li>On 11th March 2016 for VI Sem B.Com B Students at Unibic Biscuits India Pvt. Ltd., Heggadadevanapura village, Huskur road, Bangalore </li>
+                                        <li>On 12th to 15th March 2016 for VI Sem B.Com Tourism Students at Madukkarai, Dubare, Bylakuppe, and Kushalnagara</li>
+
+
+                                    </ul>
+
+
+
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -232,7 +250,7 @@
                                     </section>
 
 
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
@@ -256,6 +274,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +289,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +321,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

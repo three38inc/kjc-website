@@ -123,33 +123,37 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>Vision, Mission and Goals</strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>Vision: </strong><br/> To transform students into national assets by imbibing business skills, integrity, ethical uprightness and a real holistic development.
+
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                                        <strong>Mission: </strong><br/> Department of Commerce is dedicated to excellence in performance and committed to provide quality education, opportunities and services to meet the needs of business, and also contribute for the society’s wellbeing, nation's development and to meet global competencies.
+
                                     </p>
+
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                        <strong>Goals: </strong><br/>
                                     </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+                                    <ol>
+                                        <li>To provide an in-depth understanding of the dynamic business environment.</li>
+                                        <li>Make every student an agent of change by making them socially responsible.</li>
+                                        <li>Facilitate learning of commerce education by incorporating the current trends and to impart skills to enhance the employability.</li>
+                                    </ol>
+                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                                    </div>
+                                    <p align="justify">
+
+
+                                    </p>
+                                    <br/>
+                                    <p><strong> </strong>
+                                    </p>
 
 
                                 </div>
@@ -256,6 +260,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +275,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +307,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

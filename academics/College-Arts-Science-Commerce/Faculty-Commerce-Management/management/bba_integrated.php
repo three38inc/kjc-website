@@ -112,10 +112,12 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; BBA (CGMA Integrated)</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+
+                                   <p align=justify>The joint venture between AICPA (American Institute of Certified Public Accountants) and CIMA ( Chartered Institute of Management Accountants) developed Global Management Accounting Principles to define best practice in management accounting and introduced the CGMA ( Chartered Global Management Accountants) competency framework to define the skills management accountants need today and into the future. The CGMA recognises professionals who meet the highest benchmark of quality, competency and integrity.</p>
+                                    <p align=justify>BBA CGMA Integrated is eligible for gaining 9 paper exemptions out of 16 towards the CGMA Qualification and the student has to write only 7 papers to qualify CGMA. The BBA CGMA Integrated gives an opportunity to gain qualifications like Certificate in Business Accounting, Diploma in Management Accounting, Advanced Diploma in Management Accounting, Certificate in IFRS along with the CGMA Qualification.</p>
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">

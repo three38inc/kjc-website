@@ -66,18 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
-        $crisp = [];
-        CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
-        (function() {
-            d = document;
-            s = d.createElement("script");
-            s.src = "https://client.crisp.im/l.js";
-            s.async = 1;
-            d.getElementsByTagName("head")[0].appendChild(s);
-        })();
-
-    </script>
+    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -119,37 +108,48 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
+                                <div class="content-left myWelcome wow fadeIn">
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp; <strong> Best Practices</strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
+                                      <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
-                                    </p>
-                                    <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
-                                    </p>
-                                    <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
-                                    </p>
-                                     <br/>
+                                      
+                                    
+                                    <ul>
+                                    <li type="bullet">     Periodic Microbial Analysis of potable water in the campus     </li>
+                                         <li type="bullet"> Transferring technology from lab to field – students are trained to train farmers in the use of      
+     biofertilizers for crop improvement and soil reclamation
+                                             
+    </li>
+                                        
+                                        
+                                        <li> Research projects & publication</li>
+                                        <li>VIGNANAMANTHAN </li>
+                                        
+                                        <li>     Award Seminars: Post-graduate students present and discuss latest scientific topics & research articles</li>
+                                        
+                                        <li>AEP & KEP enhance aptitude and prepares students for competitive exams.</li>
+                                    </ul> 
+<br><br>
+                                   
+                                  
+<!--
                                     <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
                                     <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
-                                                                 
-                                   
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+-->
+<!--                                
+                                    <p align="justify">
+                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
+-->
+
 
 
                                 </div>
@@ -158,107 +158,101 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Programs  <strong>Offered</strong></span>
+                                       <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom.php">B.Com</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_tourism.php">B.Com Tourism</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_professioal.php">B.Com Professional</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_integrated_bcom_acca.php">B.Com with ACCA</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
                                     </section>
 
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
 
                                 </div>
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our  <strong>Activities</strong></span>
-                                    </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_vision_mission.php"> Vision, Mission &amp; Goals   </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_fests.php"> Fests </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_value_added_courses.php"> Value Added Program &amp;  Certificate courses  </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_bestpractcies.php"> Best Practices</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_carrer_opportunity.php"> Career Opportunity</a></p>
-                                    </section>
-
-
-                                   <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Faculty Profile
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Academic Calendar
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news_letter.php"> News Letter </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
-                                    </section>
-                                </div>
-
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                    </section>
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="projects.php">Projects</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bestpractices.php">Best Practices</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="careeropportunity.php">Career Opportunity</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="book.php">Book Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
+                                    </section>
+                                    </div>
+                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
@@ -270,20 +264,17 @@
 
 
 
-<!--
-                                    <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
+                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                        <div class="fb-xfbml-parse-ignore">
+                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
--->
+                                </div>
 
                                 </div>
 
                             </div>
-
                         </div>
 
                     </div>
@@ -302,7 +293,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    </div>
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

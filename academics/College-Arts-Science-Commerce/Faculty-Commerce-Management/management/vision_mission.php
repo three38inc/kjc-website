@@ -112,10 +112,18 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; Vision & Mission</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+                                 <p><b>Vision:</b><br>
+                                        Catering to the long term needs of the future prospective managers the department works in the light of academic excellence with holistic development.</p>
+
+                                    <p><b>Mission Statement:</b><br>
+                                        Training and developing the students in key managerial and human skills to suit the corporate and societal requirements with social values and ethics.</p>
+
+                                    <p><b>Objectives:</b><br>
+                                        <li>To impart value based education for sustainable development.</li>
+                                        <li>To train and develop the students in career oriented skills.</li></p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">

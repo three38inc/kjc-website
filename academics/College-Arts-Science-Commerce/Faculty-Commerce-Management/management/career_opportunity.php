@@ -112,10 +112,16 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; Career Opportunities</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+
+                               <p align=justify>The career opportunities for the students of management are enormous. After the completion of BBA course, students can take up jobs in different disciplines like marketing, finance, human resources, information technology, concept processing etc. and different domains like manufacturing, banking, insurance, share broking, chartered accountancy, business process outsourcing, knowledge process outsourcing, logistics, transportation, exports and imports, aviation, defence, event management, consultancy etc.</p>
+
+                                    <p align=justify>Students are also encouraged to start their own business venture as they learn the basic and advanced concepts about entrepreneurship. BBM program enables management students to venture into business by themselves with the help of funding agencies. The entrepreneurial skills that students learn during the course helps in developing the confidence in students who really have passion to start their own business and enable them to bring the factors of production together. The ED (Entrepreneurship Development) Cell of the college also helps the students to get help from different supporting agencies in the country to train and provide necessary information to the students.</p>
+
+                                    <p align=justify>The students also have the opportunity to pursue their higher education in different programmes like MBA, PGDM, CIMA (Chartered Institute of Management Accountants) certified programme and other equivalent management programmes and diploma programmes.</p>
+
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">

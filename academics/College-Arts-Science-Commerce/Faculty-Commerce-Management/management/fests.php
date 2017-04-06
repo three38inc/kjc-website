@@ -112,10 +112,13 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; Fests</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+                                 <p><b>Acumen:</b><br>
+                                        Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
+                                    <p><b>Prodigy:</b><br>
+                                        Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore. </p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">

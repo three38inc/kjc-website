@@ -112,10 +112,38 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; About the Department</span>
+                                        <span>&nbsp; Academic Programs</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+
+                                    <p><b>Social Responsibility Week: </b><br>
+                                        This program is initiated to bring social awareness among students and to create a concern for society. Following are some of the activities conducted during a week long program to sensitise the students with social issues and problems.</p>
+
+                                    <p>Presentation, poster making, useful of useless, debate, social quiz, sponsoring a meal to orphans</p>
+
+                                    <p><b>Virtuoso: </b><br>
+                                        "Virtuoso" is a workshop conducted by the department of management for the first year students, organised by the final year BBM students, wherein they are introduced to the basic concepts of managerial events so that they have an idea about the contents of a fest.</p>
+
+                                    <p><b>Anveshan:</b><br>
+                                        Anveshan is an intra class paper presentation competition, started in the year 2010. The competition is opened for only final year BBM students. The students be are divided into different groups of each consisting 3 students and the paper presentation topics will be given in different areas related to management. The students are briefed about the guidelines and conditions to present papers. Later students are given enough time to make a study about the given topic and submit the report on the same.</p>
+
+                                    <p><b>Guest Lectures: </b><br>
+Experts from industries are invited to interact with students on various issues related to management and discuss to explore new ideas and suggestions for the development of practices in management.</p>
+                                    
+                                    <p><b>Workshops: </b><br>
+                                        The workshops on different concepts like communication, lateral thinking, creative thinking, mind mapping, innovation in management etc. have been conducted for the students over the years to give them the practical knowledge on various management issues.</p>
+
+                                    <P><b>Exhibitions: </b><br>
+                                        Exhibitions are an opportunity for students to showcase their talents and skills. During exhibitions the students exhibit their skills in communication, management, leadership, innovation, creativity etc.</P>
+
+                                    <p><b>Industrial Visits:</b><br>
+                                        Industrial visits are undertaken to expose students to various production and operational techniques to update the students with latest developments in the manufacturing industry. The field visits to various small, medium and large industries are organised.</p>
+
+                                    <p><b>Acumen:</b><br>
+                                        Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
+
+                                    <p><b>Prodigy:</b><br>
+                                        Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore</p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">

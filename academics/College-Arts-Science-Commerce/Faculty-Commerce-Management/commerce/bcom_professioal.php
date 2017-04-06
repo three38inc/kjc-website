@@ -123,33 +123,43 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Commerce</strong></span>
+                                        <span>&nbsp;<strong>B.Com Professional (Special impetus for CA and CS) </strong></span>
                                     </h4>
 
                                     <br/>
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
+                                        <strong>A Course to meet Industry Demand B.Com Professional </strong><br/><br/>
+                                        The onset of first autonomous cycle in Kristu Jayanti College has given autonomy for the college in starting a new course, changing the nomenclature of course, launching diploma and certificate programmes based on current needs and employability of students. Reaping these benefits, our College introduced this course to create a cadre of professionals. 
+                                      
+                                    </p>
+                                    
+                                    <p align="justify">
+                                        B.Com (Professional) is a high profile undergraduate program aimed to create enhanced competence of career positioning tied up with opportunity to become an accounting and management professional. The program expects a serious commitment of the student to take up challenging study schedules and assignments. The course involves a blend of theoretical education and practical training which run concurrently for a period of three years and equips a student with knowledge, ability, skills and other qualities required of a professional accountant. 
+
                                     </p>
                                     <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
+                                        The uniqueness of the program is its content and topic coverage, the teaching methodology and the faculty. The syllabus has been designed at a level equal to that of professional courses. The teaching methodologies include classroom lectures and orientation. The focus is also kept on developing soft skills of the students. Faculty members for core subjects are from the industry and the profession to enable wider exposure. Student joining for this program enroll for any one of the professional courses offered like CA (Chartered Accountancy) or CS (Company Secretary). 
+                                    
                                     </p>
                                     <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
+                                        Today, many MNC's are setting up their base in India due to Liberalization and Globalization of Indian Economy. Hence there are many employment opportunities for the Professional students. On completion of this course one can start one's career as Business Consultant/ Auditors / Tax Consultant / Chief Financial Analyst / Investment Bankers / In Capital Market / As Personal Financial Advisors / In Forensic Accounting / MNC's / Retail Stores / IT / Advertising and Media. 
+                                    
                                     </p>
-                                     <br/>
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
+                                    <p align="justify">
+                                        The Curriculum of B.Com (Professional) has been designed to facilitate students in preparing for CA & CS examination. This course aims at providing comprehensive insight into Accounting, Finance, Taxation, Law, Management and so on. All these play a significant role in today's dynamic business environment.
+                                    </p>
+                                    <p align="justify">
+                                    
+                                    
+                                    </p>
+                                    <br/>
+                                    <p ><strong>Programme Features </strong>
+                                    (Additional Course Inputs)</p>
+                                    <ul style="list-style-type:none;">
+                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i> Workshop on Financial Statement Analysis through Accounting Software - Tally</li>
+                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i>Workshop on International Financial Reporting Standards (IFRS)</li>
+                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i> Professional Interface Forum (PIF)</li>
                                     </ul>
-                                                                 
-                                   
 
 
                                 </div>
@@ -232,7 +242,7 @@
                                     </section>
 
 
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="#"> Faculty Profile
                                         </a></p>
                                     </section>
@@ -256,6 +266,7 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
                                     </section>
+
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -270,7 +281,7 @@
 
 
 
-<!--
+                                    <!--
                                     <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                         <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                             <div class="fb-xfbml-parse-ignore">
@@ -302,7 +313,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-<!--    </div>-->
+    <!--    </div>-->
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>
