@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Academic Programs</span>
@@ -195,7 +195,7 @@ Experts from industries are invited to interact with students on various issues 
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Faculty Profile</a></p>
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">
