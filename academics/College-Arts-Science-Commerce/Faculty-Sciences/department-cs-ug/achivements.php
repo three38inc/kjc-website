@@ -81,25 +81,114 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;  <strong> Achievements  </strong></span></h4>
+                               
+                                <p align=justify>Kristu Jayanti College is known by the quality of the students it produces. The students of the Computer Science Department have proved themselves to be the best in Bangalore and in different parts of the country over and over again. The professionalism and competitive spirit that demonstrates a successful IT professional has been exuded by the students in the recent competitions and events conducted by various educational institutions.</p>
+                                <p><b>Achievements in academic year 2016-17</b></p>
+  <table class="table table-bordered" align=center>
+  <thead>
+    <tr>
+      
+      <th>College</th>
+      <th>Position</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>“TECHMINDZ” ,Acharya College, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>“SHOCK 2017”,St.Josephs College, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>“COMPOSITE 2K17” , St.Aloysius College Mangalore </td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>“INTERFACE V20”, Christ University, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"VIJNAN 2016", Vijaya college, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"TRIGGER 2K16", MES Degree College Of Arts,Commerce & Science, Bangalore
+</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"COMPOSITE 2K16", St.Aloysius College, Mangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"CELESTRA 2K16", Seshadripuram First Grade college, Bangalore
+</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"TECHNOVATION 2015" - National Level IT Fest at
+St. Claret College, Bangalore
+</td>
+      <td>Runner Up</td>
+      </tr>
+      <tr>
+      <td>"Sygma 2015," SDM College of Buisness
+Management, Mangalore
+</td>
+      <td>Runner Up</td>
+      </tr>
+      <tr>
+      <td>"Cognizance 2015," Krupanadhi College, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"Exuberance 2015,"Bangalore City
+College,Bangalore
+</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"Enthios 2015," Jyoti Nivas College, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"CONVERGENCE 2014" - National Level Mathematics Fest at Christ University, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"COMPUTANTRA 2014" - National Level IT Fest at Presidency College, Bangalore</td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"TECHNOVATION 2014" - National Level IT Fest at St. Claret College, Bangalore </td>
+      <td>Overall</td>
+      </tr>
+      <tr>
+      <td>"INTERFACE 14" - National Level IT FestÂ  at Christ University, Bangalore</td>
+      <td>Runner Up</td>
+      </tr>
+      <tr>
+      <td>"CIRCUIT 14" - National Level Electronics FestÂ  at Christ University, Bangalore</td>
+      <td>Winner up</td>
+      </tr>
+      <tr>
+      <td>"SAVISKARA 2014 - Working and Static Model Exhibition at Jain University </td>
+      <td>First Place </td>
+      </tr>
+      <tr>
+      <td>"TRIGGER 2014" - Inter Collegiate Science Fest-Statistics Dept. MES College, Malleshwaram </td>
+      <td>Won 1st and 2nd places for few events</td>
+      </tr>
+      
+      
+      </tbody>
+                                </table>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                            
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

@@ -132,6 +132,7 @@
                                         <p>Keeping the fact of growing competition in mind, in the present era entrepreneurship is inseparable from innovation. Motivated by this vision, Entrepreneurship Development Cell is renamed as Entrepreneurship and Innovation Centre and a passionate group of people are working to persuade an entrepreneurial attitude into the students and to imbibe an innovative spark in them.</p>
                                         <p>Entrepreneurship and Innovation Centre is a member of Wadhwani Foundation’s NEN which is a vibrant entrepreneurship network enabling access to mentors, investors and tools for growth of the EIC members.
                                         </p>
+                                        
                                         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
                                                 <div class="panel-heading" role="tab" id="headingOne">

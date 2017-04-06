@@ -81,25 +81,15 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Computer <strong> Academy  </strong></span></h4>
+                               
+                                <p align=justify>Experience confined to the academic environment of a class room is insufficient to keep pace with the rapid changes in the information technology sector. Keeping this in mind the Department of Computer Science (UG) has an auspicious computer science club “COMPUTER ACADEMY “with more than 800 members where students participate, organize and be part of confluence between technology and academics through a series of programmes like guest lectures, workshops, seminars, industrial visits, inter and intra collegiate fests, science exhibition, computer simulations, technical communities, technical video sessions, social outreach programmes etc. </p>
+                                <p align=justify>Industrial visits are arranged to expose the students to a different landscape, variety of people thereby encouraging interaction, exchange of ideas and to acquire the knowledge about the basic functionality of an organization. Guest lectures, workshops, seminars and technical video sessions are organized to enhance the educational experience by providing students with the current industry experiences, insights and perspectives on their domain. Value added Courses and certification courses enable our students to acquire something more than what is provided in the curriculum. Social outreach programmes provides the students an opportunity to recognize their social responsibility to give back and contribute to the development of the society. Technical communities provide a platform for the students to discuss, share and update their knowledge in various domains of information technology.</p>
+                                <p align=justify>An intra-collegiate fest "Synchronize" is organized for the first and second year students of computer science by the third year students where they get an opportunity to organize, participate and showcase their potentials. "Xactitude" is National level inter collegiate computer science fest envisaged by the academy where students from other colleges can showcase their intelligence and creativity in myriad facets of information technology. "Galaxia" is a two day science exhibition in which students from our college and other colleges develop computer science, electronics, statistics and mathematics projects which provide them an opportunity to experiment and innovate along with the curriculum learning. As a whole computer academy is a gateway which allows our next generation scientists, engineers, teachers, entrepreneurs and artists to be able to innovate using computation, have excellent communication skills, be professional in approach and attitude, spotlight in big picture.</p>
+                                <p><b>For any Queries and Feedback Mail to</b><br>
+                                    computeracademy@kristujayanti.com </p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                            
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

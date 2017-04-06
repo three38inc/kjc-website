@@ -81,25 +81,17 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Seminars & <strong> Workshops </strong></span></h4>
+                               
+                               <p align=justify>To provide hands on learning, problem solving and development of creative solutions, seminars and workshops are organized where the experts from the industry share their experiences in the domain.</p>
+                                
+                                <li> Workshop on Computer Hardware and Networking by Mr.Janardhanan, IT Certification Professional, ITE Learning Solutions, Salem, Tamil Nadu on 30th August 2014.</li>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                                <li> Workshop on Computer Hardware and Networking by Mr.Janardhanan, IT Certification Professional, ITE Learning Solutions, Salem, Tamil Nadu on 3rd and 4th September 2015.</li>
 
-                                    </div>
+                                <li> Workshop on R software by Prof. Suni Ajaykumar and Prof. Liji George, Faculty, Dept of Statistics, Kristu Jayanti College on 23rd ,24th and 26th August 2016.</li>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                            
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

@@ -81,24 +81,17 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; <strong>BSc CSME</strong></span></h4>
+                               
+                                <p align=justify>B.Sc. CSME (Computer Science, Mathematics and Electronics) is a three year under graduate programme affiliated to Bangalore University spanning over six semesters. It follows triple major system wherein students study Computer Science, Mathematics and Statistics/Electronics as major subjects. This three year programme paves way for taking up postgraduate programmes in computers science, mathematics, Statistics/ Electronics.</p>
+                                <p align=justify><b>Computer Science </b><br>
+                                    Major papers in computer science include computer organization, operating systems, database management systems, data structures, software engineering, computer graphics and internet technology. The students become proficient in various programming languages like C, C++, Java, .Net etc. The students develop application projects prescribed in the syllabus during the respective semesters. They also engage in various knowledge enrichment activities. </p>
+                                <p align=justify><b>Mathematics</b><br>
+                                    Maths curriculum consists of intensive and extensive topics like Differential Equations, Linear Algebra, Groups, Rings, Fields, Vector Spaces, Vector Algebra, Vector Calculus, Real Analysis, Vector Mechanics, Numerical Analysis, Complex Analysis, Calculus and Advanced Calculus etc. enabling the student to transform the mathematical interests to other intellectual endeavors.</p>
+                            <p align=justify><b>Electronics </b><br>
+                                    A sound knowledge of the basic principle and design procedure has become elementary in the competitive world. Career opportunities in electronics continue to expand and become more varied with every passing year. The curriculum is framed to equip the students with an in-depth knowledge about discrete components, electronic devices, digital electronics, communication system, fiber optic communication, microprocessors and embedded systems. </p>
+                                <p><b>Eligibility:</b> Pass in 10+2/Pre University courses/Equivalent. Candidates should have studied at least two subjects from Mathematics, Computer Science, Statistics or Physics </p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

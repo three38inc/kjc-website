@@ -81,24 +81,26 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;Computer <strong>Science</strong></span>
 
                                 </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                                <p align=justify>Computer Science is an exciting, growing, challenging field that has revolutionized the world over the years. It has changed the very face of the society. It has found wide range of applications in different spheres of life which includes medicine, communications, automotive technology, weather forecasting, entertainment, mining, pharmacology, forensics, manufacturing, disaster recovery, security, law, business etc. With an overwhelming increase in the widespread usage and popularity, computer education has become inevitable for the common man. </p>
+                                <p align=justify>The department of Computer Science exists from the very beginning of the college (1999). The Department has multidisciplinary courses in Computer Science, Mathematics, Statistics and Electronics. Each discipline enables the students to be employable or explore new horizons in the path of higher studies and research. </p>
+                                <p align=justify>Students choose to major in computer science for a variety of reasons. Many of our students graduate to rewarding computer-related careers in software development, testing, software engineering, system administration, research and development in private and governmental sectors. </p>
+                                <p align=justify>Our society is becoming increasingly dependent on technology for every aspect of our lives, from business to social interaction and beyond increasing the demand for graduates in every industry in a wide range of capacities. Owing to the fact that information technology has made an impression in every discipline, most of our graduates acquire solid foundation which paves way for career in multifaceted disciplines. </p>
+                                <p><b>Department Highlights:</b><br>
+                                    <li> Academic collaboration with Industry and Foreign University.</li>
+                                    <li> Highly qualified and dedicated faculties.</li>
+                                    <li> Guest lecturers from best of the professionals from the IT industry.</li>
+                                    <li> Department clubs to support the professional development of the students and connect them with other passionate peers.</li>
+                                    <li> Advanced computer lab with most modern facilities and qualified lab instructors.</li>
+                                    <li> Career guidance and placement training for all the students.</li>
+                                    <li> Campus placement for all the eligible students.</li>
+                                    <li> Good number of library books, digital library, and other online resources.</li>
+                                    <li> Certificate and Value added courses for the development of overall performance of the students.</li>
+                                
 
-                                    </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -198,8 +200,8 @@
 
                             </div>
                         </div>
-                    </div>
-                    </div>
+                        </div></div>
+
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>

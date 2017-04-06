@@ -81,24 +81,19 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Department<strong> Fests  </strong></span></h4>
+                               
+                                <p align=justify>Xactitude and Galaxia are the two major events organized by the Computer Science Department of Kristu Jayanti College. Under the guidance of the Computer Academy, Galaxia generates the essence of innovation in the students while Xactitude aims to propagate that essence across the country. Both Xactitude and Galaxia boast of the highest quality of participation and demand a level of creativity and determination that is sure to tease the brain and reveal an agility of mind that you never thought was possible.</p>
+                                <p align=justify><b>SYNCHRONIZE </b><br>
+                                    The annual Intra-Collegiate fest of the Computer Science Department, 'Synchronize' is a platform for the junior members of the Computer Academy to display their skills and earn the right to represent the department at various fests around the city. The Final Year students organize Synchronize creating new, innovative competitions and the best of which go on to be part of the inter-collegiate fest- Xactitude, which is hosted every spring. In other words, Synchronize is a time when everyone is trying something new. It is a platform to discover fresh resources, tap new talent and innovate to ignite the next generation.</p>
+                                <p align=justify><b>XACTITUDE </b><br>
+                                    Xactitude is the Inter-Collegiate IT fest organized by the Computer Science Department of Kristu Jayanti College. It is named for 'Exactitude' - the quality of precision which is the driving force behind modern technology and continues to spur mankind towards greater heights. Xactitude has been instilling a passion for perfection among its participants ever since its inception in 2009.</p>
+                                <p align=justify><b>GALAXIA </b><br>
+                                    Galaxia is the Intra-Collegiate Science Project Exhibition that aims to foster innovation in the young minds of students at Kristu Jayanti. With projects as diverse as robotics and animated games pertaining to the fields of Mathematics, Statistics, Electronics and Computer Science, Galaxia offers the passionate, a stage to display what they find fascinating.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
