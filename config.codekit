@@ -173,6 +173,1320 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_integrated_bcom_acca.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_integrated_bcom_acca.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_professioal.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_professioal.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_tourism.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/bcom_tourism.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_achievements.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_achievements.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_bestpractcies.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_bestpractcies.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_carrer_opportunity.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_carrer_opportunity.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_fests.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_fests.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_other_departmrntal_activities.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_other_departmrntal_activities.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_seminars_conferencesbr_workshops.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_seminars_conferencesbr_workshops.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_value_added_courses.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_value_added_courses.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_vision_mission.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/commerce_vision_mission.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/ma_economics.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/ma_economics.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom_fa.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom_fa.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom_fa_cgma.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/mcom_fa_cgma.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/news_letter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/news_letter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page5.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page5.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page6.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/commerce\/snipets\/page6.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/academic_programs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/academic_programs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/academic_projects.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/academic_projects.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/association.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/association.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/bba.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/bba.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/bba_integrated.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/bba_integrated.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/best_practices.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/best_practices.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/career_development_courses.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/career_development_courses.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/career_opportunity.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/career_opportunity.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/curriculum.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/curriculum.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/department_magazine.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/department_magazine.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/fests.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/fests.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/main.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/main.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/management.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/management.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/pg_diploma.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/pg_diploma.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/vision_mission.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Commerce-Management\/management\/vision_mission.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/humanities\/snipets\/page4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/journalism\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/psychology\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Humanities\/socialwork\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-pg\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page4.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page4.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page5.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-cs-ug\/snipets\/page5.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bestpractices.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bestpractices.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bio-science_laboratory.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bio-science_laboratory.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bsc_bio.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bsc_bio.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bsc_micro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/bsc_micro.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/careeropportunity.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/careeropportunity.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/envtclub.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/envtclub.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/faculty.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/emmanual.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/Lifescintro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/Lifescintro.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/ls_research.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/ls_research.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/membership_pbodies.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/membership_pbodies.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/msc_bio.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/msc_bio.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/msc_micro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/msc_micro.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/skilldevelop.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/skilldevelop.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/snipets\/page1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/snipets\/page1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/snipets\/page2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-Arts-Science-Commerce\/Faculty-Sciences\/department-lifescience\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/College-of-Law\/bcom-llb.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/College-of-Law\/bcom-llb.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/academics\/commerce.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -191,15 +1505,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/cs_faculty.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/cs_faculty.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/academics\/humanities.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -209,354 +1514,46 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/images\/amjad_hassan_khan.jpg": {
+	"\/academics\/images\/headline_bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3907,
-		"inputAbbreviatedPath": "\/academics\/images\/amjad_hassan_khan.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/amjad_hassan_khan.jpg",
+		"initialSize": 9288,
+		"inputAbbreviatedPath": "\/academics\/images\/headline_bg.jpg",
+		"outputAbbreviatedPath": "\/academics\/images\/headline_bg.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/academics\/images\/anita.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4156,
-		"inputAbbreviatedPath": "\/academics\/images\/anita.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/anita.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/anitha_dsouza.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4926,
-		"inputAbbreviatedPath": "\/academics\/images\/anitha_dsouza.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/anitha_dsouza.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/annmary_joyson.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3908,
-		"inputAbbreviatedPath": "\/academics\/images\/annmary_joyson.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/annmary_joyson.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/anthony_vincent.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5386,
-		"inputAbbreviatedPath": "\/academics\/images\/anthony_vincent.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/anthony_vincent.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/aswin_herbert_sathish.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4356,
-		"inputAbbreviatedPath": "\/academics\/images\/aswin_herbert_sathish.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/aswin_herbert_sathish.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/augustine_george.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3361,
-		"inputAbbreviatedPath": "\/academics\/images\/augustine_george.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/augustine_george.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/ayshwarya.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4292,
-		"inputAbbreviatedPath": "\/academics\/images\/ayshwarya.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/ayshwarya.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/dhanamalar.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4247,
-		"inputAbbreviatedPath": "\/academics\/images\/dhanamalar.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/dhanamalar.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/diana_susan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5098,
-		"inputAbbreviatedPath": "\/academics\/images\/diana_susan.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/diana_susan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/emmanual.png": {
+	"\/academics\/images\/headline_bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 214528,
-		"inputAbbreviatedPath": "\/academics\/images\/emmanual.png",
-		"outputAbbreviatedPath": "\/academics\/images\/emmanual.png",
+		"initialSize": 18067,
+		"inputAbbreviatedPath": "\/academics\/images\/headline_bg.png",
+		"outputAbbreviatedPath": "\/academics\/images\/headline_bg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/academics\/images\/fr._som.png": {
+	"\/academics\/images\/icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 105287,
-		"inputAbbreviatedPath": "\/academics\/images\/fr._som.png",
-		"outputAbbreviatedPath": "\/academics\/images\/fr._som.png",
+		"initialSize": 2615,
+		"inputAbbreviatedPath": "\/academics\/images\/icon.png",
+		"outputAbbreviatedPath": "\/academics\/images\/icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/academics\/images\/fr_Augustine.png": {
+	"\/academics\/images\/kjcFlag.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 204854,
-		"inputAbbreviatedPath": "\/academics\/images\/fr_Augustine.png",
-		"outputAbbreviatedPath": "\/academics\/images\/fr_Augustine.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/Fr_Lijo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 230426,
-		"inputAbbreviatedPath": "\/academics\/images\/Fr_Lijo.png",
-		"outputAbbreviatedPath": "\/academics\/images\/Fr_Lijo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/fr_lijothomas.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3646,
-		"inputAbbreviatedPath": "\/academics\/images\/fr_lijothomas.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/fr_lijothomas.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/gnanasankaran.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4374,
-		"inputAbbreviatedPath": "\/academics\/images\/gnanasankaran.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/gnanasankaran.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/img1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85196,
-		"inputAbbreviatedPath": "\/academics\/images\/img1.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/img1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/jayasheelan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5273,
-		"inputAbbreviatedPath": "\/academics\/images\/jayasheelan.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/jayasheelan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/jude.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4006,
-		"inputAbbreviatedPath": "\/academics\/images\/jude.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/jude.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/kalaiselvi.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4523,
-		"inputAbbreviatedPath": "\/academics\/images\/kalaiselvi.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/kalaiselvi.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/liji_george.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4381,
-		"inputAbbreviatedPath": "\/academics\/images\/liji_george.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/liji_george.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/mary_jacob.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4801,
-		"inputAbbreviatedPath": "\/academics\/images\/mary_jacob.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/mary_jacob.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/mini_gopalakrishnan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4227,
-		"inputAbbreviatedPath": "\/academics\/images\/mini_gopalakrishnan.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/mini_gopalakrishnan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/nagendra.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3540,
-		"inputAbbreviatedPath": "\/academics\/images\/nagendra.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/nagendra.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/prathap.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3813,
-		"inputAbbreviatedPath": "\/academics\/images\/prathap.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/prathap.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/principal.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 160563,
-		"inputAbbreviatedPath": "\/academics\/images\/principal.png",
-		"outputAbbreviatedPath": "\/academics\/images\/principal.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/rajesh.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4686,
-		"inputAbbreviatedPath": "\/academics\/images\/rajesh.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/rajesh.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/ramanathan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4134,
-		"inputAbbreviatedPath": "\/academics\/images\/ramanathan.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/ramanathan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/sandhya_soman.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4625,
-		"inputAbbreviatedPath": "\/academics\/images\/sandhya_soman.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/sandhya_soman.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/sevuga_pandian.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4426,
-		"inputAbbreviatedPath": "\/academics\/images\/sevuga_pandian.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/sevuga_pandian.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/suni_ajaykumar.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4017,
-		"inputAbbreviatedPath": "\/academics\/images\/suni_ajaykumar.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/suni_ajaykumar.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/academics\/images\/vanichakraborty.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4700,
-		"inputAbbreviatedPath": "\/academics\/images\/vanichakraborty.jpg",
-		"outputAbbreviatedPath": "\/academics\/images\/vanichakraborty.jpg",
+		"initialSize": 132109,
+		"inputAbbreviatedPath": "\/academics\/images\/kjcFlag.png",
+		"outputAbbreviatedPath": "\/academics\/images\/kjcFlag.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -566,6 +1563,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/academics\/life_science.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/LifeSciences.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/LifeSciences.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -606,40 +1612,113 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/script\/academic-script.js": {
-		"fileType": 64,
+	"\/academics\/School-of-Management\/faculty.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/script\/academic-script.js",
-		"outputAbbreviatedPath": "\/academics\/script\/min\/academic-script-min.js",
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/faculty.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/School-of-Management\/images\/emmanual.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214528,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/emmanual.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/emmanual.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/academics\/snipets\/page1.php": {
+	"\/academics\/School-of-Management\/images\/fr._som.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105287,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr._som.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr._som.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/School-of-Management\/images\/fr_Augustine-george.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204854,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr_Augustine-george.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr_Augustine-george.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/School-of-Management\/images\/fr_Augustine.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17739,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr_Augustine.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/fr_Augustine.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/School-of-Management\/images\/Fr_Lijo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230426,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/Fr_Lijo.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/Fr_Lijo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/School-of-Management\/images\/principal.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160563,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/images\/principal.png",
+		"outputAbbreviatedPath": "\/academics\/School-of-Management\/images\/principal.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/academics\/School-of-Management\/mba.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/snipets\/page1.php",
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/mba.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/snipets\/page2.php": {
+	"\/academics\/School-of-Management\/snipets\/page1.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/snipets\/page2.php",
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/snipets\/page1.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/snipets\/page3.php": {
+	"\/academics\/School-of-Management\/snipets\/page2.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/snipets\/page3.php",
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/snipets\/page2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/academics\/School-of-Management\/snipets\/page3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/academics\/School-of-Management\/snipets\/page3.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -653,11 +1732,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/academics\/style\/academic-style.css": {
-		"fileType": 16,
+	"\/admission\/admission.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/academics\/style\/academic-style.css",
+		"inputAbbreviatedPath": "\/admission\/admission.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6916,6 +7995,136 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/placements\/about_cecr.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/about_cecr.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/gate.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/gate.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/images\/potp.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156544,
+		"inputAbbreviatedPath": "\/placements\/images\/potp.png",
+		"outputAbbreviatedPath": "\/placements\/images\/potp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/placements\/images\/udyog.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41098,
+		"inputAbbreviatedPath": "\/placements\/images\/udyog.png",
+		"outputAbbreviatedPath": "\/placements\/images\/udyog.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/placements\/industry_institute_interfac.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/industry_institute_interfac.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/orientation_training.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/orientation_training.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/our_recruiters.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/our_recruiters.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/photo_gallery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/photo_gallery.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/placement_extension_services.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/placement_extension_services.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/placement_initiatives.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/placement_initiatives.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/placement_process.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/placement_process.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/talent_transformation_team.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/talent_transformation_team.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/transcend.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/transcend.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/placements\/udyogVichaar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/placements\/udyogVichaar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -7045,6 +8254,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/student_services\/eic.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/student_services\/eic.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/student_services\/grievance_redressal.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -7068,6 +8286,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/student_services\/international_student_forum.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/student_services\/jayantian_entrepreneurs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/student_services\/jayantian_entrepreneurs.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
