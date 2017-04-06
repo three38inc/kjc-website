@@ -136,22 +136,56 @@
                                                                     <tr>
                                                                         <th>S.No</th>
                                                                         <th>Name of the faculty</th>
-                                                                        <th rowspan>Consultancy provided</th>
+                                                                        <th>Consultancy provided</th>
                                                                         <th>Institutions/Organizations</th>
-                                                                                                                                            </tr>
+                                                                </tr>
                                                                 </thead>
                                                                 <tbody>
+                                                                    
+<!--                                                                    row 1-->
                                                                     <tr >
-                                                                        <td rowspan="6">1.</td>
-                                                                        <td rowspan="6">Dr.Elcey C D </td>
+                                                                        <td rowspan="4">1.</td>
+                                                                        <td rowspan="4">Dr.Elcey C D </td>
                                                                         
                                                                         
                                                                     
-                                                                </tr> 
-                                                                    <tr>
+                                                               
                                                                         <td>BOE Member</td>
-                                                                        <td>Bangalore University, CMRIMS, Govt  
-Science College(Autonomous), Bangalore,
+                                                                        
+                                                                         
+                                                                        <td>Bangalore University, CMRIMS, Govt Science College(Autonomous), Bangalore,
+ Kristu Jayanti College, Bangalore.
+</td>
+                                                                        
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>BOS Member</td>
+                                                                        <td>Christ University, Kristu Jayanti College, Bangalore.</td>
+                                                                        
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>Research Supervisor for Ph.D</td>
+                                                                        <td>(Part Time – category B) of Bharathiar University Coimbatore</td>
+                                                                        
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>BOE Member (Ph. D)</td>
+                                                                        <td>University of Kerala &
+Kannur University
+</td>
+                                                                        
+                                                                    </tr>
+                                                                    <tr >
+                                                                        <td rowspan="3">1.</td>
+                                                                        <td rowspan="3">Dr.Elcey C D </td>
+                                                                        
+                                                                        
+                                                                    
+                                                               
+                                                                        <td>BOE Member</td>
+                                                                        
+                                                                         
+                                                                        <td>Bangalore University, CMRIMS, Govt Science College(Autonomous), Bangalore,
  Kristu Jayanti College, Bangalore.
 </td>
                                                                         
@@ -167,112 +201,8 @@ Science College(Autonomous), Bangalore,
                                                                         
                                                                     </tr>
                                                                     
-                                                                    <tr>
-                                                                        <td>BOE Member (Ph. D)</td>
-                                                                        <td>University of Kerala &
-Kannur University
-</td>
-                                                                        
-                                                                    </tr>
                                                                     
-                                                                    
-                                                                        <tr>
-                                                                        <td> Membership)</td>
-                                                                        <td>Association of Microbiologists in India (Life Member)
-Association of Food Science Technologists
-
-</td>
-                                                                        
-                                                                    </tr>                                    
-                                                                   
-                                                                             
-                                                                
-                                                                             
-                                                                     <tr>
-                                                                        <td>2.</td>
-                                                                        <td>Isolation and characterization of Phytochemicals from Michelia Champaca and Thespesia Populnea for evaluation of Therapeutic Potential
-                                                                        </td>
-                                                                        <td>VGST, GOVT. KARNATAKA
-
-                                                                        </td>
-                                                                        <td>Dr.S. Vijayanand
-                                                                        </td>
-                                                                         <td>10 &nbsp; &nbsp; Lakhs
-                                                                        </td>
-                                                                         <td> 2 &nbsp; &nbsp; Years
-                                                                        </td>
-                                                                    </tr>
-                                                                    
-                                                                   
-                                                                     <tr>
-                                                                        <td>1.</td>
-                                                                        <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms 
-                                                                        </td>
-                                                                        <td>SERB, DST, INDIA 
-
-                                                                        </td>
-                                                                        <td>Dr. Elcey CD
-                                                                        </td>
-                                                                        <td>85, 87, 400
-                                                                        </td>
-                                                                        <td>3 &nbsp; &nbsp;Years 
-                                                                        </td>
-                                                                                                                                   
-                                                                                        
-                                                                                                                                        
-                                                                    </tr>
-                                                                     <tr>
-                                                                        <td>1.</td>
-                                                                        <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms 
-                                                                        </td>
-                                                                        <td>SERB, DST, INDIA 
-
-                                                                        </td>
-                                                                        <td>Dr. Elcey CD
-                                                                        </td>
-                                                                        <td>85, 87, 400
-                                                                        </td>
-                                                                        <td>3 &nbsp; &nbsp;Years 
-                                                                        </td>
-                                                                                                                                   
-                                                                                        
-                                                                                                                                        
-                                                                    </tr>
-                                                                     <tr>
-                                                                        <td>1.</td>
-                                                                        <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms 
-                                                                        </td>
-                                                                        <td>SERB, DST, INDIA 
-
-                                                                        </td>
-                                                                        <td>Dr. Elcey CD
-                                                                        </td>
-                                                                        <td>85, 87, 400
-                                                                        </td>
-                                                                        <td>3 &nbsp; &nbsp;Years 
-                                                                        </td>
-                                                                                                                                   
-                                                                                        
-                                                                                                                                        
-                                                                    </tr>
-                                                                     <tr>
-                                                                        <td>1.</td>
-                                                                        <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms 
-                                                                        </td>
-                                                                        <td>SERB, DST, INDIA 
-
-                                                                        </td>
-                                                                        <td>Dr. Elcey CD
-                                                                        </td>
-                                                                        <td>85, 87, 400
-                                                                        </td>
-                                                                        <td>3 &nbsp; &nbsp;Years 
-                                                                        </td>
-                                                                                                                                   
-                                                                                        
-                                                                                                                                        
-                                                                    </tr>
-                                                                    
+                                                                 
                                                                     
                                                                 </tbody>
                                                             </table>
