@@ -59,7 +59,7 @@
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/founder.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -69,7 +69,7 @@
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/history.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -79,7 +79,7 @@
                         <p>
                           The college has accomplished many milestones within a short span of its existence..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/milestones.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -89,7 +89,7 @@
                         <p>
                           Light and Prosperity': To provide intellectual and moral leadership by igniting the minds of youth to realize..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/vision_mission_goals.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -99,7 +99,7 @@
                         <p>
                           We believe that faith in God is the beginning of true wisdom and the anchor of life. Human life would be meaningless..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/core_values.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -109,7 +109,7 @@
                         <p>
                           Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/educational_philosophy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -119,7 +119,7 @@
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/profile.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -129,7 +129,7 @@
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/autonomous.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -139,7 +139,7 @@
                         <p>
                           Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/management.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -149,7 +149,7 @@
                         <p>
                           A few years ago, there was an attempt to encapsulate and treasure down in the burrows of the earth,..
                         </p>
-                        <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                        <a href="../about/message.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
                     </div>
 
@@ -245,9 +245,9 @@
                     <div class="menu-alt">
                       <h4>Center for Research</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                       The Centre for Research actively promotes research and inculcates research culture. It is chaired by the ...
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/centre_for_research.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -255,9 +255,9 @@
                     <div class="menu-alt">
                       <h4>Research Projects</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The Centre for Research has initiated a number of research projects both minor and major in order to create ...
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/research_projects.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -267,7 +267,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/patents.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -277,7 +277,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/publications.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -287,7 +287,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/consultancy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -297,7 +297,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/extension.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -307,7 +307,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -317,7 +317,7 @@
                       <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../research/research_centre_in_social_work.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
