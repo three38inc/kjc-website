@@ -61,7 +61,7 @@
                 background: transparent;
                 box-shadow: none;
             }
-            
+
 
         </style>
     </head>
@@ -285,11 +285,11 @@
                                                                                 <li>
                                                                                     Only students who register will be allowed to participate in the events 
                                                                                 </li></ul><br>
-                                                                            
-                                                                            
+
+
                                                                             <strong>2. E-Day (Weekly Stalls)
-</strong><br><br>
-                                                                            To create the seriousness among the students.<br><br>
+                                                                            </strong><br><br>
+
                                                                             <strong>Objective</strong>
                                                                             <ul><li>
                                                                                 To help the students to inculcate and improve their entrepreneurial skills </li>
@@ -297,12 +297,12 @@
                                                                                     To give hands-on experience of business to the students 
 
                                                                                 </li>
-                                                                             <li>
+                                                                                <li>
                                                                                     To help the e-cell to be self-sustainable 
 
                                                                                 </li></ul><br>
-                                                                            
-                                                                            
+
+
                                                                             <strong>Activities</strong>
                                                                             <ul><li>
                                                                                 Students will be motivated to put stalls, in the food court, once in a week </li>
@@ -310,248 +310,314 @@
                                                                                     Students will be selected based on the business proposal submitted by them 
 
                                                                                 </li>
-                                                                             <li>
+                                                                                <li>
                                                                                     The activity will be performed throughout the semester 
 
                                                                                 </li>
-                                                                                 <li>
-                                                                                  Only two members per team 
-
-
-                                                                                </li>
-                                                                            
+                                                                                <li>
+                                                                                    Only two members per team 
                                                                             </ul>
 
-                                                                        </td>
-                                                                        <td><strong>1. E-Week
-                                                                            Objectives</strong><br><br>
-                                                                            To provide a platform for the students of our college to exhibit and explore their entrepreneurship skills
 
-                                                                        </td>
-                                                                    </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </div>
+                                                                </li><br><br>
+                                                                    <strong>3. Workshop, Seminar and Guest Lectures</strong>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <strong>Objective: </strong> To give in-depth knowledge about various aspects on entrepreneurship
 
 
-                                                    </div>
-                                                </div>
+                                                                        </li><br><br>
+                                                                        <strong>Activity</strong>
+                                                                        <li>
+                                                                            Resource persons from various fields will be invited to address the students on various aspects of entrepreneurship
+                                                                        </li></ul>
+
+                                                                    <br><br>
+                                                                    <strong>4. Students Mentoring (Incubation Centre)</strong>
+                                                                    <ul>  <li>
+                                                                        <strong>Objective</strong>
+                                                                        To assist the students who are interested to start a part time or full time business 
+
+                                                                        </li>
+                                                                        <br>
+                                                                        <strong>Activity</strong>
+                                                                        <li>
+                                                                            Interested students will be provided with information and network to start the business
+                                                                        </li>
+                                                                        <li>
+                                                                            Continuous support and guidance will be provided
+                                                                        </li>
+
+
+
+                                                                    </ul>
+
+                                                                </td>
+                                                            <td><strong>1. E-Week
+                                                                Objectives</strong><br><br>
+                                                                To provide a platform for the students of our college to exhibit and explore their entrepreneurship skills<br><br>
+
+                                                                <strong>Activities</strong>
+                                                                <ul>
+                                                                    <i> To conduct various events such as:</i> 
+                                                                    <li>
+                                                                        Business Venture 
+                                                                    </li>
+                                                                    <li>
+                                                                        Girls Got Talent 
+
+                                                                    </li>
+                                                                    <li>
+                                                                        Short Film Making
+                                                                    </li>
+
+                                                                </ul><br>
+                                                                <strong>2. Workshop, Seminar and Guest Lectures (Knowledge Partner: NEN)</strong><br><br>
+                                                                <ul>
+                                                                    <i> <strong>Objective :</strong> To give in-depth knowledge about various aspects on entrepreneurship 
+
+                                                                    </i> <br><br>
+                                                                    <strong>Activity</strong>
+                                                                    <li>
+                                                                        Resource persons from various fields will be invited to address the students on various aspects of entrepreneurship
+
+                                                                    </li>
+
+
+                                                                </ul>
+
+                                                            </td>
+
+
+
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
                                             </div>
 
 
-                                            <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFive">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                                            Activities organised by Entrepreneurship and Innovation Centre (EIC) [ June 2016-March 2017
-                                                            ]
-
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-                                                    <div class="panel-body">
-
-                                                        <div class="table-responsive">
-                                                            <table class="table table-hover table-bordered">
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th>Sl. No.</th>
-                                                                        <th>Date</th>
-                                                                        <th>Nature of Event</th>
-                                                                        <th>Resource Person</th>
-                                                                        <th>No of Participants</th>
-                                                                        <th>Outcome</th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td>1   
-                                                                        </td>
-                                                                        <td>12/08/2016
-                                                                        </td>
-                                                                        <td>Expert talk on Family owned enterprise  
-                                                                        </td>
-                                                                        <td>Mr.Kabir Bhasin
-                                                                        </td>
-                                                                        <td>220
-                                                                        </td>
-                                                                        <td>Students were motivated in  his talk
-                                                                        </td>
-
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>2   
-                                                                        </td>
-                                                                        <td>18/08/2016
-                                                                        </td>
-                                                                        <td>YESCAN-Entrepreneur talk 
-                                                                        </td>
-                                                                        <td>Mr.Ramesh Babu
-                                                                        </td>
-                                                                        <td>500
-                                                                        </td>
-                                                                        <td>Students were inspired in his talk
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>3   
-                                                                        </td>
-                                                                        <td>02/12/2016
-                                                                        </td>
-                                                                        <td>YESCAN-Guest lecture on Family Management Business
-
-                                                                        </td>
-                                                                        <td>Aravind Singh, Chandrashekhar Sohoni, Abhimanyu Dikshit
-
-                                                                        </td>
-                                                                        <td>350  
-                                                                        </td>
-                                                                        <td>Students know about entrepreneurship opportunities in the market and help them to be creative thinkers in their business
-                                                                        </td>
-                                                                    </tr>
-
-                                                                    <tr>
-                                                                        <td>4  
-                                                                        </td>
-                                                                        <td>05/01/2017
-                                                                        </td>
-                                                                        <td>YESCAN-Guest lecture on Family Management Business  
-                                                                        </td>
-                                                                        <td>Prof.Parimal Merchant
-                                                                        </td>
-                                                                        <td>90  
-                                                                        </td>
-                                                                        <td>Students were motivated to continue their family business
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>5
-                                                                        </td>
-                                                                        <td>23/02/2017-
-                                                                            02/03/2017
-                                                                        </td>
-                                                                        <td>E-Week Inaugural
-                                                                        </td>
-                                                                        <td>Ravish Dhamija
-
-                                                                        </td>
-                                                                        <td>125   
-                                                                        </td>
-                                                                        <td>Students were motivated to find out opportunities and become entrepreneur
-                                                                        </td>
-                                                                    </tr>
-
-
-                                                                </tbody>
-                                                            </table>
-                                                        </div>
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>                          
-
-
-
-                                    </div>
-                                </div>
-                                <div class="col-lg-3">
-                                    <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Our  <strong>Campus Profile</strong></span>
-                                        </h4>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="academic_arena.php">Academic Arena</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="library_info.php">Library</a></p>
-                                        </section>
-                                        <section class="link-arrow">   
-                                            <p><a class="a-link-arrow" href="library.php">Library EPAC</a></p>
-                                        </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
-                                        </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="sports_games.php">Sports &amp; Games</a></p>
-                                        </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="hostel.php">Hostel</a></p>
-                                        </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="common_facilities.php">Common Facilities</a></p>
-                                        </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="cafeteria.php">Cafeteria</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="atm.php">Atm</a></p>
-                                        </section>
-
-                                    </div>
-                                    <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                        </h4>
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
-                                    <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
                                         </div>
                                     </div>
+                                </div>
 
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading" role="tab" id="headingFive">
+                                        <h5 class="panel-title">
+                                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                                Activities organised by Entrepreneurship and Innovation Centre (EIC) [ June 2016-March 2017
+                                                ]
+
+                                            </a>
+                                        </h5>
+                                    </div>
+                                    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                                        <div class="panel-body">
+
+                                            <div class="table-responsive">
+                                                <table class="table table-hover table-bordered">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Sl. No.</th>
+                                                            <th>Date</th>
+                                                            <th>Nature of Event</th>
+                                                            <th>Resource Person</th>
+                                                            <th>No of Participants</th>
+                                                            <th>Outcome</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>1   
+                                                            </td>
+                                                            <td>12/08/2016
+                                                            </td>
+                                                            <td>Expert talk on Family owned enterprise  
+                                                            </td>
+                                                            <td>Mr.Kabir Bhasin
+                                                            </td>
+                                                            <td>220
+                                                            </td>
+                                                            <td>Students were motivated in  his talk
+                                                            </td>
+
+                                                        </tr>
+                                                        <tr>
+                                                            <td>2   
+                                                            </td>
+                                                            <td>18/08/2016
+                                                            </td>
+                                                            <td>YESCAN-Entrepreneur talk 
+                                                            </td>
+                                                            <td>Mr.Ramesh Babu
+                                                            </td>
+                                                            <td>500
+                                                            </td>
+                                                            <td>Students were inspired in his talk
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>3   
+                                                            </td>
+                                                            <td>02/12/2016
+                                                            </td>
+                                                            <td>YESCAN-Guest lecture on Family Management Business
+
+                                                            </td>
+                                                            <td>Aravind Singh, Chandrashekhar Sohoni, Abhimanyu Dikshit
+
+                                                            </td>
+                                                            <td>350  
+                                                            </td>
+                                                            <td>Students know about entrepreneurship opportunities in the market and help them to be creative thinkers in their business
+                                                            </td>
+                                                        </tr>
+
+                                                        <tr>
+                                                            <td>4  
+                                                            </td>
+                                                            <td>05/01/2017
+                                                            </td>
+                                                            <td>YESCAN-Guest lecture on Family Management Business  
+                                                            </td>
+                                                            <td>Prof.Parimal Merchant
+                                                            </td>
+                                                            <td>90  
+                                                            </td>
+                                                            <td>Students were motivated to continue their family business
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>5
+                                                            </td>
+                                                            <td>23/02/2017-
+                                                                02/03/2017
+                                                            </td>
+                                                            <td>E-Week Inaugural
+                                                            </td>
+                                                            <td>Ravish Dhamija
+
+                                                            </td>
+                                                            <td>125   
+                                                            </td>
+                                                            <td>Students were motivated to find out opportunities and become entrepreneur
+                                                            </td>
+                                                        </tr>
+
+
+                                                    </tbody>
+                                                </table>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>                          
+
+
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                            <h4 style="margin-left:10px;" class="mainheading">
+                                <i class="fa fa-bookmark"></i>
+                                <span>&nbsp;Student<strong>Services</strong></span>
+                            </h4>
+                            <section class="link-arrow">
+                                <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
+                            </section>
+                            <section class="link-arrow">
+                                <p><a class="a-link-arrow" href="eic.php">Entrepreneurship and Innovation Centre(EIC)</a></p>
+                            </section>
+                            <section class="link-arrow">   
+                                <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php">Jayantian Entrepreneurs</a></p>
+                            </section><section class="link-arrow">
+                            <p><a class="a-link-arrow" href="counselling_center.php">Counselling Centre</a></p>
+                            </section><section class="link-arrow">
+                            <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal </a></p>
+                            </section><section class="link-arrow">
+                            <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
+                            </section><section class="link-arrow">
+                            <p><a class="a-link-arrow" href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></p>
+                            </section>
+                            <section class="link-arrow">
+                                <p><a class="a-link-arrow" href="health_care.php">Health Care</a></p>
+                            </section>
+                            <section class="link-arrow">
+                                <p><a class="a-link-arrow" href="international_student_forum.php">International Student Forum</a></p>
+                            </section>
+                            <section class="link-arrow">
+                                <p><a class="a-link-arrow" href="coaching_center.php">Coaching Centre</a></p>
+                            </section>
+
+                        </div>
+                        <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                            <h4 style="margin-left:10px;" class="mainheading">
+                                <i class="fa fa-bookmark"></i>
+                                <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                            </h4>
+                            <?php include ('../php/sideMenu.php'); ?>
+                        </div>
+                        <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                            <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                <div class="fb-xfbml-parse-ignore">
+                                    <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                 </div>
                             </div>
                         </div>
 
-                        <!--                                </div>-->
-                        <?php include ('../php/alerts.php');  ?>
-                        <?php include('../php/footer.php'); ?>
-                        <?php include('../php/morphingSearch.php'); ?>
                     </div>
-
-
-
                 </div>
-                <!--/st-content-inner-->
             </div>
-            <!-- this is the wrapper for the content-->
+
+            <!--                                </div>-->
+            <?php include ('../php/alerts.php');  ?>
+            <?php include('../php/footer.php'); ?>
+            <?php include('../php/morphingSearch.php'); ?>
         </div>
-        <!--st-pusher-->
-        <!--        </div> st-container -->
 
-        <!--<script src="../js/cbpFWTabs.js"></script>-->
 
-        <script>
-            (function() {
 
-                [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
-                    new CBPFWTabs( el );
-                });
+        </div>
+    <!--/st-content-inner-->
+    </div>
+<!-- this is the wrapper for the content-->
+</div>
+<!--st-pusher-->
+<!--        </div> st-container -->
 
-            })();
-        </script>
-        <script src="../js/modernizr.custom.js"></script>
-        <script src="../js/spin.min.js"></script>
-        <script src="../js/mySpin.js"></script>
-        <script src="../js/swipeview.js"></script>
-        <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-        <script src="../js/classie.js"></script>
-        <script src="../js/morphingSearch.js"></script>
-        <script src="../js/sidebarEffects.js"></script>
-        <script src="../js/transit.js"></script>
-        <script src="../js/sly.js"></script>
-        <script src="../js/customSly.js"></script>
-        <script src="../js/wow.min.js"></script>
-        <!--    <script src="js/res-navtabs.js"></script>-->
-        <script src="../js/scripts.js"></script>
-        <script type="text/javascript">
-            function googleTranslateElementInit() {
-                new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-            }
-        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-    </body>   
+
+<script>
+    (function() {
+
+        [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+            new CBPFWTabs( el );
+        });
+
+    })();
+</script>
+<script src="../js/modernizr.custom.js"></script>
+<script src="../js/spin.min.js"></script>
+<script src="../js/mySpin.js"></script>
+<script src="../js/swipeview.js"></script>
+<script src="../js/jquery.bootstrap.newsbox.min.js"></script>
+<script src="../js/classie.js"></script>
+<script src="../js/morphingSearch.js"></script>
+<script src="../js/sidebarEffects.js"></script>
+<script src="../js/transit.js"></script>
+<script src="../js/sly.js"></script>
+<script src="../js/customSly.js"></script>
+<script src="../js/wow.min.js"></script>
+<!--    <script src="js/res-navtabs.js"></script>-->
+<script src="../js/scripts.js"></script>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+</body>   
 </html>
