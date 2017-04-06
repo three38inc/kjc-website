@@ -9,29 +9,29 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/images/icon.png">
+    <link rel="shortcut icon" href="../../../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/component.css" />
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/roundIcons.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/hoverEffect.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/morphing.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/navTabs.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/animate.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../../../css/morphing.css">
+    <link rel="stylesheet" href="../../../../css/navTabs.css">
+    <link rel="stylesheet" href="../../../../css/animate.css">
+    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-  <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
+    <link href="../../../../css/custom.css" rel="stylesheet">
+    <link href="../../../../css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/respond.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/fakeLoader.js"></script>
+    <script src="../../../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../../js/respond.js"></script>
+    <script src="../../../../js/custom.js"></script>
+    <script src="../../../../js/fakeLoader.js"></script>
     <style>
         .link-arrow a.a-link-arrow::before {
             left: 0px;
@@ -109,31 +109,31 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Academic Programs</span>
+                                        <span>&nbsp; <strong> Academic Programs</strong></span>
                                     </h4>
 
-                                    <p><b>Social Responsibility Week: </b><br>
-                                        This program is initiated to bring social awareness among students and to create a concern for society. Following are some of the activities conducted during a week long program to sensitise the students with social issues and problems.</p>
+                                    Social Responsibility Week:
+                                    <p>This program is initiated to bring social awareness among students and to create a concern for society. Following are some of the activities conducted during a week long program to sensitise the students with social issues and problems.</p>
 
                                     <p>Presentation, poster making, useful of useless, debate, social quiz, sponsoring a meal to orphans</p>
 
-                                    <p><b>Virtuoso: </b><br>
+                                    <p><b>Virtuoso:</b><br>
                                         "Virtuoso" is a workshop conducted by the department of management for the first year students, organised by the final year BBM students, wherein they are introduced to the basic concepts of managerial events so that they have an idea about the contents of a fest.</p>
 
                                     <p><b>Anveshan:</b><br>
                                         Anveshan is an intra class paper presentation competition, started in the year 2010. The competition is opened for only final year BBM students. The students be are divided into different groups of each consisting 3 students and the paper presentation topics will be given in different areas related to management. The students are briefed about the guidelines and conditions to present papers. Later students are given enough time to make a study about the given topic and submit the report on the same.</p>
 
-                                    <p><b>Guest Lectures: </b><br>
-Experts from industries are invited to interact with students on various issues related to management and discuss to explore new ideas and suggestions for the development of practices in management.</p>
-                                    
-                                    <p><b>Workshops: </b><br>
+                                    <p><b>Guest Lectures:</b><br>
+                                        Experts from industries are invited to interact with students on various issues related to management and discuss to explore new ideas and suggestions for the development of practices in management.</p>
+
+                                    <p><b>Workshops:</b><br>
                                         The workshops on different concepts like communication, lateral thinking, creative thinking, mind mapping, innovation in management etc. have been conducted for the students over the years to give them the practical knowledge on various management issues.</p>
 
-                                    <P><b>Exhibitions: </b><br>
-                                        Exhibitions are an opportunity for students to showcase their talents and skills. During exhibitions the students exhibit their skills in communication, management, leadership, innovation, creativity etc.</P>
+                                    <p><b>Exhibitions:</b><br>
+                                        Exhibitions are an opportunity for students to showcase their talents and skills. During exhibitions the students exhibit their skills in communication, management, leadership, innovation, creativity etc.</p>
 
                                     <p><b>Industrial Visits:</b><br>
                                         Industrial visits are undertaken to expose students to various production and operational techniques to update the students with latest developments in the manufacturing industry. The field visits to various small, medium and large industries are organised.</p>
@@ -144,29 +144,36 @@ Experts from industries are invited to interact with students on various issues 
                                     <p><b>Prodigy:</b><br>
                                         Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore</p>
 
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Programs Offered </strong></span>
+                                       <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bba.php">BBA Bachelor of Business Administration</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bba_integrated.php">BBA CGMA Integrated</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
-                                    </section> </div>
-                                
-                                
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                    </section>
+
+
+                                </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
@@ -175,73 +182,70 @@ Experts from industries are invited to interact with students on various issues 
                                         </h4>
                                         
                                         
-                                
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="acadmic_calendar.php">Academic Calender</a></p>
+                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_programs.php">Academic Programs</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                    </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="fests.php">Fests</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                    </section>
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Faculty Profile</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="projects.php">Projects</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="association.php">Association</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="achivements.php">Achievements</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="bestpractices.php">Best Practices</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="careeropportunity.php">Career Opportunity</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_opportunity.php">Career Opportunity</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="curriculm.php">Curriculum</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="schedule_examination.php">Schedule of Examination</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="book.php">Book Publications</a></p>
+                                    </section>
+                                        
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="department_magazine.php">Department Magazine</a></p>
-                                    </section> 
-                                    
-                                    
-                                    
-                                    
+                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
+                                    </section>
                                     </div>
-                                
-                                
-                                
-                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
@@ -268,11 +272,11 @@ Experts from industries are invited to interact with students on various issues 
 
                     </div>
 
-                    						                                </div>
+                    <!--						                                </div>-->
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
-<!--                </div>-->
+                </div>
 
 
 
@@ -285,7 +289,7 @@ Experts from industries are invited to interact with students on various issues 
     </div>
     <!--st-container-->
 
-    <script src="../js/cbpFWTabs.js"></script>
+    <script src="../../../../js/cbpFWTabs.js"></script>
     <script>
         (function() {
 
@@ -296,20 +300,20 @@ Experts from industries are invited to interact with students on various issues 
         })();
 
     </script>
-   <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.academics.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/spin.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/mySpin.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/swipeview.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/classie.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/morphingSearch.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sidebarEffects.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/transit.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/customSly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/wow.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/scripts.js"></script>
+    <script src="../../../../js/modernizr.custom.js"></script>
+    <script src="../../../../js/spin.min.js"></script>
+    <script src="../../../../js/mySpin.js"></script>
+    <script src="../../../../js/swipeview.js"></script>
+    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../../../js/classie.js"></script>
+    <script src="../../../../js/morphingSearch.js"></script>
+    <script src="../../../../js/sidebarEffects.js"></script>
+    <script src="../../../../js/transit.js"></script>
+    <script src="../../../../js/sly.js"></script>
+    <script src="../../../../js/customSly.js"></script>
+    <script src="../../../../js/wow.min.js"></script>
+    <!--    <script src="js/res-navtabs.js"></script>-->
+    <script src="../../../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({

@@ -9,29 +9,29 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="../images/icon.png">
+    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="../css/component.css" />
-    <link rel="stylesheet" href="../css/font-awesome.css">
-    <link rel="stylesheet" href="../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../css/roundIcons.css">
-    <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
-    <link rel="stylesheet" href="../css/navTabs.css">
-    <link rel="stylesheet" href="../css/animate.css">
-    <link rel="stylesheet" href="../css/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/component.css" />
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/roundIcons.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/hoverEffect.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/morphing.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/navTabs.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/animate.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/fakeLoader.css">
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="../css/custom.css" rel="stylesheet">
-    <link href="../css/innerpage.css" rel="stylesheet">
+  <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
+    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="../js/jquery-1.11.0.min.js"></script>
-    <script src="../bootstrap/js/bootstrap.min.js"></script>
-    <script src="../js/respond.js"></script>
-    <script src="../js/custom.js"></script>
-    <script src="../js/fakeLoader.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/respond.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/custom.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/fakeLoader.js"></script>
     <style>
         .link-arrow a.a-link-arrow::before {
             left: 0px;
@@ -90,11 +90,11 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php include ('../php/navbar.php');  ?>
+            <?php include ('../../../../php/navbar.php');  ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../php/offCanvasMenu.php'); ?>
+        <?php include('../../../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -114,11 +114,11 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Fests</span>
                                     </h4>
-
-                                    <p><b>Acumen:</b><br>
+                                 <p><b>Acumen:</b><br>
                                         Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
                                     <p><b>Prodigy:</b><br>
                                         Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore. </p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -141,12 +141,16 @@
                                         <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
                                     </section> </div>
                                 
-                                <div class="col-lg-3">
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Activities</strong></span>
-                                    </h4>
+                                
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
                                     </section>
@@ -212,14 +216,14 @@
                                 
                                 
                                 
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
 
-                                        <?php include ('../php/sideMenu.php'); ?>
+                                        <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
 
@@ -239,11 +243,11 @@
 
                     </div>
 
-                    <!--						                                </div>-->
-                    <?php include ('../php/alerts.php');  ?>
-                    <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
-                </div>
+                    						                                </div>
+                    <?php include ('../../../../php/alerts.php');  ?>
+                    <?php include('../../../../php/footer.php'); ?>
+                    <?php include('../../../../php/morphingSearch.php'); ?>
+<!--                </div>-->
 
 
 
@@ -267,20 +271,20 @@
         })();
 
     </script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/spin.min.js"></script>
-    <script src="../js/mySpin.js"></script>
-    <script src="../js/swipeview.js"></script>
-    <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
-    <script src="../js/sidebarEffects.js"></script>
-    <script src="../js/transit.js"></script>
-    <script src="../js/sly.js"></script>
-    <script src="../js/customSly.js"></script>
-    <script src="../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../js/scripts.js"></script>
+   <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.academics.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/spin.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/mySpin.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/swipeview.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/classie.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/morphingSearch.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sidebarEffects.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/transit.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sly.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/customSly.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/wow.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({

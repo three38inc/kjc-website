@@ -9,29 +9,29 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="../images/icon.png">
+    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="../css/component.css" />
-    <link rel="stylesheet" href="../css/font-awesome.css">
-    <link rel="stylesheet" href="../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../css/roundIcons.css">
-    <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
-    <link rel="stylesheet" href="../css/navTabs.css">
-    <link rel="stylesheet" href="../css/animate.css">
-    <link rel="stylesheet" href="../css/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/component.css" />
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/roundIcons.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/hoverEffect.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/morphing.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/navTabs.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/animate.css">
+    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/fakeLoader.css">
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="../css/custom.css" rel="stylesheet">
-    <link href="../css/innerpage.css" rel="stylesheet">
+  <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
+    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="../js/jquery-1.11.0.min.js"></script>
-    <script src="../bootstrap/js/bootstrap.min.js"></script>
-    <script src="../js/respond.js"></script>
-    <script src="../js/custom.js"></script>
-    <script src="../js/fakeLoader.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/respond.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/custom.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/fakeLoader.js"></script>
     <style>
         .link-arrow a.a-link-arrow::before {
             left: 0px;
@@ -90,11 +90,11 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php include ('../php/navbar.php');  ?>
+            <?php include ('../../../../php/navbar.php');  ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../php/offCanvasMenu.php'); ?>
+        <?php include('../../../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -115,7 +115,7 @@
                                         <span>&nbsp; Career Opportunities</span>
                                     </h4>
 
-                                    <p align=justify>The career opportunities for the students of management are enormous. After the completion of BBA course, students can take up jobs in different disciplines like marketing, finance, human resources, information technology, concept processing etc. and different domains like manufacturing, banking, insurance, share broking, chartered accountancy, business process outsourcing, knowledge process outsourcing, logistics, transportation, exports and imports, aviation, defence, event management, consultancy etc.</p>
+                               <p align=justify>The career opportunities for the students of management are enormous. After the completion of BBA course, students can take up jobs in different disciplines like marketing, finance, human resources, information technology, concept processing etc. and different domains like manufacturing, banking, insurance, share broking, chartered accountancy, business process outsourcing, knowledge process outsourcing, logistics, transportation, exports and imports, aviation, defence, event management, consultancy etc.</p>
 
                                     <p align=justify>Students are also encouraged to start their own business venture as they learn the basic and advanced concepts about entrepreneurship. BBM program enables management students to venture into business by themselves with the help of funding agencies. The entrepreneurial skills that students learn during the course helps in developing the confidence in students who really have passion to start their own business and enable them to bring the factors of production together. The ED (Entrepreneurship Development) Cell of the college also helps the students to get help from different supporting agencies in the country to train and provide necessary information to the students.</p>
 
@@ -144,12 +144,16 @@
                                         <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
                                     </section> </div>
                                 
-                                <div class="col-lg-3">
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Activities</strong></span>
-                                    </h4>
+                                
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
                                     </section>
@@ -215,14 +219,14 @@
                                 
                                 
                                 
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
 
-                                        <?php include ('../php/sideMenu.php'); ?>
+                                        <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
 
@@ -242,11 +246,11 @@
 
                     </div>
 
-                    <!--						                                </div>-->
-                    <?php include ('../php/alerts.php');  ?>
-                    <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
-                </div>
+                    						                                </div>
+                    <?php include ('../../../../php/alerts.php');  ?>
+                    <?php include('../../../../php/footer.php'); ?>
+                    <?php include('../../../../php/morphingSearch.php'); ?>
+<!--                </div>-->
 
 
 
@@ -270,20 +274,20 @@
         })();
 
     </script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/spin.min.js"></script>
-    <script src="../js/mySpin.js"></script>
-    <script src="../js/swipeview.js"></script>
-    <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
-    <script src="../js/sidebarEffects.js"></script>
-    <script src="../js/transit.js"></script>
-    <script src="../js/sly.js"></script>
-    <script src="../js/customSly.js"></script>
-    <script src="../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../js/scripts.js"></script>
+   <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.academics.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/spin.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/mySpin.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/swipeview.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/classie.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/morphingSearch.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sidebarEffects.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/transit.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sly.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/customSly.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/wow.min.js"></script>
+    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
