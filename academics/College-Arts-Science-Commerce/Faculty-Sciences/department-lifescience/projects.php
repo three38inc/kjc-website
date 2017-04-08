@@ -112,35 +112,95 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Department Of <strong>LifeSciences</strong></span>
+                                        <span>&nbsp;<strong> Research Projects</strong></span>
                                     </h4>
+                                    <p><b>Ongoing self funded/industry projects</b><br>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology.   
-                                    </p>
-                                    <p align="justify">
-                                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                    </p>
-                                    <p align="justify">
-                                         The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                    </p>
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
+                                 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Project Title</th>
+      <th>Investigators</th>
+      <th>Collaboration/ Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Microbial Screening for different applications</td>
+      <td>Leads Pvt. Ltd, Bangaluru &Dept of LS,  KJC  (Dr. Elcey CD)</td>
+      <td>Leads Pvt. Ltd, Bangaluru /Ongoing </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Phyto-compound screening</td>
+      <td>Leads Pvt. Ltd, Bangaluru & Dept of LS,  KJC (Dr. Elcey CD)</td>
+      <td>Leads PvtLtd, Bangaluru / Ongoing</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Microbial Screening and cell line studies</td>
+      <td>CellTricks Biotech Pvt Ltd., Bengaluru & Dept of LS,  KJC ( Dr. Elcey)</td>
+      <td>CellTricks Biotech Pvt Ltd., Bengaluru/  On going</td>
+    </tr>
+      <tr>
+      <th scope="row">4</th>
+      <td>Nuetra-ceutical Formulation of Bioactive compounds</td>
+      <td>Dr. Jude Calistus & Dr. S. Vijayanand </td>
+      <td>Self-Finance- Minor Project /Ongoing</td>
+    </tr>
+       <tr>
+      <th scope="row">5</th>
+      <td>Phytochemical Analysis of various plants</td>
+      <td>Dr. S. Vijayanand</td>
+      <td>Self-Finance- Minor Project /Ongoing</td>
+    </tr>
+      <tr>
+      <th scope="row">6</th>
+      <td>Synthesis of magnetite nano particles and its toxicity studies</td>
+      <td>Dr. Elcey CD</td>
+      <td>Self-Finance- Minor Project/ Ongoing</td>
+    </tr>
+    
+  </tbody>
+</table>
+          <p><b>Projects applied to Government funding agency</b></p>
+                                    
+         <table class="table table-bordered">     <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Project Title</th>
+      <th>Funding Agency</th>
+      <th>Investigators</th>
+     <th>Project Estimated Cost</th>
+     <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms </td>
+      <td>SERB, DST, INDIA </td>
+      <td>Dr. Elcey CD</td>
+        <td>85, 87, 400 </td>
+        <td></td>
+    </tr>
+   
+    <tr>
+      <th scope="row">3</th>
+      <td>Isolation and characterization of Phytochemicals from Michelia Champaca and Thespesia Populnea for evaluation of Therapeutic Potential</td>
+      <td>VGST, GOVT. KARNATAKA</td>
+      <td>Dr.S. Vijayanand</td>
+         <td>10 Lakhs</td>
+         <td>2 Years</td>
+      </tr>
+  </tbody>
+</table>                       
+                                    
+                   
+                                    
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -160,7 +220,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
                                     </section>
 
 
@@ -240,7 +300,6 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
                                     </section>
-                                        
                                     </div>
                                      <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -248,6 +307,7 @@
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
+
                                         <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
@@ -268,7 +328,7 @@
 
                     </div>
 
-                						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>

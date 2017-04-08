@@ -112,35 +112,55 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Department Of <strong>LifeSciences</strong></span>
+                                        <span>&nbsp;<strong>Patent Recognition</strong></span>
                                     </h4>
+                                    <p><b>Patent:: Garlic formulation & process for preparing the same for treatment of DIABETICS : US,13/906,432 - Dr. Deepa</b></p>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology.   
-                                    </p>
-                                    <p align="justify">
-                                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                    </p>
-                                    <p align="justify">
-                                         The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                    </p>
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
+                                    <p><b><u>Research Publications by Faculty Members</u></b></p>
+                                    
+                                    
+        
+                          <div class="well well-sm">
+                              <center>National Journals: 11</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>International journals: 21</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books : 5</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books Chapters : 9</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books Edited: 1 </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Publication listed in International Database - 23 </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Citation Index - range / average - 0.012- 161</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>SNIP -0.3556 (average) </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>SJR -0.3916 (average)</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Impact factor - range / average - 1.9647</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>h-index � 51.2 (Average)</center>
+                               </div>
+                                  
+                                    
+                                    
+                                    
+                                    
+                                    
+                                 
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -160,7 +180,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
                                     </section>
 
 
@@ -240,7 +260,6 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
                                     </section>
-                                        
                                     </div>
                                      <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -248,6 +267,7 @@
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
+
                                         <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
@@ -268,7 +288,7 @@
 
                     </div>
 
-                						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>

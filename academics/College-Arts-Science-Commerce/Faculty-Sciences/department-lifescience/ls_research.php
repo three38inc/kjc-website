@@ -433,7 +433,7 @@ Central Instrumentation' facility is a special feature of the Research complex.
 
                     </div>
 
-                    <!--						                                </div>-->
+                    						                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>

@@ -112,35 +112,84 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Department Of <strong>LifeSciences</strong></span>
+                                        <span>&nbsp;<strong>Articles Published</strong></span>
                                     </h4>
-
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology.   
-                                    </p>
-                                    <p align="justify">
-                                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                    </p>
-                                    <p align="justify">
-                                         The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                    </p>
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
+                                   <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Name </th>
+      <th>Title of the Article </th>
+      <th>Details of Publisher </th>
+      <th>Month/ Year of publication/ISSN No</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Antibacterial activity of Leaf extracts of Alpinia cacarata,Bauhinia tomentosa and Curcumazedoaria</td>
+      <td>International journal of Institutional pharmacy and lifesciences</td>
+      <td>June/2015/ISSN :2249-6807</td>
+    </tr>
+      <tr>
+      <th>Dr.Shalini Prabhu</th>
+      <td>Ssr based population bottleneck studies on
+coconut accessions from south peninsular india</td>
+      <td>International Journal of Pharma
+and Bio Sciences</td>
+      <td>October/2015
+ISSN 0975-6299 </td>
+    </tr>
+      <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Evaluation of Antidiabetic activity of Murraya
+koenigii on Alloxan Induced Diabetic rats</td>
+      <td>International Journal of Pharma
+Sciences and Research (IJPSR)</td>
+      <td>Dec 2015
+ISSN No 0975-9492</td>
+    </tr>
+      <tr>
+      <th>Dr.Elcey CD</th>
+      <td>Evaluation of Antistaphylococcal Activity of Ellagic Acid Extracted from Punica granatum Fruit Peel on MRSA</td>
+      <td>International Journal of Current
+Microbiology and Applied Science</td>
+      <td>February/2016/ISSN 2319-7706</td>
+    </tr>
+      <tr>
+      <th>Dr. Challaraj
+Emmanuel</th>
+      <td>Effect of rare earth elements on growth and
+ascorbate metabolism during wheat (Triticum
+aestivum) germination</td>
+      <td>International Research Journal of
+Agricultural Science and Soil
+Science</td>
+      <td>November, 2015,
+(ISSN: 2251-0044)</td>
+    </tr>
+      <tr>
+      <th>Dr.Elcey CD </th>
+      <td>Synthesis of magnetite nanoparticle from
+optimized iron reducing bacteria isolated from
+iron ore mining sites</td>
+      <td>International journal of Current
+microbiology and applied sciences</td>
+      <td>ISSN 2319-7706
+August 2014</td>
+    </tr>
+      <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Antioxidant and antimicrobial activity of Melia
+azadirachta and Murraya koenigii</td>
+      <td>International Journal of Pharma
+sciences and research</td>
+      <td>ISSN: 0975-9492
+December 2014</td>
+    </tr>
+                                       </tbody></table>
+                       
+                                 
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -160,7 +209,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
                                     </section>
 
 
@@ -240,7 +289,6 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
                                     </section>
-                                        
                                     </div>
                                      <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -248,6 +296,7 @@
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                         </h4>
+
                                         <?php include ('../../../../php/sideMenu.php'); ?>
                                     </div>
 
@@ -268,7 +317,7 @@
 
                     </div>
 
-                						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
