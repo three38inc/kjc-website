@@ -81,24 +81,23 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Career <strong>Opportunities </strong></span></h4>
+                                    
+                                <p><b>The course offers opportunities in the following fields</b><br>
+                                    <b>Counselling Psychologist</b><br>
+* Special School Facilitators<br>
+* HR Specialist<br>
+* Teacher/Lecturer<br>
+* Rehabilitation Specialist<br>
+* Career Counsellor<br>
+* Psychology Consultant<br>
+* Life Skill Facilitator<br>
+                                    * Research & Development</p>
+                                <p align=justify><b>PLACEMENT CELL</b><br>
+                                    The in-house placement team works towards a 100% placement of students in various work-related opportunities. Regular placement drives are organized to facilitate students with the exploring possible scope in their related fields.</p>
+                                
+                                <img src="images/psychology_placement.jpg">
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
