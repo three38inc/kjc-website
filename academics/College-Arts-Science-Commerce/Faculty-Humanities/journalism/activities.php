@@ -81,24 +81,11 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                    <span>&nbsp;<strong>Activities</strong></span></h4>
+                                <p align=justify><b>Lumos 2016- adding light to life- Photography exhibition inaugurated</b><br>
+                                    Lumos 2016- the annual photography exhibition organized by Department of Journalism and Mass Communication of Kristu Jayanti College was inaugurated on September 23, 2016. Rev. Fr. Lijo P Thomas, Financial Administrator, Kristu Jayanti College; inaugurated the event. Over forty student photographer displayed over four hundred photographs on various themes like portraitures, macro, emotions and actions, still life and wild life.</p>
+                                
+                               
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

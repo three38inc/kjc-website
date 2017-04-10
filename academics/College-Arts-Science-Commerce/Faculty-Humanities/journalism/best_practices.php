@@ -81,24 +81,21 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Best<strong> Practices</strong></span></h4>
+                                
+                                <p><b>*</b> Seminar/ workshops/ CSR activities <br>
+<b>*</b> Internship<br>
+<b>*</b> Press release preparation<br>
+<b>*</b> Network of alumni<br>
+<b>*</b> Film, Journalism & Photography clubs<br>
+<b>*</b> Mock press conferences <br>
+                                    <b>*</b> Television and radio production are some of the best practices of the department.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                       
+   
+                              
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                              
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -170,7 +167,7 @@
                                         <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
                                     </section>
                                         
-                                       <section class="link-arrow">
+                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
                                     </section>
                                         
