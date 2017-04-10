@@ -81,24 +81,16 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Journalism <strong>  Club</strong></span></h4>
+                                
+                                <p align=justify>The main objective of the journalism club is to empower the media aspirants in KristuJayanti College with creative talents. Towards this end, the club regularly provides myriad opportunities to understand the latest developments in the media scenario, both in style and content. Activities like mock press, public communication for social transformation, debates, newsletter publishing, Ad campaigns, quizzes etc. are a few events where students get opportunities to become more expressive. The club also conducts regular workshops and seminars for the journalists to attain hands on experience. Moreover, every year the club organizes summer internship plan for budding journalists.</p>
+                       
+                                <p align=justify><b>Film and Photography Club </b><br>
+                                    Film and Photography Club organizes regular screening of artistic cinema, documentaries and photo exhibitions. This forum provides the students an opportunity to watch, discuss and review films and photography. Moreover, it is a fantastic Launchpad for the student aspirants in the field, exposing them to liberal arts and critical thinking.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                              
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                              
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -170,7 +162,7 @@
                                         <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
                                     </section>
                                         
-                                       <section class="link-arrow">
+                                        <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
                                     </section>
                                         

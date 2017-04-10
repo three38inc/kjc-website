@@ -81,24 +81,26 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;<strong>Journalism</strong></span></h4>
+                                <p align=justify><b>Overview</b><br>
+The department of Journalism and Mass Communication at Kristu Jayanti College, Bangalore, offers four triple major undergraduate programs and a master’s degree program, MA Journalism and Mass Communication. Since its inception in 2002, it is one of the most dynamic departments in the campus, which stresses a balance between the theoretical and practical aspects of journalism and mass communication. Along with the classroom lectures, the various activities of the department have received much recognition among the students. The alumni of the department work in diverse media verticals. And has bagged several states, national and international awards in their profession and brought glory to the department. The current students actively participate in various national level fests and 
+                                    These activity oriented pedagogical practices enables the students to be competitive in the technology and creativity driven media industry.</p>
+                                <p><b>Our Pedagogy -Synergizing Journalism Programs with Practical Components to equip learners to sharpen their skills in a wide range like:</b><br>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                                    <li> Competencies of general knowledge and intellectual ability</li>
+                                    <li> Professional techniques of research, writing (and other forms of presentation), editing, design, and production</li>
+                                    <li> Professional understandings, including ethics</li>
+                                    <li> Knowledge of journalism's role in society, including journalism's history, the organization of the news media, and laws related to journalism practice</li>
+                                    <li> Knowledge of best practices in various other platforms like: Print, Electronic media, Beat reporting, Content development, Advertising, PR, Corporate communication and New media</li>
+                                <p align=justify><b>The various courses offered by the department are</b><br>
+                                    <b>MA Journalism and Mass Communication</b><br>
+                                    The MA - Journalism & Mass Communication is a two year post graduate program which fosters intense and rigorous media training through sessions like, newsletter preparations, advertising campaigns, television and film production, campaigns for social causes, experiential learning programs (field work), new media and radio program productions</p>
+                                <p align=justify><b>BA Triple Major</b><br>
+The course is part of the four BA triple major combinations and consists of eight subjects' titles stretching all the semesters. The major papers include introduction to mass communication, print journalism, radio and new media, reporting, editing, advertising and PR, and television and cinema.</p>
+    <p> The students of both UG and PG undergo an internship program for a prescribed period in an organization of their choice.</p>
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                
+                               
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -170,7 +172,7 @@
                                         <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
                                     </section>
                                         
-                                       <section class="link-arrow">
+                                      <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
                                     </section>
                                         

@@ -81,24 +81,14 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;KJC <strong>TV</strong></span></h4>
+                                <p align=justify>All the events that are organized by the college are covered by the journalism students and screened in KJC TV on a regular basis. This enables the students to understand various techniques of television production and provides a platform to enhance the professional skills.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                            <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank" class="btn btn-primary btn-sm">WATCH HERE</a>
+   
+                              
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                              
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
