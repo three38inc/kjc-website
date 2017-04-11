@@ -81,24 +81,63 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                    <span>&nbsp; BA  <strong>-Program offered </strong></span></h4>
+                                    
+                              
+   <p><b>Graduate Programme (BA)</b><br>
+Psychology is one of the core subjects in the bachelor's programme (duration of three years) offered in the combinations:<br>
+JPCS (Journalism, Psychology, Computer Science), and<br>
+                                    JPEng. (Journalism, Psychology, Optional English)</p>
+                                <p><b>Eligibility:</b><br>
+                                    Students securing at least 40% aggregate marks, including languages, in P.U.C/10+2/ or equivalent courses are eligible for the programme.</p>
+                                <p><b>Syllabus:</b></p>
+                                  <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Paper</th>
+      <th>Theory</th>
+      <th>Practical</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Paper 1-Basic Psychological processes</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <th scope="row">II</th>
+      <td>Paper II- Basic Psychological Processes</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <th scope="row">III</th>
+      <td>Paper 3- Developmental Psychology</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+      <tr>
+      <th scope="row">IV</th>
+      <td>Paper 4- Developmental Psychology</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+      <tr>
+      <th scope="row">V</th>
+      <td>Paper-5 Abnormal Psychology Practical-1 - (Personality) Industrial Psychology and Organizational Behaviour-1 Practical-1 - (Aptitude</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+      <tr>
+      <th scope="row">VI</th>
+      <td>Paper-6 Abnormal Psychology Practical-2 - (Personality) & Industrial Psychology and Organizational Behaviour-2 Practical-2- (Aptitude)</td>
+      <td>70</td>
+      <td>30</td>
+    </tr>
+     </tbody></table>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

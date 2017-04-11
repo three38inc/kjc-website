@@ -81,24 +81,15 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; M.Sc<strong>Program offered </strong></span></h4>
+                                    
+                              
+                                <p align=justify><b>Post Graduate Programme (M.Sc.)</b><br>
+                                    The M.Sc. programme spans over two years (4 semesters) duration offering specializations in Clinical Psychology, Industrial Psychology and Counselling Psychology. The specializations begin from the Third semester.</p>
+                                <p align=justify>To impart hands-on-experience in research and experiential learning according to the specialization, internships are provided for a duration of two months after the third semester, in organizations like Christian Medical College Vellore, Kempegowda Institute of Medical Science Bangalore , SCARFF , Pepsi CO , Lifestyle International, Hinduja Global Solutions, COPER , Tata Steel , Future Retail, 3M, Strides and NGOs etc.</p>
+                                <p align=justify><b>Eligibility:</b><br>
+                                    BA/B.Sc. degree from Bangalore University or any other University offering an equivalent degree with at least 50% marks (45% for SC/ST) in the main subjects individually as well as in aggregate, with Psychology as a compulsory subject.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
