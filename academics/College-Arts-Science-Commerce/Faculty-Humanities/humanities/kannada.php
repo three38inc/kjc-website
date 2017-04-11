@@ -81,24 +81,25 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; <strong>Kannada</strong></span></h4>
+                                
+                                <p>Knowledge of Kannada literature is essential in the present scenario. The value system can be strengthened through the literary works of great scholars. So, the department focuses on providing literature knowledge as well as the value system. The olden day’s literature enriches through people and the students come to know the life style of those people, societies and the family systems through various sessions. Department of Kannada always tries to enrich the quality of life through language learning. Department is organizing many activities to motivate students to learn things beyond the text books. </p>
+                                <p>Department organizes “Kannada Habba” to exhibit the literary and cultural talents of Kannada students. Guest lectures from great scholars motivate the students to get more focus on language learning. </p>
+                                <p>“Kuppali Field visit” will be a cherishing memory for III semester Kannada students. Students experience the beauty of Malanaadu, the Western Ghats which inspires poets like Kuvempu, Da. Ra. Bendre, Poorna Chandra Thejaswi. </p>
+                                <p>Department of Kannada also organizes National Level Seminar every year on language and cultural related topics. Well known writers, speakers visit the College to address the students. Rangantharanga- the annual theatrical performance of the department provides the opportunity for the students to exhibit their talents.</p>
+                                <p>Every year Kannada students will have a chance to attend theater workshop and a play to practice. Students also perform in Ravindrakalaakshethra, Rangashakara and Kalaagrama. </p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+                                <p><b>Activities </b><br>
+1.	Kannada Habba<br>
 
-                                    </div>
+2.	Kuppali Field visit<br>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+3.	National level seminar<br>
+
+4.	Rangaatharanga- theater activity<br>
+
+                                    5.	Guest lectures</p> 
+
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +141,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

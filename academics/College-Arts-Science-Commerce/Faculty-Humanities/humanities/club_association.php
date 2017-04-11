@@ -81,24 +81,10 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                    <span>&nbsp; Club  <strong> and Association</strong></span></h4>
+                                
+                                <p align=justify>In Humanities department, structured strategies are adapted for both slow learners and advanced learners. The sub-department functions under a club viz., Psychology Club, Journalism Club, Literature Club Political Science Club and a Movie Club. These clubs function actively throughout the year to encourage active participation to showcase innate talents and enhance their skills. Students are made to involve with zest and enthusiasm in all extension activities and outreach programs to have a firsthand experience with the underprivileged and marginalized sect of the society for a holistic development. Subject teachers and class teachers support and motivate students in all aspects. Most importantly student support services like counseling sessions, personality development programs, soft skill training, women empowerment and career guidance and placement assistance focus on progression of students to higher education and employment.</p>
+                                <p align=justify>With all in house training and participation on the placement cell finds the right job for the right candidate and ensures every individual a safe place in the job market. Quality enhancement cell initiate new policies for a better outcome with regard to academics and co-curricular activities. Suggestions from the student council and feedback from the alumni are considered and implemented for the well-being of the students.</p>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +126,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

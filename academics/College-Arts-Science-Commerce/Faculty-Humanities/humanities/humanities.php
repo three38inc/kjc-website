@@ -81,24 +81,14 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Department of <strong> Humanities</strong></span></h4>
+                                
+                                <p align=justify><b>About the Department - Synergy of Eight Disciplines</b><br>
+                                    The department of humanities was established in the year 2002. It has diverse subjects like Journalism, English Literature, Computer Science, History and Political Science apart from languages. The Department has an inter-disciplinary approach to teaching-learning methods that cater to students from multicultural background. It provides a nurturing ground for students who are creative, resourceful and dynamic. The objective of the discipline is to ensure holistic development of every student towards academic and co-curricular excellence. This is made possible by providing a value enabled professional teaching system for an overall development. Moreover, the Department has a history of producing outstanding results since its inception.</p>
+<p align=justify>The department offers triple major courses comprising of JPCS, JPEng, HTJ, HEP, JPsEng specializing in subjects like English, Journalism, Psychology, History, Political Science, and Computer Science in the undergraduate level and also offers postgraduates programs in English Literature and Journalism. 
+    To equip students with additional inputs with regard to their subjects, the department has initiated various practical skills like counselling, soft skills and remedial grammar classes. Apart from the academics, the department has nurtured and motivated the students to take part in various other sports and co-curricular activities. The overall championship of the department in various college Fests across the country substantiate this fact.</p>
+                                <p>The success rate of the department for past two years was 91.11% and 84.62% respectively.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +130,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
