@@ -81,25 +81,12 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                                    <span>&nbsp; Vision <strong> & Mission</strong></span></h4>
+                                
+                                <p><b>Vision</b><br>
+                                    Illuminate young minds with critical reasoning and esthetic essence</p>
+                                <p><b>Mission</b><br>
+                                    To enhance a learning environment for educational exposure and experience</p>
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
@@ -140,19 +127,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

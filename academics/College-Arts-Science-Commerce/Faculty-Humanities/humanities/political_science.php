@@ -81,24 +81,21 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Political <strong>Science</strong></span></h4>
+                                
+                                <p align=justify>Established in the year 2006, the Department of Political Science provides a comprehensive program of instruction and research in the fundamental areas of the discipline: political institutions and processes; the origins, development and transformation of theory and concepts; understanding different approaches to political analysis; political philosophy; social theory; political economy, public administration, its principles, International relations, approaches to world politics and peace.</p>
+                                <p align=justify>As a community of students, faculty and staff, the Department of Political Science is committed to academic freedom, equal access to education and collegial self-governance through experiential learning. The method of teaching is sanctioned by the ICT enabled techniques with emphasis upon class interaction and there is a continuous evaluation incorporating the surprise class tests and pragmatic assignments. </p>
+                                <p align=justify>The process of experiential learning includes an annual field visits to the parliament of India, Rastrapathi Bhavan, Gandhi Bhavan and other important places. At regular intervals guest lectures are arranged to have the best interaction and to make the subject more practical. Newspaper reading is a regular affair to keep the students updated in current affairs. Besides in order to enhance the practical knowledge activities like youth parliament, mock election and panel discussion forums have been organized. Our ultimate aim is to enable our diverse student body, to be an ideal citizen and to become successful professionals’ in the future social, political and academic life of their home countries.</p>
+                                <p align=justify>The cognitive skills the department seeks to impart include the employment of different methods of analysis and critical thinking. Use of these will enable students to deepen and broaden their knowledge of politics and to articulate their own ethical stance on issues studied. </p>
+                                <p align=justify>The department operates through the interdependence between or among the different constituent units and such mechanism of organized operation depends upon wide legitimacy.</p>
+                                <p align=justify><b>Activities</b><br>
+                                    <b>Events of Clubs and associations</b><br>
+                                    The Political Science club stages various activities ranging from Polemic (Debate House), Examen (Quiz), Policrazy, Documentary Presentation, Movie Screening, mock election, youth parliament and game show etc. Besides, there has been regular extra-curricular exercises includes within its gamut paper presentation, workshops and other development orientation program. </p>
+                                <p align=justify><b>Guest lectures and Seminars</b><br>
+                                    The department is well aware of the requirements and the limitations that a class room has, also the Global competition that a student of Humanities must encounter. With this criterion in mind, the students are exposed to a number of Value added courses, Guest Lectures and Seminars. With relevant topics and pioneers in various fields, this in house training refines students into sought after erudies.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +137,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

@@ -81,24 +81,14 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; <strong>Activities</strong></span></h4>
+                                
+                                <p align=justify><b>La fete: Inter collegiate fest</b><br>
+The college provides a platform for students to test their mettle with students who pursue the same course in other colleges through the inter-collegiate fest La Fete. The French translation of 'the festival, it is both a celebration of talent and also an arena to explore and experience the challenges and flavors of art. </p>
+                                <p align=justify><b>Humantara:  Intra collegiate fest</b><br>
+                                    The intra college Humanities fest is the launch pad for students to benchmark their skills and work at making excellence an attitude. Through a number of competitions and contests, the students are refined into fine models who uphold the vision and mission of the college.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +130,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

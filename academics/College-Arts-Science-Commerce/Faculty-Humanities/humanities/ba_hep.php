@@ -81,24 +81,17 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; BA HEP <strong> (History, Economics, Political Science)</strong></span></h4>
+                                
+                                <p align=justify><b>Course Description History</b><br>
+                                    Learning history enriches the student to know, understand and delve into the past to meet the challenges of the present competitive world. History helps them to appreciate changes and understand how the society has evolved over a period of time. A course in History provides a detailed study of Indian History as well as the survey of the history of the world in an analytical and comparative approach. It inculcates students to acquire a broad understanding of historical ideas, social and economic developments and popular movements.</p>
+                                <p align=justify><b>Economics</b><br>
+                                    Economics is concerned with the efficient use of scarce resources to maximize the welfare of the people. A sound knowledge of economic theories and concepts is very important for prescribing suitable policy initiatives to tackle macro economic problems like poverty, unemployment, regional imbalance, inequitable distribution of income and wealth, turbulence in the commodity, money and currency markets etc.Putting the welfare of human beings at the centre of the development process is a pre requisite for ensuring an equitable and sustainable economic paradigm.</p>
+                                <p align=justify><b>Political science</b><br>
+                                    This course aims at moulding and making the student an ideal citizen. The course introduces various facts of the profession with a blend of theoretical politics with practical knowledge. The course makes him to contribute more for the nation, prepares him for the competitive world to take up administrative service.</p>
+                                <p><b>Eligibility Criteria</b><br>
+                                    A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +133,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

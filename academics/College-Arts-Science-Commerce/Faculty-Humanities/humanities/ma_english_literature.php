@@ -81,24 +81,20 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; M.A <strong>English Literatures</strong></span></h4>
+                                
+                                <p align=justify>Masters in English Literature is a two year course aimed with the objective of familiarizing students to a wide gamut of emerging areas of literary study, to inculcate in them an essence of critical exploration and develop their analytical and ingenious aptitude. Papers on language, structure and teaching of English have been included to serve as the ‘window to the world’ and to orient students to meet the challenges of a rapidly evolving world.</p>
+                                <p><b>Course Objective:</b><br>
+•	To introduce students to cutting-edge erudition and scholarly activity in order to provide an avenue to seek a career in university teaching and literary learning.<br>
+•	To develop in students strong methodical skills and a grounding in diverse critical and theoretical approaches. <br>
+•	To introduce them to the socio-cultural milieu of different periods.<br>
+                                    •	To equip students with a detailed and sophisticated understanding of English and related literatures, and support students’ critical and creative engagement with issues crucial to English literary studies.</p>
+                                <p><b>Best Practices </b><br>
+•	Expressions: A creative Journal<br>
+•	Language corner and<br>
+                                    •	Society of poets </p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +136,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

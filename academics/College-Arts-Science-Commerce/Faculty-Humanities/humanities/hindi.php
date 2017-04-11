@@ -81,24 +81,19 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; <strong>Hindi</strong></span></h4>
+                                
+                                <p align=justify><b>Department of Hindi</b><br>
+                                    The department of Hindi was established in the year 2000, to strengthen the impact of the national language in the minds of the language learners. The untiring and efficient effort of the Department caters towards inspiring the students to acquire the language Knowledge. Hindi has not only paved foundation of more than just a language, it has achieved a patriotic fragrance through literature, literary criticism and grammatical studies, the students are introduced to various facets of the language thus also enabling them to be strong competitors and winner of various inter collegiate fests. The department extends a cordial and inter-lingual relationship with other linguistic departments to establish a wide and inter-disciplinary intelligence.</p>
+                                <p><b>Activities</b><br>
+                                    <b>Celebration of Hindi Divas:</b> The sole aim of this program is to spread awareness about our national language and also to instill the feeling of national integrity into our students. And also promoting peace and tranquility between different religion and cultures.<br>
+Hindi Divas is celebrated meaningfully by organizing competitions like <br>
+a) Constructive Writing <br>
+b) Self-Created Poetry Recitation (Samyajnana- The collection of literary works of students)<br>
+c) Essay Writing <br>
+                                    d) Poster exhibition</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -140,19 +135,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
