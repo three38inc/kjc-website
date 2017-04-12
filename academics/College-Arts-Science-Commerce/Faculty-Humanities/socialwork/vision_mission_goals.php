@@ -81,25 +81,19 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Vision <strong> , Mission & Goals </strong></span></h4>
+								
+								<p><b>Vision</b><br>
+									To reflect constantly on theory, research and practice in Social Work by focusing on the social justice foundation of the profession.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p><b>Mission</b><br>
+									To develop reflective Social Work practitioners' and social care workforce.</p>
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+								<p><b>Goals</b><br>
+1. To link theory, practice and research in Social Work<br>
+2. To prepare Social Workers with ethical competence<br>
+3. To engage actively in Social Work research and training<br>
+									4. To enrich the skill oriented approach towards Social Work</p>
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

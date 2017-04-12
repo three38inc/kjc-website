@@ -81,25 +81,84 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                                    <span>&nbsp; Academic <strong> Achievements</strong></span></h4>
+								
+								<p align=justify>Research is a process that simultaneously demands imagination, creativity, discipline and structure that needs to be navigated strategically from start to finish. Over the years, the Department of Social Work being a Center for Research has completed a plethora of research projects both minor and major on contemporary social issues in collaboration with various institutions. Striving for integrity in the process of research, the following are the research projects accomplished by the Department:	</p>
+								<p align=justify>The department has a proven track record of academic excellence which is evident from the university ranks obtained each academic year. The following are the details.</p>
+								
+								<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Name of the student</th>
+      <th>Year</th>
+      <th>Ranks</th>
+     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Andrea Vincent</th>
+      <td>2005-06</td>
+      <td>4th</td>
+    
+    </tr>
+    <tr>
+      <th scope="row">Silla James</th>
+      <td>2005-06</td>
+      <td>5th</td>
+   
+    </tr>
+    <tr>
+      <th scope="row">Rincy George</th>
+      <td>2006-07</td>
+      <td>3rd</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Manasa H R </th>
+      <td>2006-07</td>
+      <td>5th</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Mathew Jacob</th>
+      <td>2007-08</td>
+      <td>1st (Gold Medalist)</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Tania Mirium Thomas</th>
+      <td>2007-08</td>
+      <td>2nd</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Judit Sebastin</th>
+      <td>2008-09</td>
+      <td>3rd</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Neenu Thomas</th>
+      <td>2008-09</td>
+      <td>5th</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Ruby Kuruvilla</th>
+      <td>2008-10</td>
+      <td>1st  Gold Medalist</td>
+     
+    </tr>
+	  <tr>
+      <th scope="row">Chandini A Chandran</th>
+      <td>2008-10</td>
+      <td>2nd</td>
+     
+    </tr>
+									</tbody>
+								</table>
+								
+								
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

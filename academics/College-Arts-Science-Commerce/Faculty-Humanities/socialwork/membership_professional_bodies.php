@@ -81,25 +81,18 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Membership <strong>  in Professional Bodies</strong></span></h4>
+								
+								<p><b>*</b> National Human Resource Development Network (NHRD)</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p><b>*</b> International Association of Schools of Social Work (IASSW)</p>
 
-                                    </div>
+								<p><b>*</b> National Professional Social Workers Association (NPSW)</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+								<p><b>*</b> National Institute of Personnel Management (NIPM)</p>
 
+								<p><b>*</b> Indian Society of Professional Social Workers (ISPSW)</p>
+								
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
