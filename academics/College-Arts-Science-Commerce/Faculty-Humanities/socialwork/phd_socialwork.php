@@ -81,24 +81,19 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;Ph.D in  <strong> Social Work </strong></span></h4>
+								
+								<p align=justify>The Department of Social Work is a recognized research centre which motivates to secure a Ph.D. The Research Department of Social Work is to provide scholarly leadership for the profession of social work through teaching, research and service. With a commitment to social and economic justice, cultural diversity and empowerment of individuals, the research centre is dedicated to make changes in the life of people. The research centre tries to advance the knowledge in the field of social work research through scientific discovery, collaborative work and other national and international organisations and academic outreach.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p align=justify>The Bangalore University with its notification number No.Aca-111/A1/R.C/K.J.C/2007-08 dated 5th November 2007 has approved the proposal of Kristu Jayanti College to start a research center for the purpose of PhD programme in Social Work of Bangalore University. Accordingly, the department of Social Work of Kristu Jayanti College has initiated activities on PhD programme.</p>
 
-                                    </div>
+								<p align=justify><b>Admission Procedure</b><br>
+									The candidates for PhD programme will be admitted through Bangalore University. The candidates desiring to do their PhD in social work through Kristu Jayanti College will be required to appear for the written test conducted periodically by the university.</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+								<p>For more details the Chairperson, Department of Social work, Bangalore university may be contacted (Ph: 080-22961761).</p>
+
+								<p>However the candidate may also contact Head, Department of Social Work of Kristu Jayanti College for assistance</p>
+                              
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

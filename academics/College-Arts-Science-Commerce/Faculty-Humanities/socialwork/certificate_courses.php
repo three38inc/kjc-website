@@ -81,24 +81,26 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Certificate <strong> Courses </strong></span></h4>
+								
+								<p>In addition to offering MSW & PhD, the Department of Social Work offers several certificate and diploma courses for non Social Work students, working professionals and any one aspiring to enhance their skills in the area of social work. Following are the courses offered at present</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+<p>Certificate Course in Human Rights<br>
+Certificate Course in Participatory Rural Appraisal<br>
+Certificate Course in Project formulation and Management<br>
+Certificate Course in Research Methodology<br>
+Certificate Course in Welfare Administration and NGO Management<br>
+Certificate Course in Life Skills for Social Work Professionals<br>
+Certificate Course in Counselling<br>
+Certificate Course in Corporate Social Responsibility<br>
+Certificate Course in Training & Development<br>
+	Certificate Course in Disaster Management</p>
 
-                                    </div>
+								<p><b>Duration:</b> 30 Hours<br>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+									<b>Credits:</b> 3<br>
+
+									For more details on course contents, eligibility, class timings and registration procedure please get in touch with the Head of the department </p>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

@@ -81,25 +81,36 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Consultancies <strong>  offered  </strong></span></h4>
+								
+								<p><b>The Department provides consultancy in the following areas</b><br>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p><b>For NGOS</b><br>
+<b>*</b> Community need assessment surveys<br>
+<b>*</b> Beneficiary identification & verification researches<br>
+<b>*</b> Project monitoring & evaluation<br>
+<b>*</b> Preparation of Project Proposal & Sourcing Funds<br>
+									Capacity Mapping & SWOT Analysis</p>
 
-                                    </div>
+								<p><b>For Corporates</b><br>
+<b>*</b> CSR: Need Assessment Survey<br>
+<b>*</b> CSR: Stakeholder satisfaction survey<br>
+<b>*</b> CSR: Impact Assessment of the project<br>
+<b>*</b> Employee Trainings in the area of Stress Management, Team Building & Employee Motivation<br>
+<b>*</b> Gender Sensitisation Workshops<br>
+									<b>*</b> Life Skills Education for Psycho Social Well Being</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+								<p><b>For Academic Institutions</b><br>
+<b>*</b> Educational Leadership (For Principals& Administrators)<br>
+<b>*</b> Psycho Social Understanding of Gen Y Learners<br>
+<b>*</b> Class Room Management (CRM)<br>
+<b>*</b> Workshops on Basic Counselling Skills for Teachers<br>
+<b>*</b> Life Skills for Self Branding & Employability<br>
+									<b>*</b> Parenting Skills Workshops</p>
 
+								<p>For More Details on the above and other extension services, opportunities for collaborations please get in touch with the Head of the Department</p>
+								
+								
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

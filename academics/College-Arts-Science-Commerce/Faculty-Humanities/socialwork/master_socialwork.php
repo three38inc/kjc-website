@@ -81,24 +81,18 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp;Masters in <strong> Social Work (MSW) </strong></span></h4>
+								
+								<p align=justify>The Master of Social Work (MSW) is offered as two year full time (four semesters) programme that is aimed at creating excellent Social Work professionals with the competency in multi disciplinary approach and ready for employment at national and international levels. The curriculum consists of theoretical inputs, observation visits, concurrent field work placements, minor project and block placement. In addition to the above special emphasis is given for experiential learning. The department over the years has earned the reputation for its MSW programme under Bangalore University. The university ranks and the gold medals received by the students substantiate this. At present the programme is offered with three specialisations namely</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p>Human Resource Management<br>
+Social Development<br>
+									Medical and Psychiatric Social Work</p>
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+								<p><b>Eligibility</b><br>
+									A candidate who has passed bachelors degree with 50 % marks is eligible to seek admission to the course.</p>
+								
+                              
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

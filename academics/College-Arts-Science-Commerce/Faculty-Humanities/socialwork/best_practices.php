@@ -81,25 +81,24 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Best <strong> Practices </strong></span></h4>
+								
+								<p><b>Students</b><br>
+									Course Initiation Project That Helps Them To Identify Their Interest Areas in Social Work Field<br>
+<b>*</b> Functional Kannada Classes Non Kannada Students To Make Their Field Work Placements More Productive<br>
+<b>*</b> Life Skills Education All The MSW Students At The Beginning Of The Course<br>
+<b>*</b> Regular Interaction With Experts From The Field<br>
+<b>*</b> Focus On Experiential Learning Involving Students In Live Projects<br>
+<b>*</b> Mithra Milan Program Which Fosters Regular Interaction With The Field Work Agencies<br>
+								<b>*</b>	Know Your Alumni Program Which Connects The Alumni And The Students Regularly Through Guest Lectures</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+								<p><b>Faculty Members</b><br>
+<b>*</b> Counselling Services Offered the Faculty Members To The Students, Teachers, And Outsiders.<br>
+<b>*</b> Consultancy Work Done Faculty Members In Research, Training And CSR Activities<br>
+<b>*</b> Membership In National And International Professional Bodies<br>
+<b>*</b> Regular and Ongoing Research by Faculty and Students.<br>
+									<b>*</b> Conducting Certificate And Diploma Courses for Outsiders </p>
+								
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

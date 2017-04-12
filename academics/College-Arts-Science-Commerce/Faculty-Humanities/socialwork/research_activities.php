@@ -81,25 +81,88 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                                    <span>&nbsp; Research <strong> Activities</strong></span></h4>
+								
+								<p align=justify>Research is a process that simultaneously demands imagination, creativity, discipline and structure that needs to be navigated strategically from start to finish. Over the years, the Department of Social Work being a Center for Research has completed a plethora of research projects both minor and major on contemporary social issues in collaboration with various institutions. Striving for integrity in the process of research, the following are the research projects accomplished by the Department:	</p>
+								
+								<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Name of the Sponsoring/Colloborating Agency</th>
+      <th>Details of the Research Project</th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">2016</th>
+      <td>Functional Vocational Training & Research Society (FVTRS)</td>
+      <td>Development and Validation of Community based Vocational Training Model - An Action Research </td>
+      
+    </tr>
+    <tr>
+      <th scope="row">2015</th>
+      <td>Helping Hand Welfare Society</td>
+      <td>Socio Economic Study of the Beneficiaries</td>
+     
+    </tr>
+    <tr>
+      <th scope="row">2014</th>
+      <td>Child Fund India</td>
+      <td>Capacity Mapping of Partner NGOs of Child Fund India in Karnataka</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2014</th>
+      <td>KKSSS Ashalaya</td>
+      <td>Socio Economic Need Assessment Survey</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2011</th>
+      <td>Don Bosco Anbu Illam (DBAI), Chennai </td>
+      <td>Evaluation & Impact Assessment of Schemes and Programs </td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2011</th>
+      <td>World Vision India</td>
+      <td>Evaluation of AreaDevelopment project (ADP)</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2010</th>
+      <td>Indo Global Social Service Society</td>
+      <td>Survey of Homeless in Bangalore City</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2009</th>
+      <td>Manipal Hospitals, Bangalore</td>
+      <td>A Study on Rationalization of Manpower in Health Care Industry</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2009</th>
+      <td>CWAM (Wayanad Agro Movement) tea Factory</td>
+      <td>A Study on CSR initiatives of WAM (Wayanad Agro Movement) Tea Factory</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2009</th>
+      <td>ITC</td>
+      <td>Impact assessment of the CSR programmes of ITC</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">2008</th>
+      <td>Prakruthi</td>
+      <td>Study among farmers of Idukki district on the overuse of pesticides </td>
+      </tr>
+									</tbody></table>
+								
+								
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
