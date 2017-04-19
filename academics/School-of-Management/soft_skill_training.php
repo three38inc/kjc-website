@@ -81,49 +81,60 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Soft<strong> Skill Training</strong></span></h4>
+								
+								<p>The students are required to avail the following non credit courses in order to enhance soft their skills. Although there is no examination for these courses it is very essential to keep a record of the performance of the students for the evaluation and internal assessment marks in each subject.</p>
+<p>•	Introduction to communication and Inter personal skills<br>
+•	Listening skills<br>
+•	Group communications, team work, Interviews<br>
+•	Writing skills - letters, memos, reports<br>
+•	Writing skills - persuasion, marketing, CVs<br>
+•	Stress management<br>
+•	Public speaking skills<br>
+•	Power point and presentation skills<br>
+•	Use of Graphics, slides, video and audio<br>
+•	Negotiations and Conflict management<br>
+•	Rapid reading skills<br>
+•	Meetings, agenda and minutes<br>
+	•	English language for business and corporate communications</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Curriculum</strong></span>
+                                        <span>&nbsp; <strong>Training</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_curriculum.php"> MBA Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="bridge_courses.php">Bridge Courses</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pgdm_curriculum.php"> PGDM Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="current_business_awareness.php"> Current Business Awareness</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_pgdm_international_finance.php">MBA / PGDM International Finance</a></p>
+                                        <p><a class="a-link-arrow" href="industrial_exposure.php">Industrial Exposure</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_added_courses.php">Value Added Courses</a></p>
+                                        <p><a class="a-link-arrow" href="executive_visits.php">Executive Visits</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mdp.php">MDP</a></p>
+                                        <p><a class="a-link-arrow" href="inter_intra_college_competitions.php">Inter and Intra college Competitions</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="six_sigma_certification.php">Six Sigma Certification</a></p>
+                                        <p><a class="a-link-arrow" href="blitzberg.php">Blitzberg</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="soft_skill_training.php">Soft Skill Training</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="competency_matrix_system.php">Competency Matrix System</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="attitudinal_workshop.php">Attitudinal Workshop</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="mentorship_system.php">Mentorship System</a></p>
                                     </section>
                                    </div>
 								
