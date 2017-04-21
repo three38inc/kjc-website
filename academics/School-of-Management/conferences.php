@@ -81,49 +81,247 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Attitudinal <strong>  Workshop</strong></span></h4>
+                                    <span>&nbsp;  <strong> Conferences </strong></span></h4>
 								
-								<p align=justify>At the beginning of every academic year the Zeal Institute conducts two-days Attitudinal Workshop for the I Semester MBA/PGDM students to enhance their Inner Personal growth inculcating the values of life.</p>
+								<p align=justify>The University Syllabi is replenished with a plethora of co-curricular and extra-curricular activities for the holistic transformation of the individual. The curriculum, supported by tech - savvy infrastructure, is imparted through experiential student - centric methodology. Case Study and live industry analysis makes learning memorable. The regular academics are interspersed with a cornucopia of seminars, conferences, guest lectures, industry interaction, debates, panel discussions, workshops, quizzes, etc. Value added course provide the much needed competency to the students. Our training methodology aims to equip young minds with a global outlook to face challenges of tomorrow.</p>
+								
+								<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading5">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+														April 4 & 5 2014
+															</a>
+														</h5>
+													</div>
+													<div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+							<div class="panel-body">
+		               
+							
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+		<th>Title</th>
+      <th>Resource Persons</th>
+   </tr>
+  </thead>
+  <tbody>
+	  
+	  <tr>
+      <th scope="row">April 4 & 5 2014</th>
+      <td>International Conference on Managing Uncertainty and Complexity (ICMUC)</td>
+	 <td>Hon. Dr.K. Sudhakar, Former, Hon. Consul for Sri Lankain India<br>
+Mr.Dniel Bircher, Director, Airport Operation, Bangalore Inetrnational Airport.<br>
+Mr. Maclean S. Raphael, Executive Director - Human Resource for India in Sri Lanka,<br>
+Mr.Nadirshaw K. Dhondy, Advocate, Supreme Court & O.S.D. (HG & CD), Maharashtra State.<br>
+Mr. Sanjay Thirumalai, Managing Director, Grant Thornton Shared Services Centre, India.<br>
+Mr.VR Ferose, Senior Vice President, Head of Glocalizaton Services, SAP AG.<br>
+Mr.Anup Tapadia, Founder, TouchMagix Media Pvt. Ltd. </td>
+      </tr>
+	</tbody></table>																
+														</div>
+													</div>
+												</div></div></div>
+
+								
+								<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading4">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+														April 26 & 27 2013
+															</a>
+														</h5>
+													</div>
+													<div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+							<div class="panel-body">
+		               
+							
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+		<th>Title</th>
+      <th>Resource Persons</th>
+   </tr>
+  </thead>
+  <tbody>
+	  
+	  <tr>
+      <th scope="row">April 26 & 27 2013</th>
+      <td>International Conference on Sustainability Success for Organisational Transformation(ICSSOT)</td>
+	 <td>Ms.Michelle Gibbs, Senior Manager Group MIS, ANZ, Australia.<br>
+Shri. Nandan Bhatia - Head Administration and Facilities, Britannia India Pt. Ltd.<br>
+Shri. Ravindra Krishnappa - Co- founder, Science Adda, Bngalore<br>
+Shri. Manjunath Vittala Rao - Program Manager at UL India Pvt. Ltd<br>
+Dr. Chandrashekhar Hariharan - Head, ZED<br>
+Shri. Vikas Mekkar - Senior Manager, Infrastructure Infosys Ltd </td>
+      </tr>
+	</tbody></table>																
+														</div>
+													</div>
+												</div></div></div>
+
+								
+								<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading3">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+														April 20 & 21, 2012
+															</a>
+														</h5>
+													</div>
+													<div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+							<div class="panel-body">
+		               
+							
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+		<th>Title</th>
+      <th>Resource Persons</th>
+   </tr>
+  </thead>
+  <tbody>
+	  
+	  <tr>
+      <th scope="row">April 20 & 21, 2012</th>
+      <td>International Conference on Innovations in Management Practices(ICIMP)</td>
+	 <td>Shri. Gerd Hoefner, Managing Director & CEO Siemens Information Systems Ltd, Bangalore<br>
+Dr. Sujatha Narayan, General Manager Health Care & R.D. 3M India Ltd.<br>
+Shri. Lalit Chaturvedi, General Manager - HR, Bosch<br>
+Shri. Raghu B Viswanath Managing Director, Vertebrand Management Consulting Pvt. Ltd. Dr. Gopichand Katragadda, Managing Director, GE<br>
+Shri. Aroon Raman, Managing Director, Raman FibreScience Pvt., Ltd. </td>
+      </tr>
+	</tbody></table>																
+														</div>
+													</div>
+												</div></div></div>
+
+								
+								<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading2">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
+															April 15 & 16, 2011
+															</a>
+														</h5>
+													</div>
+													<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+							<div class="panel-body">
+		               
+							
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+		<th>Title</th>
+      <th>Resource Persons</th>
+   </tr>
+  </thead>
+  <tbody>
+	  
+	  <tr>
+      <th scope="row">April 15 & 16, 2011</th>
+      <td>International Conference on Excellence in Management Practices (ICEMP)</td>
+	 <td>Shri. Michael Becker, Technical & Cluster Head, Siemens<br>
+Shri. Ramanathan, Head, CII Institute of Quality<br>
+Shri. Parasuraman T.R., Senor V.P.- HR, Toyota <br>
+Shri. Atanu Sengupta, HR Head, Volvo<br>
+Shri. Sathya Kalyanasundram, V.P., Texas Instruments</td>
+      </tr>
+	</tbody></table>																
+														</div>
+													</div>
+												</div></div></div>
+
+
+								
+								<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading1">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+																February 02 & 03, 2010 
+															</a>
+														</h5>
+													</div>
+													<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+							<div class="panel-body">
+		               
+							
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+		<th>Title</th>
+      <th>Resource Persons</th>
+   </tr>
+  </thead>
+  <tbody>
+	  
+	  <tr>
+      <th scope="row">February 02 & 03, 2010</th>
+      <td>International Conference on Management of Change (ICMoC)</td>
+	 <td>Shri. Marcel Hungerbuehler, CEO, BIAL<br>
+Prof. Jesse Lutabingwa, Associate V.C., Appalachain State University, USA<br>
+Dr. R. Chandrashekar, Head, SP Jain Centre for Management, Singapore<br>
+Prof. Kodandaramiah, Director, Directorate of Higher Education, Govt. of Karnataka </td>
+      </tr>
+	</tbody></table>																
+														</div>
+													</div>
+												</div></div></div>
+
+
+
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Training</strong></span>
+                                        <span>&nbsp; <strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bridge_courses.php">Bridge Courses</a></p>
+                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="current_business_awareness.php"> Current Business Awareness</a></p>
+                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="industrial_exposure.php">Industrial Exposure</a></p>
+                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="executive_visits.php">Executive Visits</a></p>
+                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="inter_intra_college_competitions.php">Inter and Intra college Competitions</a></p>
+                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="blitzberg.php">Blitzberg</a></p>
+                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="soft_skill_training.php">Soft Skill Training</a></p>
+                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="competency_matrix_system.php">Competency Matrix System</a></p>
+                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="attitudinal_workshop.php">Attitudinal Workshop</a></p>
+                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mentorship_system.php">Mentorship System</a></p>
+                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
                                     </section>
-									<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="out_bound_training_programme.php">Out bound training programme</a></p>
-                                    </section>
+									
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">

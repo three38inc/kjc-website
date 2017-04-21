@@ -81,49 +81,73 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Attitudinal <strong>  Workshop</strong></span></h4>
+                                    <span>&nbsp; <strong> Debate </strong></span></h4>
 								
-								<p align=justify>At the beginning of every academic year the Zeal Institute conducts two-days Attitudinal Workshop for the I Semester MBA/PGDM students to enhance their Inner Personal growth inculcating the values of life.</p>
+								<p align=justify>To stir up the spirited minds on recent debated issues, Kristu Jayanti School of Management organizes Debates were the students are given an opportunity to bring their thoughts on heated issues with a moderator guiding the debate. This year a debate on ‘DEMONETIZATION’ was conducted as below:</p>
+								
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+	 <th>Topic</th>
+      <th>Moderator</th>
+   
+    
+    </tr>
+  </thead>
+  <tbody>
+	  
+	   <tr>
+      <th scope="row">12-Jan-2017</th>
+      <td>DEMONETIZATION</td>
+	 <td>SProf. John Thomas, Former Editor, Vijay Karnataka<br>
+		 <b>Teams:</b><br>
+Team Painful – Mix of students from both First and Second years<br>
+Team Gainful – Mix of students from both First and Second years
+
+</td>
+ </tbody></table>
+
+
+
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Training</strong></span>
+                                        <span>&nbsp; <strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bridge_courses.php">Bridge Courses</a></p>
+                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="current_business_awareness.php"> Current Business Awareness</a></p>
+                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="industrial_exposure.php">Industrial Exposure</a></p>
+                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="executive_visits.php">Executive Visits</a></p>
+                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="inter_intra_college_competitions.php">Inter and Intra college Competitions</a></p>
+                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="blitzberg.php">Blitzberg</a></p>
+                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="soft_skill_training.php">Soft Skill Training</a></p>
+                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="competency_matrix_system.php">Competency Matrix System</a></p>
+                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="attitudinal_workshop.php">Attitudinal Workshop</a></p>
+                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mentorship_system.php">Mentorship System</a></p>
+                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
                                     </section>
-									<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="out_bound_training_programme.php">Out bound training programme</a></p>
-                                    </section>
+									
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">

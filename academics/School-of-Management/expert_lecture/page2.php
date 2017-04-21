@@ -1,0 +1,12 @@
+<div class="row">
+	
+	<p><b>Report on Expert Lecture on Union Budget 2015-16</b></p>
+	<p align=justify> The panel discussion for the union budget 2015-2016 was held on 7th March 2015. The session started off with an invocation song by the department choir. There were four eminent and efficient panel members for the session was Mr. John Thomas, the Moderator for the session, Mr. Sekar, a tax partner with Deloitte, Prof. Ravi, who is heading the Manipal education in the area of management and Mr. Sujith John, a business editor in the Times of India, Bangalore Edition. The discussion started off with Mr. John Thomas who gave short note about how sweets are being given as a currency instead of the small change that needs to be returned back to the customer. This is also considered as the olden type of exchange (barter system). He also gave an insight about how bribes makes the country go round and round. This also he referred to as a small sweet given to another person to get things done. The RBI has the power to manage inflation, the value of Re. 1.50 now and before. Next Mr. Sekar gave an insight of budget and taxation. Budget is nothing but reflection of facing shareholders. The budget of no. of companies shows how they raise revenue from their product or services, planned revenue or unplanned revenue. Similarly for a country budget shows how a country generates income. How revenue is raised by Government, tax collection will may or may not be efficient to meet the expenditure. The politics and budget are interlinked. Next Prof. Ravi spoke about budget and its impact on economy. Change in measurement of GDP, inflation rates and interest rates. Government has made an agreement that inflation rate will be 40% from 2016. Finally Mr. Sujith John gave an insight stating where India is still a poor country and there has been no improvement and it is still in the same position (156th). Though India is one of the poorest countries it still consists of more billionaires. Wealth tax has lost its essence, people above 1 crore will need to pay more tax, etc. The entire session was very informative and interactive. There was also a questionnaire time wherein the students raised questions and each of the panel members gave apt answers. The session ended with the college anthem. </p>
+	
+</div>
+
+
+
+
+
+        

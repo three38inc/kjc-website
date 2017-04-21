@@ -81,9 +81,15 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Attitudinal <strong>  Workshop</strong></span></h4>
+                                    <span>&nbsp; Out bound <strong>Training programme</strong></span></h4>
 								
-								<p align=justify>At the beginning of every academic year the Zeal Institute conducts two-days Attitudinal Workshop for the I Semester MBA/PGDM students to enhance their Inner Personal growth inculcating the values of life.</p>
+								<p align=justify>Kristu Jayanti School of Management organizes an out band training programme for the first year MBA/PGDM students in tie up with Breakthrough to nurture the team building skills, planning skills and also to bring in confidence, risk taking and courage in the young minds to take up bigger challenges in their life. This year the training was organized on 22nd and 23rd August 2016.</p>
+								
+							<center><img src="images/out_bound_training1.jpg"><img src="images/out_bound_training2.jpg"></center>	
+
+
+
+
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

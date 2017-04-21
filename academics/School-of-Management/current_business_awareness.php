@@ -129,6 +129,9 @@
 									 <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="mentorship_system.php">Mentorship System</a></p>
                                     </section>
+									<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="out_bound_training_programme.php">Out bound training programme</a></p>
+                                    </section>
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">
