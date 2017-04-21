@@ -81,24 +81,18 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Value Added <strong>Courses</strong></span></h4>
+								
+								<p align=justify>It is imperative that management education be not confined to the limits of the syllabi. Hence Value Added Courses have been incorporated in the academic input to enable students imbibe industry updates, employability and global competitiveness. The following value added courses are offered in the department:</p>
+<p>•	Managing Knowledge Workers<br>
+•	Total Quality Management<br>
+•	Climate Crisis Management (Environmental Studies)<br>
+•	Data Analysis for Management Research<br>
+•	Forex Management (for Non-finance students)<br>
+•	Investment Banking<br>
+	•	Decision Making for Business Success</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

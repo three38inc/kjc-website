@@ -81,24 +81,19 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; <strong>Curriculum</strong></span></h4>
+								<p align=justify>Master of Business Administration (MBA) is a two year programme affiliated to the Bangalore University. The academic process comprises of four semesters, with the specialization in functional areas in the third and fourth semesters respectively. The areas of specialization are Marketing, Finance, Human Resources and Systems and Operations.</p>
+								<p align=justify>The university syllabus consists of seven subjects in each semester. There are two core subjects and five specialization subjects in the third and fourth semesters. Besides that the students have to undergo an internship and submit a report on the organizational study after the second semester and a final dissertation in their final semester</p>
+								<p align=justify>It is imperative that management education be not confined to the limits of the syllabi. Hence Value Added Courses have been incorporated in the academic input to enable students imbibe industry updates, employability and global competitiveness. The following value added courses are offered in the department:</p>
+<p>•	Managing Knowledge Workers<br>
+•	Total Quality Management<br>
+•	Climate Crisis Management (Environmental Studies)<br>
+•	Data Analysis for Management Research<br>
+•	Forex Management (for Non-finance students)<br>
+•	Investment Banking<br>
+•	Decision Making<br>
+	The Curriculum, Value Added Courses, is supplemented by specialized employability training by the Centre for Placements and Corporate Relations (CPCR)</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

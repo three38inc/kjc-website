@@ -81,24 +81,18 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; PGDM <strong>Curriculum</strong></span></h4>
+								
+								<p align=justify><b>Post Graduate Diploma in Management (PGDM)</b><br>
+The Course is a two year full-time programme in six trimesters approved by All India Council of Technical Education (AICTE). The PGDM curriculum is the result of regular change and continuous review by the faculty with help from professionals in industry, alumni and students. The Institute follows a single-specialization policy and the following streams are offered :<br>
+•	Marketing<br>
+•	Human Resources<br>
+									•	Finance</p>
+								<p>The course comprises of two components: the core programme, in the first year and the elective programme in the second year.</p>
+								<p align=justify>The core programme focuses on thorough grounding in the fundamentals of every discipline in management and the development of a common foundation of business knowledge and management theory. The core programme consists of 21 courses.</p>
+								<p align=justify>Following the first year programme, students undertake internships for a period of four to five weeks. The internship projects are evaluated and graded and is a requirement for completing the course successfully.</p>
+								<p align=justify>The second year has some core courses and mainly elective courses besides final project. The elective courses which are offered in the second year of the programme allow students to choose a group of courses that interest them and develop proficiency in the areas of their choice. Elective courses will be developed and updated from time to time. A student will have to take all the 15 elective courses in a stream to qualify for a specialization in that area. A student, however, can choose electives to have a broad knowledge on the subjects depending on the courses offered in the specialization scheme.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

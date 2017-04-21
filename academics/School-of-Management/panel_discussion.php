@@ -81,50 +81,82 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Panel <strong> Discussion </strong></span></h4>
+								
+								<p align=justify>To kindle the young minds on recent and burning issues, Kristu Jayanti School of Management organizes Panel Discussions were in Industry Professionals are invited to discuss and bring in various perspectives and insights on campus. The following panel discussions were conducted this year for both the first and second year MBA & PGDM students:</p>
+								
+								
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Date</th>
+	 <th>Topic</th>
+      <th>Moderator</th>
+   
+    
+    </tr>
+  </thead>
+  <tbody>
+	  
+	   <tr>
+      <th scope="row">04-Aug-2016</th>
+      <td>BREXIT – Boon or Bain</td>
+	 <td>Shri V.K. Varadarajan, Former Chief Reporter, The Hindu<br>
+		 <b>Panelists:</b><br>
+Shri. Sujit John , Business Editor, The Times of India Bangalore<br>
+Dr. N. S. Viswanath, Director & Principal, M P Birla Institute of Management,<br>
+Shri. Raj Rajkumar, Director & Site Leader, TE Connectivity Global Shared Services, Bangalore
+</td>
+      </tr>
+	   <tr>
+      <th scope="row">20-Aug-2016</th>
+      <td>Roadmap to one country and one tax</td>
+	 <td>Shri.K.R.Sekar, Global business leader & partner, Deloitte<br>
+Ms.Rashmi, Senior Manager, Deloitte</td>
+      </tr>
+	  
+									 </tbody></table>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
 
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Curriculum</strong></span>
+                                        <span>&nbsp; <strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_curriculum.php"> MBA Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pgdm_curriculum.php"> PGDM Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_pgdm_international_finance.php">MBA / PGDM International Finance</a></p>
+                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_added_courses.php">Value Added Courses</a></p>
+                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mdp.php">MDP</a></p>
+                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="six_sigma_certification.php">Six Sigma Certification</a></p>
+                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
                                     </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
+                                    </section>
+									
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">

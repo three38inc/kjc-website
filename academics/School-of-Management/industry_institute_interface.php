@@ -81,50 +81,71 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
+                                    <span>&nbsp; Industry Institute <strong>  Interface (3i) </strong></span></h4>
+								
+								<p  align=justify>Industry Institute Interface (3i) is one of the key activities of the Kristu Jayanti School of Management organized for first year MBA/PGDM students every year. Industry experts at the middle management level and also Alumni of Kristu Jayanti College are invited to address students to share their practical experience and also to bridge the gap between the theoretical knowledge and the practical experiences. The following are the interactions that took place in the year 2016-17:</p>
+								
+								
+								<div class="row profile-pagination">
+                                        <ul class="pagination pagination-sm">
+											<li class="active"><a href="#" data-value="page1">2016-17</a></li>
+											   <li><a href="#" data-value="page2">2015</a></li>
+                                            <li><a href="#" data-value="page3">2014</a></li>
+                                            <li><a href="#" data-value="page4">2013</a></li>
+											 <li><a href="#" data-value="page5">2012</a></li>
+                                            
+                                        </ul>
+                                    </div>
+								
+							
+				 <div class="profile-page">
                                     <div id="page">
 
                                     </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
                                     </div>
-                                </div>
+
+								
+
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Curriculum</strong></span>
+                                        <span>&nbsp; <strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_curriculum.php"> MBA Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pgdm_curriculum.php"> PGDM Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_pgdm_international_finance.php">MBA / PGDM International Finance</a></p>
+                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_added_courses.php">Value Added Courses</a></p>
+                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mdp.php">MDP</a></p>
+                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="six_sigma_certification.php">Six Sigma Certification</a></p>
+                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
                                     </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
+                                    </section>
+									
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -232,7 +253,7 @@
             //below code is for retrieving corresponding pages #START
             var activePage = 'page1';
             $.ajax({
-                url: 'snipets/' + activePage + '.php',
+                url: 'industry_institute_interface/' + activePage + '.php',
                 success: function(data) {
                     $('#page').html(data);
                 },
@@ -247,7 +268,7 @@
             $('.profile-pagination li a').click(function() {
                 var activePage = this.getAttribute('data-value');
                 $.ajax({
-                    url: 'snipets/' + activePage + '.php',
+                    url: 'industry_institute_interface/' + activePage + '.php',
                     success: function(data) {
                         $('#page').html(data);
                     },

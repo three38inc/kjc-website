@@ -81,24 +81,20 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
+                                    <span>&nbsp; Six Sigma <strong>Certification</strong></span></h4>
+								
+								<p align=justify>In today's scenario of  increasing globalization with innumerable players in   every sphere of Services and Manufacturing ,it has become a desideratum for every organization   to  articulate,  compelling and motivating S.M.A.R.T ( Specific, Measurable, Achievable, Realistic, Time - bound )objectives and goals for the seamless alignment of senior , middle and Lower management members towards steering the company in the growth trajectory.</p>
 
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
+								<p align=justify>Keeping in mind the Department of Management Studies of the College organizes ‘Six Sigma Green Belt Certification Programme’ to meet the changing requirements of a customer.</p>
 
-                                    </div>
+								<p align=justify>Six Sigma Green Belt Certification programme aims at understanding the requirements of a customer that is Critical to Quality (CTQs), improving the processes and eliminating wasteful practices.</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+
+								<p align=justify>It is conducted by Asian Institute of Quality Management, Mumbai, the only UK Accredited center in the country, in two batches between December 05 to 12, 2013. Certificates of Merit will be issued to the students who successfully pass the examination though all the students receive attendance certificate.</p>
+
+
+
+
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">

@@ -81,26 +81,40 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
+                                    <span>&nbsp;  <strong>	MDP</strong></span></h4>
+								
+								<p align=justify>The department organizes regularly two MDPs per semester to enrich the knowledge of students in contemporary management issues. Academicians, industry professionals and management students participate in the programmes. The recent MDPs conducted:</p>
+								
+								<div class="row profile-pagination">
+                                        <ul class="pagination pagination-sm">
+                                            <li class="active"><a href="#" data-value="page1">2016</a></li>
+                                            <li><a href="#" data-value="page2">2015</a></li>
+                                            <li><a href="#" data-value="page3">2014</a></li>
+                                            <li><a href="#" data-value="page4">2013</a></li>
+                                            <li><a href="#" data-value="page5">2012</a></li>
+											 <li><a href="#" data-value="page6">2011</a></li>
+											 <li><a href="#" data-value="page7">2010</a></li>
+											 <li><a href="#" data-value="page8">2009</a></li>
+                                        </ul>
+                                    </div>
+								
+							
+				 <div class="profile-page">
                                     <div id="page">
 
                                     </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
                                     </div>
-                                </div>
-
-                            </div>
+								
+							
+							
+							
+							
+							
+							</div>
+							
+						
+							
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

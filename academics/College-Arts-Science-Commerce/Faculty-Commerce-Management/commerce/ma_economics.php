@@ -123,15 +123,17 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>MA Economics</strong></span>
+                                        <span>&nbsp;M.A <strong>Programme in Economics</strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <strong>Demo</strong><br/><br/>
-                                        Demo
-                                      
-                                    </p>
+									<p align=justify><b> 1. Programme Design</b><br>
+										M.A in Economics two academic year intensive programme is designed in providing indispensable knowledge and training for well- qualified economist. This programme not only equipped in different branches of economics, it also establishes the platform for quantitative and qualitative applications, economic modeling and policy analysis. At the same time, this programme is worthwhile to the student in terms of effective understanding of subject, strong analytical provoking and inter-disciplinary nature. The overall envisage of the M.A Economics programme is to nurture the student in economic theory and practice and make them capable to solve the social and economic issues through their economic professional carrier and multi-dimensional economic research.</p>
+
+									<p align=justify><b>2. Programme Objective</b><br>
+										The broad objectives of the Masters in Economics are to impart the economic ideologies and their practices with quantitative and qualitative applications and to enable the students to carry out the research in theoretical, empirical, policy and inter-disciplinary areas.</p>
+
+									<p align=justify><b>3. Eligibility</b><br>
+										A candidate who has passed the BA ( Economics one of the triple majors) Degree examination of Bangalore University or BA (Economics) of any other University as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat.-I students and blind students the minimum percentage of marks required shall be less by 5%. </p>
                                    
 
                                 </div>

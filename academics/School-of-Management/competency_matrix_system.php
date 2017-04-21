@@ -81,49 +81,48 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
-
-                                </h4>
-                                <div class="profile-page">
-                                    <div id="page">
-
-                                    </div>
-
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
+                                    <span>&nbsp; Competency <strong> Matrix System</strong></span></h4>
+								
+								<p align=justify>This is a tool used by the department for measuring the competency of the student from the beginning of the course till the end. The students are initially given a Base Rating which is evaluated based on their performance in the beginning of the course. For this purpose the department conducts a series of tests like the Online IQ and EQ test, Interviews and evaluation of the Presentations to assess the students’ initial competence. Then there is an addition of points with regard to any adherence to certain criteria like assignments, reports, feedbacks, attendance etc. There is also negative marking in case of any student not following the instructions like not following the time schedule, late coming to college etc. The student is expected to rise up to a certain level of competency in order to keep up with the standards fixed by the department. If the student is found not reaching the competency levels prescribed they are forwarded to their Mentors for further counselling with reference to their improvement.</p>
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Curriculum</strong></span>
+                                        <span>&nbsp; <strong>Training</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_curriculum.php"> MBA Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="bridge_courses.php">Bridge Courses</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pgdm_curriculum.php"> PGDM Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="current_business_awareness.php"> Current Business Awareness</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_pgdm_international_finance.php">MBA / PGDM International Finance</a></p>
+                                        <p><a class="a-link-arrow" href="industrial_exposure.php">Industrial Exposure</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_added_courses.php">Value Added Courses</a></p>
+                                        <p><a class="a-link-arrow" href="executive_visits.php">Executive Visits</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mdp.php">MDP</a></p>
+                                        <p><a class="a-link-arrow" href="inter_intra_college_competitions.php">Inter and Intra college Competitions</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="six_sigma_certification.php">Six Sigma Certification</a></p>
+                                        <p><a class="a-link-arrow" href="blitzberg.php">Blitzberg</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="soft_skill_training.php">Soft Skill Training</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="competency_matrix_system.php">Competency Matrix System</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="attitudinal_workshop.php">Attitudinal Workshop</a></p>
+                                    </section>
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="mentorship_system.php">Mentorship System</a></p>
+                                    </section>
+									<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="out_bound_training_programme.php">Out bound training programme</a></p>
                                     </section>
                                    </div>
 								
