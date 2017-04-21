@@ -123,16 +123,14 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>M.Com (FA with CGMA) </strong></span>
+                                        <span>&nbsp;M.Com <strong>(FA with CGMA) </strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <strong>Demo</strong><br/><br/>
-                                        Demo
-                                      
-                                    </p>
-                                   
+									<p align=justify>Master of Commerce - Financial Analysis (FA) with CGMA Programme is to impart to the students, professional education and training in various aspects of business and its environment and provide them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
+
+									<p align=justify>The programme enables the students to obtain Chartered Global Management Accountant qualification which is the joint venture between AICPA (American Institute of Chartered Public Accountants), USA and CIMA (Chartered Institute of Management Accountants), UK.</p>
+
+									<p align=justify>The M.Com FA with CGMA programme is eligible for gaining 11 paper exemptions out of 16 towards the CGMA Qualification and the student has to write only 5 papers to qualify for the CGMA. It also gives an opportunity to gain qualifications like, Advanced Diploma in Management Accounting & Certificate in IFRS along with the CGMA Qualification.</p>
 
                                 </div>
                             </div>

@@ -123,15 +123,17 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>M.Com </strong></span>
+                                        <span>&nbsp;M.Com<strong> (Master of Commerce) </strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <strong>Demo</strong><br/><br/>
-                                        Demo
-                                      
-                                    </p>
+                                  
+									<p align=justify> It is a four semester (two academic years) P.G. Program. The main objective of this programme is to equip the students with necessary conceptual, business and analytical skills required for handling the Business Operations. The course helps graduates after B.Com or BBA to develop in-depth knowledge in areas like accounting, finance, marketing and management etc. The course is mainly intended for students who are currently in the entry level and are looking for further expansion of knowledge in their career through research will get an added advantage with this course. In M.Com, students are given an option to specialize in any of the two majors.</p>
+
+<p><b>* Finance<br>
+or<br>
+	* Accounting and Taxation</b>
+
+									<p><b>Eligibility:</b> A bachelor's degree in Commerce or BBA of a recognized University with a minimum of 50% marks.</p>
                                    
 
                                 </div>
