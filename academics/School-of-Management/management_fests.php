@@ -81,97 +81,117 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Panel <strong> Discussion </strong></span></h4>
+                                    <span>&nbsp; Management  <strong>Fests winners   </strong></span></h4>
 								
-								<p align=justify>To kindle the young minds on recent and burning issues, Kristu Jayanti School of Management organizes Panel Discussions were in Industry Professionals are invited to discuss and bring in various perspectives and insights on campus. The following panel discussions were conducted this year for both the first and second year MBA & PGDM students</p>
+								<p><b>Date:</b> 16th & 17th February, 2017<br>
+									<b>Conducted by:</b> “Perceptions 2017” conducted by Ramaiah Institute of Management<br>
+									<b>Events Won:</b> 1. The Treasure Hunt team comprising Jacob Matthew, Roja Elza, Donal James and Merin Jose  won the 1st place!<br>
+2. The Finance team, Anup Raj and Ansu Joseph, won the 1st place!<br>
+3. The Mad Ads team with Robin Robert, Pavan Kumar, Henderick Alex, Emil Joseph, Joel Joe and Chandrashekhar won the 1st place!<br>
+4. The HR team with Fr.Jibu Joseph and Jeffy Susan won the 2nd place<br>
+									<b>Position:</b> Overall championship</p>
 								
-								 <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th>Date</th>
-	 <th>Topic</th>
-      <th>Moderator</th>
-   
-    
-    </tr>
-  </thead>
-  <tbody>
-	  
-	   <tr>
-      <th scope="row">02-Feb-2017</th>
-      <td>Union Budget 2017-18</td>
-	 <td>1.Dr.Jacob Crasta<br>
-Founder Chairman CM Envirosystems P Ltd<br>
-2.Shinto Joseph<br>
-Operations Manager <br>
-LRDA<br>
-3.Sudhaker<br>
-Director BMR advisors<br>
-4.T.P. Joseph<br>
-AGM,South Indian Bank Bangalore
-</td>
-      </tr>
-	  
-	   <tr>
-      <th scope="row">04-Aug-2016</th>
-      <td>BREXIT – Boon or Bain</td>
-	 <td>Shri V.K. Varadarajan, Former Chief Reporter, The Hindu<br>
-		 <b>Panelists:</b><br>
-Shri. Sujit John , Business Editor, The Times of India Bangalore<br>
-Dr. N. S. Viswanath, Director & Principal, M P Birla Institute of Management,<br>
-Shri. Raj Rajkumar, Director & Site Leader, TE Connectivity Global Shared Services, Bangalore
-</td>
-      </tr>
-	   <tr>
-      <th scope="row">20-Aug-2016</th>
-      <td>Roadmap to one country and one tax</td>
-	 <td>Shri.K.R.Sekar, Global business leader & partner, Deloitte<br>
-Ms.Rashmi, Senior Manager, Deloitte</td>
-      </tr>
-	  
-	  
-									 </tbody></table>
+								
+								<p><b>Date:</b> 3rd & 4th March, 2017<br>
+									<b>Conducted by:</b> “Archish 2017” conducted at the Indus Business Academy<br>
+									<b>Events Won:</b> 1. The Business Analytics Team comprising Anvitha and Anette John won the 1st place. <br>
+2. The Retail Team with Roy and Carol won the 1st place!<br>
+3. Sustainability Team comprising Fr. Jibu  and Toms won the 1st place. <br>
+4. The Economics Team with Monika and Albin won the 2nd place<br>
+5. The Business Quiz Team comprising Akshay and Paul Gideon won 2nd place. <br>
+6. The Ad Make-up team with Vishnu and Robin Robert won the 2nd place <br>
+7. The Treasure Hunt Team comprising Donal James, Roja Elsa, Akhin, and Merin Jose won the 2nd place. <br>
+8. And who is the Best Manager…. Somy Thomas!<br>
+									<b>Position:</b> Overall championship</p>
+								
+								<p><b>Date:</b> 3rd & 4th March, 2017<br>
+									<b>Conducted by:</b> “Expedite 2017” conducted by CMR institute of Information Technology<br>
+									<b>Events Won:</b> 1.	Business Quiz Team comprising of Robin Raj and Kishore Kumar grabbed the 1st place. <br>
+2.	The Mad Ads Team with Pradeek, Reshma, Abhijit, and Arun Fredrick walked away with the 1st place. <br>
+3.	Syed Faiz and Ebenezer David secured the 2nd place in Crisis Management<br>
+4.	 Syed Faiz and Ebenezer David secured the 2nd place in Product Launch <br>
+5.	The Treasure Hunt Team comprising Paul Roy, Abhijit, Jeshmi won the 2nd place. <br>
+									<b>Position:</b> Lead in overalls by winning 5 out of the total 7 events</p>
+								
+								
+								<p><b>Date:</b> 5th & 6th of April 2017<br>
+									<b>Conducted by:</b> “Eclat 2017” organized by Jain University<br>
+									<b>Events Won:</b>1.	The Finance team, Chandrashekhar and Aishwarya James won the 2nd place!<br>
+2.	The Business Quiz Team comprising Akshay and Akhin won 2nd place.<br>
+3.	The Marketing team Carol and Reynold won the 1st place. <br>
+4.	The HR team with Linse and Neha won the 1st place.<br>
+5.	Joel Paul William won the 1st place in photography <br>
+6.	The Treasure Hunt Team comprising Donal James, Roja Elsa, Pavan Kumar won the 1st place. <br>
+7.	The Solo Dance event 1st and 2nd place was won by our very own Paul Roy and Joel Joe.  <br>
+8.	The Group Dance team comprising Brejeta, Amalu, Paul Roy, Merin Jose, Manisha and Emil danced their way to the 1st place <br>
+9.	For the first time we had a woman walking away with the Best Manager Event of all the fests we have won… Rusha Thomas won the BM at Jain University.<br>
+									<b>Position:</b> Overall Championship</p>
+								
+								
+								<p><b>Date:</b> 30-09-2016 and 01-10-2016<br>
+									<b>Conducted by:</b>BERCHNOVA AGRANI 2016 conducted by Berchmans Institute of Management Studies, S.B College, Changanassery<br>
+									<b>Events Won:</b>Arthasamgraha – Marketing event<br>
+1.VISHAL MATHEW<br>
+2.SUBIN J VARGHESE<br>
+3. JIMMY LUKOSE<br>
+4. LIBIN SAM BYJU<br>
+									<b>Position:</b>2nd place</p>
+								
+								<p><b>Date:</b> 27th & 28th October 2016<br>
+									<b>Conducted by:</b>VISESH 2016 organized by MS Ramaiah Institute of Technology<br>
+									<b>Events Won:</b>Finance Event<br>
+1.Jerry David<br>
+2.Mohammad Sajjad<br>
+									<b>Position:</b>First Prize</p>
+								
+								<p><b>Date:</b> 25th & 26th November, 2016<br>
+									<b>Conducted by:</b>USHUS 2016 organized by Christ Institute of Management<br>
+									<b>Events Won:</b> General management Event<br>
+1.Sachin Santhosh<br>
+2.Kiran Babu<br>
+
+									<b>Position:</b>First Prize</p>
+								
+								<p><b>Date:</b> 16th & 17th January, 2017<br>
+									<b>Conducted by:</b>DIAKSHIRI Organized by Mount Carmel Institute of Management<br>
+									<b>Events Won:</b> 1.Retail<br>
+(i) Sachin Santhosh <br>
+(ii) Sini Merlin<br>
+2.IT<br>
+(i) Miles<br>
+(ii) Kiran babu<br>
+3.HR<br>
+(i) Fr.Jhoney<br>
+(ii) Deepti<br>
 
 
+									<b>Position:</b>Runner up in all the three events</p>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Activities</strong></span>
+                                        <span>&nbsp; <strong>Curriculum</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
+                                        <p><a class="a-link-arrow" href="mba_curriculum.php"> MBA Curriculum</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
+                                        <p><a class="a-link-arrow" href="pgdm_curriculum.php"> PGDM Curriculum</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
+                                        <p><a class="a-link-arrow" href="mba_pgdm_international_finance.php">MBA / PGDM International Finance</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
+                                        <p><a class="a-link-arrow" href="value_added_courses.php">Value Added Courses</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
+                                        <p><a class="a-link-arrow" href="mdp.php">MDP</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
+                                        <p><a class="a-link-arrow" href="six_sigma_certification.php">Six Sigma Certification</a></p>
                                     </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
-                                    </section>
-									
                                    </div>
 								
 								<div class="row" style="margin-left:2px; margin-right: 2px;">

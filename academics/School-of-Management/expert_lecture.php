@@ -86,9 +86,10 @@
 								
 								<div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
+                                            <li class="active"><a href="#" data-value="page4">1</a></li>
+											 <li><a href="#" data-value="page1">2</a></li>
+                                            <li><a href="#" data-value="page2">3</a></li>
+                                            <li><a href="#" data-value="page3">4</a></li>
                                             
                                         </ul>
                                     </div>
@@ -247,7 +248,7 @@
     <script>
         $("document").ready(function() {
             //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
+            var activePage = 'page4';
             $.ajax({
                 url: 'expert_lecture/' + activePage + '.php',
                 success: function(data) {

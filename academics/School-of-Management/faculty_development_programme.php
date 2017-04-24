@@ -83,6 +83,8 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Faculty  <strong>Development Programme</strong></span></h4>
 								
+								<p align=justify>Kristu Jayanti School of Management organizes two faculty development programmes in every academic year to enrich the faculties and to give an opportunity for them to keep updated. Faculties from colleges across the country are invited for the FDP. The following are the FDPs organized in the year 2016-17:</p>
+								
 								 <table class="table table-bordered">
   <thead>
     <tr>

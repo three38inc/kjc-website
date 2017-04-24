@@ -81,9 +81,24 @@
                             <div class="col-lg-9">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;  <strong> Conferences </strong></span></h4>
+                                    <span>&nbsp; International <strong> Conferences </strong></span></h4>
 								
-								<p align=justify>The University Syllabi is replenished with a plethora of co-curricular and extra-curricular activities for the holistic transformation of the individual. The curriculum, supported by tech - savvy infrastructure, is imparted through experiential student - centric methodology. Case Study and live industry analysis makes learning memorable. The regular academics are interspersed with a cornucopia of seminars, conferences, guest lectures, industry interaction, debates, panel discussions, workshops, quizzes, etc. Value added course provide the much needed competency to the students. Our training methodology aims to equip young minds with a global outlook to face challenges of tomorrow.</p>
+								<p align=justify><b>2015-16</b><br>
+The 9th International Conference KRISYM 2016, on Reinvention of Resilient Ecosystem for Business was organized by Kristu Jayanti School of Management on 29th and 30th of April 2016. With around 300 participants including of 44 external participants the conference was a grand success. The following were the speakers for the conference.<br>
+									<b>Inauguration:</b> Mr. Bert Mueller-founder and CEO, California Burrito<br>
+									<b>Valediction:</b> Dr.Sibichen K Mathew, IRS, Advisor, Telecom Regulatory Authority of India, Commissioner of Income Tax<br>
+									Keynote speakers: Mr. Arya Rajesh Kumar; Dr. Sanjeev Sukumaran, CEO, Sherpify; Ms. Sushmita Dutta, Zonal Head, Faircent.com; Mr.Aslam Hirani,Founder,Innobryx consulting And Aveti; Dr.Radhika Meenakshi Shankar- Entrepreneurship Management Consultant, Wise Owl Consulting Services; Jayas Damodaran, Co-Founder and Managing Director at Jiyo Natural Pvt Limited and Mr. Dennis Abraham, Alumni ,2002-04 Batch</p>
+
+								<p><b>2016-17</b><br>
+The 10th International Conference KRISYM 2017, on the theme 'Business Excellence Through Technological Interventions' on April 28th and 29th 2017. Speakers from across the globe have been invited. The goal of the international conference is to foster international research collaborations in Business Management as well as to provide a forum to present current research results in the form of technical sessions and plenary sessions during the conference in a relaxed and enjoyable atmosphere.<br>
+•	To reinvent strategies which ensure Business Excellence through Technological Interventions<br>
+•	To catalyze change and to work on innovative ideas for the development of various economies<br>
+•	To equip the participants with huge innovative ideas for dealing effectively with wide array of complex situations faced during organizational and societal decision making<br>
+•	To foster networking, collaboration and joint effort among the conference participants to advance the theory and practice as well as to identify major trends in various aspects of Business Management.<br>
+									For further details please visit: <a href="https://www.kristujayanti.edu.in/krisym2017/">(Click here)</a></p>
+
+								
+								<!--<p align=justify>The University Syllabi is replenished with a plethora of co-curricular and extra-curricular activities for the holistic transformation of the individual. The curriculum, supported by tech - savvy infrastructure, is imparted through experiential student - centric methodology. Case Study and live industry analysis makes learning memorable. The regular academics are interspersed with a cornucopia of seminars, conferences, guest lectures, industry interaction, debates, panel discussions, workshops, quizzes, etc. Value added course provide the much needed competency to the students. Our training methodology aims to equip young minds with a global outlook to face challenges of tomorrow.</p>
 								
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -280,7 +295,7 @@ Prof. Kodandaramiah, Director, Directorate of Higher Education, Govt. of Karnata
 	</tbody></table>																
 														</div>
 													</div>
-												</div></div></div>
+												</div></div></div>--->
 
 
 
