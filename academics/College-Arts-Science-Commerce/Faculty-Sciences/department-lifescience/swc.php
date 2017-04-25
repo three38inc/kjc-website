@@ -229,7 +229,7 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
                                     </section>
 
 
@@ -327,7 +327,7 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+   
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

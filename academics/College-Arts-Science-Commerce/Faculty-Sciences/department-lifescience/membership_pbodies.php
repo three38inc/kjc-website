@@ -269,7 +269,7 @@ Kannur University
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ls_fp.php">Faculty Profile</a></p>
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
                                     </section>
 
 
