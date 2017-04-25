@@ -108,54 +108,67 @@
                                         <span>&nbsp;Our  <strong>Academic Profile</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="cs_faculty.php">Faculty Profile</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Academic Calender</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Fests</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Value Added Courses</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Computer Academy</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Achievements</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Best Practices</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Career Opportunity</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Seminars &amp; Workshops</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Guest Lectures</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Activities</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Development Program</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Gallery</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Moodle</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Blog</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Newsletter</a></p>
+                                        <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
                                     </section>
 
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                    </section>
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="projects.php">Projects</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bestpractices.php">Best Practices</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="careeropportunity.php">Career Opportunity</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="book.php">Book Publications</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                    </section>
+                                        
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
+                                    </section>
 
                                 </div>
 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
