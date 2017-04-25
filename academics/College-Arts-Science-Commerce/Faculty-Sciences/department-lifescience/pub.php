@@ -112,48 +112,84 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong> 
-Career Opportunities
-</strong></span>
+                                        <span>&nbsp;<strong>Articles Published</strong></span>
                                     </h4>
-
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                     Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.
-   <br>
-                                    </p>
-                                    <p align="justify">
-                         A graduate in Biotechnology can opt for the post of a technical assistant, while a post graduate can opt to teach or become a research assistant. A degree holder in Biotechnology can become a technical assistant, research associate, while a post-graduate or a PhD. holder can be a research scientist or can join a teaching fraternity. Bio technologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    <p align="justify">
-                           Microbiologists play a significant role in the society through research and applications for the betterment of mankind. Careers for microbiologists can be in Hospitals / Clinical laboratories, Food industry, Environmental pollution management, Research labs etc.
-
-                                    </p>
+                                   <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Name </th>
+      <th>Title of the Article </th>
+      <th>Details of Publisher </th>
+      <th>Month/ Year of publication/ISSN No</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Antibacterial activity of Leaf extracts of Alpinia cacarata,Bauhinia tomentosa and Curcumazedoaria</td>
+      <td>International journal of Institutional pharmacy and lifesciences</td>
+      <td>June/2015/ISSN :2249-6807</td>
+    </tr>
+      <tr>
+      <th>Dr.Shalini Prabhu</th>
+      <td>Ssr based population bottleneck studies on
+coconut accessions from south peninsular india</td>
+      <td>International Journal of Pharma
+and Bio Sciences</td>
+      <td>October/2015
+ISSN 0975-6299 </td>
+    </tr>
+      <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Evaluation of Antidiabetic activity of Murraya
+koenigii on Alloxan Induced Diabetic rats</td>
+      <td>International Journal of Pharma
+Sciences and Research (IJPSR)</td>
+      <td>Dec 2015
+ISSN No 0975-9492</td>
+    </tr>
+      <tr>
+      <th>Dr.Elcey CD</th>
+      <td>Evaluation of Antistaphylococcal Activity of Ellagic Acid Extracted from Punica granatum Fruit Peel on MRSA</td>
+      <td>International Journal of Current
+Microbiology and Applied Science</td>
+      <td>February/2016/ISSN 2319-7706</td>
+    </tr>
+      <tr>
+      <th>Dr. Challaraj
+Emmanuel</th>
+      <td>Effect of rare earth elements on growth and
+ascorbate metabolism during wheat (Triticum
+aestivum) germination</td>
+      <td>International Research Journal of
+Agricultural Science and Soil
+Science</td>
+      <td>November, 2015,
+(ISSN: 2251-0044)</td>
+    </tr>
+      <tr>
+      <th>Dr.Elcey CD </th>
+      <td>Synthesis of magnetite nanoparticle from
+optimized iron reducing bacteria isolated from
+iron ore mining sites</td>
+      <td>International journal of Current
+microbiology and applied sciences</td>
+      <td>ISSN 2319-7706
+August 2014</td>
+    </tr>
+      <tr>
+      <th>Dr.S.Vijayanand</th>
+      <td>Antioxidant and antimicrobial activity of Melia
+azadirachta and Murraya koenigii</td>
+      <td>International Journal of Pharma
+sciences and research</td>
+      <td>ISSN: 0975-9492
+December 2014</td>
+    </tr>
+                                       </tbody></table>
+                       
+                                 
                                     
-                                    
-                                    
-                                    
-                                     <p align="justify">
-                         As a graduate or postgraduate in Microbiology, one can be placed as a technical assistant or project assistant in a research laboratory. Microbiology is an interdisciplinary subject that provides opportunity in various applied fields- Bacteriology, Environmental Microbiology, Industrial and food Microbiology etc. Bio technologists and Microbiologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -281,7 +317,7 @@ Career Opportunities
 
                     </div>
 
-                  						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -295,7 +331,7 @@ Career Opportunities
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-
+    
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

@@ -112,48 +112,95 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong> 
-Career Opportunities
-</strong></span>
+                                        <span>&nbsp;<strong> Research Projects</strong></span>
                                     </h4>
+                                    <p><b>Ongoing self funded/industry projects</b><br>
 
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                     Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.
-   <br>
-                                    </p>
-                                    <p align="justify">
-                         A graduate in Biotechnology can opt for the post of a technical assistant, while a post graduate can opt to teach or become a research assistant. A degree holder in Biotechnology can become a technical assistant, research associate, while a post-graduate or a PhD. holder can be a research scientist or can join a teaching fraternity. Bio technologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    <p align="justify">
-                           Microbiologists play a significant role in the society through research and applications for the betterment of mankind. Careers for microbiologists can be in Hospitals / Clinical laboratories, Food industry, Environmental pollution management, Research labs etc.
-
-                                    </p>
+                                 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Project Title</th>
+      <th>Investigators</th>
+      <th>Collaboration/ Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Microbial Screening for different applications</td>
+      <td>Leads Pvt. Ltd, Bangaluru &Dept of LS,  KJC  (Dr. Elcey CD)</td>
+      <td>Leads Pvt. Ltd, Bangaluru /Ongoing </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Phyto-compound screening</td>
+      <td>Leads Pvt. Ltd, Bangaluru & Dept of LS,  KJC (Dr. Elcey CD)</td>
+      <td>Leads PvtLtd, Bangaluru / Ongoing</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Microbial Screening and cell line studies</td>
+      <td>CellTricks Biotech Pvt Ltd., Bengaluru & Dept of LS,  KJC ( Dr. Elcey)</td>
+      <td>CellTricks Biotech Pvt Ltd., Bengaluru/  On going</td>
+    </tr>
+      <tr>
+      <th scope="row">4</th>
+      <td>Nuetra-ceutical Formulation of Bioactive compounds</td>
+      <td>Dr. Jude Calistus & Dr. S. Vijayanand </td>
+      <td>Self-Finance- Minor Project /Ongoing</td>
+    </tr>
+       <tr>
+      <th scope="row">5</th>
+      <td>Phytochemical Analysis of various plants</td>
+      <td>Dr. S. Vijayanand</td>
+      <td>Self-Finance- Minor Project /Ongoing</td>
+    </tr>
+      <tr>
+      <th scope="row">6</th>
+      <td>Synthesis of magnetite nano particles and its toxicity studies</td>
+      <td>Dr. Elcey CD</td>
+      <td>Self-Finance- Minor Project/ Ongoing</td>
+    </tr>
+    
+  </tbody>
+</table>
+          <p><b>Projects applied to Government funding agency</b></p>
+                                    
+         <table class="table table-bordered">     <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Project Title</th>
+      <th>Funding Agency</th>
+      <th>Investigators</th>
+     <th>Project Estimated Cost</th>
+     <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Study on Bio- demineralization of Coal and Lignite using Microorganisms </td>
+      <td>SERB, DST, INDIA </td>
+      <td>Dr. Elcey CD</td>
+        <td>85, 87, 400 </td>
+        <td></td>
+    </tr>
+   
+    <tr>
+      <th scope="row">3</th>
+      <td>Isolation and characterization of Phytochemicals from Michelia Champaca and Thespesia Populnea for evaluation of Therapeutic Potential</td>
+      <td>VGST, GOVT. KARNATAKA</td>
+      <td>Dr.S. Vijayanand</td>
+         <td>10 Lakhs</td>
+         <td>2 Years</td>
+      </tr>
+  </tbody>
+</table>                       
+                                    
+                   
                                     
                                     
-                                    
-                                    
-                                     <p align="justify">
-                         As a graduate or postgraduate in Microbiology, one can be placed as a technical assistant or project assistant in a research laboratory. Microbiology is an interdisciplinary subject that provides opportunity in various applied fields- Bacteriology, Environmental Microbiology, Industrial and food Microbiology etc. Bio technologists and Microbiologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -281,7 +328,7 @@ Career Opportunities
 
                     </div>
 
-                  						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>

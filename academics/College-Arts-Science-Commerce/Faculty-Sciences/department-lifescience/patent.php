@@ -112,48 +112,55 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong> 
-Career Opportunities
-</strong></span>
+                                        <span>&nbsp;<strong>Patent Recognition</strong></span>
                                     </h4>
+                                    <p><b>Patent:: Garlic formulation & process for preparing the same for treatment of DIABETICS : US,13/906,432 - Dr. Deepa</b></p>
 
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                     Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.
-   <br>
-                                    </p>
-                                    <p align="justify">
-                         A graduate in Biotechnology can opt for the post of a technical assistant, while a post graduate can opt to teach or become a research assistant. A degree holder in Biotechnology can become a technical assistant, research associate, while a post-graduate or a PhD. holder can be a research scientist or can join a teaching fraternity. Bio technologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    <p align="justify">
-                           Microbiologists play a significant role in the society through research and applications for the betterment of mankind. Careers for microbiologists can be in Hospitals / Clinical laboratories, Food industry, Environmental pollution management, Research labs etc.
-
-                                    </p>
+                                    <p><b><u>Research Publications by Faculty Members</u></b></p>
+                                    
+                                    
+        
+                          <div class="well well-sm">
+                              <center>National Journals: 11</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>International journals: 21</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books : 5</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books Chapters : 9</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Books Edited: 1 </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Publication listed in International Database - 23 </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Citation Index - range / average - 0.012- 161</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>SNIP -0.3556 (average) </center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>SJR -0.3916 (average)</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>Impact factor - range / average - 1.9647</center>
+                               </div>
+                                    <div class="well well-sm">
+                              <center>h-index � 51.2 (Average)</center>
+                               </div>
+                                  
                                     
                                     
                                     
                                     
-                                     <p align="justify">
-                         As a graduate or postgraduate in Microbiology, one can be placed as a technical assistant or project assistant in a research laboratory. Microbiology is an interdisciplinary subject that provides opportunity in various applied fields- Bacteriology, Environmental Microbiology, Industrial and food Microbiology etc. Bio technologists and Microbiologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
                                     
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
+                                 
+                                    
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -281,7 +288,7 @@ Career Opportunities
 
                     </div>
 
-                  						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -295,7 +302,7 @@ Career Opportunities
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-
+ 
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

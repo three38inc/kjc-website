@@ -282,8 +282,7 @@ The college recognizes the importance of this subject and offers the course stru
                         </div>
 
                     </div>
-
-                    <!--						                                </div>-->
+				                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -297,7 +296,7 @@ The college recognizes the importance of this subject and offers the course stru
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+   
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

@@ -353,7 +353,7 @@ Kannur University
 
                     </div>
 
-                    <!--						                                </div>-->
+                   						                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -367,7 +367,7 @@ Kannur University
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

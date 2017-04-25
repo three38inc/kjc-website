@@ -112,48 +112,80 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong> 
-Career Opportunities
-</strong></span>
+                                        <span>&nbsp;<strong>Seminars, Workshops and Conferences</strong></span>
                                     </h4>
-
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                     Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.
-   <br>
-                                    </p>
-                                    <p align="justify">
-                         A graduate in Biotechnology can opt for the post of a technical assistant, while a post graduate can opt to teach or become a research assistant. A degree holder in Biotechnology can become a technical assistant, research associate, while a post-graduate or a PhD. holder can be a research scientist or can join a teaching fraternity. Bio technologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    <p align="justify">
-                           Microbiologists play a significant role in the society through research and applications for the betterment of mankind. Careers for microbiologists can be in Hospitals / Clinical laboratories, Food industry, Environmental pollution management, Research labs etc.
-
-                                    </p>
+                                  
+                                    <table class="table table-bordered">
+  <thead>
+    <tr>
+     
+      <th>Title</th>
+      <th>Resource Personnel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+     <td>National Seminar on Modern Biology  Perspective and Prospects (2009)</td>
+        <td>Dr.Rathore, Inst.Wood Science & Technology<br>
+            Dr.T K S Gowda, GKVK, Bangalore<br>
+            Dr. S K Srinivas, Analysis Sciences<br>
+            Mr.S P Venkatesh Prasad, Aarom Pharmaceuticals Ind.Ltd.<br>
+            Dr.Uday Kumar Ranga, JNCASR<br>
+            Dr.Maya Paul, KOP<br>
+            Ms.Vidya Virajith, GSK </td>
+    </tr>
+      <tr>
+     <td>National Seminar on "Evolvingtrends in Bioprocess Engineering" (2010)</td>
+      <td>Dr. Divakar, Dy. CFTRI<br>
+Dr. Keshav Nireshwalia, CFTRI<br>
+Mr. Ganesh Ramu, United Breweries<br>
+Dr. U V Babu, Himalaya Healthcare<br>
+Dr. Subhasis, Millipore India Pvt. Ltd.<br>
+Dr. Gurpreet Kalsi, ITC Ltd<br>
+Dr. Baladev, CFTRI<br>
+Mr. Nitesh Dave, Biocon, Bangalore</td>
+    </tr>
+       <tr>
+     <td>National Conference on Plant Diversity: prospects and problems of conservation (2010) supported by Dept. of IT, BT and S & T, Govt. of Karnataka</td>
+      <td>Mr. K. Arul Thomas , Robust Mushrooms, Tamil Nadu<br>
+Mr. Sushant Sekhar, Jayaa Agro Foods, Bangalore<br>
+Dr. Paneerselvam , IIHR, Bangalore<br>
+Dr. Devaraj Achar, Indo American Hybrid Seeds, Bangalore<br>
+Mr. Sanjay Bettadpura, Polyclone Bioservices, Bangalore </td>
+    </tr>
+       <tr>
+     <td>National Workshop on Entrepreneurship for Post Graduate Life Science Students (2011) in association with NEN</td>
+      <td>Mr. K. Arul Thomas , Robust Mushrooms, Tamil Nadu<br>
+Mr. Sushant Sekhar, Jayaa Agro Foods, B<br>angalore<br>
+Dr. Paneerselvam , IIHR, Bangalore
+Dr. Devaraj Achar, Indo American Hybrid Seeds, Bangalore<br>
+Mr. Sanjay Bettadpura, Polyclone Bioservices, Bangalore  </td>
+    </tr>
+     
+       <tr>
+     <td>Science Academies Lectureworkshop on "Frontiers in Biology" (2013)  in association with National Science Academies</td>
+      <td>Prof. Kumar Somasundaram<br>
+Prof. K.N. Balaji<br>
+Prof. Dipshika Chakravorty<br>
+Prof. Nagasuma Chandra<br>
+Prof. Annapoorni Rangarajan<br>
+Prof. Utpal Nath Indian Institute of Science, Bangalore  </td>
+    </tr>
+      
+      <tr>
+     <td>National Seminar on Science and Technology for Human Development (2015) - in association with ISCA, Bangalore Chapter</td>
+      <td>Prof. Govindan Rangarajan, IISc, Bangalore<br>
+Prof. N.B. Ramachandra, University of Mysore<br>
+Dr. Abraham Varghese, NBAII, Bangalore<br>
+Prof. Harrold Phillip, SK University, AP,<br>
+Prof. M. G. Venkatesha, Bangalore University  </td>
+    </tr>
+                                        </tbody>
+                                    </table>
                                     
                                     
+                                 
                                     
-                                    
-                                     <p align="justify">
-                         As a graduate or postgraduate in Microbiology, one can be placed as a technical assistant or project assistant in a research laboratory. Microbiology is an interdisciplinary subject that provides opportunity in various applied fields- Bacteriology, Environmental Microbiology, Industrial and food Microbiology etc. Bio technologists and Microbiologists can join as a freelance journalist, scientific reporter or in the field of management.
-
-                                    </p>
-                                    
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
-
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -281,7 +313,7 @@ Career Opportunities
 
                     </div>
 
-                  						                                </div>
+                   					                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -295,7 +327,7 @@ Career Opportunities
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-
+    </div>
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>
