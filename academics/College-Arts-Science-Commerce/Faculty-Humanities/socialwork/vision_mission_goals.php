@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Vision <strong> , Mission & Goals </strong></span></h4>
@@ -94,7 +95,7 @@
 2. To prepare Social Workers with ethical competence<br>
 3. To engage actively in Social Work research and training<br>
 									4. To enrich the skill oriented approach towards Social Work</p>
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

@@ -79,13 +79,14 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Upcoming  <strong> Seminars & Conferences </strong></span></h4>
 								
 								<p>The Department of Social Work, Kristu Jayanti College, Bengaluru is Organizing a National Conference on Criminology & Correctional Services Administration: Problems & Prospects on 17th & 18th March 2017. Registrations Open... For Registration Please Contact: socialwork@kristujayanti.com</p>
 								
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
