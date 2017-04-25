@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Career <strong> Opportunites  </strong></span></h4>
@@ -88,7 +89,7 @@
                                 <p align=justify>Talks on various topics related to placements like "Placement Opportunities & absorption process by IT companies", "Placement process and requirements" etc. are organized. Many students of the department are employed in different companies like Infosys, IBM, Cognizant, Ernst & Young, HP, Oracle, iGate, South Indian Bank, Wipro, National Instruments, Aricent, UST Global, Deutsche Bank, Unisys and TTK Services.</p>
 
                             
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

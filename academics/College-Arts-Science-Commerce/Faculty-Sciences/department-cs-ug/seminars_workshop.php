@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Seminars & <strong> Workshops </strong></span></h4>
@@ -92,7 +93,7 @@
                                 <li> Workshop on R software by Prof. Suni Ajaykumar and Prof. Liji George, Faculty, Dept of Statistics, Kristu Jayanti College on 23rd ,24th and 26th August 2016.</li>
 
                             
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
