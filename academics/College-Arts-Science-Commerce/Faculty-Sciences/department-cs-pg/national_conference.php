@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; National <strong> Conference</strong></span></h4>
@@ -87,7 +88,7 @@
 	The conference was a platform for researchers and students from various branches of computer field to come together to present their new ideas and inventions in the ever growing software and hardware field. The conference had Technical Sessions and Research paper presentation Sessions. Technical session handled by experts from industry delivered talks on some emerging trends. The paper presentation sessions dealt with many research scholars presenting their papers. The conference was mainly focused on the following fields Mobile Computing, Web Mining, Parallel Computing, Data Mining, Cloud Computing, Software Architecture, Neural Networks, Digital Image Processing, Networking, Text Mining, Data Security, Embedded Systems and Object Oriented Software Engineering. The presented papers were published in the conference proceedings.  </p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

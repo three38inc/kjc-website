@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;  <strong> Syllabus</strong></span></h4>
@@ -88,7 +89,7 @@
 								<center><a href="pdf/2015_2018 & 2016-2019 batch_syllabus.pdf" target="_blank" class="btn btn-primary">Click here for syllabus MCA (2015-18 and 2016-2019) Batch   </a></center><br>
 								<center><a href="pdf/mca_curriculum_2013_2016_2014_2017.pdf" target="_blank" class="btn btn-primary">Click here for syllabus MCA (2013-16 and 2014-17) Batch    </a></center>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

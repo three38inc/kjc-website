@@ -79,13 +79,14 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;  <strong> Celebrations</strong></span></h4>
 								
 								<p align=justify>Life is "The celebration of colors" - The Department has its own colors to celebrate every month starting from the distribution of certificate and trophies which are earned by the IT Talents of the Department, Birthday Celebrations by the Department every month, Ethnic Day Celebrations, Teachers Day, Women’s Day, Dance Fests, Cultural Fests, etc are well celebrated in the Department apart from the academic activities.</p>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

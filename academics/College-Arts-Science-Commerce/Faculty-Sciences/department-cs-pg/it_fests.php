@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; IT  <strong> Fests</strong></span></h4>
@@ -90,7 +91,7 @@
 									The Department of Computer Science [PG] organize SHELLS, a Two Day National Level IT fest, for the Post Graduate Students of Information Technology (MCA, M. Tech, B. Tech, B.E., M.E., M.Sc., and M.S.,). It is a two day technical mélange with events that test a participant's skill to the hilt amongst the best from all over India. Shells is not only a Technical Fest, it's also a forum that aims at bridging the gap between the corporate world and the Academia. The Department brings together a plethora of events that encompass the discovery of technical expertise thus enhancing innovative and creative Learning. There will be exciting events that will fascinate the participants which includes Coding, IT Manager, Web Designing, IT Quiz, IT Tycoon, Gaming, Networks, Multimedia, Treasure Hunt, Event-X, etc.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

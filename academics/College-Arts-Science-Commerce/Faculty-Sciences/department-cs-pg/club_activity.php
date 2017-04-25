@@ -79,13 +79,14 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Club  <strong> Activity</strong></span></h4>
 								
 								<p align=justify>Every week the department is organizing various programs to fill the gap between industry and institute. We invite various eminent personalities from industry and institute give speech on current trends. The program conducted under the Tech Talk Series, 3i- Industry Institute Interaction, Seminars, Workshops or Industrial Visit on a regular basis.  </p>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
