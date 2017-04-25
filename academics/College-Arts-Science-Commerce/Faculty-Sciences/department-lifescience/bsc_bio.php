@@ -296,7 +296,7 @@ The college recognizes the importance of this subject and offers the course stru
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+   
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>

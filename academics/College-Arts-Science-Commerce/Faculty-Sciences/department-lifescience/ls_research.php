@@ -447,7 +447,7 @@ Central Instrumentation' facility is a special feature of the Research complex.
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+
     <!--st-container-->
 
     <script src="../../../../js/cbpFWTabs.js"></script>
