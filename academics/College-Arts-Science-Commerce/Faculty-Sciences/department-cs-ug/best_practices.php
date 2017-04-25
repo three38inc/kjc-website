@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Best  <strong> Practices  </strong></span></h4>
@@ -99,7 +100,7 @@
                                     VMware Open Badge program is an opportunity for students to complete the courses on Data Center Virtualization Fundamentals [V6], VMware Network Virtualization Fundamentals and        VMware Cloud Fundamentals on a chosen date and time at the college and share the verified proof of their achievements. On completing the certificate course on Information Storage and Management the students can take up the online certification exam and get certified as EMC Academic Associate, Information Storage Management. </p>
 
                             
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

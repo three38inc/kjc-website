@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>BCA</strong></span>
@@ -92,7 +93,7 @@
                                         1.	Any student who has passed PUC/10+2/Pre-University equivalent courses in Science, Arts or Commerce securing a minimum of 40% of marks is eligible.                         </p>                                         
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
