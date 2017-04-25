@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Faculty  <strong>Development Programme</strong></span></h4>
@@ -135,7 +136,7 @@ Day 2: Basics of R and data analysis using ‘R’ conducted by Dr. Vinod Kumar 
 
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

@@ -79,13 +79,14 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; MBA / PGDM  <strong>International Finance</strong></span></h4>
 								
 								<p align=justify>MBA/PGDM International Finance enables the students to obtain ACCA ( Association of Chartered Certified Accountants) qualification along with MBA/PGDM programme. MBA/PGDM –International Finance is eligible for gaining 9 paper exemptions out of 14 towards the ACCA Qualification, UK and the student has to write only 5 papers to qualify ACCA. ACCA - The Association of Chartered Certified Accountants - is the UK based professional accountancy body which is accepted and recognized in 183 countries. The student is also given certificate in IFRS ( International Financial Reporting Standards).</p>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

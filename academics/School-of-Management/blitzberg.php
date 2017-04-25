@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>Blitzberg</strong></span></h4>
@@ -86,7 +87,7 @@
 								<p align=justify>he students of first year MBA & PGDM are divided into three clubs. Such as Finance, Human resources and Marketing. On Saturdays each club conducts activities for the rest of the students. The students are divided into 16 groups. The activities are conducted for three hours with five events, where in two events will happen simultaneously at two venues SKE auditorium and MBA conference hall. Each event has a duration of one hour. The core committee who conducts the club activities consists of student coordinators and each club is headed by three students.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
