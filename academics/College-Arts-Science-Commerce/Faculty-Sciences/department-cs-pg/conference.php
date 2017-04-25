@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;  <strong>Conference </strong></span></h4>
@@ -86,7 +87,7 @@
 								<p align=justify>Owing to the rapid changes in the field of Computer Technology, it is necessary to conduct conferences to bridge the gap between the current technology and new emerging technology. In this regard the Department has successfully organized three editions of National Conference (Current Trends in Advanced Computing) and five editions of International Conference.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

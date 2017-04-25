@@ -79,13 +79,14 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Technical  <strong>  Communities</strong></span></h4>
 								
 								<p align=justify>The Department believes that Information Technology is a rapidly evolving discipline. It is important that we contribute to technology in a way that our students can devote themselves to take the maximal advantage of modern computer science to solve a wide range of technological problems based on their interest / specialization. The objective is to hone technical skills demanded by today's professionals by providing a sound technical platform and the required knowledge base. It prepares them to meet the challenges faced by today's IT professional by exposing them to wide array of cutting-edge technologies. Students can select their own specialization, through which they can improve their skills. The different communities are Networking, System Administration, Security, Enterprise solutions, Mobile Computing and Embedded Systems. Each community is headed by different faculty members. Student can be the member of these communities after their first semester. Students can select their own specialization, prepare on the domain. They can showcase their talents on the respective domain during the Technical Community Presentation.</p>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
