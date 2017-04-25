@@ -79,14 +79,18 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>Gramasamveditha</strong></span></h4>
 								
+								<p align=justify>To inculcate the budding managers with values and a concern towards the society and to give them an opportunity to learn from the society, the first year MBA/PGDM students are taken to village visits were students stay in a village, observe, learn and conduct various activities and researches to understand the problems in the rural India. The following are the village visits organized in the year 2016-17:</p>
+								
 								
 								<div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">2014</a></li>
+                                            <li class="active"><a href="#" data-value="page4">2016</a></li>
+											 <li><a href="#" data-value="page1">2014</a></li>
                                             <li><a href="#" data-value="page2">2013</a></li>
                                             <li><a href="#" data-value="page3">2012</a></li>
                                             
@@ -104,7 +108,7 @@
 								
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -247,7 +251,7 @@
     <script>
         $("document").ready(function() {
             //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
+            var activePage = 'page4';
             $.ajax({
                 url: 'gramasamvedita/' + activePage + '.php',
                 success: function(data) {

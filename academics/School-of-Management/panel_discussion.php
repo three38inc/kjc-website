@@ -79,12 +79,12 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Panel <strong> Discussion </strong></span></h4>
 								
-								<p align=justify>To kindle the young minds on recent and burning issues, Kristu Jayanti School of Management organizes Panel Discussions were in Industry Professionals are invited to discuss and bring in various perspectives and insights on campus. The following panel discussions were conducted this year for both the first and second year MBA & PGDM students:</p>
-								
+								<p align=justify>To kindle the young minds on recent and burning issues, Kristu Jayanti School of Management organizes Panel Discussions were in Industry Professionals are invited to discuss and bring in various perspectives and insights on campus. The following panel discussions were conducted this year for both the first and second year MBA & PGDM students</p>
 								
 								 <table class="table table-bordered">
   <thead>
@@ -97,6 +97,21 @@
     </tr>
   </thead>
   <tbody>
+	  
+	   <tr>
+      <th scope="row">02-Feb-2017</th>
+      <td>Union Budget 2017-18</td>
+	 <td>1.Dr.Jacob Crasta<br>
+Founder Chairman CM Envirosystems P Ltd<br>
+2.Shinto Joseph<br>
+Operations Manager <br>
+LRDA<br>
+3.Sudhaker<br>
+Director BMR advisors<br>
+4.T.P. Joseph<br>
+AGM,South Indian Bank Bangalore
+</td>
+      </tr>
 	  
 	   <tr>
       <th scope="row">04-Aug-2016</th>
@@ -115,11 +130,12 @@ Shri. Raj Rajkumar, Director & Site Leader, TE Connectivity Global Shared Servic
 Ms.Rashmi, Senior Manager, Deloitte</td>
       </tr>
 	  
+	  
 									 </tbody></table>
 
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

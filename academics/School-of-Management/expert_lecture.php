@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Expert lecture on<strong> Union Budget</strong></span></h4>
@@ -86,9 +87,10 @@
 								
 								<div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
+                                            <li class="active"><a href="#" data-value="page4">1</a></li>
+											 <li><a href="#" data-value="page1">2</a></li>
+                                            <li><a href="#" data-value="page2">3</a></li>
+                                            <li><a href="#" data-value="page3">4</a></li>
                                             
                                         </ul>
                                     </div>
@@ -104,7 +106,7 @@
 								
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -247,7 +249,7 @@
     <script>
         $("document").ready(function() {
             //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
+            var activePage = 'page4';
             $.ajax({
                 url: 'expert_lecture/' + activePage + '.php',
                 success: function(data) {

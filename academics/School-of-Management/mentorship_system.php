@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Mentorship <strong> System</strong></span></h4>
@@ -87,7 +88,7 @@
 								<p align=justify>The role of the mentor is to monitor the student with regard to their Personal and Professional Achievements. Attendance in each semester and the internal examination marks are closely monitored. Each student is required to meet their mentors on a regular basis. A register is maintained with every faculty to record the report about the students.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

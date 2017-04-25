@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; PGDM <strong>Curriculum</strong></span></h4>
@@ -94,7 +95,7 @@ The Course is a two year full-time programme in six trimesters approved by All I
 								<p align=justify>The second year has some core courses and mainly elective courses besides final project. The elective courses which are offered in the second year of the programme allow students to choose a group of courses that interest them and develop proficiency in the areas of their choice. Elective courses will be developed and updated from time to time. A student will have to take all the 15 elective courses in a stream to qualify for a specialization in that area. A student, however, can choose electives to have a broad knowledge on the subjects depending on the courses offered in the specialization scheme.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

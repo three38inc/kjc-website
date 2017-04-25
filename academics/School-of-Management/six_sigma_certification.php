@@ -79,24 +79,54 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Six Sigma <strong>Certification</strong></span></h4>
 								
-								<p align=justify>In today's scenario of  increasing globalization with innumerable players in   every sphere of Services and Manufacturing ,it has become a desideratum for every organization   to  articulate,  compelling and motivating S.M.A.R.T ( Specific, Measurable, Achievable, Realistic, Time - bound )objectives and goals for the seamless alignment of senior , middle and Lower management members towards steering the company in the growth trajectory.</p>
+								<p align=justify>In today's scenario of  increasing globalization with innumerable players in every sphere of Services and Manufacturing, it has become a desideratum for every organization   to  articulate,  compelling and motivating S.M.A.R.T (Specific, Measurable, Achievable, Realistic, Time - bound) objectives and goals for the seamless alignment of senior, middle and Lower management members towards steering the company in the growth trajectory.</p>
 
-								<p align=justify>Keeping in mind the Department of Management Studies of the College organizes ‘Six Sigma Green Belt Certification Programme’ to meet the changing requirements of a customer.</p>
+								<p align=justify>Keeping in mind the Department of Management Studies of the College organizes ‘Six Sigma Green Belt Certification Programme’ to meet the changing requirements of the market.</p>
 
 								<p align=justify>Six Sigma Green Belt Certification programme aims at understanding the requirements of a customer that is Critical to Quality (CTQs), improving the processes and eliminating wasteful practices.</p>
 
 
-								<p align=justify>It is conducted by Asian Institute of Quality Management, Mumbai, the only UK Accredited center in the country, in two batches between December 05 to 12, 2013. Certificates of Merit will be issued to the students who successfully pass the examination though all the students receive attendance certificate.</p>
+								<p align=justify>It is conducted by KPMG, in two batches one in the month of February 2017 and the other in the month of March 2017. Certificates of Merit were issued to the students who successfully pass the examination though all the students receive attendance certificate.</p>
+								
+								 <table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Nature of the course</th>
+	 <th>Title of the  course</th>
+      <th>Date and Duration</th>
+		  <th>Resource person / Faculty in charge</th>
+		  <th>Total number of beneficiaries</th>
+   
+    
+    </tr>
+  </thead>
+  <tbody>
+	  
+	   <tr>
+      <th scope="row">Certificate</th>
+      <td>Six Sigma Green Belt Certification</td>
+	 <td>01/02/2017 02/02/2017 & 03/02/2017</td>
+		   <td>KPMG</td>
+		 <td>41</td>
+      </tr>
+	  
+	  <tr>
+      <th scope="row">Certificate</th>
+      <td>Six Sigma Green Belt Certification</td>
+	 <td>09/03/2017 10/03/2017 & 11/03/2017</td>
+		   <td>KPMG</td>
+		 <td>41</td>
+      </tr></tbody></table>
 
 
 
 
-
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
