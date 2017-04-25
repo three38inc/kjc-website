@@ -112,7 +112,7 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Seminars, Workshops and Conferences</strong></span>
+                                        <span>&nbsp;Seminars, Workshops and<strong> Conferences</strong></span>
                                     </h4>
                                   
                                     <table class="table table-bordered">

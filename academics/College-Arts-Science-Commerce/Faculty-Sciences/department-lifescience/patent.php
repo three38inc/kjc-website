@@ -112,7 +112,7 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Patent Recognition</strong></span>
+                                        <span>&nbsp;Patent<strong> Recognition</strong></span>
                                     </h4>
                                     <p><b>Patent:: Garlic formulation & process for preparing the same for treatment of DIABETICS : US,13/906,432 - Dr. Deepa</b></p>
 
@@ -151,7 +151,7 @@
                               <center>Impact factor - range / average - 1.9647</center>
                                </div>
                                     <div class="well well-sm">
-                              <center>h-index � 51.2 (Average)</center>
+                              <center>h-index  51.2 (Average)</center>
                                </div>
                                   
                                     

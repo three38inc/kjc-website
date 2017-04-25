@@ -112,13 +112,12 @@
                                     <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong> Skill Development Activities</strong></span>
+                                        <span>&nbsp;Skill Development<strong>  Activities</strong></span>
                                     </h4>
 
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       Post graduate students of our department are involved in self-funded short term research projects and are efficiently guided by the faculty. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.
-                         </p>
+                                       Post graduate students of our department are involved in self-funded short term research projects and are efficiently guided by the faculty. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.</p>
                                     <p align="justify">
                         Skill Development Programmes are organized by the department every week. This will involve the Post Graduate students in various activities such as paper presentations, update on research, discoveries, biotech ventures, company profiles, quiz, mock interviews, laboratory skills, etc
 
