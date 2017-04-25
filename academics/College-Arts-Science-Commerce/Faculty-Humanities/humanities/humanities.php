@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Department of <strong> Humanities</strong></span></h4>
@@ -90,7 +91,7 @@
                                 <p>The success rate of the department for past two years was 91.11% and 84.62% respectively.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

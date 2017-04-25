@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Club  <strong> and Association</strong></span></h4>
@@ -86,7 +87,7 @@
                                 <p align=justify>In Humanities department, structured strategies are adapted for both slow learners and advanced learners. The sub-department functions under a club viz., Psychology Club, Journalism Club, Literature Club Political Science Club and a Movie Club. These clubs function actively throughout the year to encourage active participation to showcase innate talents and enhance their skills. Students are made to involve with zest and enthusiasm in all extension activities and outreach programs to have a firsthand experience with the underprivileged and marginalized sect of the society for a holistic development. Subject teachers and class teachers support and motivate students in all aspects. Most importantly student support services like counseling sessions, personality development programs, soft skill training, women empowerment and career guidance and placement assistance focus on progression of students to higher education and employment.</p>
                                 <p align=justify>With all in house training and participation on the placement cell finds the right job for the right candidate and ensures every individual a safe place in the job market. Quality enhancement cell initiate new policies for a better outcome with regard to academics and co-curricular activities. Suggestions from the student council and feedback from the alumni are considered and implemented for the well-being of the students.</p>
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
