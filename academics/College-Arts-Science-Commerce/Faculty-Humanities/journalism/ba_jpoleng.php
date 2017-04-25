@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;BA JPolEng<strong>(Journalism, Political Science, English Literature)</strong></span></h4>
@@ -93,7 +94,7 @@
                                     This course aims at moulding and making the student an ideal citizen. The course introduces various facts of the profession with a blend of theoretical politics with practical knowledge. The course makes him to contribute more for the nation, prepares him for the competitive world to take up administrative service.</p>
                                 <p><b>Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
