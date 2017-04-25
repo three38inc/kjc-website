@@ -78,7 +78,7 @@ section a.a-link-arrow::after {
     left: 20px;
     padding: 0 0.25em;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 13px;
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
     -webkit-transform: translateX(0);

@@ -9,8 +9,8 @@ html {
 
 body {
     margin: 0;
-    font-family: 'Carrois Gothic', sans-serif;
-    font-size: 16px;
+    font-family: 'Carrois Gothic';
+    font-size: 13px;
     color: #1e1e1e;
     /*  background-color:#bdc3c7;*/
     background-color: #fff;
@@ -762,7 +762,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     padding: 0%;
     padding-left: 3%;
     text-align: left;
-    font-size: 16px;
+    font-size: 13px;
     height: 40px;
     line-height: 30px;
     text-decoration: none;
