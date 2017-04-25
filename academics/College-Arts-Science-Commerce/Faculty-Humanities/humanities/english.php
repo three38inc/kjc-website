@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>English</strong></span></h4>
@@ -88,7 +89,7 @@
                                 <p align=justify>The glory of a bygone era is obviously of no use unless it can be utilized to enlighten the present. On the practical side, this course offers numerous employment opportunities in the field of teaching, journalism, publishing, writing, etc. Most importantly, a sound understanding of the language equips the student with communication skills, which is an indispensable part of success in any field in todays’ competitive world.</p>
 
 
-                            </div>
+								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
