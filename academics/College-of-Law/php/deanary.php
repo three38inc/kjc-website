@@ -1,11 +1,7 @@
-
-<h4 style="background-image: url(../../images/headline_bg.jpg);
-    background-repeat: no-repeat;
-    background-position: 0px bottom;
-           padding-bottom: 7px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-    <span style="font-size: 20px;">&nbsp;The <strong style="color:#2980b9;font-size: 24px;">Deanaries</strong></span>
-</h4>
-<!--<hr />-->
+<br>
+<center><h4 class="mainheading" style="background-position: bottom center;">
+    <span>&nbsp;Kristu Jayanti <strong> College of  Law</strong></span>
+</h4></center>
 <div class="row">
     
     <div class="col-lg-4 deanary">

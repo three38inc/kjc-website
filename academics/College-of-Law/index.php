@@ -62,38 +62,23 @@
 			<div class="st-pusher">	
 				<div class="st-content"><!-- this is the wrapper for the content -->
 					<div class="st-content-inner">
-						<div class="container">
-							<!--        <div class="row">-->
-                            <div class="row empty" style="margin-bottom:2vh;"></div>
-                            <div class="row" style="padding:0% 5px; position: relative;">         
-                                <div class="tint"></div>    	                    
-                                <?php include ('php/carouselMain.php'); ?>
-                            </div>
-                            
-                            
-                            <div class="row" >
-                                <div class="col-lg-9">
-                                    <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
-                                        <?php include ('php/welcome.php'); ?>
-                                    </div>
-                                    <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
-                                        <?php include ('php/deanary.php'); ?>
-                                    </div>
+                        
+                            <div class="row" style="height:15vh;"></div>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <img src="../../images/law.jpg" class="mainImg" />
                                 </div>
-                                <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn">
-                                        <?php include ('php/newsAndUpdates.php'); ?>
-                                    </div>
+                                <div class="col-lg-6">
+                                    <?php include "php/deanary.php"; ?>
                                 </div>
-                                <div class="clearfill"></div>
+                                
                             </div>
+							
 
-						</div>
 
 <!--						                                </div>-->
 						<?php include ('../../php/alerts.php');  ?>
 						<?php include('../../php/footer.php'); ?>
-						<?php include('../../php/morphingSearch.php'); ?>
 					</div>   
 
 
