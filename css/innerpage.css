@@ -103,7 +103,7 @@ section a.a-link-arrow::after {
 }
 
 .link-arrow a.a-link-arrow::before {
-    left: 0px;
+    left: -100%;
     z-index: -1;
     width: 100%;
     background: #fff;

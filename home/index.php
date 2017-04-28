@@ -128,7 +128,7 @@
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 635px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 563px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
