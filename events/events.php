@@ -248,10 +248,10 @@
 
                                     </style>
                                     <section class="event-dates">
-                                        <p><span> 01 </span><a class="a-link-date" href="#">UdyogVichaar - Thomson Reuters</a></p>
+                                        <p><span> 01 </span><a class="a-link-date event-links" data-year="2017" data-month="April" href="test.php">UdyogVichaar - Thomson Reuters</a></p>
                                     </section>
                                     <section class="event-dates">
-                                        <p><span> 08 </span><a class="a-link-date" href="#">UdyogVichaar - Sprinklr</a></p>
+                                        <p><span> 08 </span><a class="a-link-date event-links" href="#">UdyogVichaar - Sprinklr</a></p>
                                     </section>
                                     <section class="event-dates">
                                         <p><span> 11 </span><a class="a-link-date" href="#">Gate 2017 - Sunrise Systems</a></p>
@@ -352,25 +352,35 @@
         $('#event-year').html((new Date()).getFullYear());
         $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
         $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
-        getNews($('#event-year').html(), $('.nowMonth').html());
+        getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
         $('.event-navigator a').on('click', function(e) {
             $('.event-navigator a').removeAttr("class");
             $(this).addClass("nowMonth");
-            getNews($('#event-year').html(), $('.nowMonth').html());
+            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
         });
         $(".yearLeft").click(function() {
             var year = Number(document.getElementById('event-year').innerHTML);
             document.getElementById('event-year').innerHTML = year - 1;
-            getNews($('#event-year').html(), $('.nowMonth').html());
+            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
         });
         $(".yearRight").click(function() {
             var year = Number(document.getElementById('event-year').innerHTML);
             document.getElementById('event-year').innerHTML = year + 1;
-            getNews($('#event-year').html(), $('.nowMonth').html());
+            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+        });
+        $('body').on('click',".event-links",function(e){
+            e.preventDefault();
+            var url=$(this).attr("href");
+            var year=$(this).data("year");
+            var month=$(this).data("month");
+            $('.event-navigator a').removeAttr("class");
+            $('.event-navigator a:contains("'+month+'")').addClass("nowMonth");
+            var mode="openlink";
+            getNews(year,month,mode,url);
         });
 
-        function getNews(year, month) {
-            var dataString = "year=" + (year) + "&month=" + month;
+        function getNews(year, month,mode,url) {
+            var dataString = "year=" + (year) + "&month=" + (month) + "&mode=" + (mode) + "&url=" + (url);
             $.ajax({
                 url: "loadEvent.php",
                 data: dataString,
