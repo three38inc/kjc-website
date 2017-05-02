@@ -101,7 +101,7 @@
 								<div class="marginTopDiv">&nbsp;</div>
 								<div class="col-lg-9">
 
-									<div class="content-left myWelcome wow fadeIn" style="min-height:750px;">
+									<div class="content-left myWelcome wow fadeIn" style="min-height:930px;">
 										<h4>
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
 											<span>&nbsp;<strong>Management
@@ -111,22 +111,22 @@
 										<div class="inner-content about_minheight">
 											<p align="justify"> Kristu Jayanti College, Bangalore - Administration<br/><br/>				
 											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align:center;margin-top:40px;">
-												<img src="../images/fr_josekutte.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2" style="float:none;"> <br/> <span >  Fr. Josekutty P.D. - Principal
+												<img src="../images/principal.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/> <span >  Fr. Josekutty P.D. - Principal
 
 												</span>
 											</div>
 											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align:center;margin-top:40px;">
-												<img src="../images/fraugustine.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2" style="float:none;"> <br/><span >Fr. Augustine G. - Vice Principal</span> 
+												<img src="../images/fr_Augustine-george.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Augustine G. - Vice Principal</span> 
 											</div>
 											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
-												<img src="../images/frlijo.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2" style="float:none;"> <br/><span >Fr. Lijo Thomas - Financial Administrator</span> 
+												<img src="../images/Fr_Lijo.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Lijo Thomas - Financial Administrator</span> 
 											</div>
 											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
-												<img src="../images/som_zacharia.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2" style="float:none;"> <br/><span > Fr. Som Zacharia 
+												<img src="../images/fr._som.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span > Fr. Som Zacharia 
 Director, Library &amp; Information</span> 
 											</div>
 											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
-												<img src="../images/fr_emmanuel.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2" style="float:none;"> <br/><span >Fr. Emmanuel P.J. 
+												<img src="../images/emmanual.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Emmanuel P.J. 
 Faculty, Department of Psychology</span> 
 											</div>
 											<br /><br />
