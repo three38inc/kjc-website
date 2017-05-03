@@ -162,19 +162,19 @@
                                             <div class="owl-carousel owl-theme" id="placementSlider">
                                               <div class="item">
                                                 <img src="slider-images/arcesium.jpg" />
-                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                               </div>
                                               <div class="item">
                                                 <img src="slider-images/volvo.jpg" />
-                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                               </div>
                                               <div class="item">
                                                 <img src="slider-images/crossdomain.jpg" />
-                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                               </div>
                                               <div class="item">
                                                 <img src="slider-images/greatwest.jpg" />
-                                                <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                               </div>
                                           </div>
                                         </div>

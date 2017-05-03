@@ -138,53 +138,114 @@
                                     </h4>
 									
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="founder.php">Founder</a></p>
+                                        <p><a class="a-link-arrow" href="introduction.php">Introduction</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
+                                        <p><a class="a-link-arrow" href="examination_comittee.php">Examination Committee</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="internal_examination.php">Internal Examination</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="core_values.php">Core Values</a></p>
+                                        <p><a class="a-link-arrow" href="guidelines_termexam.php">Guidelines - Internal Exam</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
+                                        <p><a class="a-link-arrow" href="pta_meeting.php">PTA Meeting</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
+                                        <p><a class="a-link-arrow" href="graducation_day.php">Graduation Day</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
+                                        <p><a class="a-link-arrow" href="semester_pattern_ug_pg.php">Semester Pattern UG &amp; Trimester Pattern PG</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
+                                        <p><a class="a-link-arrow" href="examination_calendar.php">Academic Year 2016-17</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
+                                        <p><a class="a-link-arrow" href="assessment_norms.php">Assessment Norms</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="autonomous.php">Autonomous Info</a></p>
+                                        <p><a class="a-link-arrow" href="continuous_internal_assessment.php">Continuous Internal Assessment
+</a></p>
                                     </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="end_semester_examination.php">End Semester Examination
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="passing_criteria.php">Passing Criteria
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="credit_system.php">Credit System
+
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="grading_cgpa.php">Grading and CGPA
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="end_semester_trimester_examination_time_table.php">End Sem/Tri Examination 
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="term_examination_time_table.php">Term Examination Time Table
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="university_examination_time_table.php">University Examination Time Table
+
+
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="differently_abled_privileges.php">Differently Abled
+     (Physically Challenged)
+      privileges </a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="non_core_courses_ug_programme.php">Non-Core Courses
+     UG Programme </a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="marks_card_transcript.php">Marks Card/Transcript</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="supplementary_examination.php">Supplementary Examination
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="revaluations.php">Revaluation
+</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="result_announcement.php">Result Announcement
+</a></p>
+                                    </section>
+
+                                    
 
 
 

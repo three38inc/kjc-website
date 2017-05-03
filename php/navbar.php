@@ -41,15 +41,18 @@
                       <div class="menu">
                         <h3>Quick Links</h3>
                         <ul>
-                         <li><a href="#" title="Examination">Examination</a></li>
-                         <li><a href="#" title="Placements">Placements</a></li>
-                         <li><a href="#" title="Student Life">Student Life</a></li>
-                         <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
-                         <li><a href="#" title="International">International</a></li>
-                         <li><a href="#" title="Beyond Curriculum">Beyond Curriculum</a></li>
-                         <li><a href="#" title="Achivements">Achivements</a></li>
-                         <li><a href="#" title="Jayantian Special">Jayantian Special</a></li>
-                      </ul>
+                       <li><a href="../examination/introduction.php" title="Examination">Examination</a></li>
+                       <li><a href="../placements/about_cecr.php" title="Placements">Placements</a></li>
+                       <li><a href="../carrer/carrer.php" title="Our Carrers">Carrer</a></li>
+                       <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
+                       <li><a href="../events/events.php" title="International">Recent Events</a></li>
+                       <li><a href="../announcements/announcements.php" title="International">Notices &amp; Announcements</a></li>
+<!--
+                       <li><a href="#" title="Beyond Curriculum">Beyond Curriculum</a></li>
+                       <li><a href="#" title="Achivements">Achivements</a></li>
+                       <li><a href="#" title="Jayantian Special">Jayantian Special</a></li>
+-->
+                    </ul>
                       </div>
                     </div>
 
@@ -229,14 +232,17 @@
                     <div class="menu">
                       <h3>Quick Links</h3>
                       <ul>
-                       <li><a href="#" title="Examination">Examination</a></li>
-                       <li><a href="#" title="Placements">Placements</a></li>
-                       <li><a href="#" title="Student Life">Student Life</a></li>
+                       <li><a href="../examination/introduction.php" title="Examination">Examination</a></li>
+                       <li><a href="../placements/about_cecr.php" title="Placements">Placements</a></li>
+                       <li><a href="../carrer/carrer.php" title="Our Carrers">Carrer</a></li>
                        <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
-                       <li><a href="#" title="International">International</a></li>
+                       <li><a href="../events/events.php" title="International">Recent Events</a></li>
+                       <li><a href="../announcements/announcements.php" title="International">Notices &amp; Announcements</a></li>
+<!--
                        <li><a href="#" title="Beyond Curriculum">Beyond Curriculum</a></li>
                        <li><a href="#" title="Achivements">Achivements</a></li>
                        <li><a href="#" title="Jayantian Special">Jayantian Special</a></li>
+-->
                     </ul>
                     </div>
                   </div>
@@ -265,7 +271,7 @@
                     <div class="menu-alt">
                       <h4>Patents</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        Although the institution is in its infancy, the thrust given to academics and research is on ....
                       </p>
                       <a href="../research/patents.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -275,7 +281,7 @@
                     <div class="menu-alt">
                       <h4>Publications</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The college has collaborated with industry, social organizations and institutions at national and ....
                       </p>
                       <a href="../research/publications.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -285,7 +291,7 @@
                     <div class="menu-alt">
                       <h4>Consultancy</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The institute shall open its services and share its knowledge resources for the mutual benefit of ...
                       </p>
                       <a href="../research/consultancy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -295,7 +301,7 @@
                     <div class="menu-alt">
                       <h4>Extension</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        Jayantian Extension Services (JES) was instituted by the college to coordinate extension activities ...
                       </p>
                       <a href="../research/extension.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -305,7 +311,7 @@
                     <div class="menu-alt">
                       <h4>Research Center in Biotechnology</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University ...
                       </p>
                       <a href="../research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -315,7 +321,7 @@
                     <div class="menu-alt">
                       <h4>Research Center in Social Work</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The mission of the research centre of Department of Social Work is to provide scholarly leadership...
                       </p>
                       <a href="../research/research_centre_in_social_work.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -325,9 +331,9 @@
                     <div class="menu-alt">
                       <h4>Chavara Journal</h4>
                       <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        It is a peer reviewd, bi-annual research journal with an international scope published by the School of Management...
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../chavara/index.php" class="read-more" target="_blank">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -355,7 +361,7 @@
                         <br><br>
                         Physical facilities have been expanded to create an ambience conducive for academic excellence and holistic development. Various departments and administrative sections are housed in the Main Block. The MBA and MCA programmes function in a separate block. The college has spacious class rooms, auditoria, laboratories, conference halls, panel rooms and sports facilities.
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../campus/academic_arena.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
                 </div>
@@ -366,9 +372,9 @@
                      <div class="menu-alt">
                        <h4>Library</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information...
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/library_info.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -376,9 +382,9 @@
                      <div class="menu-alt">
                        <h4>Labs</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         Well equipped and state-of-the-art labs with updated technology is one of strongest assets of the college. Practical sessions provide.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/labs.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -386,9 +392,9 @@
                      <div class="menu-alt">
                        <h4>Sports &amp; Games</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         The Sports department coordinates the events which help students to perform well in all sports and game events at University, State and National Level.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/sports_games.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -396,9 +402,9 @@
                      <div class="menu-alt">
                        <h4>Hostel</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         Well managed hostels are available for both boys and girls. All the hostels for girls are run by Rev. Sisters ..
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/hostel.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -406,9 +412,9 @@
                      <div class="menu-alt">
                        <h4>Cafeteria</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         It is a spacious area that provides a wide range of hygienic food at affordable price. It is a popular hub on.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/cafeteria.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -416,9 +422,9 @@
                      <div class="menu-alt">
                        <h4>ATM</h4>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                         SIB ATM provides 24 hr service. It facilitates easy access for students to carry out quick bank transactions..
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="../campus/atm.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -440,11 +446,11 @@
                       <h3>More Links</h3>
                       <ul>
                         <li><a href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx" target="_blank" title="Online Document Verification">Online Document Verification</a></li>
-                        <li><a href="studentservices/alumni_association.php" title="Alumni Association">Alumni Association</a></li>
-                        <li><a href="#" title=">Luminary E-CELL ">Luminary E-CELL</a></li>
-                        <li><a href="#" title="Jayantian Entrepreneurs">Jayantian Entrepreneurs</a></li>
-                        <li><a href="studentservices/bank_loan.php" title="Bank Loan">Bank Loan</a></li>
-                        <li><a href="studentservices/schlorship_loanfacilities.php" title="Scholorship &amp; Loan Facilities">Scholorship &amp; Loan Facilities</a></li>
+                        <li><a href="../student_services/eic.php" title="EIC">Entrepreneurship and Innovation Centre(EIC)</a></li>
+                        <li><a href="../student_services/luminary.php" title="Luminary E-CELL ">Luminary E-CELL</a></li>
+                        <li><a href="../student_services/jayantian_entrepreneurs.php" title="Jayantian Entrepreneurs">Jayantian Entrepreneurs</a></li>
+                        <li><a href="bank_loan.php" title="Bank Loan">Bank Loan</a></li>
+                        <li><a href="schlorship_loan_facilities.php" title="Scholorship &amp; Loan Facilities">Scholorship &amp; Loan Facilities</a></li>
                       </ul>
                     </div>
                   </div>
@@ -455,7 +461,7 @@
                       <p>
                         The youth of today are on the fast track to compete with one another to excel in every field. As a flipside..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -465,7 +471,7 @@
                       <p>
                         The Grievance Redressal Cell was constituted in July, 2006 with five members to probe into the student..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/grievance_redressal.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -475,7 +481,7 @@
                       <p>
                         Scholarship, student welfare in terms of health, financial support and safety..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/scholarship.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -485,7 +491,7 @@
                       <p>
                         The physical and mental well-being of the student and staff are given prime importance..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/health_care.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -495,7 +501,7 @@
                       <p>
                         There is an incremental growth in the number of International students. Students from Bangladesh, Iran, Ivory coast,..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/international_student_forum.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -505,7 +511,7 @@
                       <p>
                         The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes..
                       </p>
-                      <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="../student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
