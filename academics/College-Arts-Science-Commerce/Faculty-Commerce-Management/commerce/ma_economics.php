@@ -135,6 +135,7 @@
 									<p align=justify><b>3. Eligibility</b><br>
 										A candidate who has passed the BA ( Economics one of the triple majors) Degree examination of Bangalore University or BA (Economics) of any other University as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat.-I students and blind students the minimum percentage of marks required shall be less by 5%. </p>
                                    
+									<center><p><a href="curriculum/ma_economics_course_matrix.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com FA with CGMA </a></p></center>
 
                                 </div>
                             </div>

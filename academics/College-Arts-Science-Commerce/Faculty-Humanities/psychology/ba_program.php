@@ -139,6 +139,8 @@ JPCS (Journalism, Psychology, Computer Science), and<br>
       <td>30</td>
     </tr>
      </tbody></table>
+									 
+									   <center><p><a href="curriculum/ba_coursematrix_all.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of BA Programme offered </a></p></center>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

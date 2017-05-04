@@ -91,6 +91,7 @@
                                 <p align=justify><b>Eligibility:</b><br>
                                     BA/B.Sc. degree from Bangalore University or any other University offering an equivalent degree with at least 50% marks (45% for SC/ST) in the main subjects individually as well as in aggregate, with Psychology as a compulsory subject.</p>
 
+									  <center><p><a href="curriculum/msc_psychology_programme_matrix_2015.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of M.SC Programme offered </a></p></center>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

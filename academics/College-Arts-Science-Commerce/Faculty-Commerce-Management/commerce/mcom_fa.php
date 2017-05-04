@@ -138,6 +138,10 @@
 
 									<p align=justify><b>4. Dissertation</b><br>
 										Each candidate is required to develop a case in finance/accounting/banking and analyse the same with probable solutions and submit a report based on the research findings during the fourth semester. This will be evaluated for 60 marks. Viva voce examination will be conducted for 40 marks.</p>
+									
+									<center><p><a href="curriculum/com_fa_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com (Financial Analysis) 2015-17  </a></p></center>
+									
+									<center><p><a href="curriculum/mcom_fa_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com (Financial Analysis) 2016-18  </a></p></center>
                                    
 
                                 </div>

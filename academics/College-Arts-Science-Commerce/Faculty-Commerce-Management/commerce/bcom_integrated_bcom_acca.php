@@ -237,19 +237,8 @@
                                         </div>
                                     </div>
                                     <p align="justify"><br/><br/><strong>The detailed integration of ACCA courses with B.Com curriculum is given below:</strong></p><br/>
-                                    <p class="text-center"><a href="#">B.Com. with ACCA Course Curriculum (click here)</a></p>
-
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-                                    </div>
-                                    <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
-
+									
+                                   	<center><p><a href="curriculum/acca_courses_with_bcom_curriculumm_new.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA   </a></p></center>
 
                                 </div>
                             </div>

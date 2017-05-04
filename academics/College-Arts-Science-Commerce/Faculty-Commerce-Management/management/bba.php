@@ -118,6 +118,10 @@
                                 <p>Bachelor of Business Administration is a 3 year (6 semesters) regular programme offered by Bangalore University to the under graduate students, which aims at providing high quality professional education management to enthusiastic young minds who wish to join as management executives in industry, business or non profit organisations and to seek managerial and entrepreneurial abilities. It also provides the right foundation to those who aim to take up specialisations in post graduate management studies. It offers wide range of opportunities to the students to excel in their areas of interest and acquire the skills required to be the future managers.</p>
                                     <p><b>Eligibility Criteria:</b><br>
                                         Students securing 40% aggregate marks including languages in PUC/10+2/ any equivalent is eligible.</p>
+									
+									
+								<center><p><a href="curriculum/bba_curriculum_2014-17_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA 2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bba_curriculum_2015-18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA   2015 - 18</a></p></center>
                                     
                                 </div>
                             </div>

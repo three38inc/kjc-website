@@ -127,7 +127,7 @@
                                          <li type="bullet">   Students should have studied Chemistry / Biochemistry compulsorily as an optional subject along with Biotechnology / Microbiology / Botany / Zoology / Genetcs / Life Science / Applied Botony / Applied Zoology / Environmental Science / Home Science / Sericulture / Biological Science / Agricultural Sciences / Horticultural Science / Fisheries / Dairy Sciences / Forestry / BE and B.Tech Biotechnology / Four Year BS Programme.     </li>
                                     </ul> 
 <br><br>
-                                    <div class="table-responsive">
+                                    <!--<div class="table-responsive">
                                                             <table class="table table-hover table-bordered">
                                                                 <thead>
                                                                     <tr>
@@ -160,7 +160,7 @@
                                                                    
                                                                 </tbody>
                                                             </table>
-                                                        </div>
+                                                        </div>-->
 
                                   
 <!--
@@ -175,7 +175,7 @@
                                     <p align="justify">
                                         The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
 -->
-
+<center><p><a href="curriculum/msc_microbilogy_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Sc., Microbiology 2015 - 17</a></p></center>
 
 
                                 </div>
