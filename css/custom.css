@@ -2466,13 +2466,14 @@ a.read-more:hover i{
     box-shadow: inset 0 0 0 2px #777; 
     color: #0eb7da;
 }
-
-.branchDiv>div.space .content-spl { background: none; border: 0; box-sizing: border-box; margin: 1em; padding: 1em 2em;  font-size: inherit; font-weight: 700; position: relative; vertical-align: middle; } 
+*/
+/*.branchDiv>div.space .content-spl { background: none; border: 0; box-sizing: border-box; margin: 1em; padding: 1em 2em;  font-size: inherit; font-weight: 700; position: relative; vertical-align: middle; } */
 
 .branchDiv>div.space .content-spl::before, .branchDiv>div.space .content-spl::after { box-sizing: inherit; content: ''; position: absolute; width: 100%; height: 100%; }
-.branchDiv>div.space .content-spl:hover { color: #6477b9; } 
+.branchDiv>div.space .content-spl:hover p>strong { color: #6477b9; } 
+.branchDiv>div.space .content-spl p{ padding: 5px;}
 .branchDiv>div.space .content-spl::before, .branchDiv>div.space .content-spl::after { top: 0; left: 0; height: 100%; width: 100%; transform-origin: center; } 
-.branchDiv>div.space .content-spl::before { border-top: 2px solid #6477b9; border-bottom: 2px solid #6477b9; transform: scale3d(0, 1, 1); } 
-.branchDiv>div.space .content-spl::after { border-left: 2px solid #6477b9; border-right: 2px solid #6477b9; transform: scale3d(1, 0, 1); } .branchDiv>div.space .content-spl:hover::before, .branchDiv>div.space .content-spl:hover::after { transform: scale3d(1, 1, 1); transition: transform 0.5s; } 
-*/
+.branchDiv>div.space .content-spl::before { border-top: 2px solid #2980b9; border-bottom: 2px solid #2980b9; transform: scale3d(0, 1, 1); } 
+.branchDiv>div.space .content-spl::after { border-left: 2px solid #2980b9; border-right: 2px solid #2980b9; transform: scale3d(1, 0, 1); } .branchDiv>div.space .content-spl:hover::before, .branchDiv>div.space .content-spl:hover::after { transform: scale3d(1, 1, 1); transition: transform 0.5s; } 
+
 /*index page css for 3 denaries #END*/

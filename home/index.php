@@ -76,11 +76,12 @@
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
                                         </h4>
                                         <p style="text-align: center;">
-                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                            Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer <strong>MBA , industry relevant PGDM Course and One year Post Graduate Diploma Programme for Working Executives.</strong>
                                         </p>
                                         <p style="text-align: center;">
-                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                            Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer <strong>MBA , industry relevant PGDM Course and One year Post Graduate Diploma Programme for Working Executives.</strong>
                                         </p>
+
                                     </div>
                                   </a>
                                 </div>
@@ -91,10 +92,10 @@
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
                                         <p style="text-align: center;">
-                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                            Denary of Arts,Science,Commerce offers programmes like BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology.It also provides POST GRADUATION courses in Computer science and Life Sciences.  
                                         </p>
                                         <p style="text-align: center;">
-                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                                            Denary of Arts,Science,Commerce offers programmes like BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology.It also provides POST GRADUATION courses in Computer science and Life Sciences.  
                                         </p>
                                     </div>
                                   </a>
