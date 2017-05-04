@@ -1,5 +1,20 @@
 /* custom styles for law page */
 
+.big .navbar-brand img{
+    max-height: 70px;
+    margin-top: 15px;
+}
+
+.navbar-default .navbar-nav>li>a{
+    margin-left: 15px;
+}
+
+.navbar-brand img{
+    max-height: 55px;
+    margin-top: 5px;
+}
+
+
 .mainImg{
     width: 100%;
     position: relative;
@@ -42,12 +57,13 @@ center .mainheading span strong{
     padding: 25px;
     border-radius: 50%;
     font-size: 1.6em;
-    border: 1px solid #c7c7c7;
+    border: 1px solid #e79800;
     transition: all ease-in-out .3s;
 }
 
 .deanary:hover>.iconDiv>i{
     color: #e79800;
+    border: 1px solid #c7c7c7;
     box-shadow: 0px 4px 10px #c7c7c7;
 }
 
@@ -81,4 +97,60 @@ center .mainheading span strong{
 
 .deanary:hover>a{
     color: #e79800;
+}
+
+/* custom styles for course Details Divison starts here */
+
+.courseDetails{
+    padding-top: 5px;
+    min-height: 385px;
+}
+
+.courseDetails .filters{
+    text-align: right;
+    padding: 30px 10px 6px 10px;
+}
+
+.courseDetails .filters a{
+    color: #333;
+    font-size: 16px;
+    padding: 8px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0 10px;
+    margin-top: 10px;
+    position: relative;
+    border-bottom: 1px solid #777;
+    transition: all ease-in-out .3s;
+}
+
+.courseDetails .filters a:hover, .courseDetails .filters .active{
+    color: #e79800;
+    border-bottom: 2px solid #e79800;   
+}
+
+.courseDetails .grid{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: justify;
+}
+
+.courseDetails .grid .row{
+    padding: 0 15px;
+}
+
+.courseDetails .grid h3{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.courseDetails .grid p{
+    font-size: 13px;
+    color: #1e1e1e;
+}
+
+.courseDetails .grid img{
+    width: 100%;
+    margin: 0 10px;
 }

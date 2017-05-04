@@ -25,7 +25,7 @@
 		<!--custom css-->
 		<link href="../../css/custom.css" rel="stylesheet">
 		<link href="../../css/innerpage.css" rel="stylesheet">
-		<link href="css/academics.css" rel="stylesheet">
+		<link href="css/manSchool.css" rel="stylesheet">
 		<!-- javascript -->
 		<script src="../../js/jquery-1.11.0.min.js"></script>
 		<script src="../../bootstrap/js/bootstrap.min.js"></script> 
@@ -85,11 +85,22 @@
                         
                         <div class="container">
                             <div class="row" >
-                                <div class="col-lg-12">
-                                    <div class="content-spl courseDetails wow fadeIn">
-                                        <?php include ('php/course.php'); ?>
+                                <div class="col-lg-9">
+                                    <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
+                                        <?php include ('php/welcome.php'); ?>
+                                    </div>
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
+                                        <?php include ('php/accordion-pill-tabs.php'); ?>
+                                        <div style="clear: both;"></div>
+                                    </div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="content-spl wow fadeIn" style="height: 660px; overflow-y:hidden;">
+                                        <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
+                                <div class="clearfill"></div>
                             </div>
                         </div>
 							
@@ -128,7 +139,7 @@
 	<script src="../../js/isotope-docs.min.js"></script>
 	<!--    <script src="js/res-navtabs.js"></script>-->
 	<script src="../../js/scripts.js"></script>
-	<script src="js/academics.js"></script>
+	<script src="js/manSchool.js"></script>
     
 	<script type="text/javascript">
 		function googleTranslateElementInit() {

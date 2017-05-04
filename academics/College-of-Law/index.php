@@ -53,7 +53,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container-fluid">
 			<div class="row">
-				<?php include ('../../php/navbar.php');  ?>
+				<?php include ('php/navbar.php');  ?>
 			</div>
 		</div>
 		<div id="st-container" class="st-container">
@@ -63,20 +63,47 @@
 				<div class="st-content"><!-- this is the wrapper for the content -->
 					<div class="st-content-inner">
                         
-                            <div class="row" style="height:15vh;"></div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <img src="../../images/law.jpg" class="mainImg" />
+                        <div class="row" style="height:15vh;"></div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div id="lawCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
+                                    <div class="carousel-inner" role="listbox">
+                                        <div class="item active">
+                                            <img src="../../images/law.jpg" class="img-responsive"/>
+                                        </div>
+                                        <div class="item">
+                                            <img src="images/img1.jpg"/>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="col-lg-6">
-                                    <?php include "php/deanary.php"; ?>
-                                </div>
-                                
                             </div>
+                            <div class="col-lg-6">
+                                <?php include "php/deanary.php"; ?>
+                            </div>
+
+                        </div>
+                        
+                        <div class="container">
+                            <div class="row" >
+                                <div class="col-lg-9">
+                                    <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
+                                        <?php include ('php/welcome.php'); ?>
+                                    </div>
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
+                                        <?php include ('php/accordion-pill-tabs.php'); ?>
+                                        <div style="clear: both;"></div>
+                                    </div>
+                                    <div style="clear: both;"></div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="content-spl wow fadeIn" style="height: 660px; overflow-y:hidden;">
+                                        <?php include ('php/newsAndUpdates.php'); ?>
+                                    </div>
+                                </div>
+                                <div class="clearfill"></div>
+                            </div>
+                        </div>
 							
-
-
-<!--						                                </div>-->
 						<?php include ('../../php/alerts.php');  ?>
 						<?php include('../../php/footer.php'); ?>
 					</div>   
@@ -84,8 +111,7 @@
 
 
 				</div> <!--/st-content-inner--> 
-			</div><!-- this is the wrapper for the content--> 
-		</div> <!--st-pusher--> 
+		  </div> <!--st-pusher--> 
 		</div> <!--st-container--> 
 
 	<script src="../../js/cbpFWTabs.js"></script>
@@ -110,8 +136,11 @@
 	<script src="../../js/sly.js"></script>
 	<script src="../../js/customSly.js"></script>
 	<script src="../../js/wow.min.js"></script>
+	<script src="../../js/isotope-docs.min.js"></script>
 	<!--    <script src="js/res-navtabs.js"></script>-->
 	<script src="../../js/scripts.js"></script>
+	<script src="js/law.js"></script>
+    
 	<script type="text/javascript">
 		function googleTranslateElementInit() {
 			new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
