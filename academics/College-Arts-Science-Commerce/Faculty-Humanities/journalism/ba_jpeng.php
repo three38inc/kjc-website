@@ -95,6 +95,8 @@
 
                                 <p><b>Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
+									 
+									   <center><p><a href="curriculum/overview_ba_jpeng_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPEng 2015 - 18</a></p></center>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

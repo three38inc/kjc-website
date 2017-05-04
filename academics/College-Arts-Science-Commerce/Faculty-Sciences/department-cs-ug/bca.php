@@ -90,7 +90,11 @@
                                     <p align=justify>The BCA course is spread across six semesters in three years and is a programme affiliated to Bangalore University. Each semester comprises of seven papers with a right blend of theory and practice enabling the students to make a career in computer applications or equip them for self-employed positions. The course content is regularly updated to keep pace with IT sector. During the three years of graduation, the students go through intensive theoretical and practical training sessions in various aspects of computer science. Besides they are enriched with knowledge beyond the curriculum through various value added courses, certificate courses, seminars, workshops, industrial visits etc.</p>
                                     <p align=justify>The curriculum is rightly tuned for the holistic development of the students and aims at nurturing them as proficient computer professionals.</p>
                                     <p><b>Eligibility for admission:</b><br>
-                                        1.	Any student who has passed PUC/10+2/Pre-University equivalent courses in Science, Arts or Commerce securing a minimum of 40% of marks is eligible.                         </p>                                         
+                                        1.	Any student who has passed PUC/10+2/Pre-University equivalent courses in Science, Arts or Commerce securing a minimum of 40% of marks is eligible. </p>
+									
+									
+									<center><p><a href="curriculum/bca_2014_17_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BCA  2014 - 17</a></p></center>
+									<center><p><a href="curriculum/bca_2015_18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BCA  2015 - 18</a></p></center>
 
 
 								</div></div>

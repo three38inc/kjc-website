@@ -95,6 +95,9 @@
 •	Decision Making<br>
 	The Curriculum, Value Added Courses, is supplemented by specialized employability training by the Centre for Placements and Corporate Relations (CPCR)</p>
 
+ <center><p><a href="curriculum/mba_pgdm_syllabus_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of MBA / PGDM  2015-17</a></p></center>
+
+							<center><p><a href="curriculum/mba_pgdm_syllabus_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of MBA / PGDM 2016-18</a></p></center>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

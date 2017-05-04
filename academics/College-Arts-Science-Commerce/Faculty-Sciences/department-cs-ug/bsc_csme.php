@@ -92,6 +92,9 @@
                             <p align=justify><b>Electronics </b><br>
                                     A sound knowledge of the basic principle and design procedure has become elementary in the competitive world. Career opportunities in electronics continue to expand and become more varied with every passing year. The curriculum is framed to equip the students with an in-depth knowledge about discrete components, electronic devices, digital electronics, communication system, fiber optic communication, microprocessors and embedded systems. </p>
                                 <p><b>Eligibility:</b> Pass in 10+2/Pre University courses/Equivalent. Candidates should have studied at least two subjects from Mathematics, Computer Science, Statistics or Physics </p>
+									
+								<center><p><a href="curriculum/bsc_csme_2014_17_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc(CSME)   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bsc_csme_2015_18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc(CSME)   2015 - 18</a></p></center>
 
 
 								</div></div>

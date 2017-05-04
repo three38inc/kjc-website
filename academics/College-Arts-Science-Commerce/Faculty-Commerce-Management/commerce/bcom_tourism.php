@@ -133,15 +133,12 @@
                                     </p>
                                     <br/>
                                     <p align="justify">
-                                        <strong>Eligibility:</strong> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40% aggregate are eligible to apply.
-
-                                    </p>
-                                    <br/>
-                                    <p class="text-center"><strong>
-                                        <a href="#"> Click here for B.COM. Tourism Curriculum 2014-2017 Batch</a><br/><br/>
-                                        <a href="#"> Click here for B.COM. Tourism Curriculum 2015-2018 Batch</a><br/><br/>
-                                        <a href="#"> Click here for B.COM. Tourism Curriculum 2016-2019 Batch</a>
-                                        </strong></p>
+                                        <strong>Eligibility:</strong> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40% aggregate are eligible to apply.</p>
+                                   
+									
+									<center><p><a href="curriculum/bcom_tourism_2014_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bcom_tourism_2015_2018.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2015 - 18</a></p></center>
+								<center><p><a href="curriculum/bcom_tourism_2016_2019.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)  2016 - 19</a></p></center>
 
 
                                 </div>

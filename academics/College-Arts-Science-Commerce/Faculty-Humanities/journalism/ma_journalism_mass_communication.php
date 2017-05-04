@@ -111,6 +111,10 @@ b. Lab: Short Film/Documentary production<br>
 c. Lab: Radio Documentary production<br>
                                     d. Lab: Television news production<br>
                                 e. Lab: Photo Feature production </p>
+									 
+									   <center><p><a href="curriculum/syllabus_master_journalism_mass_communication.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  MA Mass Communication & Journalism 2015 -17</a></p></center>
+									 
+									   <center><p><a href="curriculum/course_structure_ma_mass_communication_journalism.pdf" target="_blank" class="btn btn-primary btn-xs">Course Structure of  MA Mass Communication & Journalism </a></p></center>
                                 
                                 
 								</div></div>

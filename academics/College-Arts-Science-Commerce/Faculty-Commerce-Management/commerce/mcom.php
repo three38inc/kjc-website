@@ -134,6 +134,10 @@ or<br>
 	* Accounting and Taxation</b>
 
 									<p><b>Eligibility:</b> A bachelor's degree in Commerce or BBA of a recognized University with a minimum of 50% marks.</p>
+									
+									<center><p><a href="curriculum/mcom_2015-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2015-17  </a></p></center>
+									
+									<center><p><a href="curriculum/mcom_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2016-18  </a></p></center>
                                    
 
                                 </div>
