@@ -4,11 +4,10 @@ $(function () {
 //Setting the min height for inner pages #START
 $(function () {
     var height=$('.content-right').parent().css("height");
-    $('.content-left').css("min-height",height);
-    console.log(height);
     var max_height=height.split("px")[0];
+    
     max_height=(Number.parseInt(max_height)+100)+"px";
-    console.log(max_height);
+    $('.content-left').css("min-height",max_height);
     $('.content-right').parent().css("max-height",max_height);
     $('.content-right').parent().css("overflow","hidden");
     
