@@ -89,7 +89,7 @@
                         </div>
                         <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                             <div class="col-lg-4 space">
-                                <a href="#">
+                                <a href="../academics/School-of-Management/">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
@@ -105,7 +105,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="#">
+                                <a href="../academics/College-Arts-Science-Commerce/">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
@@ -120,7 +120,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="#">
+                                <a href="../academics/College-of-Law/">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Law</strong></span>
@@ -208,7 +208,7 @@
                                             <br> Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
-                                            <a href="#" class="label label-primary text-center">
+                                            <a href="../admission/admission.php" class="label label-primary text-center">
                                                 Click Here
                                               </a>
                                         </p>
@@ -240,7 +240,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
-                                        <a href="#">
+                                        <a href="../events/academic-calender.php">
                                             <h4><i class="fa fa-calendar"></i> Academic Calendar</h4>
                                         </a>
                                     </div>

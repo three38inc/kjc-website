@@ -44,7 +44,7 @@
         <h4>My Favourites</h4><hr />
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
 			<h5 class="FavStyles">
-                <a href="#">
+                <a href="../events/academic-calender.php">
 					<i class="fa fa-calendar"></i>&nbsp;&nbsp;Academic Calendar
 				</a>
 			</h5>
@@ -58,14 +58,14 @@
 		</div>
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
 			<h5 class="FavStyles">
-                <a href="#">
+                <a href="../notice/notice.php">
 					<i class="fa fa-file-text"></i>&nbsp;&nbsp;Notice
 				</a>
 			</h5>
 		</div>
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
 			<h5 class="FavStyles">
-                <a href="#">
+                <a href="../events/events.php">
 					<i class="fa fa-flag"></i>&nbsp;&nbsp;Events
 				</a>
 			</h5>
@@ -73,21 +73,21 @@
 
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
             <h5 class="FavStyles">
-                <a href="#">
+                <a href="http://www.tcsion.com/SelfServices/">
 					<i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;C M S
 				</a>
 			</h5>
 		</div>
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
             <h5 class="FavStyles">
-				<a href="#">
+				<a href="https://www.google.com/a/kristujayanti.com/ServiceLogin?service=mail&passive=true&rm=false&continue=http://mail.google.com/a/kristujayanti.com/&ltmpl=default&ltmplcache=2">
 					<i class="fa fa-envelope"></i>&nbsp;&nbsp;Mail
 				</a>
 			</h5>
 		</div>
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
             <h5 class="FavStyles">
-				<a href="#">
+				<a href="../about/support_service_centers.php">
 					<i class="fa fa-phone"></i>&nbsp;&nbsp;Support
 				</a>
 			</h5>
@@ -95,7 +95,7 @@
 
 		<div class="col-lg-4 col-xs-12" style="color:#1c6fb5">
 			<h5 class="FavStyles">
-				<a href="#">
+				<a href="http://www.tcsion.com/PVC/">
 					<i class="fa fa-globe"></i>&nbsp;&nbsp;Campus Connect
 				</a>
 			</h5>
