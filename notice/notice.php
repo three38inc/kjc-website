@@ -378,7 +378,10 @@
             var mode="openlink";
             getNews(year,month,mode,url);
         });
-
+        $("body").on("click",".panel",function(e){
+            var elem=$(this).attr("class").split(" ")[0];
+            $("."+elem+" i").toggleClass("fa-caret-right fa-caret-down");
+        });
         function getNews(year, month,mode,url) {
             var dataString = "year=" + (year) + "&month=" + (month) + "&mode=" + (mode) + "&url=" + (url);
             $.ajax({
