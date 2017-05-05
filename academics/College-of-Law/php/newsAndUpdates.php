@@ -26,7 +26,7 @@
     .news.panel
     {
         border-color:white;
-        height: 650px;
+        height: 750px;
         overflow-y: hidden;
         box-shadow:none;
     }
@@ -117,7 +117,7 @@
 
 
 </style>
-<div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:650px;">
+<div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:750px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
         <span>&nbsp;New &amp;<strong> Updates</strong></span>
         <ul class="pagination1 pull-right" style="margin: 0px;">
@@ -136,7 +136,7 @@
     <div class="panel-body">
         <div class="row">
             <div class="col-xs-12">
-                <ul class="demo1" >
+                <ul class="demo1" style="height: 750px!important;" >
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

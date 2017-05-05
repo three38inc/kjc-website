@@ -2,6 +2,7 @@
 
 $(document).ready(function(){
     
+    
     // init Isotope
     var $ba = $('#course').isotope({
       filter: '.science'

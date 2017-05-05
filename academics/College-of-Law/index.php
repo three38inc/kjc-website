@@ -65,20 +65,28 @@
                         
                         <div class="row" style="height:15vh;"></div>
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-12" style="position: relative;">
                                 <div id="lawCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
-                                            <img src="../../images/law.jpg" class="img-responsive"/>
+                                            <img src="images/img1.jpg" class="img-responsive"/>
                                         </div>
                                         <div class="item">
                                             <img src="images/img1.jpg"/>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <?php include "php/deanary.php"; ?>
+                                
+                                <div class="col-lg-8 col-md-8 hidden-xs hidden-sm floatDiv">
+                                    <div class="col-lg-2"></div>
+                                    <div class="col-lg-10">
+                                        <?php include "php/deanary.php"; ?>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
+                                    <?php include "php/deanary.php"; ?>
+                                </div>
                             </div>
 
                         </div>
@@ -96,7 +104,7 @@
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 660px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 709px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>

@@ -4,7 +4,7 @@
 </h4></center>
 <div class="row">
     
-    <div class="col-lg-4 deanary" id="baLLB">
+    <div class="col-lg-4 col-md-4 deanary" id="baLLB">
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
@@ -13,7 +13,7 @@
             <a href="BA-LLB/index.php">Read More</a>
     </div>
     
-    <div class="col-lg-4 deanary" id="bcomLLB">
+    <div class="col-lg-4 col-md-4 deanary" id="bcomLLB">
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
@@ -22,7 +22,7 @@
         <a href="BCom-LLB/index.php">Read More</a>
     </div>
     
-    <div class="col-lg-4 deanary" id="bbaLLB">
+    <div class="col-lg-4 col-md-4 deanary" id="bbaLLB">
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>

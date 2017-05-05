@@ -23,6 +23,7 @@
 <div class="row">
 
     <div class="grid" id="course">
+        
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
             <a href="#">
                 <div class="courseTitle color-1">
@@ -34,7 +35,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-lifescience/msc_bio.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-flask c2" style="float: left;"></i>
                     <h2>M.Sc.</h2>
@@ -45,7 +46,7 @@
         
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-lifescience/msc_micro.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-gg c3" style="float: left;"></i>
                     <h2>M.Sc</h2>
@@ -55,7 +56,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-cs-ug/bca.php">
                 <div class="courseTitle color-4">
                     <i class="fa fa-desktop c4" style="float: left;"></i>
                     <h2>BCA</h2>
@@ -65,7 +66,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-cs-ug/bsc_csme.php">
                 <div class="courseTitle color-5">
                     <i class="fa fa-calculator c5" style="float: left;"></i>
                     <h2>B.Sc</h2>
@@ -75,7 +76,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-cs-ug/bsc_csme.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-line-chart c6" style="float: left;"></i>
                     <h2>B.Sc</h2>
@@ -85,7 +86,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-lifescience/bsc_bio.php">
                 <div class="courseTitle color-7">
                     <i class="fa fa-flask c7" style="float: left;"></i>
                     <h2>B.Sc</h2>
@@ -95,7 +96,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="Faculty-Sciences/department-lifescience/bsc_micro.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-gg c1" style="float: left;"></i>
                     <h2>B.Sc</h2>
@@ -105,7 +106,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="#">
+            <a href="../../research/research_centre_in_biotechnology.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-search c2" style="float: left;"></i>
                     <h2>Research Center</h2>
@@ -115,7 +116,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/socialwork/master_socialwork.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-book c1" style="float: left;"></i>
                     <h2>MSW</h2>
@@ -125,7 +126,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/psychology/msc_program.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-book c2" style="float: left;"></i>
                     <h2>M.Sc</h2>
@@ -135,7 +136,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/humanities/ma_english_literature.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>MA</h2>
@@ -145,7 +146,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/journalism/ma_journalism_mass_communication.php">
                 <div class="courseTitle color-4">
                     <i class="fa fa-book c4" style="float: left;"></i>
                     <h2>MA</h2>
@@ -155,7 +156,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/journalism/ba_jpcs.php">
                 <div class="courseTitle color-5">
                     <i class="fa fa-book c5" style="float: left;"></i>
                     <h2>BA</h2>
@@ -165,7 +166,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/journalism/ba_jpoleng.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-book c6" style="float: left;"></i>
                     <h2>BA</h2>
@@ -175,7 +176,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/journalism/ba_jpeng.php">
                 <div class="courseTitle color-7">
                     <i class="fa fa-book c7" style="float: left;"></i>
                     <h2>BA</h2>
@@ -185,7 +186,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/humanities/ba_hep.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-book c1" style="float: left;"></i>
                     <h2>BA</h2>
@@ -195,7 +196,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="faculty-humanities/journalism/ba_htj.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-book c2" style="float: left;"></i>
                     <h2>BA</h2>
@@ -205,7 +206,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="#">
+            <a href="../../research/research_centre_in_social_work.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>Research Center</h2>
@@ -235,7 +236,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/mcom.php">
                 <div class="courseTitle color-5">
                     <i class="fa fa-line-chart c5" style="float: left;"></i>
                     <h2>M.Com</h2>
@@ -245,7 +246,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/mcom_fa.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-line-chart c6" style="float: left;"></i>
                     <h2>M.Com</h2>
@@ -253,9 +254,19 @@
                 </div> 
             </a>          
         </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
+            <a href="faculty-commerce-management/commerce/mcom_fa_cgma.php">
+                <div class="courseTitle color-6">
+                    <i class="fa fa-line-chart c6" style="float: left;"></i>
+                    <h2>M.Com</h2>
+                    <p>Financial Analysis with CGMA</p>
+                </div> 
+            </a>          
+        </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/ma_economics.php">
                 <div class="courseTitle color-7">
                     <i class="fa fa-line-chart c7" style="float: left;"></i>
                     <h2>MA</h2>
@@ -265,7 +276,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/management/bba.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-line-chart c1" style="float: left;"></i>
                     <h2>BBA</h2>
@@ -275,7 +286,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/bcom.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-line-chart c2" style="float: left;"></i>
                     <h2>B.Com</h2>
@@ -285,7 +296,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/bcom_professioal.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-line-chart c3" style="float: left;"></i>
                     <h2>B.Com</h2>
@@ -295,7 +306,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/bcom_integrated_bcom_acca.php">
                 <div class="courseTitle color-4">
                     <i class="fa fa-line-chart c4" style="float: left;"></i>
                     <h2>B.Com</h2>
@@ -305,7 +316,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/commerce/bcom_tourism.php">
                 <div class="courseTitle color-5">
                     <i class="fa fa-line-chart c5" style="float: left;"></i>
                     <h2>B.Com</h2>
@@ -315,7 +326,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="faculty-commerce-management/management/pg_diploma.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-line-chart c6" style="float: left;"></i>
                     <h2>PG Diploma</h2>

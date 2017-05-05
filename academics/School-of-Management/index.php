@@ -53,7 +53,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container-fluid">
 			<div class="row">
-				<?php include ('php/navbar.php');  ?>
+				<?php include ('../../php/navbar.php');  ?>
 			</div>
 		</div>
 		<div id="st-container" class="st-container">
