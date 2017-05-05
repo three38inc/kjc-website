@@ -66,7 +66,18 @@
 </head>
 
 <body>
-    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    <script type="text/javascript">
+        $crisp = [];
+        CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
+        (function() {
+            d = document;
+            s = d.createElement("script");
+            s.src = "https://client.crisp.im/l.js";
+            s.async = 1;
+            d.getElementsByTagName("head")[0].appendChild(s);
+        })();
+
+    </script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -115,16 +126,16 @@
                                         <span>&nbsp; Result <strong> Announcement </strong></span>
                                     </h4>
 
-									<p align=justify>All the results (CIA component marks or End Semester Examination marks) are published online through the ERP solution. Students are requested to see the college notice boards, college mail and visit the college website for the public notices and announcements.</p>
+                                    <p align=justify>All the results (CIA component marks or End Semester Examination marks) are published online through the ERP solution. Students are requested to see the college notice boards, college mail and visit the college website for the public notices and announcements.</p>
 
-									<p align=justify>Announcement of Term Examination results are published online within two weeks after the examination. Other CIA component marks are published at the end of the semester/trimester online through the ERP solution. Students shall receive the valued answer scripts from the respective course teacher within ten days of the examination.</p>
+                                    <p align=justify>Announcement of Term Examination results are published online within two weeks after the examination. Other CIA component marks are published at the end of the semester/trimester online through the ERP solution. Students shall receive the valued answer scripts from the respective course teacher within ten days of the examination.</p>
 
-									<p>Announcement of End Semester/Trimester Examination results are published within one month after the last day of examination.</p>
-									
-									<center><a href="https://www.tcsion.com/SelfServices/" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO VIEW YOUR RESULTS</a></center>
+                                    <p>Announcement of End Semester/Trimester Examination results are published within one month after the last day of examination.</p>
 
-									
-									
+                                    <center><a href="https://www.tcsion.com/SelfServices/" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO VIEW YOUR RESULTS</a></center>
+
+
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -133,7 +144,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong> Examination </strong></span>
                                     </h4>
-									
+
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="introduction.php">Introduction</a></p>
                                     </section>
@@ -242,7 +253,7 @@
 </a></p>
                                     </section>
 
-                                    
+
 
 
 
@@ -259,13 +270,13 @@
 
 
 
-                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                    <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                            <div class="fb-xfbml-parse-ignore">
+                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
 
                                 </div>
 
