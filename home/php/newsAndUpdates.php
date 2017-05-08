@@ -143,7 +143,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/male-consultant.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>PG Programme: </b> Next Counselling will be held on 27<sup>th</sup>May, 2017.
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
@@ -152,7 +152,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/talking.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>B.Sc / BCA / BA Programme:</b> NExt Counselling will be held on 10<sup>th</sup>May, 2017. Apply Soon
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
@@ -161,7 +161,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/professor-consultation.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
@@ -170,7 +170,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/mortarboard.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/law.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b> Law Programmes:</b> 1<sup>st</sup> Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
@@ -179,7 +179,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/graduation.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b> MBA/PGDM Programme:</b> Next Counselling will be held on 5<sup>th</sup>May, 2017. Apply Soon
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
@@ -196,7 +196,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/university.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td>UG University Examination notification (April / May 2017) <a href="http://kristujayanti.edu.in/pdf/2017/time_table/ug_exam_fee_notification_may2017.pdf" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -204,7 +204,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/university.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
                                 <td>52nd Mini (In-Absentia) Convocation Of Bangalore University  <a href="http://kristujayanti.edu.in/pdf/2017/notice_52nd_mini_conv.pdf" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -212,7 +212,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/curriculum.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/clipboard.png" width="50" height="50" class="img-circle" /></td>
                                 <td>3rd Trim MBA/PGDM 2016-18 batch CBCS Course Registration  <a href="http://kristujayanti.edu.in/CBCS/choice_based_credit_mba.php" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -220,7 +220,7 @@
                    <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/give-money.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/check.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>Examination Fee :</strong>The Collection Schedule for the Even Semester (April/May 2017) <a href="http://kristujayanti.edu.in/pdf/2017/exam_fee_schedule_even_semester.pdf">[CLICK HERE]</a></td>
                             </tr>
                         </table>
@@ -228,7 +228,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/exam.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 02th to 05th 2017</strong> School of Management (MBA & PGDM) VI Trimester Mid Term Examination</td>
                             </tr>
                         </table>
@@ -236,7 +236,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/exam.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 24th to 31st 2017</strong> School of Management (MBA & PGDM) III Trimester Mid Term Examination</td>
                             </tr>
                         </table>
@@ -244,7 +244,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/exam.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 24th to June 01 st 2017</strong> School of Management (MBA & PGDM) VI End Trimester Examination</td>
                             </tr>
                         </table>
@@ -270,7 +270,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/student.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/gradutes.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 17th 2017</strong> Graduation Day (UG)</td>
                             </tr>
                         </table>
