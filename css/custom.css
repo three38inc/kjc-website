@@ -2070,6 +2070,7 @@ time.icon:focus {
 
 .content-spl h4 {
     margin: 5px 0px 20px 0px;
+    font-size: 1.2em;
 }
 
 .mainheading {
@@ -2112,6 +2113,7 @@ time.icon:focus {
 }
 
 .sideLinks a{
+  cursor: pointer;
   text-decoration: none;
   color: rgba(44, 62, 80,1.0);
   transition: all ease-in-out 0.3s;
@@ -2169,16 +2171,27 @@ time.icon:focus {
 }
 
 .mMenu a{
+  font-size: 1.2em;   
   text-decoration: none;
 }
 
-.mMenu a i{
+.mMenu a i:nth-of-type(1){
+    margin-right: 10px;
+    transition: all ease-in-out 0.3s;
+}
+
+.mMenu a:hover i:nth-of-type(1){
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.mMenu a i:nth-of-type(2){
   margin-left: -10px;
   opacity: 0;
   transition: all ease-in-out 0.3s;
 }
 
-.mMenu a:hover i{
+.mMenu a:hover i:nth-of-type(2){
   opacity: 1;
   margin-left: 0px;
 }

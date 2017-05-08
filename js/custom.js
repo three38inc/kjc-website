@@ -3,13 +3,13 @@ $(function () {
 });
 //Setting the min height for inner pages #START
 $(function () {
-    var height=$('.content-right').parent().css("height");
-    var max_height=height.split("px")[0];
-    
-    max_height=(Number.parseInt(max_height)+100)+"px";
-    $('.content-left').css("min-height",max_height);
-    $('.content-right').parent().css("max-height",max_height);
-    $('.content-right').parent().css("overflow","hidden");
+//    var height=$('.content-right').parent().css("height");
+//    var max_height=height.split("px")[0];
+//    
+//    max_height=(Number.parseInt(max_height)+100)+"px";
+//    $('.content-left').css("min-height",max_height);
+//    $('.content-right').parent().css("max-height",max_height);
+//    $('.content-right').parent().css("overflow","hidden");
     
 //    console.log(height);
 });

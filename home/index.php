@@ -5,10 +5,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kristu Jayanti College, Bengaluru</title>
-    <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
-<meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
-    <meta name="author" content="Three38 inc" />
+    <title>Best College, Top Commerce college, Top ranked arts and Science College, autonomous college, B.Com Admission, BCA Admission, BBM Admission,  MBA admission, MCA admission,  Psychology admission, Journalism Admission,  Biotechnology college</title>
+<meta name="description" content="Kristu Jayanti College,K. Narayanapura, Kothanur (Post) Bangalore ā€“ 560077, Karnataka, Tel. 080-28465611 / 28465770 e-mail : info@kristujayanti.com www.kristujayanti.edu.in " />
+<meta name="keywords" content="Best College, Top Commerce college, Top ranked arts and Science College, autonomous college, B.Com Admission, BCA Admission, BBM Admission,  MBA admission, MCA  admission,  Psychology admission, Journalism Admission,  Biotechnology college etc." />
+
+    <meta name="author" content="THREE38 inc" />
     <link rel="shortcut icon" href="../images/icon.png">
     <!-- Bootstrap css -->
     <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +52,7 @@
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
-            timeToHide: 2000,
+            timeToHide: 1500,
             bgColor: "#2c3e50",
             spinner: "spinner4"
         });
@@ -164,12 +165,24 @@
                                         </div>
                                         <p style="text-align:justify;">
                                             <ul class="mMenu">
-                                                <li><a href="#">KJC in news <i class="fa fa-angle-double-right"></i></a></li>
-                                                <li><a href="#">Publications <i class="fa fa-angle-double-right"></i></a></li>
-                                                <li><a href="#">Glimpses <i class="fa fa-angle-double-right"></i></a></li>
-                                                <li><a href="#">Videos <i class="fa fa-angle-double-right"></i></a></li>
-                                                <li><a href="#">Social Media <i class="fa fa-angle-double-right"></i></a></li>
-                                                <li><a href="#">Brochures <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#">
+                                                <i class="fa fa-newspaper-o"></i> 
+                                                KJC in news <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#">
+                                                <i class="fa fa-book"></i> 
+                                                Publications <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#">
+                                                <i class="fa fa-file-text-o"></i> 
+                                                Glimpses <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#">
+                                                <i class="fa fa-film"></i> 
+                                                Videos <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#">
+                                                <i class="fa fa-comments-o"></i> 
+                                                Social Media <i class="fa fa-angle-double-right"></i></a></li>
+                                                <li><a href="#"> 
+                                                <i class="fa fa-files-o"></i>
+                                                Brochures <i class="fa fa-angle-double-right"></i></a></li>
                                             </ul>
                                         </p>
                                     </div>
@@ -204,11 +217,11 @@
                                         <div class="placementTitle">
                                             <h4>Admissions</h4>
                                         </div>
-                                        <p style="text-align:center;padding: 3%;">
+                                        <p style="text-align:center;padding: 3%; font-size: 1.2em;">
                                             <br> Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
-                                            <a href="../admission/admission.php" class="label label-primary text-center">
+                                            <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1.2em;">
                                                 Click Here
                                               </a>
                                         </p>
@@ -361,6 +374,7 @@
 
             $('#placementSlider').owlCarousel({
                 loop: true,
+                autoplay: true,
                 margin: 10,
                 nav: false,
                 items: 1
