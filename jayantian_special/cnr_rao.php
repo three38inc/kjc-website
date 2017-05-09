@@ -114,26 +114,28 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Sri Dr.M.Govinda Rao</b><br>
-										Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013).</p>
+									<p><b>Bharat Ratna Prof. CNR Rao</b><br>
+										National Research Professor, Honorary President & Linus Pauling Research Professor Jawaharlal Nehru Centre for Advanced Scientific Research </p>
 									
-									<p align=justify>Vichaarmanthan' an interactive session with global and Indian visionaries was organized by Kristu Jayanti College on 1 December, 2014. The event was inaugurated in the presence of Sri Dr.M.Govinda Rao, Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013). ; Along with, Rev.Fr.Josekutty.P.D; Principal Kristu Jayanti College; Mr. Vijay Kumar .R , Head, Dept of Commerce; Dr.V.Babu, Co-ordinator M.Com Program; Md. Azaruddin, Student Coordinator of 'Vichaarmanthan'.</p>
+									<p align=justify>"Long term success of India will depend on investment in education," said Bharat Ratna Prof. CNR Rao, National Research Professor, Honorary President & Linus Pauling Research Professor Jawaharlal Nehru Centre for Advanced Scientific Research as he stressed on the importance of education while addressing a gathering at Kristu Jayanti College on October 8, 2015.</p>
 
-									<p align=justify>The event is an innovative arena where the students are given the opportunity to interact with global and Indian visionaries. The topic for this session was 'Economic Reforms in India- Challenges and Opportunities'. While addressing the gathering Dr.M.Govinda Rao said, "I am extremely grateful for inviting me, to share my thoughts on the Indian Economy", began Dr.Rao, in his humbly mild manner. "The Performance of Indian Economy is a typical case of 'tremendous potential not realized'. We committed mistakes; we did not correct them and continued to commit the same over and over again."</p>
+									<p align=justify>Prof. Rao was giving an expert lecture on "Doing Science in India" for the Silver Jubilee edition of Vichaarmanthan, an interactive session with global and Indian visionaries. The event has seen a lot of eminent personalities over the years including former President Late Dr. APJ Abdul Kalam who spoke at the inaugural edition.</p>
 
-									<p>Dr. Rao went on to explain the history of modern Indian economy. "Fifty years prior to independence, the growth rate of the economy was practically zero. Then after the independence, we said, we will follow the planned growth of economy. We followed the Public Sector Domination, not focusing on much of foreign trade. In reality, we had a hangover of the colonial past. So we feared trade with other countries. From 1950-90, the economic growth was about 3.5%, mainly because of the country's Import Substitution policy. This steady pace of low annual growth prompted it to be called the Hindu rate of growth by the economist, Raj Krishna. "</p>
+									<p align=justify>The other dignitaries on the dais were Rev. Fr. Josekutty PD, Principal, Kristu Jayanti College; Fr. Augustine George, Vice Principal; Fr. Lijo P Thomas, Financial Administrator; Prof. Aloysius Edward J, Dean, School of Management; Dr. Calistus Jude AL, Dean, Faculty of Sciences and Dr. Elcey CD, Head, Department of Life Sciences.</p>
 
-									<p align=justify>While expressing his views on the population crisis, Dr.Rao said, "Population is the resource. When other countries face the problem of aging, we face that of 'demographic dividend'. We have so many people, but we do not have the ability to provide them with jobs or the skills that are required."</p>
+									<p align=justify>Prof. Rao observed that India's investment in education is only 2% of GDP, which in contrast with countries like China and South Korea (around 8% of GDP), is very low. He said that he continues to stand by his recommendation for the National Policy on Education on investing 8% of GDP that he made during the time of Mr. P V Narshima Rao as Education Minister.</p>
 
-									<p align=justify>He later on went to discuss the issue of poverty in India. "We continue to have a huge problem of poverty. The recent numbers say that about 330-340 million people of the country are poor. S, the poverty rate is almost 50%. The poverty level continues to be sharp, mainly in the mid-section of the country."</p>
+									<p align=justify>He said that the value system in a society determines how far it goes. He stressed on research on the frontiers of science, saying the "research done by little people in little labs is what changes the face of science." However, the investment for science in India is only 0.8% whereas it is around 4% for South Korea.</p>
 
-									<p align=justify>He informed the crowd about the BIMARU states and their high poverty level. Saying, unless we solve the various fiscal, infrastructural, judicial and governance problems that we face, we will not be able to fulfill our goal of economic growth. We do have a great potential. Given the right set of policies, we can reach heights",</p>
+									<p align=justify>Prof. Rao is of the opinion that on an average, Indians do not work hard enough. He said that it is his hard work that enabled him to publish over 1500 research papers, with his 50th book ready to be released. He even said that he was the most cited Indian author, with an h-index of 123.</p>
 
-									<p align=justify>"He is a highly knowledgeable person. His visit helped bring about knowledge regarding real economic reforms in the near future, the challenges to be faced and how to tackle them." said Prof. Vijay Kumar, faculty, Kristu Jayanti College</p>
+									<p align=justify>Citing examples from the life of Michael Faraday, he showed that "anyone from any background can do great things." He further said that two of his best students were from the poorest of backgrounds.</p>
 
-									<p align=justify>"Dr. Govinda Rao made us realize the importance of the government in Indian Economy. He also made us realize the difference between private and public sector. The main role and control of the economy is all up to the public sector."</p>
+									<p align=justify>He further exhorted the students to inculcate values such as time management, simplicity and selflessness. He expressed his view that India has lost the value of time, and cautioned that the future of India depends upon what we do in the next 10 to 15 years.</p>
 
-									<p align=justify>Vichaarmanthan is a platform where students interact with global leaders and visionaries. The interaction helps students get inspired to do something for society. Vichaarmanthan is an important program aimed at the holistic development of students in Kristu Jayanti College</p>
+									<p align=justify>Taking the renowned musician, Bismillah Khan's life as an example, he illustrated the value of simplicity in the midst of greatness. He further urged the students to be selfless saying that selflessness leads to fearlessness, and those who are fearless are the ones who run this world.</p>
+									
+									<center><a href="https://www.facebook.com/media/set/?set=a.921369627941910.1073742120.112934385452109&type=3" target="_blank" class="btn btn-primary btn-sm">Click here for Photo Gallery </a></center>
 									
 									
 

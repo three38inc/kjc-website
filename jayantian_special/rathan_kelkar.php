@@ -114,26 +114,19 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Sri Dr.M.Govinda Rao</b><br>
-										Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013).</p>
+									<p><b>Dr Rathan Kelkar</b><br>
+										CEO, Center for E- Governance, Government of Karnataka</p>
 									
-									<p align=justify>Vichaarmanthan' an interactive session with global and Indian visionaries was organized by Kristu Jayanti College on 1 December, 2014. The event was inaugurated in the presence of Sri Dr.M.Govinda Rao, Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013). ; Along with, Rev.Fr.Josekutty.P.D; Principal Kristu Jayanti College; Mr. Vijay Kumar .R , Head, Dept of Commerce; Dr.V.Babu, Co-ordinator M.Com Program; Md. Azaruddin, Student Coordinator of 'Vichaarmanthan'.</p>
+									
 
-									<p align=justify>The event is an innovative arena where the students are given the opportunity to interact with global and Indian visionaries. The topic for this session was 'Economic Reforms in India- Challenges and Opportunities'. While addressing the gathering Dr.M.Govinda Rao said, "I am extremely grateful for inviting me, to share my thoughts on the Indian Economy", began Dr.Rao, in his humbly mild manner. "The Performance of Indian Economy is a typical case of 'tremendous potential not realized'. We committed mistakes; we did not correct them and continued to commit the same over and over again."</p>
+									<p><b>Date:</b> 27.07.2015 ------ Time: 11:00 am  1:00 pm</p>
 
-									<p>Dr. Rao went on to explain the history of modern Indian economy. "Fifty years prior to independence, the growth rate of the economy was practically zero. Then after the independence, we said, we will follow the planned growth of economy. We followed the Public Sector Domination, not focusing on much of foreign trade. In reality, we had a hangover of the colonial past. So we feared trade with other countries. From 1950-90, the economic growth was about 3.5%, mainly because of the country's Import Substitution policy. This steady pace of low annual growth prompted it to be called the Hindu rate of growth by the economist, Raj Krishna. "</p>
+									<p align=justify>The Department of Computer Science (PG) conducted the 24th edition of Vichaarmanthan (2015-2016) for all PG students on Governance at your fingertips. Dr Rathan Kelkar, CEO, Center for E- Governance, Government of Karnataka, was the Chief Guest for the twenty fourth edition of Vicharmanthan - an interactive series with Indian and Global visionaries on July 27, 2015.</p>
 
-									<p align=justify>While expressing his views on the population crisis, Dr.Rao said, "Population is the resource. When other countries face the problem of aging, we face that of 'demographic dividend'. We have so many people, but we do not have the ability to provide them with jobs or the skills that are required."</p>
+									<p align=justify>The session was overall made very interactive by allowing the students to ask few questions related to the inconvenience caused by the Government to the public. The questions were more focused on corruption, traffic, road conditions and the relevant replies for each of the problems were clearly discussed by the Chief Guest.</p>
 
-									<p align=justify>He later on went to discuss the issue of poverty in India. "We continue to have a huge problem of poverty. The recent numbers say that about 330-340 million people of the country are poor. S, the poverty rate is almost 50%. The poverty level continues to be sharp, mainly in the mid-section of the country."</p>
+									<p align=justify>After the interactive session Mr. Kelkar took us through the presentation slides. He introduced a new mobile application called MOBILEONE which was developed as a major project for the welfare of the public. The various functionalities of the application like the traffic alert, weather forecasting, the details about the farmers land which was sent as a message to each farmer were explained in detail. The various facilities like Bangalore One provided by the government to the public were also educated to us. The overall session was very interactive and helped us to know the initiatives taken by Government in promoting e  governance to the daily life of common public.</p>
 
-									<p align=justify>He informed the crowd about the BIMARU states and their high poverty level. Saying, unless we solve the various fiscal, infrastructural, judicial and governance problems that we face, we will not be able to fulfill our goal of economic growth. We do have a great potential. Given the right set of policies, we can reach heights",</p>
-
-									<p align=justify>"He is a highly knowledgeable person. His visit helped bring about knowledge regarding real economic reforms in the near future, the challenges to be faced and how to tackle them." said Prof. Vijay Kumar, faculty, Kristu Jayanti College</p>
-
-									<p align=justify>"Dr. Govinda Rao made us realize the importance of the government in Indian Economy. He also made us realize the difference between private and public sector. The main role and control of the economy is all up to the public sector."</p>
-
-									<p align=justify>Vichaarmanthan is a platform where students interact with global leaders and visionaries. The interaction helps students get inspired to do something for society. Vichaarmanthan is an important program aimed at the holistic development of students in Kristu Jayanti College</p>
 									
 									
 

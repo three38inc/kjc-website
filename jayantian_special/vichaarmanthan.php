@@ -123,13 +123,13 @@
   <thead>
 	  <tr>
       <td></td>
-		  <td><a href="#"><img src="images/kirankumar.jpg" height="140" width="230" title="A S Kiran Kumar"></a></td>
-		  <td><a href="#"><img src="images/vishwanathan.jpg" height="140" width="230" title="Shri. N. S. Vishwanathan"></a></td>
+		  <td><a href="kiran_kumar.php"><img src="images/kirankumar.jpg" height="140" width="230" title="A S Kiran Kumar"></a></td>
+		  <td><a href="vishwanathan.php"><img src="images/vishwanathan.jpg" height="140" width="230" title="Shri. N. S. Vishwanathan"></a></td>
       </tr>
 	   <tr>
-		   <td><a href="#"><img src="images/cnr_rao.jpg" height="140" width="230" title="Bharat Ratna Prof. C N R Rao"></a></td>
-		   <td><a href="#"><img src="images/deepali.jpg" height="140" width="230" title="Ms. Deepali Pant Joshi"></a></td>
-		   <td><a href="#"><img src="images/rathankelkar.jpg" height="140" width="230" title="Dr Rathan Kelkar"></a></td>
+		   <td><a href="cnr_rao.php"><img src="images/cnr_rao.jpg" height="140" width="230" title="Bharat Ratna Prof. C N R Rao"></a></td>
+		   <td><a href="deepali_pant.php"><img src="images/deepali.jpg" height="140" width="230" title="Ms. Deepali Pant Joshi"></a></td>
+		   <td><a href="rathan_kelkar.php"><img src="images/rathankelkar.jpg" height="140" width="230" title="Dr Rathan Kelkar"></a></td>
       </tr>
 	   <tr>
 		   <td><a href="govinda_rao.php"><img src="images/govindarao.jpg" height="140" width="230" title="Dr.M.Govinda Rao"></a></td>

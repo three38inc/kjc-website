@@ -114,26 +114,21 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Sri Dr.M.Govinda Rao</b><br>
-										Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013).</p>
+									<p><b>Ms. Deepali Pant Joshi</b><br>
+										Executive Director, Reserve Bank of India</p>
 									
-									<p align=justify>Vichaarmanthan' an interactive session with global and Indian visionaries was organized by Kristu Jayanti College on 1 December, 2014. The event was inaugurated in the presence of Sri Dr.M.Govinda Rao, Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013). ; Along with, Rev.Fr.Josekutty.P.D; Principal Kristu Jayanti College; Mr. Vijay Kumar .R , Head, Dept of Commerce; Dr.V.Babu, Co-ordinator M.Com Program; Md. Azaruddin, Student Coordinator of 'Vichaarmanthan'.</p>
+									
 
-									<p align=justify>The event is an innovative arena where the students are given the opportunity to interact with global and Indian visionaries. The topic for this session was 'Economic Reforms in India- Challenges and Opportunities'. While addressing the gathering Dr.M.Govinda Rao said, "I am extremely grateful for inviting me, to share my thoughts on the Indian Economy", began Dr.Rao, in his humbly mild manner. "The Performance of Indian Economy is a typical case of 'tremendous potential not realized'. We committed mistakes; we did not correct them and continued to commit the same over and over again."</p>
+									<p align=justify>Ms. Deepali Pant Joshi, Executive Director, Reserve Bank of India; was the key note speaker for the twenty fourth edition of Vicharmanthan- an interactive series with global and Indian visionaries, organized by Kristu Jayanti College, on September 11, 2015. In her address on the topic RBI reforms and current trends in Banking she said, Reserve Bank of India (RBI) strengthens the monetary policy framework through strengthening our diverse and rich banking structure by granting licenses to new entrants, branch expansions and regulating foreign banks</p>
 
-									<p>Dr. Rao went on to explain the history of modern Indian economy. "Fifty years prior to independence, the growth rate of the economy was practically zero. Then after the independence, we said, we will follow the planned growth of economy. We followed the Public Sector Domination, not focusing on much of foreign trade. In reality, we had a hangover of the colonial past. So we feared trade with other countries. From 1950-90, the economic growth was about 3.5%, mainly because of the country's Import Substitution policy. This steady pace of low annual growth prompted it to be called the Hindu rate of growth by the economist, Raj Krishna. "</p>
+									<p align=justify>While elucidating on the systemic risks, she said, there is a domino effect in the banking sector as the collapse of one bank lead to many. To overcome this RBI has embarked on initiatives like timely supervisory interventions and risk detections.</p>
 
-									<p align=justify>While expressing his views on the population crisis, Dr.Rao said, "Population is the resource. When other countries face the problem of aging, we face that of 'demographic dividend'. We have so many people, but we do not have the ability to provide them with jobs or the skills that are required."</p>
+									<p align=justify>Ms. Pant also highlighted the Pradhan Mantri Jan Dhan Yojna and the importance of creating bank accounts for every citizen to counter money laundering. Further speaking on the indigenization of currency note printing she said, RBI is deciding on new numbering system for visually impaired citizens and few other security features.</p>
 
-									<p align=justify>He later on went to discuss the issue of poverty in India. "We continue to have a huge problem of poverty. The recent numbers say that about 330-340 million people of the country are poor. S, the poverty rate is almost 50%. The poverty level continues to be sharp, mainly in the mid-section of the country."</p>
+									<p align=justify>The session ended with Ms. Joshi inspiring the students and saying The biggest strength of our country is the youth. And youth is a majority in our country contrary to some countries where majority is formed by aged people.</p>
 
-									<p align=justify>He informed the crowd about the BIMARU states and their high poverty level. Saying, unless we solve the various fiscal, infrastructural, judicial and governance problems that we face, we will not be able to fulfill our goal of economic growth. We do have a great potential. Given the right set of policies, we can reach heights",</p>
+									<p align=justify>Rev. Fr. Josekutty PD, Principal, Kristu Jayanti College; Prof. Aloysius Edward, Dean, Faculty of Commerce and Management; Prof. Babu V, Coordinator, M.Com and MCom FA Programmes; were also present during the session.</p>
 
-									<p align=justify>"He is a highly knowledgeable person. His visit helped bring about knowledge regarding real economic reforms in the near future, the challenges to be faced and how to tackle them." said Prof. Vijay Kumar, faculty, Kristu Jayanti College</p>
-
-									<p align=justify>"Dr. Govinda Rao made us realize the importance of the government in Indian Economy. He also made us realize the difference between private and public sector. The main role and control of the economy is all up to the public sector."</p>
-
-									<p align=justify>Vichaarmanthan is a platform where students interact with global leaders and visionaries. The interaction helps students get inspired to do something for society. Vichaarmanthan is an important program aimed at the holistic development of students in Kristu Jayanti College</p>
 									
 									
 
