@@ -1669,6 +1669,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     padding: 7px 10px;
     margin-bottom: 5px;
     transition: all ease-in-out 0.3s;
+    font-size: 1.3em;
 }
 
 .myNav li a:hover {
@@ -2319,7 +2320,7 @@ time.icon:focus {
 
 /* yamm navbar css end */
 a.read-more{
-  text-decoration: none;
+  text-decoration: none!important;
 }
 a.read-more i{
   line-height: 1em;

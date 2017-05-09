@@ -80,7 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
-
+                                <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>BSc CSME</strong></span></h4>
                                

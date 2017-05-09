@@ -228,7 +228,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 02th to 05th 2017</strong> School of Management (MBA & PGDM) VI Trimester Mid Term Examination</td>
                             </tr>
                         </table>
@@ -236,7 +236,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 24th to 31st 2017</strong> School of Management (MBA & PGDM) III Trimester Mid Term Examination</td>
                             </tr>
                         </table>
@@ -244,7 +244,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/news/exam-cirlce.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>May 24th to June 01 st 2017</strong> School of Management (MBA & PGDM) VI End Trimester Examination</td>
                             </tr>
                         </table>

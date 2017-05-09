@@ -22,7 +22,7 @@
         <a href="http://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-youtube"></i></a>
         <a href="https://twitter.com/kristujayanti99" target="_blank"><i class="fa fa-twitter"></i></a>
         <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-linkedin"></i></a>
-        <a href="#" class="link">contact us<i class="fa fa-phone"></i></a>
+        <a href="<?php echo $ROOT; ?>/home/contact-us.php" class="link">contact us<i class="fa fa-phone"></i></a>
         <a class="hide" id="search">search<i class="fa fa-search"></i></a>
     </div>
 
@@ -194,7 +194,7 @@
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -204,7 +204,7 @@
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
@@ -214,7 +214,7 @@
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
-                       <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                       <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
                    </div>
 
