@@ -132,7 +132,7 @@
 		   <td><a href="#"><img src="images/rathankelkar.jpg" height="140" width="230" title="Dr Rathan Kelkar"></a></td>
       </tr>
 	   <tr>
-		   <td><a href="#"><img src="images/govindarao.jpg" height="140" width="230" title="Dr.M.Govinda Rao"></a></td>
+		   <td><a href="govinda_rao.php"><img src="images/govindarao.jpg" height="140" width="230" title="Dr.M.Govinda Rao"></a></td>
 		   <td><a href="ranganath.php"><img src="images/ranganath.jpg" height="140" width="230" title="S.V.Ranganath"></a></td>
 		   <td><a href="sadagopan.php"><img src="images/sadagopan.jpg" height="140" width="230" title="S. Sadagopan"></a></td>
       </tr>
