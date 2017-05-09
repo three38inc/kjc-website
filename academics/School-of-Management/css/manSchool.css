@@ -30,6 +30,20 @@ center .mainheading span strong{
     font-size: 24;
 }
 
+
+
+/*floating division styling */
+
+.floatDiv{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 100%;
+    padding: 100px 0;
+    background: linear-gradient(90deg,transparent,rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8));
+}
+
+
 .deanary{
     text-align: center;
     margin: 20px 0;

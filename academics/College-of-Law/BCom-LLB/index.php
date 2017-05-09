@@ -119,10 +119,7 @@
                                     <br/>
                                     <p align="justify">
                                         <!--                                        <img src="../../../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province of the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation in India. This congregation is the embodiment of the dream and vision of Saint Kuriakose Elias Chavara who was a nineteenth century educationist and social reformer in India. Kuriakose Chavara was born in 1805, in Kainakary, Kerala. In 1829 he was ordained as priest after his early schooling in the native village and priestly studKristu Jayanti College Founderies at Pallipuram seminary in Alapuzha.
-                                    </p>
-                                    <p align="justify">
-                                        Kuriakose Elias Chavara though he hailed from an upper caste Syrian Christian family, he played a major role in educating the people of the lower ranks of society. In 1846, Kuriakose Elias established St. Joseph's Press at Mannanam- a remote hamlet near the town of Kottayam in Central Kerala. This was the third printing press in Kerala and the first press founded by a Keralite without the help of foreigners. From this printing press came the first Malayalam newspaper Nasrani Deepika which later became a daily in 1887 and is circulated even today as Deepika. He also started a school at Mannanam in 1846. He was responsible for introducing noon day meals in schools, a practice later adopted by the rulers of Travancore and then by the Indian government. In 1864, while he was serving as the Vicar General of Syrian Catholics, he ordered to start a school along with every church which was successful in making free education available for everyone. Thus schools in Kerala came to be known as 'pallikudam'.
+                                        The B.Com LL.B.is an integrated dual-degree combination of Bachelor’s degree programmein Commerce with a Bachelor’s degree programme in law. As legal opinion and expertise is currently a demand  in the banking sector this programme will serve the purpose of getting legally trained commerce graduates come into the workforce. The Course is designed in a systematic manner according to the needs of the present era. Each academic year is divided into two semesters. The duration of the course shall be five academic years consisting of 10 semesters.  Medium of Instructions is in English. Students have option to write their exams either in English or Kannada.
                                     </p>
 
 
@@ -144,18 +141,15 @@
                                     </section>
                                     
                                     
+<!--
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sylabus.php">Sylabus</a></p>
                                     </section>
+-->
 
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="entry.php">Entry Requirements</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="placements.php">Placements</a></p>
                                     </section>
 
 
