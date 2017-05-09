@@ -216,7 +216,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/mba.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-line-chart c3" style="float: left;"></i>
                     <h2>MBA</h2>
@@ -226,7 +226,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="#">
+            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/pgdm.php">
                 <div class="courseTitle color-4">
                     <i class="fa fa-line-chart c4" style="float: left;"></i>
                     <h2>PGDM</h2>
