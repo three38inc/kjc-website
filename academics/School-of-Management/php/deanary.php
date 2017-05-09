@@ -1,6 +1,6 @@
 <br><br/>
 <center><h4 class="mainheading" style="background-position: bottom center;">
-    <span>&nbsp;Kristu Jayanti <strong> College of  Arts, Science And Commerce</strong></span>
+    <span>&nbsp;Kristu Jayanti <strong> School of Management</strong></span>
 </h4></center>
 <div class="row">
     

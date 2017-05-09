@@ -15,5 +15,9 @@ $(document).ready(function(){
       $ba.isotope({ filter: filterValue });
     });
     
+    $('#falSci').click(function(){window.location.href="Faculty-Sciences/index.php";});
+    $('#falCom').click(function(){window.location.href="Faculty-Commerce-Management/index.php";});
+    $('#falHum').click(function(){window.location.href="Faculty-Humanitiesindex.php";});
+    
     
 });
