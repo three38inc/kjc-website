@@ -154,7 +154,8 @@
 									
 								</div>
 							</div>
-							<div class="col-lg-3">
+                            </div>
+                                <div class="col-lg-3">
 
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
