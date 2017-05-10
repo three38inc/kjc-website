@@ -1,253 +1,237 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kristu Jayanti College, Bengaluru</title>
-    <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kristu Jayanti College, Bengaluru</title>
+        <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
-    <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/images/icon.png">
-    <!-- Bootstrap css -->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/component.css" />
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/roundIcons.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/hoverEffect.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/morphing.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/navTabs.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/animate.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/fakeLoader.css">
-    <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
+        <meta name="author" content="Three38 inc" />
+        <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/images/icon.png">
+        <!-- Bootstrap css -->
+        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!--additional css-->
+        <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/component.css" />
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/roundIcons.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/hoverEffect.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/morphing.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/navTabs.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/animate.css">
+        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/fakeLoader.css">
+        <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
 
-    <!--custom css-->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
-    <!-- javascript -->
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/respond.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/fakeLoader.js"></script>
+        <!--custom css-->
+        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
+        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
+        <!-- javascript -->
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/respond.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/custom.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/fakeLoader.js"></script>
 
-</head>
+    </head>
 
-<body>
-    <div id="fakeLoader"></div>
-    <script>
-        $("#fakeLoader").fakeLoader({
-            timeToHide: 2000,
-            bgColor: "#2c3e50",
-            spinner: "spinner4"
-        });
+    <body>
+        <div id="fakeLoader"></div>
+        <script>
+            $("#fakeLoader").fakeLoader({
+                timeToHide: 2000,
+                bgColor: "#2c3e50",
+                spinner: "spinner4"
+            });
 
-    </script>
-    <div id="fb-root"></div>
-    <script>
-        (function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s);
-            js.id = id;
-            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=578768295582897";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=578768295582897";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
 
-    </script>
-    <div class="container-fluid">
-        <div class="row">
-            <?php require ("../../php/navbar.php"); ?>
+        </script>
+        <div class="container-fluid">
+            <div class="row">
+                <?php require ("../../php/navbar.php"); ?>
+            </div>
         </div>
-    </div>
-    <div id="st-container" class="st-container">
-        <?php include("../../php/offCanvasMenu.php"); ?>
-        <!-- content push wrapper -->
-        <div class="st-pusher">
-            <div class="st-content">
-                <!-- this is the wrapper for the content -->
-                <div class="st-content-inner">
-                    <div class="container">
-                        <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
-
-                        </div>
-
-
-
-                        <div class="row">
-                            <div class="col-lg-9">
-								<div class="content-left myWelcome wow fadeIn">
-
-                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Welcome <strong>MBA</strong></span></h4>
-								
-								<p align=justify>To augment the traditional class room learning, Kristu Jayanti School of Management conducts a series of activities and programmes to enrich the students with the required practical knowledge and also to inculcate the required skills and values to make them industry ready. The institute also provides students with an opportunity to show case the talents of the students, to work in teams under time pressure, to lead and also to plan, co-ordinate and organize various events of the school of management. The entire two years of the programme is meticulously planned in such a way that students get enough opportunities to apply and reflect on their class room learnings. The following are the activities conducted at the Kristu Jayanti School of Management:</p>
-
-
-
-
-								</div></div>
-                            <div class="col-lg-3" style="margin-top:1em;">
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Activities</strong></span>
-                                    </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
-                                    </section>
-									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
-                                    </section>
-									
-                                   </div>
-								
-								<div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>Department <strong>Special</strong></span>
-                                        </h4>
-                                        
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management_fests.php">Management Fests</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section>
-										
-										 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                    </section>
-										
-										 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
-                                    </section>
-									</div>
-									
-<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                    </h4>
-                                    <?php include ('../../php/sideMenu.php'); ?>
-                                </div>
-                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                        </div>
-                                    </div>
-                                </div>
+        <div id="st-container" class="st-container">
+            <?php include("../../php/offCanvasMenu.php"); ?>
+            <!-- content push wrapper -->
+            <div class="st-pusher">
+                <div class="st-content">
+                    <!-- this is the wrapper for the content -->
+                    <div class="st-content-inner">
+                        <div class="container">
+                            <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                             </div>
-                        </div>
-						</div></div>
 
-                    <?php include ('../../php/alerts.php');  ?>
-                    <?php include('../../php/footer.php'); ?>
-                    <?php include('../../php/morphingSearch.php'); ?>
+
+
+                            <div class="row">
+                                <div class="col-lg-9">
+                                    <div class="content-left myWelcome wow fadeIn">
+                                        <img src="../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <br/>
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                            <span>&nbsp; Welcome <strong>PGDM &amp; MBA</strong></span></h4>
+
+                                        <p align=justify>Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer MBA and industry relevant PGDM Course. Our MBA/PGDM course is a two year full time programme spanning over Six Trimesters, Autonomous Programme, affiliated to Bangalore University and approved by the All India Council for Technical Education (AICTE). The main objective of these courses is to impart quality professional education and training in various aspects of modern management. The classroom segment has both core and specialized content, thus equipping the students to adapt effortlessly to the demands of professional management in their chosen field of specialization. The core and specialization subjects are designed so that each term builds upon the subjects taught in the previous term as well as on the field experience gained. Jayantian graduates have the strategic perspective, business knowledge, and excellent management skills to deliver strong performance while making a positive impact on society and the environment.</p>
+
+                                    </div>
+                                </div>
+                                <div class="col-lg-3" style="margin-top:1em;">
+                                    <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span>&nbsp; <strong>Activities</strong></span>
+                                        </h4>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
+                                        </section>
+
+                                    </div>
+
+                                    <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                        <div class="content-right wow fadeIn">
+                                            <h4 style="margin-left:10px;" class="mainheading">
+                                                <i class="fa fa-bookmark"></i>
+                                                <span>Department <strong>Special</strong></span>
+                                            </h4>
+
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                            </section>
+
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="management_fests.php">Management Fests</a></p>
+                                            </section>
+
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                            </section>
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                            </section>
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
+                                            </section>
+                                        </div>
+
+                                        <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                            <h4 style="margin-left:10px;" class="mainheading">
+                                                <i class="fa fa-bookmark"></i>
+                                                <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                            </h4>
+                                            <?php include ('../../php/sideMenu.php'); ?>
+                                        </div>
+                                        <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                            <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                                <div class="fb-xfbml-parse-ignore">
+                                                    <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div></div>
+
+                        <?php include ('../../php/alerts.php');  ?>
+                        <?php include('../../php/footer.php'); ?>
+                        <?php include('../../php/morphingSearch.php'); ?>
+                    </div>
+
+
+
                 </div>
-
-
-
-				</div>
-            <!--/st-content-inner-->
+                <!--/st-content-inner-->
+            </div>
+            <!-- this is the wrapper for the content-->
         </div>
-        <!-- this is the wrapper for the content-->
-    </div>
-    <!--st-pusher-->
-    <!--        </div> st-container -->
+        <!--st-pusher-->
+        <!--        </div> st-container -->
 
-    <!--<script src="../js/cbpFWTabs.js"></script>-->
-	
-    <script>
-        (function() {
+        <!--<script src="../js/cbpFWTabs.js"></script>-->
 
-            [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
-                new CBPFWTabs(el);
-            });
+        <script>
+            (function() {
 
-        })();
+                [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
+                    new CBPFWTabs(el);
+                });
 
-    </script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.academics.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/spin.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/mySpin.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/swipeview.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/classie.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/morphingSearch.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sidebarEffects.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/transit.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/customSly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/wow.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/scripts.js"></script>
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement({
-                pageLanguage: 'en'
-            }, 'google_translate_element');
-        }
+            })();
 
-    </script>
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    <script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
+        </script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/modernizr.custom.academics.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/spin.min.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/mySpin.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/swipeview.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery.bootstrap.newsbox.min.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/classie.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/morphingSearch.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sidebarEffects.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/transit.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/sly.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/customSly.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/wow.min.js"></script>
+        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/scripts.js"></script>
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                    pageLanguage: 'en'
+                }, 'google_translate_element');
+            }
+
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script>
+            $("document").ready(function() {
+                //below code is for retrieving corresponding pages #START
+                var activePage = 'page1';
                 $.ajax({
                     url: 'snipets/' + activePage + '.php',
                     success: function(data) {
@@ -257,11 +241,26 @@
                         alert('failed to load data');
                     }
                 });
+                $('.profile-pagination li a').click(function() {
+                    $(this).parent().siblings().removeClass('active');
+                    $(this).parent().addClass('active');
+                });
+                $('.profile-pagination li a').click(function() {
+                    var activePage = this.getAttribute('data-value');
+                    $.ajax({
+                        url: 'snipets/' + activePage + '.php',
+                        success: function(data) {
+                            $('#page').html(data);
+                        },
+                        error: function(data) {
+                            alert('failed to load data');
+                        }
+                    });
+                });
+                //above code is for retrieving corresponding pages #END
             });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
-</body>
+        </script>
+    </body>
 
 </html>

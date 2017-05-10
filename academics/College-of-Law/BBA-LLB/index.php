@@ -119,7 +119,19 @@
                                     <br/>
                                     <p align="justify">
                                         <!--                                        <img src="../../../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The B.B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s degree course in Business Administration with a Bachelor’s degree course in law.The programme and curriculum are well planned keeping in mind the rising needs of economy in India, the prodigious demand for legal managers and the course is  ideal to meet the same. Each academic year will be divided into two semesters. Each semester consists of ¬¬¬ 150 days excluding study vacation. The duration of the course shall be five academic years consisting of 10 semesters.  Medium of Instructions is in English. Students have option to write their exams either in English or Kannada.
+                                        The B.B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s degree course in Business Administration with a Bachelor’s degree course in law.The programme and curriculum are well planned keeping in mind the rising needs of economy in India, the prodigious demand for legal managers and the course is  ideal to meet the same. Each academic year will be divided into two semesters. Each semester consists of ¬¬¬ 150 days excluding study vacation. The duration of the course shall be five academic years consisting of 10 semesters.  Medium of Instructions is in English. Students have option to write their exams either in English or Kannada.<br/><br/>
+                                        
+                                        <strong>ATTENDANCE</strong><br/><br/>
+                                        No student shall be considered to have followed a regular course of study unless he/she is certified by the Principal to have attended minimum 75% of the total number of classes conducted in each course at the end of the semester.<br/><br/>
+
+                                        <strong>Library</strong> <br/><br/>
+                                        The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays<br/><br/>
+
+                                        <strong>Anti- Ragging Committee</strong> <br/><br/>
+                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.<br/><br/>
+
+                                        <strong>Moot Court Hall</strong><br/><br/> 
+                                        A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.
                                     </p>
 
 

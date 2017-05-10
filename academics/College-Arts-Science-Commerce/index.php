@@ -65,7 +65,7 @@
                         
                         <div class="row" style="height:15vh;"></div>
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12" style="position: relative;">
                                 <div id="lawCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
@@ -76,18 +76,17 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-8 col-md-8 hidden-xs hidden-sm floatDiv">
-                                <div class="col-lg-2"></div>
-                                <div class="col-lg-10">
+                                <div class="col-lg-8 col-md-8 hidden-xs hidden-sm floatDiv">
+                                    <div class="col-lg-2"></div>
+                                    <div class="col-lg-10">
+                                        <?php include "php/deanary.php"; ?>
+                                    </div>
+                                </div>
+
+                                <div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
                                     <?php include "php/deanary.php"; ?>
                                 </div>
                             </div>
-
-                            <div class="col-xs-12 col-sm-12 hidden-md hidden-lg">
-                                <?php include "php/deanary.php"; ?>
-                            </div>
-
                         </div>
                         
                         <div class="container">
