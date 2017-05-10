@@ -113,7 +113,7 @@
                                         <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                         <br/>
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;BA.LLB <strong>Course Structure</strong></span>
+                                            <span>&nbsp;BBA.LLB <strong>Course Structure</strong></span>
                                         </h4>
 
                                         <br/>
@@ -223,7 +223,7 @@
                                     <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Course <strong>BA.LLB</strong></span>
+                                            <span>&nbsp;Course <strong>BBA.LLB</strong></span>
                                         </h4>
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="index.php">Course Details</a></p>

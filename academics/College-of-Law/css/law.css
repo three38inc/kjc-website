@@ -172,3 +172,9 @@ center .mainheading span strong{
     width: 100%;
     margin: 0 10px;
 }
+
+
+.myWelcome td{
+    border: 1px solid #333!important;
+    padding: 15px;
+}

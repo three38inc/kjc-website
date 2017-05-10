@@ -97,15 +97,45 @@
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                         <?php include ('php/welcome.php'); ?>
                                     </div>
-                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
-                                        <?php include ('php/accordion-pill-tabs.php'); ?>
-                                        <div style="clear: both;"></div>
-                                    </div>
+                                    
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 709px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 419px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
+                                    </div>
+                                </div>
+                                <div class="col-lg-9">
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 274px;">
+                                        <?php include ('php/accordion-pill-tabs.php'); ?>
+                                        <div style="clear: both;"></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="col-lg-12">
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
+                                            <a href="http://events.kristujayanti.edu.in/"><h4><i class="fa fa-book"></i>Library</h4></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
+                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i>Mock Court</h4></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-graduation-cap"></i>Coaching Centers</h4></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-calendar-o"></i>Enroll For Events</h4></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-calendar"></i>Academic Calendar</h4></a>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="clearfill"></div>

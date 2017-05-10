@@ -26,7 +26,7 @@
     .news.panel
     {
         border-color:white;
-        height: 750px;
+        height: 650px;
         overflow-y: hidden;
         box-shadow:none;
     }
@@ -136,7 +136,7 @@
     <div class="panel-body">
         <div class="row">
             <div class="col-xs-12">
-                <ul class="demo1" style="height: 750px!important;" >
+                <ul class="demo1" style="height: 550px!important;" >
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
