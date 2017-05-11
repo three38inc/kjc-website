@@ -25,7 +25,7 @@
 		<!--custom css-->
 		<link href="../../css/custom.css" rel="stylesheet">
 		<link href="../../css/innerpage.css" rel="stylesheet">
-		<link href="css/manSchool.css" rel="stylesheet">
+        <link href="css/manSchool.css" rel="stylesheet">
 		<!-- javascript -->
 		<script src="../../js/jquery-1.11.0.min.js"></script>
 		<script src="../../bootstrap/js/bootstrap.min.js"></script> 
@@ -53,7 +53,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container-fluid">
 			<div class="row">
-				<?php include ('../../php/navbar.php');  ?>
+				<?php include ('php/navbar.php');  ?>
 			</div>
 		</div>
 		<div id="st-container" class="st-container">

@@ -1,6 +1,11 @@
 /* custom styles for law page */
 
 
+.big .navbar-brand img{
+    max-height: 98px;
+}
+
+
 .mainImg{
     width: 100%;
     position: relative;
