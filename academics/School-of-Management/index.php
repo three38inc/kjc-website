@@ -25,7 +25,7 @@
 		<!--custom css-->
 		<link href="../../css/custom.css" rel="stylesheet">
 		<link href="../../css/innerpage.css" rel="stylesheet">
-		<link href="css/manSchool.css" rel="stylesheet">
+        <link href="css/manSchool.css" rel="stylesheet">
 		<!-- javascript -->
 		<script src="../../js/jquery-1.11.0.min.js"></script>
 		<script src="../../bootstrap/js/bootstrap.min.js"></script> 
@@ -53,7 +53,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container-fluid">
 			<div class="row">
-				<?php include ('../../php/navbar.php');  ?>
+				<?php include ('php/navbar.php');  ?>
 			</div>
 		</div>
 		<div id="st-container" class="st-container">
@@ -102,11 +102,19 @@
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 660px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 568px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
                                 <div class="clearfill"></div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="content-spl wow fadeIn">
+                                        <?php include('php/highLights.php');?>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 							
