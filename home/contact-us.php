@@ -63,7 +63,7 @@
         
         .panel-body>p {
             margin-top: .8em;
-            font-size: .9em;
+            font-size: 1em;
         }
         
         .panel-body>h3 {
@@ -76,7 +76,7 @@
         }
         
         .well>p {
-            font-size: .9em;
+            font-size: 1em;
         }
 
     </style>
@@ -194,11 +194,18 @@
                                         <span>&nbsp;How to <strong>Reach us</strong></span>
                                     </h4>
                                     <div class="well">
-                                        <p><b> Mailing Address</b><br>Kristu Jayanti College (Autonomous)<br>K. Narayanapura, Kothanur (PO) <br>Bengaluru 560077
+                                        <p><b><u> Mailing Address</u></b><br>
+                                        Kristu Jayanti College (Autonomous)<br>
+                                        K. Narayanapura, Kothanur (PO) <br>
+                                        Bengaluru 560077
                                         </p>
-                                        <p><b> Contact Nos.</b><br>(080)28465611<br>(080)28465770<br>(080)28465353
+                                        <br>
+                                        <p><b><u>Contact Nos.</u></b><br>
+                                        (080)28465611<br>
+                                        (080)28465770<br>
+                                        (080)28465353
                                         </p>
-                                        <p><b> Fax No.</b><br>(080) 28445161
+                                        <p><b><u>Fax No.</u></b><br>(080) 28445161
                                         </p>
 
                                     </div>
@@ -207,30 +214,39 @@
                                             <h3 class="panel-title">Official Contact Mails &amp; Contact Personnels</h3>
                                         </div>
                                         <div class="panel-body">
-                                            <font size=2><b>1. Official mail</b><br>info@kristujayanti.com<br><b>2. Admission</b><br>admission@kristujayanti.com<br><b>3. Career Purpose</b><br>career@kristujayanti.com</font>
+                                            <font size=2>
+                                            <b>1. Official mail</b>
+                                            <br><a href="mailto:info@kristujayanti.com">info@kristujayanti.com</a><br>
+                                            <br><b>2. Admission</b>
+                                            <br><a href="mailto:admission@kristujayanti.com">admission@kristujayanti.com</a><br>
+                                            <br><b>3. Career Purpose</b>
+                                            <br><a href="mailto:career@kristujayanti.com">career@kristujayanti.com</a></font>
                                         </div>
-
+                                        <br><br>
                                         <div class="panel-body">
                                             <h3 class="panel-title">Campus Management</h3>
-                                            <p><b>Prof. Bino Joseph</b><br> Mob.: 9449451111<br> cmshelpdesk@kristujayanti.com <br>binojoseph@kristujayanti.com
+                                            <p><b>Prof. Bino Joseph</b><br> Mob.: 9449451111<br> <a href="mailto:cmshelpdesk@kristujayanti.com">cmshelpdesk@kristujayanti.com</a> <br>
+                                                <a href="mailto:binojoseph@kristujayanti.com">binojoseph@kristujayanti.com</a>
                                             </p>
                                         </div>
 
                                         <div class="panel-body">
                                             <h3 class="panel-title">International Affairs</h3>
-                                            <p><b>Fr. Augustine George</b><br>augustine@kristujayanti.com<br>iroffice@kristujayanti.com
+                                            <p><b>Fr. Augustine George</b><br>
+                                                <a href="mailto:augustine@kristujayanti.com">augustine@kristujayanti.com</a><br>
+                                                <a href="mailto:iroffice@kristujayanti.com">iroffice@kristujayanti.com</a>
                                             </p>
                                         </div>
                                         <div class="panel-body">
                                             <h3 class="panel-title">Placement</h3>
-                                            <p><b>Prof. Sen B.Mathews</b>Mob.:9632815852<br>placement@kristujayanti.com
+                                            <p><b>Prof. Sen B.Mathews</b>Mob.:9632815852<br><a href="mailto:placement@kristujayanti.com">placement@kristujayanti.com</a>
                                             </p>
                                         </div>
                                         <div class="panel-body">
                                             <h3 class="panel-title">CCPD &amp; Life Skill</h3>
-                                            <p><b>Dr. Jonas Richard A</b><br>Mob.:9448532577<br>jonasrichard@kristujayanti.com</p>
+                                            <p><b>Dr. Jonas Richard A</b><br>Mob.:9448532577<br><a href="mailto:jonasrichard@kristujayanti.com">jonasrichard@kristujayanti.com</a></p>
                                         </div>
-
+                                        <br>
                                     </div>
 
 

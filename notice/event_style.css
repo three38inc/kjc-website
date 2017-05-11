@@ -1,0 +1,27 @@
+.event-tab{
+		margin-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+.event-tab > div {
+    width: 100%;
+    margin-bottom: 20px;
+    min-height: 50px;
+    padding: 10px;
+    background: #FEFEFE;
+    color: rgb(25,25,25);
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Carrois Gothic', sans-serif;
+    text-decoration: inherit;
+    text-align: left;
+
+    line-height: 1.5em;
+    
+    border: solid 1px #EEE;
+    -webkit-box-shadow:  0px 1px 1px 0px #CCC;
+    -moz-box-shadow:  0px 1px 1px 0px #CCC;
+    -o-box-shadow:  0px 1px 1px 0px #CCC;
+    box-shadow:  0px 1px 1px 0px #CCC;
+    
+}	

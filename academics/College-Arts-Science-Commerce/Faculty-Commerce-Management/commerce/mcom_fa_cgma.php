@@ -120,7 +120,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg-2.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com <strong>(FA with CGMA) </strong></span>
@@ -131,6 +131,9 @@
 									<p align=justify>The programme enables the students to obtain Chartered Global Management Accountant qualification which is the joint venture between AICPA (American Institute of Chartered Public Accountants), USA and CIMA (Chartered Institute of Management Accountants), UK.</p>
 
 									<p align=justify>The M.Com FA with CGMA programme is eligible for gaining 11 paper exemptions out of 16 towards the CGMA Qualification and the student has to write only 5 papers to qualify for the CGMA. It also gives an opportunity to gain qualifications like, Advanced Diploma in Management Accounting & Certificate in IFRS along with the CGMA Qualification.</p>
+									
+									
+									<center><p><a href="curriculum/mcom_fa_cgma.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com FA with CGMA </a></p></center>
 
                                 </div>
                             </div>

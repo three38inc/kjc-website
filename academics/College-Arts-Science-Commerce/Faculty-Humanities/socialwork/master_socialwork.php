@@ -80,7 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-
+<img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Masters in <strong> Social Work (MSW) </strong></span></h4>
 								
@@ -93,7 +93,7 @@ Social Development<br>
 								<p><b>Eligibility</b><br>
 									A candidate who has passed bachelors degree with 50 % marks is eligible to seek admission to the course.</p>
 								
-                              
+                               <center><p><a href="curriculum/msw_syllabus_2015_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of MSW  2015-17</a></p></center>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

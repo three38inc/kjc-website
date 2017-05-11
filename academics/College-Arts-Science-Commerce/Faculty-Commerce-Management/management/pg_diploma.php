@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; One year Post Graduate Diploma Programme (Working Executives)</span>
@@ -155,6 +155,8 @@ College Office: 080 - 28465611 / 28465353 / 28465770, <br>
 E-mail: admission@kristujayanti.com<br>
 Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
                                         For details of Subjects (Click here)</p>
+									
+										<center><p><a href="curriculum/pg_diploma_course_matrix_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of One Year Post Graduate Diploma </a></p></center>
 
                                 </div>
                             </div>

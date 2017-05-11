@@ -80,6 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
+                                <img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>BSc CSMS</strong></span></h4>
@@ -92,6 +93,9 @@
                                 <p align=justify><b>Statistics </b><br>
                                     Statistics is a mathematical science pertaining to collection, classification, analysis, interpretation or explanation and presentation of numerical data. In the modern world the science of statistics is an indispensable part of every sphere of human activity and is extensively applied in framing policies and formulating decisions in a large number of diversified fields covering natural, economical physical and social sciences. This three year course includes topics on descriptive statistics, statistical inference, sampling theory, experimental design, demography, industrial statistics like statistical quality control and operations research.</p>
                                 <p><b>Eligibility:</b> Pass in 10+2/Pre University course/Equivalent. Candidates should have studied at least two subjects from Mathematics, Computer Science, Statistics or Physics </p>
+									
+									<center><p><a href="curriculum/bsc_csms_2014_17_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc(CSMS)   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bsc_csms_2015_18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc(CSMS)   2015 - 18</a></p></center>
 
 
 

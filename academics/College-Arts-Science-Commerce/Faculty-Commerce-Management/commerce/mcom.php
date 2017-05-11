@@ -120,7 +120,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg-2.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com<strong> (Master of Commerce) </strong></span>
@@ -134,6 +134,10 @@ or<br>
 	* Accounting and Taxation</b>
 
 									<p><b>Eligibility:</b> A bachelor's degree in Commerce or BBA of a recognized University with a minimum of 50% marks.</p>
+									
+									<center><p><a href="curriculum/mcom_2015-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2015-17  </a></p></center>
+									
+									<center><p><a href="curriculum/mcom_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2016-18  </a></p></center>
                                    
 
                                 </div>

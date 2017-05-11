@@ -3,13 +3,16 @@
 
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="../images/pic11.jpg" class="img-responsive"/>      
+      <img src="../images/banner/slider-1.jpg" class="img-responsive"/>      
     </div>
     <div class="item">
-      <img src="../images/pic12.jpg"/>
+      <img src="../images/banner/slider-2.jpg" class="img-responsive"/>
     </div>
     <div class="item">
-      <img src="../images/pic13.jpg"/>
+      <img src="../images/banner/slider-3.jpg" class="img-responsive"/>
+    </div>
+    <div class="item">
+      <img src="../images/banner/slider-4.jpg" class="img-responsive"/>
     </div>                        
   </div>
 

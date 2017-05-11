@@ -120,7 +120,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg-1.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>B.Com Integrated (B.Com with ACCA)</strong></span>
@@ -237,19 +237,8 @@
                                         </div>
                                     </div>
                                     <p align="justify"><br/><br/><strong>The detailed integration of ACCA courses with B.Com curriculum is given below:</strong></p><br/>
-                                    <p class="text-center"><a href="#">B.Com. with ACCA Course Curriculum (click here)</a></p>
-
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-                                    </div>
-                                    <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
-
+									
+                                   	<center><p><a href="curriculum/acca_courses_with_bcom_curriculumm_new.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA   </a></p></center>
 
                                 </div>
                             </div>

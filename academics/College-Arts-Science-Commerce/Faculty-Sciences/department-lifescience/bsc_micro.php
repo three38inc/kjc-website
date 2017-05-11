@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;B.Sc., <strong> Microbiology (Microbiology, Biochemistry, Genetics)</strong></span>
@@ -153,6 +153,10 @@ The college recognizes the importance of this subject and offers the course stru
                                         The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
 -->
 
+									<center><p><a href="curriculum/bsc_mb_2014-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Microbiology   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bsc_microbiology_curriculum_2015_2018.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Microbiology   2015 - 18</a></p></center>
+									<center><p><a href="curriculum/bsc_microbiology_coursematrix.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of B.Sc., Microbiology  University batch</a></p></center>
+								
 
 
                                 </div>

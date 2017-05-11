@@ -120,7 +120,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="../../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/department-bg-1.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>B.com </strong></span>
@@ -142,16 +142,16 @@
                                     </ol>
                                     <br/>
                                     <p align="justify">
-                                        <strong>Eligibility:</strong> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40 % aggregate are eligible to apply.
-
-
-                                    </p>
-                                    <br/>
-                                    <p class="text-center"><strong>
-                                        <a href="#"> Click here for B.COM Curriculum 2014-2017 Batch</a><br/><br/>
-                                        <a href="#"> Click here for B.COM Curriculum 2015-2018 Batch</a><br/><br/>
-                                        <a href="#"> Click here for B.COM Curriculum 2016-2019 Batch</a>
-                                        </strong></p>
+                                        <strong>Eligibility:</strong> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40 % aggregate are eligible to apply.</p>
+									
+									
+								<center><p><a href="curriculum/bcom_syllabus_2014_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bcom_curriculum_2015-18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM   2015 - 18</a></p></center>
+								<center><p><a href="curriculum/bcom_syallabus_2016_19_new_edit.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM   2016 - 19</a></p></center>
+									
+									
+									
+                                   
 
 
                                 </div>
