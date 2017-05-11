@@ -102,11 +102,19 @@
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 660px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 568px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
                                 <div class="clearfill"></div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="content-spl wow fadeIn">
+                                        <?php include('php/highLights.php');?>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 							
