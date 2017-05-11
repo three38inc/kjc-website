@@ -159,6 +159,25 @@
 
 
                                 </div>
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Courses <strong>Offered</strong></span>
+                                    </h4>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">BA.LLB</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">BBA.LLB</a></p>
+                                    </section>
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">BCom.LLB</a></p>
+                                    </section>
+
+                                </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
