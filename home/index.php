@@ -95,13 +95,9 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Schools of <strong> Management</strong></span>
                                         </h4>
-                                        <p style="text-align: center;">
+                                        <p>
                                             Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer <strong>MBA , industry relevant PGDM Course and One year Post Graduate Diploma Programme for Working Executives.</strong>
                                         </p>
-                                        <p style="text-align: center;">
-                                            Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer <strong>MBA , industry relevant PGDM Course and One year Post Graduate Diploma Programme for Working Executives.</strong>
-                                        </p>
-
                                     </div>
                                 </a>
                             </div>
@@ -111,11 +107,8 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
-                                        <p style="text-align: center;">
-                                            Denary of Arts,Science,Commerce offers programmes like <strong>BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology.It also provides POST GRADUATION courses in Computer science and Life Sciences.  </strong>
-                                        </p>
-                                        <p style="text-align: center;">
-                                            Denary of Arts,Science,Commerce offers programmes like <strong>BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology.It also provides POST GRADUATION courses in Computer science and Life Sciences.  </strong>
+                                        <p>
+                                            Denary of Arts,Science,Commerce offers programmes like <strong>BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology , MCA &amp; Msc Biotechnology and Microbiology.  </strong>
                                         </p>
                                     </div>
                                 </a>
@@ -126,11 +119,8 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;College of <strong> Law</strong></span>
                                         </h4>
-                                        <p style="text-align: center;">
-                                            The legal education degrees ( <strong> BA.LLB | BCom.LLB | BBA.LLB </strong>)and the curriculum offered at Kristu Jayanti College of Law envisions to facilitate India’s need for legal advisors and also at designing novel approaches to change them to meet the regional peculiarities and the country’s worldwide interests.
-                                        </p>
-                                        <p style="text-align: center;">
-                                            The legal education degrees ( <strong> BA.LLB | BCom.LLB | BBA.LLB </strong>)and the curriculum offered at Kristu Jayanti College of Law envisions to facilitate India’s need for legal advisors and also at designing novel approaches to change them to meet the regional peculiarities and the country’s worldwide interests.
+                                        <p>
+                                            The legal education degrees ( <strong> BA.LLB | BCom.LLB | BBA.LLB </strong>) envisions to facilitate India’s need for legal advisors and also at designing novel approaches to change them to meet the country’s worldwide interests.
                                         </p>
                                     </div>
                                 </a>
@@ -149,7 +139,7 @@
                                 <div style="clear: both;"></div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="height: 563px; overflow-y:hidden;">
+                                <div class="content-spl wow fadeIn" style="height: 537px; overflow-y:hidden;">
                                     <?php include ('php/newsAndUpdates.php'); ?>
                                 </div>
                             </div>
@@ -270,7 +260,7 @@
 
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 458px; overflow: hidden;">
+                                <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 430px; overflow: hidden;">
                                     <?php include ('php/events.php'); ?>
                                 </div>
                             </div>

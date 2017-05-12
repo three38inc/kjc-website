@@ -102,7 +102,7 @@
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 568px; overflow-y:hidden;">
+                                    <div class="content-spl wow fadeIn" style="height: 543px; overflow-y:hidden;">
                                         <?php include ('php/newsAndUpdates.php'); ?>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@
 	<script src="../../js/swipeview.js"></script>
 	<script src="../../js/jquery.bootstrap.newsbox.min.js"></script>
 	<script src="../../js/classie.js"></script>
-	<script src="../../js/morphingSearch.js"></script>
+<!--	<script src="../../js/morphingSearch.js"></script>-->
 	<script src="../../js/sidebarEffects.js"></script>
 	<script src="../../js/transit.js"></script>
 	<script src="../../js/sly.js"></script>
