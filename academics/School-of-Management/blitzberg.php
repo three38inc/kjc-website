@@ -26,7 +26,8 @@
 
     <!--custom css-->
     <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
+    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/css/innerpage.css" rel="stylesheet">
+    <link href="css/manSchool.css" rel="stylesheet">
     <!-- javascript -->
     <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/js/jquery-1.11.0.min.js"></script>
     <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/github/kjc-website/bootstrap/js/bootstrap.min.js"></script>
@@ -60,7 +61,7 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php require ("../../php/navbar.php"); ?>
+            <?php require ("php/navbar.php"); ?>
         </div>
     </div>
     <div id="st-container" class="st-container">

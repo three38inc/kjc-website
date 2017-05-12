@@ -1,4 +1,5 @@
 <?php 
+
     $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";
 ?>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
