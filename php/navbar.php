@@ -1,5 +1,6 @@
 <?php 
-    $ROOT="http://".$_SERVER['HTTP_HOST']."/GITHUB/kjc-website";
+
+    $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";
 ?>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
 <!--  <div class="container-fluid">-->
@@ -61,7 +62,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Founder</h4>
+                          <a href="<?php echo $ROOT; ?>/about/founder.php" ><h4>Founder</h4></a>
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
@@ -71,7 +72,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>History</h4>
+                        <a href="<?php echo $ROOT; ?>/about/history.php"><h4>History</h4></a>
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
@@ -81,7 +82,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Milestones</h4>
+                        <a href="<?php echo $ROOT; ?>/about/milestones.php"><h4>Milestones</h4></a>
                         <p>
                           The college has accomplished many milestones within a short span of its existence..
                         </p>
@@ -91,7 +92,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Vision, Mission &amp; Goals</h4>
+                        <a href="<?php echo $ROOT; ?>/about/vision_mission_goals.php"><h4>Vision, Mission &amp; Goals</h4></a>
                         <p>
                           Light and Prosperity': To provide intellectual and moral leadership by igniting the minds of youth to realize..
                         </p>
@@ -101,7 +102,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Core Values</h4>
+                        <a href="<?php echo $ROOT; ?>/about/core_values.php"><h4>Core Values</h4></a>
                         <p>
                           We believe that faith in God is the beginning of true wisdom and the anchor of life. Human life would be meaningless..
                         </p>
@@ -111,7 +112,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Educational Philosophy</h4>
+                        <a href="<?php echo $ROOT; ?>/about/educational_philosophy.php"><h4>Educational Philosophy</h4></a>
                         <p>
                           Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
                         </p>
@@ -121,7 +122,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Profile</h4>
+                        <a href="<?php echo $ROOT; ?>/about/profile.php"><h4>Profile</h4></a>
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
@@ -131,7 +132,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Autonomous</h4>
+                        <a href="<?php echo $ROOT; ?>/about/autonomous.php"><h4>Autonomous</h4></a>
                         <p>
                           Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
                         </p>
@@ -141,7 +142,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Management</h4>
+                        <a href="<?php echo $ROOT; ?>/about/management.php"><h4>Management</h4></a>
                         <p>
                           Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
                         </p>
@@ -151,7 +152,7 @@
 
                     <div class="col-lg-3">
                       <div class="menu-alt">
-                        <h4>Principal's Message</h4>
+                        <a href="<?php echo $ROOT; ?>/about/message.php"><h4>Principal's Message</h4></a>
                         <p>
                           A few years ago, there was an attempt to encapsulate and treasure down in the burrows of the earth,..
                         </p>
@@ -190,7 +191,7 @@
 
                    <div class="col-lg-4">
                      <div class="menu-alt">
-                       <h4>School of Management</h4>
+                       <a href="<?php echo $ROOT; ?>/academics/School-of-Management/"><h4>School of Management</h4></a>
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
@@ -200,7 +201,7 @@
 
                    <div class="col-lg-4">
                      <div class="menu-alt">
-                       <h4>School of Arts, Science &amp; Commerce</h4>
+                       <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/"><h4>School of Arts, Science &amp; Commerce</h4></a>
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
@@ -210,7 +211,7 @@
 
                    <div class="col-lg-4">
                      <div class="menu-alt">
-                       <h4>College of Law</h4>
+                       <a href="<?php echo $ROOT; ?>/academics/College-of-Law/"><h4>College of Law</h4></a>
                        <p>
                          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
                        </p>
@@ -252,7 +253,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Center for Research</h4>
+                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Center for Research</h4></a>
                       <p>
                        The Centre for Research actively promotes research and inculcates research culture. It is chaired by the ...
                       </p>
@@ -262,7 +263,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Research Projects</h4>
+                      <a href="<?php echo $ROOT; ?>/research/research_projects.php" ><h4>Research Projects</h4></a>
                       <p>
                         The Centre for Research has initiated a number of research projects both minor and major in order to create ...
                       </p>
@@ -272,7 +273,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Patents</h4>
+                      <a href="<?php echo $ROOT; ?>/research/patents.php"><h4>Patents</h4></a>
                       <p>
                         Although the institution is in its infancy, the thrust given to academics and research is on ....
                       </p>
@@ -282,7 +283,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Publications</h4>
+                      <a href="<?php echo $ROOT; ?>/research/publications.php"><h4>Publications</h4></a>
                       <p>
                         The college has collaborated with industry, social organizations and institutions at national and ....
                       </p>
@@ -292,7 +293,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Consultancy</h4>
+                      <a href="<?php echo $ROOT; ?>/research/consultancy.php"><h4>Consultancy</h4></a>
                       <p>
                         The institute shall open its services and share its knowledge resources for the mutual benefit of ...
                       </p>
@@ -302,7 +303,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Extension</h4>
+                        <a href="<?php echo $ROOT; ?>/research/extension.php"><h4>Extension</h4></a>
                       <p>
                         Jayantian Extension Services (JES) was instituted by the college to coordinate extension activities ...
                       </p>
@@ -312,7 +313,7 @@
 
                   <div class="col-lg-3 col-lg-offset-3">
                     <div class="menu-alt">
-                      <h4>Research Center in Biotechnology</h4>
+                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Center in Biotechnology</h4></a>
                       <p>
                         The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University ...
                       </p>
@@ -322,7 +323,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Research Center in Social Work</h4>
+                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php"><h4>Research Center in Social Work</h4></a>
                       <p>
                         The mission of the research centre of Department of Social Work is to provide scholarly leadership...
                       </p>
@@ -332,7 +333,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Chavara Journal</h4>
+                      <a href="<?php echo $ROOT; ?>/chavara/index.php"><h4>Chavara Journal</h4></a>
                       <p>
                         It is a peer reviewd, bi-annual research journal with an international scope published by the School of Management...
                       </p>
@@ -358,7 +359,7 @@
                   </div>
                   <div class="col-lg-5">
                     <div class="menu-alt full">
-                      <h4>Kristu Jayanti College</h4>
+                      <a href="<?php echo $ROOT; ?>/campus/academic_arena.php"><h4>Kristu Jayanti College</h4></a>
                       <p>
                         The institution's infrastructure is at pace with the changing needs of the student population. To be on par with the scientific and technological advancements, parallel expansion of infrastructure in the form of laboratories, library and other learning resources such as computers, e-resources and Wi-Fi facility are initiated.
                         <br><br>
@@ -373,7 +374,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>Library</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/library_info.php"><h4>Library</h4></a>
                        <p>
                          The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information...
                        </p>
@@ -383,7 +384,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>Labs</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/labs.php"><h4>Labs</h4></a>
                        <p>
                          Well equipped and state-of-the-art labs with updated technology is one of strongest assets of the college. Practical sessions provide.
                        </p>
@@ -393,7 +394,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>Sports &amp; Games</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/sports_games.php"><h4>Sports &amp; Games</h4></a>
                        <p>
                          The Sports department coordinates the events which help students to perform well in all sports and game events at University, State and National Level.
                        </p>
@@ -403,7 +404,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>Hostel</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/hostel.php"><h4>Hostel</h4></a>
                        <p>
                          Well managed hostels are available for both boys and girls. All the hostels for girls are run by Rev. Sisters ..
                        </p>
@@ -413,7 +414,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>Cafeteria</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/cafeteria.php"><h4>Cafeteria</h4></a>
                        <p>
                          It is a spacious area that provides a wide range of hygienic food at affordable price. It is a popular hub on.
                        </p>
@@ -423,7 +424,7 @@
 
                    <div class="col-lg-2">
                      <div class="menu-alt">
-                       <h4>ATM</h4>
+                       <a href="<?php echo $ROOT; ?>/campus/atm.php"><h4>ATM</h4></a>
                        <p>
                          SIB ATM provides 24 hr service. It facilitates easy access for students to carry out quick bank transactions..
                        </p>
@@ -460,7 +461,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Counselling Center</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>Counselling Center</h4></a>
                       <p>
                         The youth of today are on the fast track to compete with one another to excel in every field. As a flipside..
                       </p>
@@ -470,7 +471,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Grievance Redressal</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/grievance_redressal.php"><h4>Grievance Redressal</h4></a>
                       <p>
                         The Grievance Redressal Cell was constituted in July, 2006 with five members to probe into the student..
                       </p>
@@ -480,7 +481,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Scholarship</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/scholarship.php"><h4>Scholarship</h4></a>
                       <p>
                         Scholarship, student welfare in terms of health, financial support and safety..
                       </p>
@@ -490,7 +491,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Health Care</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/health_care.php"><h4>Health Care</h4></a>
                       <p>
                         The physical and mental well-being of the student and staff are given prime importance..
                       </p>
@@ -500,7 +501,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>International Student Forum</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/international_student_forum.php"><h4>International Student Forum</h4></a>
                       <p>
                         There is an incremental growth in the number of International students. Students from Bangladesh, Iran, Ivory coast,..
                       </p>
@@ -510,7 +511,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <h4>Coaching Center</h4>
+                        <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>Coaching Center</h4></a>
                       <p>
                         The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes..
                       </p>
