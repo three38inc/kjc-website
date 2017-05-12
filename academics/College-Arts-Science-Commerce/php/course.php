@@ -28,7 +28,7 @@
         <div class="col-lg-4 col-md-4 science"></div>
 
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Computer Science</h4>        
+            <h4>Department Of Computer Science</h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -73,7 +73,7 @@
         
 
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Life-Science</h4>        
+            <h4>Department Of Life-Science</h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -235,7 +235,7 @@
         <div class="col-lg-4 col-md-4 commerce"></div>
         
         <div class="col-lg-12 commerce" data-category="commerce">
-            <h4>Department of Commerce</h4>        
+            <h4>Department of Commerce</h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
@@ -319,7 +319,7 @@
         </div>
 
         <div class="col-lg-12 commerce" data-category="commerce">
-            <h4>Department of Management</h4>        
+            <h4>Department of Management</h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
