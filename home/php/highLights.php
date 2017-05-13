@@ -1,8 +1,8 @@
 <h4 style="background-image: url(../images/headline_bg.jpg);
            background-repeat: no-repeat;
            background-position: 0px bottom;
-           padding-bottom: 15px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-    <span style="font-size: 20px;">&nbsp;High<strong style="color:#2980b9;font-size: 24px;">lights</strong></span>
+           padding-bottom: 15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
+    <span style="font-size: 20px;"><span style="font-size:1.2em;">H</span>igh<strong style="color:#2980b9;font-size: 24px;">lights</strong></span>
 </h4>
 
 <div class="frame-testimonials" style="margin-top: 10px;">

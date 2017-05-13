@@ -121,8 +121,8 @@
 
 </style>
 <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:650px;">
-    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-        <span>&nbsp;New &amp;<strong> Updates</strong></span>
+    <h4 class="mainheading" style="padding-top: 7px;"><i class="fa fa-bookmark"></i>
+        <span><span style="font-size:1.2em;">N</span>ew &amp;<strong> Updates</strong></span>
         <ul class="pagination pull-right" style="margin: 0px;">
             <li>
                 <a href="#" class="prev" id="prev-high">

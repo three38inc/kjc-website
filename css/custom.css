@@ -2125,8 +2125,8 @@ time.icon:focus {
 
 .sideLinks {
     width: 100%;
-    height: 48px;
-    padding: 10px;
+    height: 50px;
+    padding: 16px 10px;
     box-shadow: 0 1px 2px #ccc;
 }
 
@@ -2528,9 +2528,24 @@ a.read-more:hover i{
     color: aquamarine;
 }
 /* navbar menu ul seperation #END*/
-/*make first letter zoom #START*/
-.content-spl span:first-letter{
-    font-size: 1.2em;
-    color:aqua;
+/*media-room icon #START*/
+.media-room-icon{
+    
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background: #f00;
+    margin: 10px;
+       display: inline-block;
 }
-/*make first letter zoom #END*/
+.media-room-heading{
+    font-size: 2.3em;
+    color: #2980b9;
+    float: right;
+    margin-top: 1em;
+    margin-right: 0.2em;
+}
+.owl-stage .active{
+    cursor: grab;
+}
+/*media-room icon #END*/
