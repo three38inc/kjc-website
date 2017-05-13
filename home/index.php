@@ -209,6 +209,7 @@
                                                 <span class="media-room-heading">Publications</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
+                                                   Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
@@ -221,6 +222,7 @@
                                                 <span class="media-room-heading">Glimpses</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
@@ -233,6 +235,7 @@
                                                 <span class="media-room-heading">Videos</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Video room of kristu jayanti Produces magnificiant videos which explains ....
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
@@ -245,6 +248,7 @@
                                                 <span class="media-room-heading">Social Media</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Facebook and Youtube became a part and parcel of the Age .
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
@@ -257,6 +261,7 @@
                                                 <span class="media-room-heading">Brochures</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Brochures for the current academic year can be accessed from here....
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
