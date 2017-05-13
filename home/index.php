@@ -139,7 +139,7 @@
                                 <div style="clear: both;"></div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="height: 537px; overflow-y:hidden;">
+                                <div class="content-spl wow fadeIn" style="height: 523px; overflow-y:hidden;">
                                     <?php include ('php/newsAndUpdates.php'); ?>
                                 </div>
                             </div>
@@ -185,14 +185,14 @@
                                     </div>
                                 </div>
 -->
-                                <div class="col-lg-4 space">
+                                <div class="col-lg-4 space" style="padding: 0px;">
                                     <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
                                         <div class="placementTitle">
                                             <h4>Media Releases</h4>
                                         </div>
                                         <div class="owl-carousel owl-theme" id="MediaSlider">
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/newspaper.png"/></div>
                                                 <span class="media-room-heading">KJC IN NEWS</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -205,7 +205,7 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/publications.png"/></div>
                                                 <span class="media-room-heading">Publications</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -218,7 +218,7 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/weekly-calendar.png"/></div>
                                                 <span class="media-room-heading">Glimpses</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -231,7 +231,7 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/play-button.png"/></div>
                                                 <span class="media-room-heading">Videos</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -244,7 +244,7 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/networking.png"/></div>
                                                 <span class="media-room-heading">Social Media</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -257,7 +257,7 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"></div>
+                                                <div class="media-room-icon"><img src="../images/broucher.png"/></div>
                                                 <span class="media-room-heading">Brochures</span>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
@@ -305,7 +305,7 @@
                                         <div class="placementTitle">
                                             <h4>Admissions</h4>
                                         </div>
-                                        <div class="media-room-icon"></div>
+                                        <div class="media-room-icon"><img style="width:75px;" src="../images/graduates.png"/></div>
                                         <span class="media-room-heading">Admission</span>
                                         <div style="clear:both;"></div>
                                         <p style="text-align:center; font-size: 1.2em;position:relative;">

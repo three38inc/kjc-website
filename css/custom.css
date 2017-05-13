@@ -2534,7 +2534,7 @@ a.read-more:hover i{
     width: 70px;
     height: 70px;
     border-radius: 100%;
-    background: #f00;
+/*    background: url('../images/newspaper.png');*/
     margin: 10px;
        display: inline-block;
 }
