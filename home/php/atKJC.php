@@ -1,10 +1,10 @@
 <h4 style="background-image: url(../images/headline_bg.jpg);
                                                    background-repeat: no-repeat;
                                                    background-position: 0px bottom;
-                                                   padding-bottom: 7px;padding-top:15px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-    <span style="font-size: 20px;">&nbsp;At<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
+                                                   padding-bottom: 7px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
+    <span style="font-size: 20px;"><span style="font-size:1.2em;">A</span>t<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
 </h4>
-<div id="atKJCCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
+<div id="atKJCCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 1%;">
     
     <div class="carousel-inner" role="listbox">
         <div class="item active">
