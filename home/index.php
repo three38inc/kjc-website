@@ -148,7 +148,7 @@
 
                         <div class="row" style="margin-top:10px;">
                             <div class="col-lg-9">
-<!--
+                                <!--
                                 <div class="col-lg-4" style="padding: 0px;">
                                     <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
                                         <div class="placementTitle">
@@ -192,8 +192,28 @@
                                         </div>
                                         <div class="owl-carousel owl-theme" id="MediaSlider">
                                             <div class="item">
-                                                <div class="media-room-icon"><img src="../images/newspaper.png"/></div>
-                                                <span class="media-room-heading">KJC IN NEWS</span>
+                                                <div class="media-room">
+                                                    <img src="../images/weekly-calendar.png" class="media-room-icon" />
+                                                    <span class="media-room-heading">Glimpses</span>
+
+                                                </div>
+                                                <div style="clear:both;"></div>
+
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
+                                                Click Here
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/newspaper.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">KJC IN NEWS</div>
+                                                </div>
+
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
                                                     The institution has experienced a rapid growth since its humble inception ...
@@ -205,11 +225,13 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"><img src="../images/publications.png"/></div>
-                                                <span class="media-room-heading">Publications</span>
+                                                <div class="media-room">
+                                                    <img src="../images/publications.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Publications</div>
+                                                </div>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                   Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
+                                                    Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
@@ -217,22 +239,13 @@
                                                     </a>
                                                 </p>
                                             </div>
+
                                             <div class="item">
-                                                <div class="media-room-icon"><img src="../images/weekly-calendar.png"/></div>
-                                                <span class="media-room-heading">Glimpses</span>
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
-                                                </p>
-                                            </div>
-                                            <div class="item">
-                                                <div class="media-room-icon"><img src="../images/play-button.png"/></div>
-                                                <span class="media-room-heading">Videos</span>
+                                                <div class="media-room">
+                                                    <img src="../images/play-button.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Videos</div>
+                                                </div>
+
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
                                                     Video room of kristu jayanti Produces magnificiant videos which explains ....
@@ -244,8 +257,11 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"><img src="../images/networking.png"/></div>
-                                                <span class="media-room-heading">Social Media</span>
+                                                <div class="media-room">
+                                                    <img src="../images/networking.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Social Media</div>
+                                                </div>
+
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
                                                     Facebook and Youtube became a part and parcel of the Age .
@@ -257,8 +273,11 @@
                                                 </p>
                                             </div>
                                             <div class="item">
-                                                <div class="media-room-icon"><img src="../images/broucher.png"/></div>
-                                                <span class="media-room-heading">Brochures</span>
+                                                <div class="media-room">
+                                                    <img src="../images/broucher.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Brochures</div>
+                                                </div>
+
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
                                                     Brochures for the current academic year can be accessed from here....
@@ -269,9 +288,9 @@
                                                     </a>
                                                 </p>
                                             </div>
-                                            
-                                            
-                                            
+
+
+
                                         </div>
                                     </div>
                                 </div>
@@ -282,7 +301,7 @@
                                         </div>
                                         <div class="owl-carousel owl-theme" id="placementSlider">
                                             <div class="item">
-                                                <img src="slider-images/arcesium.jpg" />
+                                                <img src="../images/placements/google_new_logo.png" width="210" height="139" />
                                                 <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                             <div class="item">
@@ -305,8 +324,11 @@
                                         <div class="placementTitle">
                                             <h4>Admissions</h4>
                                         </div>
-                                        <div class="media-room-icon"><img style="width:75px;" src="../images/graduates.png"/></div>
-                                        <span class="media-room-heading">Admission</span>
+                                        <div class="media-room">
+                                            <img style="width:75px;" src="../images/graduates.png" class="media-room-icon" />
+                                            <span class="media-room-heading">Admission</span>
+                                        </div>
+
                                         <div style="clear:both;"></div>
                                         <p style="text-align:center; font-size: 1.2em;position:relative;">
                                             Admission to all UG &amp; PG Programmes for academic year 2017 are open.
@@ -468,6 +490,7 @@
                 autoplay: true,
                 margin: 10,
                 nav: false,
+                dots:true,
                 items: 1
             });
             $('#MediaSlider').owlCarousel({
@@ -475,6 +498,7 @@
                 autoplay: true,
                 margin: 10,
                 nav: false,
+                dots:true,
                 items: 1
             });
 
