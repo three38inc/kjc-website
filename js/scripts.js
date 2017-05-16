@@ -2,6 +2,22 @@
 $(document).ready(function(e) {
     $('#mainCarousel').carousel();
     $('#atKJCCarousel').carousel();
+    
+    
+    // init Isotope for Accordian Pill Tabs
+    var $acc = $('#accPillTab').isotope({
+        filter: '.myFav'
+    });
+    // filter items on button click
+    $('.filter-button').on( 'click', 'a', function() {
+        $('.filter-button li').removeClass('active');
+        $(this).parent().addClass('active');
+        var filterValue = $(this).attr('data-filter');
+        $acc.isotope({ filter: filterValue });
+    });
+    
+    
+    
     new WOW().init();
     //				setInterval(function(){
     //

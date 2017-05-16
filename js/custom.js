@@ -27,7 +27,8 @@ $('#alert').bootAlert({
 	complete    : function() {alert('callBack');}
 });*/
 
-(function ($) {
+(function ($) {    
+    
     $.fn.bootAlert = function (options) {
         // Establish our default settings
         var settings = $.extend({
