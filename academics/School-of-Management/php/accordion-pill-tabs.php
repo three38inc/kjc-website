@@ -1,15 +1,51 @@
 <style>
 
     .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
-    .nav-tabs > li > a { border: none; color: #666; padding: 5px 30px; }
+    .nav-tabs > li > a { border: none; color: #666; padding: 5px 10px; }
     .nav-tabs > li.active > a, .nav-tabs > li > a:hover { border: none; color: #4285F4 !important; background: transparent; }
     .nav-tabs > li > a::after { content: ""; background: #4285F4; height: 2px; position: absolute; width: 100%; left: 0px; bottom: -1px; transition: all 250ms ease 0s; transform: scale(0); }
     .nav-tabs > li.active > a::after, .nav-tabs > li:hover > a::after { transform: scale(1); }
-    
+
     .nav-tabs > li{
         width: auto;
         display: inline-block;
-        margin-right: 20px;
+        margin-right: 12px;
+    }
+
+    .accTabs{
+        margin: 5px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        padding: 15px 15px;
+        text-align: left;
+        border-radius: 5px;
+        color: #333;
+        cursor: pointer;
+        transition: all ease-in-out .3s;
+    }
+
+    .accTabs:hover{
+        background-color: #ccc;
+        color: #34495e;
+    }
+
+    .accTabs:hover i{
+        margin-right: 10px;
+    }
+
+    .accTabs h2{
+        margin: 0;
+        font-size: 16px;
+        font-weight:  bold;
+    }
+
+    .accTabs i{
+        margin-right: 15px;
+        transition: all ease-in-out .3s;
+    }
+    
+    #accPillTab a:hover,#accPillTab a:visited,#accPillTab a:active,#accPillTab a:focus{
+        text-decoration: none;
     }
 
 </style>
@@ -19,20 +55,93 @@
     <div class="col-lg-12 col-md-12">
         <!-- Nav tabs -->
         <div class="card">
-            <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active"><a href="#sample" aria-controls="sample" role="tab" data-toggle="tab">My Favourites</a></li>
-                <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Examinations</a></li>
-                <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Student Life</a></li>
-                <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Collaborations</a></li>
-                <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Jayantian Special</a></li>
-            </ul>
+            <div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
+                <ul class="nav nav-tabs filter-button" role="tablist">
+                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav"><i class="fa fa-hand-o-right"></i>&nbsp; My Favourites</a></li>
+                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam"><i class="fa fa-hand-o-right"></i>&nbsp; Examinations</a></li>
+                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student"><i class="fa fa-hand-o-right"></i>&nbsp; Student Life</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".myFav"><i class="fa fa-hand-o-right"></i>&nbsp; Collaborations</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl"><i class="fa fa-hand-o-right"></i>&nbsp; Jayantian Special</a></li>
+                </ul>
+            </div>
+
+            <div class="col-xs-12 col-sm-12 hidden-lg hidden-md">
+                <ul class="nav nav-tabs filter-button" role="tablist">
+                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav"><i class="fa fa-hand-o-right"></i></a></li>
+                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam"><i class="fa fa-hand-o-right"></i></a></li>
+                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student"><i class="fa fa-hand-o-right"></i></a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".myFav"><i class="fa fa-hand-o-right"></i></a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl"><i class="fa fa-hand-o-right"></i></a></li>
+                </ul>
+            </div>
+
 
             <!-- Tab panes -->
-            <div class="tab-content">
-                <div role="tabpanel" class="tab-pane active" id="sample">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </div>
-                <div role="tabpanel" class="tab-pane" id="profile">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
-                <div role="tabpanel" class="tab-pane" id="messages">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
-                <div role="tabpanel" class="tab-pane" id="settings">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passage..</div>
+            <div class="col-lg-12 col-sm-12 col-xs-12 col-md-12">
+                <div class="tab-content" id="accPillTab">
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <a href="#">
+                            <div class="accTabs">
+                                <h2><i class="fa fa-calendar"></i>Academic Calender</h2>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-picture-o"></i>Gallery</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-file-text"></i>Notice</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-flag"></i>Events</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-lightbulb-o"></i>CMS</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-envelope"></i>Mail</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-phone"></i>Support</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-globe"></i>Campus Connect</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 exam">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-hand-o-right"></i>Examination</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 student">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-hand-o-right"></i>Campus Management System</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 spl">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-hand-o-right"></i>Special</h2>
+                        </div>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 spl">
+                        <div class="accTabs">
+                            <h2><i class="fa fa-hand-o-right"></i>Special</h2>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
