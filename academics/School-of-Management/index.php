@@ -63,7 +63,7 @@
 				<div class="st-content"><!-- this is the wrapper for the content -->
 					<div class="st-content-inner">
                         
-                        <div class="row" style="height:15vh;"></div>
+                        <div class="row" style="height: 110px;"></div>
                         <div class="row">
                             <div class="col-lg-12" style="position: relative;">
                                 <div id="lawCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">

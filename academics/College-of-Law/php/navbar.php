@@ -1,5 +1,5 @@
 <?php 
-    $ROOT="http://".$_SERVER['HTTP_HOST']."";
+    $ROOT="http://".$_SERVER['HTTP_HOST']."/GITHUB/kjc-website";
 ?>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
     <!--  <div class="container-fluid">-->
