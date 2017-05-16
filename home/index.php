@@ -96,7 +96,7 @@
                                             <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span>
                                         </h4>
                                         <p>
-                                            Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer <strong>MBA , industry relevant PGDM Course and One year Post Graduate Diploma Programme for Working Executives.</strong>
+											Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers <b>MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme</b> for working executives.
                                         </p>
                                     </div>
                                 </a>
@@ -108,7 +108,7 @@
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
                                         <p>
-                                            Denary of Arts,Science,Commerce offers programmes like <strong>BCA,Bsc CSME,Bsc CSMS,Bcom,BBA,BA,Bsc Biotechnology and Microbiology , MCA &amp; Msc Biotechnology and Microbiology.  </strong>
+											The synergism of Education, Innovation and Tradition proffers a prolific course of study – <b> BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA.</b> It also offers Post Graduate courses in Computer Science and Life Sciences.
                                         </p>
                                     </div>
                                 </a>
@@ -120,7 +120,7 @@
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Law</strong></span>
                                         </h4>
                                         <p>
-                                            The legal education degrees ( <strong> BA.LLB | BCom.LLB | BBA.LLB </strong>) envisions to facilitate India’s need for legal advisors and also at designing novel approaches to change them to meet the country’s worldwide interests.
+											The Legal Education template <b>(BA. LLB, B.COM. LLB & BBA. LLB)</b> and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
                                         </p>
                                     </div>
                                 </a>

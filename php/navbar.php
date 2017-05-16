@@ -64,7 +64,7 @@
                       <div class="menu-alt">
                           <a href="<?php echo $ROOT; ?>/about/founder.php" ><h4>Founder</h4></a>
                         <p>
-                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/founder.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -74,7 +74,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/history.php"><h4>History</h4></a>
                         <p>
-                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                        The College bears a transcendent acclaim with an exuberant plethora of academic excellence and ethos, fulfilling the mission to provide standard opportunities for the global competencies.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/history.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -84,7 +84,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/milestones.php"><h4>Milestones</h4></a>
                         <p>
-                          The college has accomplished many milestones within a short span of its existence..
+                        The College has accomplished a considerable number of commendable milestones within a short span of few years.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/milestones.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -94,7 +94,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/vision_mission_goals.php"><h4>Vision, Mission &amp; Goals</h4></a>
                         <p>
-                          Light and Prosperity': To provide intellectual and moral leadership by igniting the minds of youth to realize..
+                         Light & Prosperity: Redefining new beginnings and the endless possibilities in achieving global standards.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/vision_mission_goals.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -104,7 +104,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/core_values.php"><h4>Core Values</h4></a>
                         <p>
-                          We believe that faith in God is the beginning of true wisdom and the anchor of life. Human life would be meaningless..
+                         The College is mounted on the four paramount pillars – Faith, Integrity, Dignity and Excellence to progress in the interminable journey of excellence.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/core_values.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -114,7 +114,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/educational_philosophy.php"><h4>Educational Philosophy</h4></a>
                         <p>
-                          Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
+                         Kristu Jayanti College engages students in a charismatic transformation and integrated learning process anchoring a unique blend of tradition and excellence.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/educational_philosophy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -124,7 +124,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/profile.php"><h4>Profile</h4></a>
                         <p>
-                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                         Kristu Jayanti College identifies and cultivates an aesthetic sense of purpose within every individual inspiring them to be responsible and independent.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/profile.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -134,7 +134,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/autonomous.php"><h4>Autonomous</h4></a>
                         <p>
-                          Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province..
+                         Kristu Jayanti College has been conferred the Academic Autonomy from the academic year 2013-2014 and continues to be an affiliated college of the Bangalore University.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/autonomous.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -144,7 +144,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/management.php"><h4>Management</h4></a>
                         <p>
-                          Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity..
+                        Kristu Jayanti College expands its horizons for the students to experience Intellectual excellence and a diversity of culture, transforming individuals to become exemplary leaders of tomorrows.
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/management.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -154,7 +154,7 @@
                       <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/about/message.php"><h4>Principal's Message</h4></a>
                         <p>
-                          A few years ago, there was an attempt to encapsulate and treasure down in the burrows of the earth,..
+                       The academic fraternity is an active community of learners who pursue knowledge as an active and dynamic phenomenon with infinite and immense possibilities. 
                         </p>
                         <a href="<?php echo $ROOT; ?>/about/message.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                       </div>
@@ -193,7 +193,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/School-of-Management/"><h4>School of Management</h4></a>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme for working executives.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -203,7 +203,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/"><h4>School of Arts, Science &amp; Commerce</h4></a>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The synergism of Education, Innovation and Tradition proffers a prolific course of study – BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA. It also offers Post Graduate courses in Computer Science and Life Sciences.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -213,7 +213,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/College-of-Law/"><h4>College of Law</h4></a>
                        <p>
-                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
+                        The Legal Education template (BA. LLB, B.COM. LLB & BBA. LLB) and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -255,7 +255,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Center for Research</h4></a>
                       <p>
-                       The Centre for Research actively promotes research and inculcates research culture. It is chaired by the ...
+                      The Centre for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/centre_for_research.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -265,7 +265,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" ><h4>Research Projects</h4></a>
                       <p>
-                        The Centre for Research has initiated a number of research projects both minor and major in order to create ...
+                       The Centre for Research has initiated a good number of research projects, inculcating the research temperament.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -275,7 +275,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/patents.php"><h4>Patents</h4></a>
                       <p>
-                        Although the institution is in its infancy, the thrust given to academics and research is on ....
+                       The College demonstrates its prospects for excellence by ensuring Academic freedom and adhering to innovative creations.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/patents.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -285,7 +285,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/publications.php"><h4>Publications</h4></a>
                       <p>
-                        The college has collaborated with industry, social organizations and institutions at national and ....
+                       The college has collaborated with industries, social organizations and institutions at national and international levels for academic and research purposes.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/publications.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -295,7 +295,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/consultancy.php"><h4>Consultancy</h4></a>
                       <p>
-                        The institute shall open its services and share its knowledge resources for the mutual benefit of ...
+                       The College has introduced a wide range of Consultancy services customizing motivational training and mentoring of individuals.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/consultancy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -305,7 +305,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/extension.php"><h4>Extension</h4></a>
                       <p>
-                        Jayantian Extension Services (JES) was instituted by the college to coordinate extension activities ...
+                        The College Extension services were instituted to coordinate extension activities and carry out Institutional Social Responsibility Initiatives.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/extension.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -315,7 +315,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Center in Biotechnology</h4></a>
                       <p>
-                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University ...
+                        The Department has been endowed the status of a Research Centre in Biotechnology providing a guiding framework for the research programmes.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -325,7 +325,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php"><h4>Research Center in Social Work</h4></a>
                       <p>
-                        The mission of the research centre of Department of Social Work is to provide scholarly leadership...
+                       The Department of Social Work has culminated into a Research Centre, providing scholarly leadership for the profession of social work through evaluative measures.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -335,7 +335,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/chavara/index.php"><h4>Chavara Journal</h4></a>
                       <p>
-                        It is a peer reviewd, bi-annual research journal with an international scope published by the School of Management...
+                      A peer reviewed bi-annual research journal with international scope published by the School of Management ensures the standards of scholarly articles.
                       </p>
                       <a href="<?php echo $ROOT; ?>/chavara/index.php" class="read-more" target="_blank">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -376,7 +376,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/library_info.php"><h4>Library</h4></a>
                        <p>
-                         The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information...
+                        A gateway to a world of information and resourceful materials for the growth of the mind. 
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/library_info.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -386,7 +386,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/labs.php"><h4>Labs</h4></a>
                        <p>
-                         Well equipped and state-of-the-art labs with updated technology is one of strongest assets of the college. Practical sessions provide.
+                       Well - equipped labs with the upgraded standards of technology, harboring the practical sessions to be constructive.
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/labs.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -396,7 +396,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/sports_games.php"><h4>Sports &amp; Games</h4></a>
                        <p>
-                         The Sports department coordinates the events which help students to perform well in all sports and game events at University, State and National Level.
+                        The Department of Sports designs opportunities for potential sportspersons to run with a spirit of true sportsmanship.
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/sports_games.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -406,7 +406,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/hostel.php"><h4>Hostel</h4></a>
                        <p>
-                         Well managed hostels are available for both boys and girls. All the hostels for girls are run by Rev. Sisters ..
+                        Well maintained Hostels for both boys and girls are arranged ensuring the safety of the wards.
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/hostel.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -416,7 +416,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/cafeteria.php"><h4>Cafeteria</h4></a>
                        <p>
-                         It is a spacious area that provides a wide range of hygienic food at affordable price. It is a popular hub on.
+                       The college cafeteria provides a wide range of hygienic food at affordable prices.
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/cafeteria.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -426,7 +426,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/campus/atm.php"><h4>ATM</h4></a>
                        <p>
-                         SIB ATM provides 24 hr service. It facilitates easy access for students to carry out quick bank transactions..
+                        SIB ATM provides 24 hour service. It facilitates easy access for students to carry out quick bank transactions.
                        </p>
                        <a href="<?php echo $ROOT; ?>/campus/atm.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -463,7 +463,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>Counselling Center</h4></a>
                       <p>
-                        The youth of today are on the fast track to compete with one another to excel in every field. As a flipside..
+                       The Counseling Centre is dedicated to deal with the challenges of the students, edifying them in their individual performances.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -473,7 +473,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/grievance_redressal.php"><h4>Grievance Redressal</h4></a>
                       <p>
-                        The Grievance Redressal Cell was constituted in July, 2006 with five members to probe into the student..
+                      The grievance cell attends to the grievances of common interest ensuring scrutiny   and the necessary action.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/grievance_redressal.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -483,7 +483,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/scholarship.php"><h4>Scholarship</h4></a>
                       <p>
-                        Scholarship, student welfare in terms of health, financial support and safety..
+                     Scholarship facilities are available under various schemes, imparting the importance of education.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/scholarship.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -493,7 +493,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/health_care.php"><h4>Health Care</h4></a>
                       <p>
-                        The physical and mental well-being of the student and staff are given prime importance..
+                        The physical and mental well-being of the student and staff are of prime importance.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/health_care.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -503,7 +503,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/international_student_forum.php"><h4>International Student Forum</h4></a>
                       <p>
-                        There is an incremental growth in the number of International students. Students from Bangladesh, Iran, Ivory coast,..
+                       The International Students Forum (ISF) was established to nurture the educational experience of the International students in the campus.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/international_student_forum.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -513,7 +513,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>Coaching Center</h4></a>
                       <p>
-                        The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes..
+                      The college offers scrupulous coaching for the competitive examinations in association with ‘TIME’.
                       </p>
                       <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>

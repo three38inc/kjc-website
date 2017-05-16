@@ -9,7 +9,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty of Science</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <p>Faculty of Science is working at the cutting-edge of developments, providing an environment in which students can draw on academic expertise, creating a culture in which innovation and exploration of ideas are encouraged.</p>
         <a href="Faculty-Science/index.php">Know More</a>
     </div>
 
@@ -18,7 +18,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty Of Commerce</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <p>Faculty of Commerce provides an educational experience that extends beyond the academic excellence, generating opportunities to embrace a global business perspective.</p>
         <a href="Faculty-Commerce-Management/index.php">Know More</a>
     </div>
 
@@ -27,7 +27,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty Of Humanities</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <p>The Faculty of Humanities ensures the highest quality of teaching, providing an aesthetic exploration of Humanities from the literary, historical, philosophical, dramatic and creative perspectives.</p>
         <a href="Faculty-Humanities/index.php">Know More</a>
     </div>
 
