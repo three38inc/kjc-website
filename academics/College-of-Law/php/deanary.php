@@ -8,8 +8,8 @@
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
-        <h3>BA.LLB</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <h3>B.A., LL.B.</h3>
+        <p>An integrated course of Arts & Law enables the students to be specialized with an educational merit and empowers them to meet the widespread demands in the legal framework & otherwise.</p>
             <a href="BA-LLB/index.php">Read More</a>
     </div>
     
@@ -17,8 +17,8 @@
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
-        <h3>BCom.LLB</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <h3>B.Com LL.B.</h3>
+        <p>The course encompasses the knowledge of Commerce supplemented by a range of subjects in Law, providing a broad space for a multidisciplinary foundation.</p>
         <a href="BCom-LLB/index.php">Read More</a>
     </div>
     
@@ -26,8 +26,8 @@
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
-        <h3>BBA.LLB</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <h3>B.B.A., LL.B.</h3>
+        <p>This program aims to create a new race of practitioners who would not only master the intricacies of business but also be well-versed in the nuances of other Laws and Regulatory Affairs.</p>
         <a href="BBA-LLB/index.php">Read More</a>
     </div>
 

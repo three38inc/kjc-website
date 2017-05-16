@@ -9,7 +9,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>PGDM &amp; MBA</h3>
-        <p>Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.Sample Text to be displayed for deanery.</p>
+        <p>School of Management is designed for those, aspiring a vocation in management, creating opportunities to lift one’s career beyond expectations.</p>
             <a href="BA-LLB/index.php">Read More</a>
     </div>
     
