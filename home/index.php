@@ -451,6 +451,7 @@
     <script src="../js/sly.js"></script>
     <script src="../js/customSly.js"></script>
     <script src="../js/wow.min.js"></script>
+    <script src="../../js/isotope-docs.min.js"></script>
     <script src="../js/owl.carousel.min.js" type="text/javascript"></script>
     <!--    <script src="js/res-navtabs.js"></script>-->
     <script src="../js/scripts.js"></script>
