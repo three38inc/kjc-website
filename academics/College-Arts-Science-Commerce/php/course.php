@@ -28,7 +28,7 @@
         <div class="col-lg-4 col-md-4 science"></div>
 
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Computer Science</h4><br/>        
+            <h4>Department Of Computer Science [UG]</h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -53,12 +53,36 @@
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
             <a href="Faculty-Sciences/department-cs-ug/bsc_csme.php">
-                <div class="courseTitle color-6">
-                    <i class="fa fa-line-chart c6" style="float: left;"></i>
+                <div class="courseTitle color-3">
+                    <i class="fa fa-line-chart c3" style="float: left;"></i>
                     <h2>B.Sc</h2>
                     <p>Computer Science, Mathematics, Statistics</p>
                 </div>  
             </a>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
+            <a href="Faculty-Sciences/department-cs-ug/value_added_certificate_courses.php">
+                <div class="courseTitle color-7">
+                    <i class="fa fa-line-chart c7" style="float: left;"></i>
+                    <h2>EMC2</h2>
+                    <p><span style="font-size: 12px;">Information Storage and Management</span><br/>[Certification Course]</p>
+                </div>  
+            </a>
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
+            <a href="Faculty-Sciences/department-cs-ug/value_added_certificate_courses.php">
+                <div class="courseTitle color-6">
+                    <i class="fa fa-line-chart c6" style="float: left;"></i>
+                    <h2>NSDC Animation</h2>
+                    <p>[Certification Course]</p>
+                </div>  
+            </a>
+        </div>
+        
+        <div class="col-lg-12 science" data-category="science">
+            <h4>Department Of Computer Science [PG]</h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -127,12 +151,20 @@
             </a>
         </div>
 
+
+        <div class="col-lg-4 col-md-4 arts"></div>
+        <div class="col-lg-4 col-md-4 arts"></div>
+        <div class="col-lg-4 col-md-4 arts"></div>
+        <div class="col-lg-12 arts" data-category="science">
+            <h4>Department Of Humanities</h4><br/>        
+        </div>
+
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
             <a href="faculty-humanities/humanities/ma_english_literature.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>MA</h2>
-                    <p>English Literature<br/><span style="font-size: 12px;">[Department of Humanities]</span></p>
+                    <p>English Literature</p>
                 </div>           
             </a>
         </div>
@@ -142,9 +174,14 @@
                 <div class="courseTitle color-1">
                     <i class="fa fa-book c1" style="float: left;"></i>
                     <h2>BA</h2>
-                    <p>History, Economics, Political Science<br/><span style="font-size: 12px;">[Department of Humanities]</span></p>
+                    <p>History, Economics, Political Science</p>
                 </div>           
             </a>
+        </div>
+
+
+        <div class="col-lg-12 arts" data-category="science">
+            <h4>Department Of Journalism &amp; Mass-Communication</h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
@@ -152,7 +189,7 @@
                 <div class="courseTitle color-2">
                     <i class="fa fa-book c2" style="float: left;"></i>
                     <h2>BA</h2>
-                    <p>History, Tourism, Journalism<br/><span style="font-size: 12px;">[Department of Journalism]</span></p>
+                    <p>History, Tourism, Journalism</p>
                 </div>           
             </a>
         </div>
@@ -162,7 +199,7 @@
                 <div class="courseTitle color-4">
                     <i class="fa fa-book c4" style="float: left;"></i>
                     <h2>MA</h2>
-                    <p>Mass Communication &amp; Journalism<br/><span style="font-size: 12px;">[Department of Journalism]</span></p>
+                    <p>Mass Communication &amp; Journalism</p>
                 </div>           
             </a>
         </div>
@@ -172,7 +209,7 @@
                 <div class="courseTitle color-5">
                     <i class="fa fa-book c5" style="float: left;"></i>
                     <h2>BA</h2>
-                    <p>Journalism, Psychology, Computer Science<br/><span style="font-size: 12px;">[Department of Journalism]</span></p>
+                    <p>Journalism, Psychology, Computer Science</p>
                 </div>           
             </a>
         </div>
@@ -182,7 +219,7 @@
                 <div class="courseTitle color-6">
                     <i class="fa fa-book c6" style="float: left;"></i>
                     <h2>BA</h2>
-                    <p>Journalism, Political Science, English Literature<br/><span style="font-size: 12px;">[Department of Journalism]</span></p>
+                    <p>Journalism, Political Science, English Literature</p>
                 </div>           
             </a>
         </div>
@@ -192,9 +229,14 @@
                 <div class="courseTitle color-7">
                     <i class="fa fa-book c7" style="float: left;"></i>
                     <h2>BA</h2>
-                    <p>Journalism, Psychology, English Literature<br/><span style="font-size: 12px;">[Department of Journalism]</span></p>
+                    <p>Journalism, Psychology, English Literature</p>
                 </div>           
             </a>
+        </div>
+
+
+        <div class="col-lg-12 arts" data-category="science">
+            <h4>Department Of Social Work</h4><br/>        
         </div>
 
 
@@ -203,17 +245,7 @@
                 <div class="courseTitle color-1">
                     <i class="fa fa-book c1" style="float: left;"></i>
                     <h2>MSW</h2>
-                    <p>Master of Social Work<br/><span style="font-size: 12px;">[Department of Social Work]</span></p>
-                </div>           
-            </a>
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="faculty-humanities/psychology/msc_program.php">
-                <div class="courseTitle color-2">
-                    <i class="fa fa-book c2" style="float: left;"></i>
-                    <h2>M.Sc</h2>
-                    <p>Psychology<br/><span style="font-size: 12px;">[Department of Psychology]</span></p>
+                    <p>Master of Social Work</p>
                 </div>           
             </a>
         </div>
@@ -224,6 +256,21 @@
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>Research Center</h2>
                     <p>Research Center - Social Work.</p>
+                </div>           
+            </a>
+        </div>
+
+
+        <div class="col-lg-12 arts" data-category="science">
+            <h4>Department Of Psychology</h4><br/>        
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
+            <a href="faculty-humanities/psychology/msc_program.php">
+                <div class="courseTitle color-2">
+                    <i class="fa fa-book c2" style="float: left;"></i>
+                    <h2>M.Sc</h2>
+                    <p>Psychology</p>
                 </div>           
             </a>
         </div>
@@ -316,6 +363,16 @@
                     <p>Tourism</p>
                 </div> 
             </a>          
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="science">
+            <a href="faculty-commerce-management/commerce/commerce_value_added_courses.php">
+                <div class="courseTitle color-1">
+                    <i class="fa fa-line-chart c1" style="float: left;"></i>
+                    <h2>NSDC</h2>
+                    <p><span style="font-size: 12px;">On BFSI (Banking Financial Services and Insurance)</span><br/>[Certification Course]</p>
+                </div>  
+            </a>
         </div>
 
         <div class="col-lg-12 commerce" data-category="commerce">
