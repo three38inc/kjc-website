@@ -80,6 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
+									 <img src="images/computerscience_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Computer <strong> Academy  </strong></span></h4>
