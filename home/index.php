@@ -95,7 +95,7 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span>
                                         </h4>
-                                        <p>
+                                        <p style="text-align:justify;margin:5px;">
 											Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers <b>MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme</b> for working executives.
                                         </p>
                                     </div>
@@ -107,7 +107,7 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
-                                        <p>
+                                        <p style="text-align:justify;margin:5px;">
 											The synergism of Education, Innovation and Tradition proffers a prolific course of study – <b> BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA.</b> It also offers Post Graduate courses in Computer Science and Life Sciences.
                                         </p>
                                     </div>
@@ -119,7 +119,7 @@
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Law</strong></span>
                                         </h4>
-                                        <p>
+                                        <p style="text-align:justify;margin:5px;">
 											The Legal Education template <b>(BA. LLB, B.COM. LLB & BBA. LLB)</b> and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
                                         </p>
                                     </div>
