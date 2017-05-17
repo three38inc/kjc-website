@@ -4,17 +4,7 @@ $(document).ready(function(e) {
     $('#atKJCCarousel').carousel();
     
     
-    // init Isotope for Accordian Pill Tabs
-    var $acc = $('#accPillTab').isotope({
-        filter: '.myFav'
-    });
-    // filter items on button click
-    $('.filter-button').on( 'click', 'a', function() {
-        $('.filter-button li').removeClass('active');
-        $(this).parent().addClass('active');
-        var filterValue = $(this).attr('data-filter');
-        $acc.isotope({ filter: filterValue });
-    });
+    
     
     
     
@@ -41,6 +31,16 @@ $(document).ready(function(e) {
     //				},3000);
 
     $(".demo1").bootstrapNews({
+        newsPerPage: 7,
+        autoplay: true,
+        pauseOnHover:true,
+        direction: 'up',
+        newsTickerInterval: 2000,
+        onToDo: function () {
+            //console.log(this);
+        }
+    });
+    $("#demo2").bootstrapNews({
         newsPerPage: 7,
         autoplay: true,
         pauseOnHover:true,

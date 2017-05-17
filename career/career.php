@@ -195,7 +195,7 @@
                                         <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                         <br/>
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Apply for <strong>Carrer Vaccencies</strong></span>
+                                            <span>&nbsp; Apply for <strong>Career Vacancies</strong></span>
                                         </h4>
 
                                         <br/>
@@ -264,7 +264,7 @@
 
                                         <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:600px;">
                                             <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                                <span><strong style="font-size:1em;"> Carrer Vaccencies</strong></span>
+                                                <span><strong style="font-size:1em;"> Career Vacancies</strong></span>
                                                 <ul class="pagination pull-right" style="margin: 0px;">
                                                     <li>
                                                         <a href="#" class="prev" id="prev-high">

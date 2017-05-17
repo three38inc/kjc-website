@@ -1412,7 +1412,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
     width: 96%;
     background-color: rgba(0, 0, 0, 0.6);
     margin: 0 2%;
-    margin-top: -48%;
+    margin-top: -29%;
     padding: 5px 5px;
     transition: all ease-in-out 0.3s;
     border-radius: 5px;
@@ -1422,9 +1422,10 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .frame-testimonials li .quote h4 {
     color: #EEE;
     text-align: justify;
+    height: 29%;
 }
 
-.frame-testimonials li .quote h4 small {
+.frame-testimonials li .quote small {
     color: #CCC;
     text-align: justify;
 }
@@ -1998,6 +1999,9 @@ time.icon:focus {
 .demo1 .news-item table tr td img {
     margin-right: 5px;
 }
+.demo2 .news-item table tr td img {
+    margin-right: 5px;
+}
 
 .adHead {
     width: 100%;
@@ -2410,8 +2414,12 @@ a.read-more:hover i {
 }
 
 #placementSlider .owl-item a {
-    float: right;
+/*    float: right;*/
+/*    text-align: center;*/
     text-decoration: none;
+}
+#placementSlider .owl-item .item{
+    text-align: center;
 }
 
 #placementSlider .owl-item a i {
@@ -2623,13 +2631,11 @@ a.read-more:hover i {
 #MediaSlider .owl-dots .active span{
     background: none repeat scroll 0 0 #2980b9;
 }
-#placementSlider .owl-dots .active span{
-    background: none repeat scroll 0 0 #2980b9;
-}
+
 
 #placementSlider .owl-dots{
     position: absolute;
-    bottom: 4em;
+    bottom: 3.5em;
     left: 35%;
 }
 #placementSlider .owl-dots  .owl-dot{
@@ -2643,6 +2649,9 @@ a.read-more:hover i {
     margin: 5px 3px;
     opacity: 0.5;
     width: 8px;
+}
+#placementSlider .owl-dots .active span{
+    background: none repeat scroll 0 0 #2980b9;
 }
 
 /*
