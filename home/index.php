@@ -96,7 +96,7 @@
                                             <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span>
                                         </h4>
                                         <p style="text-align:justify;margin:5px;">
-											Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers <b>MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme</b> for working executives.
+                                            Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers <b>MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme</b> for working executives.
                                         </p>
                                     </div>
                                 </a>
@@ -108,7 +108,7 @@
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts,Science &amp; Commerce</strong></span>
                                         </h4>
                                         <p style="text-align:justify;margin:5px;">
-											The synergism of Education, Innovation and Tradition proffers a prolific course of study – <b> BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA.</b> It also offers Post Graduate courses in Computer Science and Life Sciences.
+                                            The synergism of Education, Innovation and Tradition proffers a prolific course of study – <b> BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA.</b> It also offers Post Graduate courses in Computer Science and Life Sciences.
                                         </p>
                                     </div>
                                 </a>
@@ -120,7 +120,7 @@
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Law</strong></span>
                                         </h4>
                                         <p style="text-align:justify;margin:5px;">
-											The Legal Education template <b>(BA. LLB, B.COM. LLB & BBA. LLB)</b> and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
+                                            The Legal Education template <b>(BA. LLB, B.COM. LLB & BBA. LLB)</b> and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
                                         </p>
                                     </div>
                                 </a>
@@ -188,7 +188,7 @@
                                 <div class="col-lg-4 space" style="padding: 0px;">
                                     <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
                                         <div class="placementTitle">
-                                            <h4>Media Releases</h4>
+                                            <h4>Media Room</h4>
                                         </div>
                                         <div class="owl-carousel owl-theme" id="MediaSlider">
                                             <div class="item">
@@ -203,9 +203,7 @@
                                                     Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -219,9 +217,7 @@
                                                     The institution has experienced a rapid growth since its humble inception ...
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -234,9 +230,7 @@
                                                     Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
 
@@ -251,9 +245,7 @@
                                                     Video room of kristu jayanti Produces magnificiant videos which explains ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -267,9 +259,7 @@
                                                     Facebook and Youtube became a part and parcel of the Age .
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -283,10 +273,13 @@
                                                     Brochures for the current academic year can be accessed from here....
                                                 </p>
                                                 <p class="text-center">
+                                                    <!--
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                Click Here
-                                                    </a>
-                                                </p>
+                                                        Click Here</a>
+-->
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
+
+
                                             </div>
 
 
@@ -302,7 +295,9 @@
                                         <div class="owl-carousel owl-theme" id="placementSlider">
                                             <div class="item">
                                                 <img src="../images/placements/google_new_logo.png" width="210" height="139" />
+                                                <p class="text-center">
                                                 <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    </p>
                                             </div>
                                             <div class="item">
                                                 <img src="slider-images/volvo.jpg" />
@@ -334,9 +329,7 @@
                                             Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
-                                            <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1.2em;">
-                                                Click Here
-                                              </a>
+                                            <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                         </p>
 
                                     </div>
@@ -366,8 +359,8 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
-                                        <a href="../events/academic-calender.php">
-                                            <h4><i class="fa fa-calendar"></i> Academic Calendar</h4>
+                                        <a href="../career/career.php">
+                                            <h4><i class="fa fa-suitcase"></i> Career Vacancies</h4>
                                         </a>
                                     </div>
                                 </div>
@@ -384,7 +377,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 423px; overflow: hidden;">
-                                    <?php include ('php/events.php'); ?>
+                                    <?php include ('php/upcoming-events.php'); ?>
                                 </div>
                             </div>
                         </div>
@@ -451,10 +444,11 @@
     <script src="../js/sly.js"></script>
     <script src="../js/customSly.js"></script>
     <script src="../js/wow.min.js"></script>
-    <script src="../js/isotope-docs.min.js"></script>
+    <!--    <script src="../js/isotope-docs.min.js"></script>-->
     <script src="../js/owl.carousel.min.js" type="text/javascript"></script>
     <!--    <script src="js/res-navtabs.js"></script>-->
     <script src="../js/scripts.js"></script>
+
     <script>
         $(document).ready(function() {
 
@@ -491,7 +485,7 @@
                 autoplay: true,
                 margin: 10,
                 nav: false,
-                dots:true,
+                dots: true,
                 items: 1
             });
             $('#MediaSlider').owlCarousel({
@@ -499,7 +493,7 @@
                 autoplay: true,
                 margin: 10,
                 nav: false,
-                dots:true,
+                dots: true,
                 items: 1
             });
 

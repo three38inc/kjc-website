@@ -12,7 +12,7 @@
             <span class="date">30<sup>th</sup> March 2017</span>
             <div class="quote">
                 <a href="../highlights/social_work_camp_2017.php"><h4>Social Work Camp 2017<br/><small>
-				The Social Work Camp organized by the Department of Social Work, Kristu Jayanti College, Bangalore..</small></h4></a>
+                    The Social Work Camp organized by the Department of Social Work, Kristu Jayanti College, Bangalore..</small></h4></a>
             </div>
         </li>
         <li>
