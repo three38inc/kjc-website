@@ -109,9 +109,38 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our  <strong>Academic Profile</strong></span>
+                                         <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                    </section>
+
+
+                                </div>
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="membership_pbodies.php">Membership in Professional Bodies</a></p>
                                     </section>
 
@@ -173,9 +202,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="acad.php">Academic Calendar</a></p>
                                     </section>
-
-                                </div>
-<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    </div>
+                               <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;goto <strong>QuickLinks</strong></span>
