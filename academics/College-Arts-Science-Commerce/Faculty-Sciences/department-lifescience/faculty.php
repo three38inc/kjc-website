@@ -79,8 +79,10 @@
 
                         <div class="row">
                             <div class="col-lg-9">
-								  <div class="content-left myWelcome wow fadeIn">
-								<img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
+								 <div class="content-left myWelcome wow fadeIn">
+                                    <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <br/>
+							
  
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Faculty <strong>Profile</strong></span>
@@ -100,7 +102,7 @@
                                             <li><a href="#" data-value="page5">5</a></li>
                                         </ul>
                                     </div>
-                                </div>
+									 </div></div>
 
                             </div>
                             <div class="col-lg-3" style="margin-top:1em;">
