@@ -1,0 +1,65 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/05/2017 09:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+/*margin-left: 20px;*/
+}
+
+.flaticon-kjc-collaborations:before { content: "\f100"; }
+.flaticon-kjc-gallery:before { content: "\f101"; }
+.flaticon-kjc-iqac:before { content: "\f102"; }
+.flaticon-kjc-postexam:before { content: "\f103"; }
+.flaticon-kjc-examtimetable:before { content: "\f104"; }
+.flaticon-kjc-regulations:before { content: "\f105"; }
+.flaticon-kjc-examcalendar:before { content: "\f106"; }
+.flaticon-kjc-programme:before { content: "\f107"; }
+.flaticon-kjc-association:before { content: "\f108"; }
+.flaticon-kjc-festivals:before { content: "\f109"; }
+.flaticon-kjc-services:before { content: "\f10a"; }
+.flaticon-kjc-celebrations:before { content: "\f10b"; }
+.flaticon-kjc-sports:before { content: "\f10c"; }
+.flaticon-kjc-art:before { content: "\f10d"; }
+.flaticon-kjc-lifeskills:before { content: "\f10e"; }
+.flaticon-kjc-ncc:before { content: "\f10f"; }
+.flaticon-kjc-nss:before { content: "\f110"; }
+.flaticon-kjc-language:before { content: "\f111"; }
+.flaticon-kjc-entrepreneurship:before { content: "\f112"; }
+.flaticon-kjc-extension:before { content: "\f113"; }
+.flaticon-kjc-ccpd:before { content: "\f114"; }
+.flaticon-kjc-vichaarmanthan:before { content: "\f115"; }
+.flaticon-kjc-events:before { content: "\f116"; }
+.flaticon-kjc-notice:before { content: "\f117"; }
+.flaticon-kjc-connect:before { content: "\f118"; }
+.flaticon-kjc-contact:before { content: "\f119"; }
+.flaticon-kjc-mail:before { content: "\f11a"; }
+.flaticon-kjc-cms:before { content: "\f11b"; }
+.flaticon-kjc-calendar:before { content: "\f11c"; }
+.flaticon-kjc-miscellaneous:before { content: "\f11d"; }
+.flaticon-kjc-exam:before { content: "\f11e"; }
+.flaticon-kjc-life:before { content: "\f11f"; }
+.flaticon-kjc-special:before { content: "\f120"; }
+.flaticon-kjc-favourites:before { content: "\f121"; }
