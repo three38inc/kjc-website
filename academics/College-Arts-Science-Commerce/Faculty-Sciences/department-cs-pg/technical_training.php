@@ -106,7 +106,7 @@
                                     </section>
                                    
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="technical_training.php">Technical Training</a></p>
+                                        <p><a class="a-link-arrow" href="technical_training.php" style="color: #2980b9;font-weight: bold;">Technical Training</a></p>
                                     </section>
                                     
 								</div>

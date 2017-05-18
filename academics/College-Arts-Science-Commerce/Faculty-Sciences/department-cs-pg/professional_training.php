@@ -106,7 +106,7 @@
                                         <p><a class="a-link-arrow" href="academic_training.php">Academic Training</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="professional_training.php">Professional Training</a></p>
+                                        <p><a class="a-link-arrow" href="professional_training.php" style="color: #2980b9;font-weight: bold;">Professional Training</a></p>
                                     </section>
                                    
                                     <section class="link-arrow">
