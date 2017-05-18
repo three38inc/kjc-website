@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best College, Top Commerce college, Top ranked arts and Science College, autonomous college, B.Com Admission, BCA Admission, BBM Admission, MBA admission, MCA admission, Psychology admission, Journalism Admission, Biotechnology college</title>
+    <title>Best College, Top Commerce college, Top ranked arts and Science College, autonomous college, B.Com Admission, BCA Admission, BBM Admissions, MBA admission, MCA admission, Psychology admission, Journalism Admission, Biotechnology college</title>
     <meta name="description" content="Kristu Jayanti College,K. Narayanapura, Kothanur (Post) Bangalore ā€“ 560077, Karnataka, Tel. 080-28465611 / 28465770 e-mail : info@kristujayanti.com www.kristujayanti.edu.in " />
     <meta name="keywords" content="Best College, Top Commerce college, Top ranked arts and Science College, autonomous college, B.Com Admission, BCA Admission, BBM Admission,  MBA admission, MCA  admission,  Psychology admission, Journalism Admission,  Biotechnology college etc." />
 
