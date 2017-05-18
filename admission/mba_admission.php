@@ -130,13 +130,13 @@ win=window.open(mypage,myname,settings);}
  </a><br /> Next Counselling will be held on <b>05<sup>th</sup> May, 2017</b></p>
                                     
                                     
-  <table border="1" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
   <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
   </tr></table>
   
-  <table border="1" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b><a href="../mba/mba.php"><u>MBA/PGDM</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
