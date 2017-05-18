@@ -2,7 +2,7 @@
 
     $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";
 ?>
-<link rel="stylesheet" href="../css/fonts/flat-icon/flaticon.css" />
+<link rel="stylesheet" href="<?php echo $ROOT; ?>/css/fonts/flat-icon/flaticon.css" />
 <style>
     .nav-tabs>li.active>a,
     .nav-tabs>li.active>a:focus,
@@ -341,7 +341,7 @@
     </div>
 </div>
 
-<script src="../js/isotope-docs.min.js"></script>
+<script src="<?php echo $ROOT; ?>/js/isotope-docs.min.js"></script>
 <script>
     $(function() {
         // init Isotope for Accordian Pill Tabs

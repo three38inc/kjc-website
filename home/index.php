@@ -148,43 +148,7 @@
 
                         <div class="row" style="margin-top:10px;">
                             <div class="col-lg-9">
-                                <!--
-                                <div class="col-lg-4" style="padding: 0px;">
-                                    <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
-                                        <div class="placementTitle">
-                                            <h4>Media Releases</h4>
-                                        </div>
-                                        <p style="text-align:justify;">
-                                            <ul class="mMenu">
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-newspaper-o"></i> KJC in news <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-book"></i> Publications <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-file-text-o"></i> Glimpses <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-film"></i> Videos <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-comments-o"></i> Social Media <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#">
-                                                        <i class="fa fa-files-o"></i> Brochures <i class="fa fa-angle-double-right"></i></a>
-                                                </li>
-                                            </ul>
-                                        </p>
-                                    </div>
-                                </div>
--->
+                                
                                 <div class="col-lg-4 space" style="padding: 0px;">
                                     <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
                                         <div class="placementTitle">
