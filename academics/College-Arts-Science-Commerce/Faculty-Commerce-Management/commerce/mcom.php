@@ -120,7 +120,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="images/department-bg-2.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/banner02.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com<strong> (Master of Commerce) </strong></span>
@@ -221,16 +221,15 @@ or<br>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Faculty Profile
+                                        <p><a class="a-link-arrow" href="faculty.php"> Faculty Profile
                                         </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#"> Academic Calendar
+                                        <p><a class="a-link-arrow" href="academic_calendar.php"> Academic Calendar
                                             </a></p>
                                     </section>
-
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>

@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								 <img src="images/humanities_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
 								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>

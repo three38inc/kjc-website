@@ -79,6 +79,7 @@
 
                         <div class="row">
                             <div class="col-lg-9">
+								  <img src="images/bba_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Faculty <strong>Profile</strong></span>
@@ -105,59 +106,94 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our  <strong>Academic Profile</strong></span>
+                                       <span>&nbsp;<strong>Programs Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="cs_faculty.php">Faculty Profile</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Academic Calender</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Fests</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Value Added Courses</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Computer Academy</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Achievements</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Best Practices</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Career Opportunity</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Seminars &amp; Workshops</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Guest Lectures</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Activities</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Development Program</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Gallery</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Moodle</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Blog</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="#">Newsletter</a></p>
+                                        <p><a class="a-link-arrow" href="bba.php">BBA Bachelor of Business Administration</a></p>
                                     </section>
 
 
-                                </div>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="bba_integrated.php">BBA CGMA Integrated</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
+                                    </section> </div>
+                                
+                                
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> <strong>Activities</strong></span>
+                                        </h4>
+                                        
+                                        
+                                
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="acadmic_calendar.php">Academic Calender</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="academic_programs.php">Academic Programs</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="fests.php">Fests</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="association.php">Association</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achivements.php">Achievements</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="career_opportunity.php">Career Opportunity</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="curriculm.php">Curriculum</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="schedule_examination.php">Schedule of Examination</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
+                                    </section> 
+                                    
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="department_magazine.php">Department Magazine</a></p>
+                                    </section> 
+                                    
+                                    
+                                    
+                                    
+                                    </div>
 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
@@ -175,7 +211,7 @@
 
                             </div>
                         </div>
-                    </div>
+						</div></div>
 
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>

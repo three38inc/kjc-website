@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/banner03.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; One year Post Graduate Diploma Programme (Working Executives)</span>
