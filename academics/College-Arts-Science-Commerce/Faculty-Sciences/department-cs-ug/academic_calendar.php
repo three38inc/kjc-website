@@ -85,7 +85,7 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic<strong> Calendar </strong></span></h4>
                                
-                                
+                                    <iframe src="http://www.google.com/calendar/embed?src=web%40kristujayanti.com&ctz=Asia/Calcutta" style="border: 0;width:100%;" width="750" height="600" frameborder="0" scrolling="no" ></iframe>
 
 
 
