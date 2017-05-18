@@ -1,6 +1,6 @@
 <?php 
 
-    $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";
+    $ROOT="http://".$_SERVER['HTTP_HOST']."";
 ?>
 <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/fonts/flat-icon/flaticon.css" />
 <style>
