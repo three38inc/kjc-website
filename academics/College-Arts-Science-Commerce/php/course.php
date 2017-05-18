@@ -65,21 +65,13 @@
             <a href="Faculty-Sciences/department-cs-ug/value_added_certificate_courses.php">
                 <div class="courseTitle color-7">
                     <i class="fa fa-line-chart c7" style="float: left;"></i>
-                    <h2>EMC2</h2>
-                    <p><span style="font-size: 12px;">Information Storage and Management</span><br/>[Certification Course]</p>
+                    <h2>Certification Courses</h2>
+                    <p>EMC2 &amp; NSDC Animation</p>
                 </div>  
             </a>
         </div>
 
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="Faculty-Sciences/department-cs-ug/value_added_certificate_courses.php">
-                <div class="courseTitle color-6">
-                    <i class="fa fa-line-chart c6" style="float: left;"></i>
-                    <h2>NSDC Animation</h2>
-                    <p>[Certification Course]</p>
-                </div>  
-            </a>
-        </div>
+        
         
         <div class="col-lg-12 science" data-category="science">
             <h4>Department Of Computer Science [PG]</h4><br/>        
@@ -369,8 +361,8 @@
             <a href="faculty-commerce-management/commerce/commerce_value_added_courses.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-line-chart c1" style="float: left;"></i>
-                    <h2>NSDC</h2>
-                    <p><span style="font-size: 12px;">On BFSI (Banking Financial Services and Insurance)</span><br/>[Certification Course]</p>
+                    <h2>Certification Course</h2>
+                    <p><span style="font-size: 12px;">NSDC On BFSI (Banking Financial Services and Insurance)</span></p>
                 </div>  
             </a>
         </div>
