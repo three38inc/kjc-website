@@ -80,7 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-<img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
+<img src="images/banner01.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Masters in <strong> Social Work (MSW) </strong></span></h4>
 								
