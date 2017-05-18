@@ -164,7 +164,7 @@
                                         <div class="owl-carousel owl-theme" id="MediaSlider">
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/weekly-calendar.png" class="media-room-icon" />
+                                                    <img src="../../images/weekly-calendar.png" class="media-room-icon" />
                                                     <span class="media-room-heading">Glimpses</span>
 
                                                 </div>
@@ -174,12 +174,12 @@
                                                     Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/newspaper.png" class="media-room-icon" />
+                                                    <img src="../../images/newspaper.png" class="media-room-icon" />
                                                     <div class="media-room-heading">KJC IN NEWS</div>
                                                 </div>
 
@@ -188,12 +188,12 @@
                                                     The institution has experienced a rapid growth since its humble inception ...
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/publications.png" class="media-room-icon" />
+                                                    <img src="../../images/publications.png" class="media-room-icon" />
                                                     <div class="media-room-heading">Publications</div>
                                                 </div>
                                                 <div style="clear:both;"></div>
@@ -201,13 +201,13 @@
                                                     Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
 
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/play-button.png" class="media-room-icon" />
+                                                    <img src="../../images/play-button.png" class="media-room-icon" />
                                                     <div class="media-room-heading">Videos</div>
                                                 </div>
 
@@ -216,12 +216,12 @@
                                                     Video room of kristu jayanti Produces magnificiant videos which explains ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/networking.png" class="media-room-icon" />
+                                                    <img src="../../images/networking.png" class="media-room-icon" />
                                                     <div class="media-room-heading">Social Media</div>
                                                 </div>
 
@@ -230,12 +230,12 @@
                                                     Facebook and Youtube became a part and parcel of the Age .
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/broucher.png" class="media-room-icon" />
+                                                    <img src="../../images/broucher.png" class="media-room-icon" />
                                                     <div class="media-room-heading">Brochures</div>
                                                 </div>
 
@@ -248,7 +248,7 @@
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
                                                         Click Here</a>
 -->
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
+                                                    <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
 
 
                                             </div>
@@ -265,22 +265,22 @@
                                         </div>
                                         <div class="owl-carousel owl-theme" id="placementSlider">
                                             <div class="item">
-                                                <img src="../images/placements/google_new_logo.png" width="210" height="139" />
+                                                <img src="../../images/placements/google_new_logo.png" width="210" height="139" />
                                                 <p class="text-center">
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                     </p>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/volvo.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="../../home/slider-images/volvo.jpg" />
+                                                <a href="../../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/crossdomain.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="../../home/slider-images/crossdomain.jpg" />
+                                                <a href="../../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/greatwest.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="../../home/slider-images/greatwest.jpg" />
+                                                <a href="../../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -291,7 +291,7 @@
                                             <h4>Admissions</h4>
                                         </div>
                                         <div class="media-room">
-                                            <img style="width:75px;" src="../images/graduates.png" class="media-room-icon" />
+                                            <img style="width:75px;" src="../../images/graduates.png" class="media-room-icon" />
                                             <span class="media-room-heading">Admission</span>
                                         </div>
 
@@ -300,7 +300,7 @@
                                             Admission to all UG &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
-                                            <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                            <a href="../../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                         </p>
 
                                     </div>
