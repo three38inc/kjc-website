@@ -117,7 +117,227 @@
                             </div>
                             <div class="clearfill"></div>
                         </div>
+                        <div class="row" style="margin-top:10px;">
+                            <div class="col-lg-9">
+                                <!--
+                                <div class="col-lg-4" style="padding: 0px;">
+                                    <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;">
+                                        <div class="placementTitle">
+                                            <h4>Media Releases</h4>
+                                        </div>
+                                        <p style="text-align:justify;">
+                                            <ul class="mMenu">
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-newspaper-o"></i> KJC in news <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-book"></i> Publications <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-file-text-o"></i> Glimpses <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-film"></i> Videos <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-comments-o"></i> Social Media <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a href="#">
+                                                        <i class="fa fa-files-o"></i> Brochures <i class="fa fa-angle-double-right"></i></a>
+                                                </li>
+                                            </ul>
+                                        </p>
+                                    </div>
+                                </div>
+-->
+                                <div class="col-lg-4 space" style="padding: 0px;">
+                                    <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
+                                        <div class="placementTitle">
+                                            <h4>Media Room</h4>
+                                        </div>
+                                        <div class="owl-carousel owl-theme" id="MediaSlider">
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/weekly-calendar.png" class="media-room-icon" />
+                                                    <span class="media-room-heading">Glimpses</span>
 
+                                                </div>
+                                                <div style="clear:both;"></div>
+
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/newspaper.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">KJC IN NEWS</div>
+                                                </div>
+
+                                                <div style="clear:both;"></div>
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    The institution has experienced a rapid growth since its humble inception ...
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/publications.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Publications</div>
+                                                </div>
+                                                <div style="clear:both;"></div>
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
+
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/play-button.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Videos</div>
+                                                </div>
+
+                                                <div style="clear:both;"></div>
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Video room of kristu jayanti Produces magnificiant videos which explains ....
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/networking.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Social Media</div>
+                                                </div>
+
+                                                <div style="clear:both;"></div>
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Facebook and Youtube became a part and parcel of the Age .
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
+                                            <div class="item">
+                                                <div class="media-room">
+                                                    <img src="../images/broucher.png" class="media-room-icon" />
+                                                    <div class="media-room-heading">Brochures</div>
+                                                </div>
+
+                                                <div style="clear:both;"></div>
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                    Brochures for the current academic year can be accessed from here....
+                                                </p>
+                                                <p class="text-center">
+                                                    <!--
+                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
+                                                        Click Here</a>
+-->
+                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
+
+
+                                            </div>
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 space">
+                                    <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
+                                        <div class="placementTitle">
+                                            <h4>Placements</h4>
+                                        </div>
+                                        <div class="owl-carousel owl-theme" id="placementSlider">
+                                            <div class="item">
+                                                <img src="../images/placements/google_new_logo.png" width="210" height="139" />
+                                                <p class="text-center">
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    </p>
+                                            </div>
+                                            <div class="item">
+                                                <img src="slider-images/volvo.jpg" />
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                            </div>
+                                            <div class="item">
+                                                <img src="slider-images/crossdomain.jpg" />
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                            </div>
+                                            <div class="item">
+                                                <img src="slider-images/greatwest.jpg" />
+                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4" style="padding: 0px;">
+                                    <div class="content-spl wow fadeIn" style="margin-right: 0;padding-top: 0;height: 220px;">
+                                        <div class="placementTitle">
+                                            <h4>Admissions</h4>
+                                        </div>
+                                        <div class="media-room">
+                                            <img style="width:75px;" src="../images/graduates.png" class="media-room-icon" />
+                                            <span class="media-room-heading">Admission</span>
+                                        </div>
+
+                                        <div style="clear:both;"></div>
+                                        <p style="text-align:center; font-size: 1.2em;position:relative;">
+                                            Admission to all UG &amp; PG Programmes for academic year 2017 are open.
+                                        </p>
+                                        <p class="text-center">
+                                            <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3" style="padding:0;">
+                                <div class="col-lg-12">
+                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                        <a href="http://events.kristujayanti.edu.in/">
+                                            <h4><i class="fa fa-calendar-o"></i> Enroll for an Event</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                        <a href="http://alumni.kristujayanti.edu.in/">
+                                            <h4><i class="fa fa-link"></i> Alumini Connect</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                        <a href="#">
+                                            <h4><i class="fa fa-graduation-cap"></i> Coaching Centers</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                        <a href="../career/career.php">
+                                            <h4><i class="fa fa-suitcase"></i> Career Vacancies</h4>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfill"></div>
+                        </div>
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="content-spl wow fadeIn">
@@ -206,6 +426,22 @@
                         loop: false
                     }
                 }
+            });
+            $('#placementSlider').owlCarousel({
+                loop: true,
+                autoplay: true,
+                margin: 10,
+                nav: false,
+                dots: true,
+                items: 1
+            });
+            $('#MediaSlider').owlCarousel({
+                loop: true,
+                autoplay: true,
+                margin: 10,
+                nav: false,
+                dots: true,
+                items: 1
             });
         });
     </script>
