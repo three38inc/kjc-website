@@ -298,15 +298,15 @@
 													</div>
 													<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 														<div class="panel-body">
-															<p><b>Context:</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Context:</b><br>
 																The Software Development Cell formed by the department caters the automation of various system oriented applications both for the college and outside agencies. It is initiated in the year 2013-2014.</p>
-															<p><b>Objective:</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Objective:</b><br>
 																To hone software development skills determine by quality standards w.r.t. industrial expectations. It prepares them to meet the challenges faced by today’s IT professional by exposing them to wide array of cutting-edge technologies during the course of development and also to enhance entrepreneur skills.  </p>
-															<p><b>Practices:</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Practices:</b><br>
 																Under the guide ship of Department faculty coordinator interested students are identified and projects related to the college internal applications and external agencies are developed. Periodical meetings are conducted to sort out the findings with this regard and also to aid in organized development.</p>
-															<p><b>Constraints:</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Constraints:</b><br>
 																Lack of skillful students much to the expectations of the challenges prevailing in development trends.</p>
-															<p><b>Resource required:</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Resource required:</b><br>
 o	Upgraded hardware and software resources required for development.<br>
 																o	Appropriate time duration</p>
 

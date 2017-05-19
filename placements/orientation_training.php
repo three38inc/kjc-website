@@ -117,7 +117,7 @@
 
 <p align="justify">The Centre for Employability & Corporate Relations started the Placement season, Gate 2017, with a fortnight long "Placement Orientation Program" for all Graduates & Post Graduates from the final year class of 2017. The training sessions were handled by the Talent Transformation Team from the CECR.</p>
 
-<p><b>The main objectives of the program were:</b><br>
+<p><b style="color: #cd6e08;font-weight: bold;">The main objectives of the program were:</b><br>
 1. Career focus<br>
 2. Corporate expectations<br>
 3. Need analysis<br>

@@ -114,16 +114,16 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Differently Abled  <strong> (Physically Challenged) Privileges</strong></span>
                                     </h4>
-									<p><b>Differently abled (Physically Challenged) students have to submit the following:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Differently abled (Physically Challenged) students have to submit the following:</b><br>
 Medical certificate certifying their disability<br>
 										Documentary proof of special privileges granted during the time of admission or at the beginning of the academic programme to the Principal and the Controller of Examinations.</p>
 
-									<p><b>Based on the documentary evidence the management and the Controller of Examinations shall provide special grants for these students such as</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Based on the documentary evidence the management and the Controller of Examinations shall provide special grants for these students such as</b><br>
 Extension of time for the Term/End Semester Examinations<br>
 Relaxation of time and procedure in the evaluation of Continuous Internal Assessment<br>
 Special moderations in the evaluation process of CIA and End Semester Examinations<br>
 										Appointment of scribe for writing examination (if necessary)</p>
-									<p><b>Allocation of Scribe</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Allocation of Scribe</b><br>
 										Differently abled (Physically Challenged) students who have submitted the documentary evidence for the disability shall be granted permission to have scribe for writing the examination </p>
 
 									<p>The scribe has to be arranged by the respective student.</p>

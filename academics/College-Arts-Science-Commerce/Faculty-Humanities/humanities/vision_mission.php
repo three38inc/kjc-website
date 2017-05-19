@@ -85,9 +85,9 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Vision <strong> & Mission</strong></span></h4>
                                 
-                                <p><b>Vision</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Vision</b><br>
                                     Illuminate young minds with critical reasoning and esthetic essence</p>
-                                <p><b>Mission</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Mission</b><br>
                                     To enhance a learning environment for educational exposure and experience</p>
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

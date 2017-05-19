@@ -128,16 +128,16 @@
 
                                     <br/>
                                     <p align="justify">
-                                        <strong>Vision: </strong><br/> To transform students into national assets by imbibing business skills, integrity, ethical uprightness and a real holistic development.
+										<b style="color: #cd6e08;font-weight: bold;">Vision: </b><br/> To transform students into national assets by imbibing business skills, integrity, ethical uprightness and a real holistic development.
 
                                     </p>
                                     <p align="justify">
-                                        <strong>Mission: </strong><br/> Department of Commerce is dedicated to excellence in performance and committed to provide quality education, opportunities and services to meet the needs of business, and also contribute for the society’s wellbeing, nation's development and to meet global competencies.
+										<b style="color: #cd6e08;font-weight: bold;">Mission: </b><br/> Department of Commerce is dedicated to excellence in performance and committed to provide quality education, opportunities and services to meet the needs of business, and also contribute for the society’s wellbeing, nation's development and to meet global competencies.
 
                                     </p>
 
                                     <p align="justify">
-                                        <strong>Goals: </strong><br/>
+										<b style="color: #cd6e08;font-weight: bold;">Goals:</b><br/>
                                     </p>
                                     <ol>
                                         <li>To provide an in-depth understanding of the dynamic business environment.</li>

@@ -132,37 +132,37 @@
 Getting Acquainted with Excel <br>
 
 																The Excel Environment,Title Bar, Menu Bar, Standard Toolbar,Formatting Toolbar, the Ribbon, File Tab and Backstage View, Microsoft Office Button, Quick Access Toolbar, Scroll Bars, Formula Bar, Workbook Window, Status Bar, Task Pane,</p>
-															<p><b>Creating Basic Spreadsheets.</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Creating Basic Spreadsheets.</b><br>
 																Creating a New Workbook, Saving Workbooks, Closing Workbooks, Opening Workbooks, Selecting Cells, Entering Text Into Cells, Entering Numbers Into Cells, Pick From List, Zooming the Spreadsheet, Renaming Workbooks, Working with Excel File Formats.</p>
-															<p><b>Using Ranges.</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Using Ranges.</b><br>
 																Using Ranges, Selecting Ranges, Entering Information Into a Range, Using AutoFill(4 Hours)</p>
-															<p><b>Creating Formulas.</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Creating Formulas.</b><br>
 																Using Formulas, Formula Functions, Using AutoSum, Inserting Functions, Editing a Range, Using the Paste Function.</p>
-															<p><b>Copying & Pasting Formulas</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Copying & Pasting Formulas</b><br>
 																Absolute References and Relative References, Cutting, Copying & Pasting, AutoFilling Cells, Drag & Drop Cutting, Copying & Pasting, Using Undo, Using Redo</p>
-															<p><b>Columns & Rows</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Columns & Rows</b><br>
 																Selecting Columns & Rows, Changing Column Width & Row Height, AutoFitting Columns & Rows, Hiding/Unhiding Columns & Rows, Inserting & Deleting Columns & Rows (4 Hours)</p>
-															<p><b>Formatting Spreadsheets</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Formatting Spreadsheets</b><br>
 																Using the Formatting Toolbar, Using the Format Cells Dialog Box, The Number Tab, The Alignment Tab Font Tab, Border Tab, Patterns Tab, Clearing All Formatting from Cells, Copying All Formatting from Cells to Another Area. Conditional Formatting & AutoFormatting</p>
-															<p><b>Setting Spreadsheet Layout</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Setting Spreadsheet Layout</b><br>
 																Working with Page Breaks, Viewing the Header and Footer, The Page Setup Dialog Box</p>
-															<p><b>Consolidating Spreadsheets</b><br> 
+															<p><b style="color: #cd6e08;font-weight: bold;">Consolidating Spreadsheets</b><br> 
 																Using Data Consolidation,</p>
-															<p><b>Spreadsheet Charts </b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Spreadsheet Charts </b><br>
 																Creating Charts, Moving and Resizing Charts, The Chart Toolbar, Formatting Chart Objects, Changing, the Chart Type, Showing and Hiding the Legend, Showing and Hiding the Data Table, Choosing a Chart Layout, Choosing a Chart Style, Printing Charts, Deleting Charts(6 Hours)</p>
-															<p><b>Editing and Formatting Charts</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Editing and Formatting Charts</b><br>
 																Changing Chart Sub-types, Changing the Data Range, Changing Chart Titles, Repositioning the Legend Adding Data Labels, Formatting a Data Series, Chart Axis Formatting,</p>
-															<p><b>PivotTables</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">PivotTables</b><br>
 																Creating PivotTables, Manipulating a PivotTable, Using the PivotTable Toolbar, Changing Data Field, Properties, Displaying a PivotChart, Setting PivotTable Options, . Adding Subtotals to PivotTables</p>
-															<p><b>Sorting Data</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Sorting Data</b><br>
 																Sorting Data, Custom Sort Orders, Sorting Options,</p>
-															<p><b>AutoFiltering Data</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">AutoFiltering Data</b><br>
 																AutoFilter, Using the Top 10 AutoFilter, Using the Custom AutoFilter, Turning Off the AutoFilter (6 hours)</p>
-															<p><b>Lookup and Functions</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Lookup and Functions</b><br>
 																Lookup and Functions, Lookup Functions, Logical Functions, Using the AND and OR Functions</p>
-															<p><b>Making Macros</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Making Macros</b><br>
 																Recording Macros, Running Macros, Deleting Macros</p>
-															<p><b>Spreadsheet Tools</b><br>
+															<p><b style="color: #cd6e08;font-weight: bold;">Spreadsheet Tools</b><br>
 																Moving between Spreadsheets, Selecting Multiple Spreadsheets, Inserting and Deleting Spreadsheets Renaming Spreadsheets, Splitting the Screen, Freezing Panes, Copying and Moving Entire Worksheets Cutting, Copying and Pasting Data between Spreadsheets, Printing Multiple Spreadsheets, Hiding Spreadsheets (6 Hours)</p>
 
 

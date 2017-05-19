@@ -117,13 +117,13 @@
 
 <p align="justify">School of Business believes in transforming young talents who can match the requirements of the recruiters. The various Placement initiatives undertaken are described below.</p>
 
-<p align="justify"><b>Summer Internship Program</b><br>
+<p align="justify"><b style="color: #cd6e08;font-weight: bold;">>Summer Internship Program</b><br>
 The summer internship program of 6 weeks is carried out by the MBA students at the end of Second Semester. Every year SIP starts in the month of July. The student learns about the Industry, Company, and Competitors and does a SWOT analysis. This aims to widen the student's perspective by providing an exposure to real life organizations and environmental situations. The recruiters can contact the Talent Transformation Team, Centre for Employment and Corporate Relations during the month of January to finalize the date for SIP Placements.</p>
 
-<p align="justify"><b>The Final Project</b><br>
+<p align="justify"><b style="color: #cd6e08;font-weight: bold;">The Final Project</b><br>
 As a compulsory part of curriculum, MBA students can do final project with an organization or they can do a dissertation. Recruiters can contact the CECR in the month of January for the selection process.</p>
 
-<p align="justify"><b>Campus Recruitment Program</b><br>
+<p align="justify"><b style="color: #cd6e08;font-weight: bold;">Campus Recruitment Program</b><br>
 The campus recruitment season starts during the month of October. Recruiters can send the Placement Response Form to CECR for finalizing the dates for Final Placements. Every year companies from diverse sectors visit the Business School for Campus Hiring. Over the years, the institute has consistently maintained a hundred percent recruitment record with students exceeding expectations of recruiters.</p>
                                 </div>
                             </div>

@@ -115,7 +115,7 @@
                                         <span>&nbsp;Jayantian  <strong> Extension Services </strong></span></h4>
 									
 									<p align=justify>One of the main aspects of the curriculum of the college is community services. JES assesses the local community needs and promotes institution-neighbourhood network. JES plans, executes and monitors all SOPs and extension activities of the various departments. JES believes in the educative value of curriculum-extension interface in rural Karnataka. It was started to promote social concern and good citizenship among the student through extension and social outreach programmes.</p>
-									<p><b>Objectives</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Objectives</b><br>
 
 										<b>*</b> To establish institution-neighborhood network<br>
 <b>*</b> To assess the needs of the local community<br>
@@ -125,7 +125,7 @@
 										<b>*</b> To provide field experience to the students in the neighbourhood community</p>
 									
 									
-									<p><b><u>JES undertook extension activities like:</u></b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;"><u>JES undertook extension activities like:</u></b><br>
 <b>*</b> Computer Literacy Programme in a neighbouring Government school<br>
 <b>*</b> Awareness programme on substance abuse<br>
 <b>*</b> A health survey was conducted to identify the physical and mental health of villagers<br>

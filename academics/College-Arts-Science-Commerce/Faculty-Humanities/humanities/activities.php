@@ -85,9 +85,9 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>Activities</strong></span></h4>
                                 
-                                <p align=justify><b>La fete: Inter collegiate fest</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">La fete: Inter collegiate fest</b><br>
 The college provides a platform for students to test their mettle with students who pursue the same course in other colleges through the inter-collegiate fest La Fete. The French translation of 'the festival, it is both a celebration of talent and also an arena to explore and experience the challenges and flavors of art. </p>
-                                <p align=justify><b>Humantara:  Intra collegiate fest</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Humantara:  Intra collegiate fest</b><br>
                                     The intra college Humanities fest is the launch pad for students to benchmark their skills and work at making excellence an attitude. Through a number of competitions and contests, the students are refined into fine models who uphold the vision and mission of the college.</p>
 
 

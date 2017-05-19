@@ -131,7 +131,7 @@
                                         The Department of Commerce conducts various departmental co-curricular activities to stand with the vision of exploring new horizons together with collective wisdom.
                                     </p>
                                     <p align="justify">
-                                        <strong>1.Business Lab: </strong>The idea behind commerce lab is to inculcate knowledge and need-based work skills so that the graduates of the college find themselves prepared for employment and self-employment avenues as and when required. In order to accomplish this task we have incorporated practical aspects of the subject so the students may involve in experiential learning which is vital in present business world.
+										<b style="color: #cd6e08;font-weight: bold;">1.Business Lab:</b> The idea behind commerce lab is to inculcate knowledge and need-based work skills so that the graduates of the college find themselves prepared for employment and self-employment avenues as and when required. In order to accomplish this task we have incorporated practical aspects of the subject so the students may involve in experiential learning which is vital in present business world.
                                     </p>
                                     <p><strong>The following is the snap shot of some of the programmes offered by commerce lab:</strong></p>
                                     <ul>
@@ -143,7 +143,7 @@
 
                                     </ul>
                                     <p align="justify">
-                                        <strong>2. Investor's club: </strong>The Club envisages the dream of bringing the finance avenue closer to students by having the below given programmes.
+										<b style="color: #cd6e08;font-weight: bold;">2. Investor's club:</b> The Club envisages the dream of bringing the finance avenue closer to students by having the below given programmes.
                                     </p>
 
                                     <ul>
@@ -157,16 +157,16 @@
 
                                     </ul>
                                     <p align="justify">
-                                        <strong>3. Beyond Ourselves: </strong>an initiative by the Department in enhancing the knowledge and upgrading the teachers to the new developments in industry, so as to lead the students in a competency based education.
+										<b style="color: #cd6e08;font-weight: bold;">3. Beyond Ourselves:</b> an initiative by the Department in enhancing the knowledge and upgrading the teachers to the new developments in industry, so as to lead the students in a competency based education.
                                     </p>
                                     <p align="justify">
-                                        <strong>4. PIF-Professional Interface Forum: </strong>Professional Interface Forum is an exclusive platform for B.Com Professional course students, pursuing their B.Com degree with professional course, either CA or CS. This forum is set up to enable students to remain in continuous touch with the industry and professional bodies through interaction with the corporate world at frequent intervals so that they can imbibe corporate culture and norms followed there. The objective of PIF is to enlighten our student with ideas and views on challenges faced by CA and CS professionals
+										<b style="color: #cd6e08;font-weight: bold;">4. PIF-Professional Interface Forum:</b> Professional Interface Forum is an exclusive platform for B.Com Professional course students, pursuing their B.Com degree with professional course, either CA or CS. This forum is set up to enable students to remain in continuous touch with the industry and professional bodies through interaction with the corporate world at frequent intervals so that they can imbibe corporate culture and norms followed there. The objective of PIF is to enlighten our student with ideas and views on challenges faced by CA and CS professionals
                                     </p>
                                     <p align="justify">
-                                        <strong>5. Quiz Club:</strong>
+										<b style="color: #cd6e08;font-weight: bold;">5. Quiz Club:</b>
                                     </p>
                                     <p align="justify">
-                                        <strong></strong>The Quiz Club takes pride in being one of the most proactive and popular clubs among the students. The club is dedicated to prepare and host quality quizzes for the student population on the campus.<br/> Following is a glimpse of what the Club does:
+                                    The Quiz Club takes pride in being one of the most proactive and popular clubs among the students. The club is dedicated to prepare and host quality quizzes for the student population on the campus.<br/> Following is a glimpse of what the Club does:
 
                                     </p>
                                     <ul>

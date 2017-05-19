@@ -89,7 +89,7 @@
                                     <p align=justify>The BCA (Bachelor of Computer Application) programme provides the essential skills for the students to create a successful career in the information technology domain. It also prepares the student with the requisite background to pursue post graduate studies like MCA, MIT, MS in computers, MBA etc. anywhere in the world and acquire greater competency.</p>
                                     <p align=justify>The BCA course is spread across six semesters in three years and is a programme affiliated to Bangalore University. Each semester comprises of seven papers with a right blend of theory and practice enabling the students to make a career in computer applications or equip them for self-employed positions. The course content is regularly updated to keep pace with IT sector. During the three years of graduation, the students go through intensive theoretical and practical training sessions in various aspects of computer science. Besides they are enriched with knowledge beyond the curriculum through various value added courses, certificate courses, seminars, workshops, industrial visits etc.</p>
                                     <p align=justify>The curriculum is rightly tuned for the holistic development of the students and aims at nurturing them as proficient computer professionals.</p>
-                                    <p><b>Eligibility for admission:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Eligibility for admission:</b><br>
                                         1.	Any student who has passed PUC/10+2/Pre-University equivalent courses in Science, Arts or Commerce securing a minimum of 40% of marks is eligible. </p>
 									
 									

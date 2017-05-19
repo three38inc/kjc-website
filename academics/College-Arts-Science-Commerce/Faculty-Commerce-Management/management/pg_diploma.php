@@ -127,9 +127,9 @@
      - Post Graduate Diploma in Business Administration (PGDBA)<br>
      - Post Graduate Diploma in Human Resource Management (PGDHRM)<br>
                                         - Post Graduate Diploma in Marketing Management (PGDMM)</p>
-                                    <p><b>Eligibility:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Eligibility:</b><br>
                                         <b>Bachelor's Degree in any discipline.</b></p>
-                                    <p><b>Programme Fee:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Programme Fee:</b><br>
                                         <b>The entire programme fee is Rs. 25,000/-</b><br>
 Other Fees involved<br>
 (a) Students from outside Karnataka<br>

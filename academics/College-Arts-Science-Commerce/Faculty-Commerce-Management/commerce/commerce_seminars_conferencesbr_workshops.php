@@ -187,7 +187,7 @@
                                         </li>
                                     </ol>
                                     <p align="justify">
-                                        <strong> Guest Lectures : </strong><br>
+										<b style="color: #cd6e08;font-weight: bold;"> Guest Lectures : </b><br>
                                     </p>
                                     <ol>
                                         <li>Guest Lecture On Youth And Ethics by Mr. Samuel from Rhoumai Missions International for 280 (I B.Com students) on 23 June 2014</li>

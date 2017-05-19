@@ -133,7 +133,7 @@
                                     </p>
                                     <br/>
                                     <p align="justify">
-                                        <strong>Electives: </strong>
+										<b style="color: #cd6e08;font-weight: bold;">Electives: </b>
 
                                     </p>
                                     <ol>
@@ -142,7 +142,7 @@
                                     </ol>
                                     <br/>
                                     <p align="justify">
-                                        <strong>Eligibility:</strong> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40 % aggregate are eligible to apply.</p>
+										<b style="color: #cd6e08;font-weight: bold;">Eligibility:</b> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40 % aggregate are eligible to apply.</p>
 									
 									
 								<center><p><a href="curriculum/bcom_syllabus_2014_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM   2014 - 17</a></p></center>

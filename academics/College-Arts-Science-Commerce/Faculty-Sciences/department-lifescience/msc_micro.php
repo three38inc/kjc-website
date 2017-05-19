@@ -118,7 +118,7 @@
                                     <br/>
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       <strong>Course Design</strong> <br> <br>
+										<b style="color: #cd6e08;font-weight: bold;">Course Design</b> <br> <br>
                                         <p>The M.Sc. Microbiology & Biotechnology courses are two year full time programme in four semesters, affiliated to the Bangalore University and recognized by the Govt. of Karnataka. The college provides comprehensive education to the students through effective planning and intensive training with recent trends in Biotechnology & Microbiology with experimental knowledge. Each semester builds and equips the students to adapt to the demands in research and development units, industries and entrepreneurship in the areas of Biotechnology.</p> <br>
                                         <strong>Eligibility</strong> <br><br> 
                                     

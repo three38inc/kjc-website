@@ -125,7 +125,7 @@
 
 <p align="justify">"UdyogVichaar" with a tagline C2C (Campus 2 Corporate / Corporate 2 Campus) is yet another initiative of the CECR to bridge the gap between C2C.</p>
 
-<p><b>About "UdyogVichaar"</b><br>
+<p><b style="color: #cd6e08;font-weight: bold;">About "UdyogVichaar"</b><br>
 1. Most preferred Companies are invited to our Campus for PPT followed by Q & A<br>
 2. Students are given a weeks' time to take a decision and to nominate for the role given<br>
 3. The Excel Tracker and Profile is send to the Company ( If the number is more, the company can visit the Campus for Final Placements, If the number is less the company can call our students to their premises for further round)<br>

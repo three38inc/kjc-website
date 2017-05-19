@@ -85,19 +85,19 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Best  <strong> Practices  </strong></span></h4>
                                
-                                <p align=justify><b>Computer Academy</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Computer Academy</b><br>
                                     The Department of Computer Science (UG) has a computer science club "COMPUTER ACADEMY" with more than 600 members where students participate, organize and be part of confluence between technology and academics through a series of programmes like guest lectures, workshops, seminars, industrial visits, inter and intra collegiate fests, science exhibition, computer simulations, technical communities, technical video sessions, social outreach programmes etc. </p>
-                                <p align=justify><b>Innovative Club</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Innovative Club</b><br>
                                     The innovative club aims to foster innovation in the young minds of the students by providing them opportunity to do projects as diverse as robotics and animated games pertaining to the fields of Mathematics, Statistics, Electronics and Computer Science. Galaxia is the Intra College Science Project Exhibition which offers the passionate a stage to display what they find fascinating.</p>
-                                <p align=justify><b>Technical Community</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Technical Community</b><br>
                                     Technical communities provide a platform for the students to discuss, share and update their knowledge in various domains of information technology and thereby sharpening their technical and soft skills. There are nine technical communities such as Coding and Debugging, Web Designing, Quiz, Statistics, Electronics, Mathematics, Event Management, IT Manager and Lecture Contest.</p>
-                                <p align=justify><b>Academic Alliance with EMC2</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Academic Alliance with EMC2</b><br>
                                     Academic Alliance with EMC2, is an initiative of the department to ensure that the industry has a strong pipeline of graduates to meet its future needs. The Academic Alliance program offers unique 'Open' curriculum-based education on technology topics such as cloud computing, big data analytics, and information storage and management. The 'open' curriculum focuses on technology concepts and principles applicable to any vendor environment, enabling students to develop highly marketable knowledge and skills required in today’s evolving IT industry.</p>
-                                <p align=justify><b>Academic Collaboration with University of Fraser Valley</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Academic Collaboration with University of Fraser Valley</b><br>
                                     Academic Collaboration with University of Fraser Valley, Canada where the BCA students of Kristu Jayanti College gets an opportunity to complete their three year BCA course in Kristu Jauanti College and continue the fourth year in University of Fraser Valley. On completion the students can get the BCA degree awarded by the Bangalore University and BCA (IT) degree awarded by the University of Fraser Valley. The students also get three years work permit in Canada.</p>
-                                <p align=justify><b>Industry Mentorship Programme</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Industry Mentorship Programme</b><br>
                                     Industry Mentorship Programme connects experienced industry professionals with current students for one-on-one guidance to share insights and increase student employability in their future. This programme aims at empowering the students to connect with industry and focus on their professional goals.</p>
-                                <p align=justify><b>Open badges and certifications</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Open badges and certifications</b><br>
                                     VMware Open Badge program is an opportunity for students to complete the courses on Data Center Virtualization Fundamentals [V6], VMware Network Virtualization Fundamentals and        VMware Cloud Fundamentals on a chosen date and time at the college and share the verified proof of their achievements. On completing the certificate course on Information Storage and Management the students can take up the online certification exam and get certified as EMC Academic Associate, Information Storage Management. </p>
 
                             

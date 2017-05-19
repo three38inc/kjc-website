@@ -114,13 +114,13 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Vision & Mission</span>
                                     </h4>
-                                 <p><b>Vision:</b><br>
+                                 <p><b style="color: #cd6e08;font-weight: bold;">Vision:</b><br>
                                         Catering to the long term needs of the future prospective managers the department works in the light of academic excellence with holistic development.</p>
 
-                                    <p><b>Mission Statement:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Mission Statement:</b><br>
                                         Training and developing the students in key managerial and human skills to suit the corporate and societal requirements with social values and ethics.</p>
 
-                                    <p><b>Objectives:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Objectives:</b><br>
                                         <li>To impart value based education for sustainable development.</li>
                                         <li>To train and develop the students in career oriented skills.</li></p>
 

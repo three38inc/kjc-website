@@ -85,10 +85,10 @@
                                     <span>&nbsp; M.Sc<strong>Program offered </strong></span></h4>
                                     
                               
-                                <p align=justify><b>Post Graduate Programme (M.Sc.)</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Post Graduate Programme (M.Sc.)</b><br>
                                     The M.Sc. programme spans over two years (4 semesters) duration offering specializations in Clinical Psychology, Industrial Psychology and Counselling Psychology. The specializations begin from the Third semester.</p>
                                 <p align=justify>To impart hands-on-experience in research and experiential learning according to the specialization, internships are provided for a duration of two months after the third semester, in organizations like Christian Medical College Vellore, Kempegowda Institute of Medical Science Bangalore , SCARFF , Pepsi CO , Lifestyle International, Hinduja Global Solutions, COPER , Tata Steel , Future Retail, 3M, Strides and NGOs etc.</p>
-                                <p align=justify><b>Eligibility:</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Eligibility:</b><br>
                                     BA/B.Sc. degree from Bangalore University or any other University offering an equivalent degree with at least 50% marks (45% for SC/ST) in the main subjects individually as well as in aggregate, with Psychology as a compulsory subject.</p>
 
 									  <center><p><a href="curriculum/msc_psychology_programme_matrix_2015.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of M.SC Programme offered </a></p></center>

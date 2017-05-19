@@ -128,7 +128,7 @@
 
                                     <br/>
                                     <p align="justify">
-                                        <strong>A Course to meet Industry Demand B.Com Professional </strong><br/><br/>
+										<b style="color: #cd6e08;font-weight: bold;">A Course to meet Industry Demand B.Com Professional </b> <br/><br/>
                                         The onset of first autonomous cycle in Kristu Jayanti College has given autonomy for the college in starting a new course, changing the nomenclature of course, launching diploma and certificate programmes based on current needs and employability of students. Reaping these benefits, our College introduced this course to create a cadre of professionals. 
                                       
                                     </p>

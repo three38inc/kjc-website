@@ -117,7 +117,7 @@
 
 									<p align=justify>There is provision to apply for revaluation for the theory courses of UG programmes. Student should have secured minimum 15% of marks in the End Semester Examination (11 marks out of 70) in order to be eligible to apply for revaluation. Student has to fill the revaluation form and pay the revaluation application fee on the scheduled dates of application given in the calendar. Results of revaluation shall be published within 20 days of the application. The best among the original marks and the revaluation marks will be retained as the final marks for the course.</p>
 
-									<p align=justify><b>Note:</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Note:</b><br>
 										There is no provision to apply for revaluation for the practical courses. There is no provision to apply for revaluation for the courses of PG programmes. </p>
 									
 									

@@ -114,10 +114,10 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Kannada Hindi <strong> Divas  </strong></span></h4>
 									
-									<p><b>KANNADA HABBA</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">KANNADA HABBA</b></p>
 									<p>A day is dedicated to the lingua franca of our land, Karnataka. On this day various cultural and literary events are conducted to promote the tradition of Karnataka.</p>
 									
-									<p><b>HINDI DIVAS</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">HINDI DIVAS</b></p>
 									
 									<p align=justify> Hindi Divas is celebrated every year to establish unity and hormony among the students, to understand the significance and to inculcate respect in them towards their national language. The students are encouraged to host exhibitions and special programs that are typical for the land of India.  </p>
 									

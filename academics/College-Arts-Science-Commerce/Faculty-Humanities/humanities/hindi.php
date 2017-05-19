@@ -84,9 +84,9 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>Hindi</strong></span></h4>
                                 
-                                <p align=justify><b>Department of Hindi</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Department of Hindi</b><br>
                                     The department of Hindi was established in the year 2000, to strengthen the impact of the national language in the minds of the language learners. The untiring and efficient effort of the Department caters towards inspiring the students to acquire the language Knowledge. Hindi has not only paved foundation of more than just a language, it has achieved a patriotic fragrance through literature, literary criticism and grammatical studies, the students are introduced to various facets of the language thus also enabling them to be strong competitors and winner of various inter collegiate fests. The department extends a cordial and inter-lingual relationship with other linguistic departments to establish a wide and inter-disciplinary intelligence.</p>
-                                <p><b>Activities</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Activities</b><br>
                                     <b>Celebration of Hindi Divas:</b> The sole aim of this program is to spread awareness about our national language and also to instill the feeling of national integrity into our students. And also promoting peace and tranquility between different religion and cultures.<br>
 Hindi Divas is celebrated meaningfully by organizing competitions like <br>
 a) Constructive Writing <br>

@@ -85,9 +85,9 @@
                                     <span>&nbsp; IT  <strong> Fests</strong></span></h4>
 								<p>The Department of Computer Science (PG) organizes the following fests to enhance the skills of the students:</p>
 								
-								<p align=justify><b>Intra Collegiate Fest - MANOEUVRE</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Intra Collegiate Fest - MANOEUVRE</b><br>
 									Final year students of the Department organize Intra collegiate Fest MANOEUVRE for the budding talents of First and Second Year MCA Students. This will be conducted in the first week of October as a curtain raiser for the upcoming inter collegiate fest SHELLS. The fest will be organized with the events: Ice Breaking, Best IT Manager, Toggle Talk, Treasure Hunt, Coding & Debugging, IT Quiz, Gaming, Web Site Development, Digital Collage, Video Editing, Product Launch and Paper Presentation.</p>
-								<p align=justify><b>Inter Collegiate Fest - SHELLS</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Inter Collegiate Fest - SHELLS</b><br>
 									The Department of Computer Science [PG] organize SHELLS, a Two Day National Level IT fest, for the Post Graduate Students of Information Technology (MCA, M. Tech, B. Tech, B.E., M.E., M.Sc., and M.S.,). It is a two day technical mélange with events that test a participant's skill to the hilt amongst the best from all over India. Shells is not only a Technical Fest, it's also a forum that aims at bridging the gap between the corporate world and the Academia. The Department brings together a plethora of events that encompass the discovery of technical expertise thus enhancing innovative and creative Learning. There will be exciting events that will fascinate the participants which includes Coding, IT Manager, Web Designing, IT Quiz, IT Tycoon, Gaming, Networks, Multimedia, Treasure Hunt, Event-X, etc.</p>
 
 

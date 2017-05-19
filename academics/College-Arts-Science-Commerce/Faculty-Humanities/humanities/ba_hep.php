@@ -84,13 +84,13 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; BA HEP <strong> (History, Economics, Political Science)</strong></span></h4>
                                 
-                                <p align=justify><b>Course Description History</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Course Description History</b><br>
                                     Learning history enriches the student to know, understand and delve into the past to meet the challenges of the present competitive world. History helps them to appreciate changes and understand how the society has evolved over a period of time. A course in History provides a detailed study of Indian History as well as the survey of the history of the world in an analytical and comparative approach. It inculcates students to acquire a broad understanding of historical ideas, social and economic developments and popular movements.</p>
-                                <p align=justify><b>Economics</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Economics</b><br>
                                     Economics is concerned with the efficient use of scarce resources to maximize the welfare of the people. A sound knowledge of economic theories and concepts is very important for prescribing suitable policy initiatives to tackle macro economic problems like poverty, unemployment, regional imbalance, inequitable distribution of income and wealth, turbulence in the commodity, money and currency markets etc.Putting the welfare of human beings at the centre of the development process is a pre requisite for ensuring an equitable and sustainable economic paradigm.</p>
-                                <p align=justify><b>Political science</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Political science</b><br>
                                     This course aims at moulding and making the student an ideal citizen. The course introduces various facts of the profession with a blend of theoretical politics with practical knowledge. The course makes him to contribute more for the nation, prepares him for the competitive world to take up administrative service.</p>
-                                <p><b>Eligibility Criteria</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
 									 
 									 <center><p><a href="curriculum/overview_ba_hep_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA HEP 2015 - 18</a></p></center>

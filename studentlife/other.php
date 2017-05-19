@@ -114,7 +114,7 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Arts & <strong> Other </strong></span></h4>
 									
-									<p><b>OUTWARD PRODUCTIONS</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">OUTWARD PRODUCTIONS</b></p>
 									
 									<p align=justify>The management of the college takes special care to see that its keen interest lies in promoting art and culture to reach far and wide across the city. The college conducts other programs like L'Amor, the musical concert which indeed is another accolade of the college towards the arts stream. L'Amor is the western musical extravaganza for Christian songs presented by the college choir and staged for the students and their acquaintances. The right ingredients of dance and technicality make it a classy event. </p>
                                 </div>

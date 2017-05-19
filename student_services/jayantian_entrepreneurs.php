@@ -124,7 +124,7 @@
                                         <p align="justify"> Jayantian Entrepreneurs' Club is an association of Jayantian Entrepreneurs dedicated to promote the spirit of entrepreneurship among the students of Kristu Jayanti College. It was formally established in December 06, 2014 under the flagship of Luminary E-Cell of Kristu Jayanti College.
                                             <br />
                                         </p>
-                                        <strong>Vision</strong></h4>
+										<b style="color: #cd6e08;font-weight: bold;">Vision</b>
                                     <p align="justify">
                                         The aim of JEC is to encourage the Jayantian to start their own enterprise by following means:</p>
                                     <p>
@@ -136,7 +136,7 @@
                                         <li>Facilitating the present student for internship and practical work experience in the various domain</li>
                                     </ul><br>
 
-                                    <strong>History</strong></h4>
+										<b style="color: #cd6e08;font-weight: bold;">>History</b>
                                 <p align="justify">
                                     JEC was formed in December 06, 2014, formally inaugurated by Rev. Fr. Josekutty PD, Principal of Kristu Jayanti College along with the Jayantians who turned entrepreneurs. The 1st Jayantian Entrepreneurs Meet was held on the same day with a presence of 33 Jayantian Entrepreneurs who marked their presence on the inauguration day</p>
                                 </p>

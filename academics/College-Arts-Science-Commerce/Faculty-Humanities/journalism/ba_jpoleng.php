@@ -84,15 +84,15 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;BA JPolEng<strong>(Journalism, Political Science, English Literature)</strong></span></h4>
                                 
-                                <p align=justify><b>Journalism</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Journalism</b><br>
                                     The course aims at moulding the student for a career in Journalism, both print and broadcasting and in allied fields like Advertising, Film, and Public Relations. The course introduces various facets of the profession of the journalism to the students with theoretical knowledge and on the job training. The course is a part of the four BA triple main combinations and consists of eight subject titles stretching all the semesters. The major papers include Reporting, Editing, Media Laws, Basic Audio-Visual Media and Media Management. Furthermore, the Department stresses a balance between the theoretical and practical elements of journalism and mass communication, and the curriculum is carefully tailored to prepare students for professional or academic careers in communication, giving them the broad liberal arts education necessary to succeed as communicators in today's complex and changing world.</p>
-                                <p align=justify><b>English literature (Optional English)</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">English literature (Optional English)</b><br>
                                     English has been an integral part of various walks of life in India for centuries. One might even say that it has become inseparable from the essence of contemporary Indian culture. The study of language is a key to attain an understanding the history of any age. The three-year English Literature course, also known as Optional English, offers students an opportunity to understand the literary, cultural and social dynamism of England's varied past, European and Non-European writing and integrates Indian writing in English facilitating a transcendence of linguistic nativism.</p>
 
                                 <p align=justify>The glory of a bygone era is obviously of no use unless it can be utilized to enlighten the present. On the practical side, this course offers numerous employment opportunities in the field of teaching, journalism, publishing, writing, etc. Most importantly, a sound understanding of the language equips the student with communication skills, which is an indispensable part of success in any field in todays competitive world.</p>
-                                <p align=justify><b>Political science</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Political science</b><br>
                                     This course aims at moulding and making the student an ideal citizen. The course introduces various facts of the profession with a blend of theoretical politics with practical knowledge. The course makes him to contribute more for the nation, prepares him for the competitive world to take up administrative service.</p>
-                                <p><b>Eligibility Criteria</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
 									 
 									  <center><p><a href="curriculum/overview_ba_jps_eng_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPEng 2015 - 18</a></p></center>

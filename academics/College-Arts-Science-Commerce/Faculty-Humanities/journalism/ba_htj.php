@@ -84,13 +84,13 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;BA HTJ<strong>(Tourism, History, Journalism)</strong></span></h4>
                                 
-                                <p align=justify><b>Course Description Journalism</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Course Description Journalism</b><br>
                                     The course aims at moulding the student for a career in Journalism, both print and broadcasting and in allied fields like Advertising, Film, and Public Relations. The course introduces various facets of the profession of the journalism to the students with theoretical knowledge and on the job training. The course is a part of the four BA triple main combinations and consists of eight subject titles stretching all the semesters. The major papers include Reporting, Editing, Media Laws, Basic Audio-Visual Media and Media Management. Furthermore, the Department stresses a balance between the theoretical and practical elements of journalism and mass communication, and the curriculum is carefully tailored to prepare students for professional or academic careers in communication, giving them the broad liberal arts education necessary to succeed as communicators in today's complex and changing world.</p>
-                                <p align=justify><b>History</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">History</b><br>
                                     Learning history enriches the student to know, understand and delve into the past to meet the challenges of the present competitive world. History helps them to appreciate changes and understand how the society has evolved over a period of time. A course in History provides a detailed study of Indian History as well as the survey of the history of the world in an analytical and comparative approach. It inculcates students to acquire a broad understanding of historical ideas, social and economic developments and popular movements.</p>
-                                <p align=justify><b>Tourism</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Tourism</b><br>
                                     A theoretical course with practical essence, Tourism is a new addition to Kristu Jayanti curriculum. Students with an explorative and adventurous blend of mind, immerse themselves in the study of tours and travels of the world.</p>
-                                <p><b>Eligibility Criteria</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
                                 
                                 <center><p><a href="curriculum/overview_ba_htj_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- HTJ 2015 - 18</a></p></center>

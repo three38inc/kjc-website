@@ -86,33 +86,33 @@
 								
 								<p>To achieve academic excellence the following teaching methods have been followed</p>
 
-								<p align=justify><b>Class Room Teaching</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Class Room Teaching</b><br>
 									Class room teaching follows traditional lecture method with latest technologies like ICT resources.</p>
 
-								<p align=justify><b>Projects</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;"></b><br>
 									Students are asked to complete at least two non-academic projects during vacation along with their regular projects. They should submit the synopsis in the beginning of the project term and every week the review be conducted.</p>
 
-								<p align=justify><b>Practical Sessions</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Practical Sessions</b><br>
 									Wi-Fi enabled labs upgraded with all new software helps the students to do their practicals in all the subjects with the guidance from the dedicated faculty members. List of practical programs given in the syllabus is executed in the lab. The logic and the description are given by the teacher and the program is written and debugged by the students.</p>
 
-								<p align=justify><b>Student's seminar</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Student's seminar</b><br>
 									Apart from lecture method students are given some sessions to show their knowledge and presentation skills through some seminar. The topics for seminar to be selected either from the syllabus or from the current topics related to the subjects.</p>
 
-								<p align=justify><b>Assignments</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Assignments</b><br>
 									Assignments are given as part of internal assessment. Assignment topics are given from the topics related to the subjects either from syllabus or from current events.</p>
 
 
 
-								<p align=justify><b>Peer group teaching</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Peer group teaching</b><br>
 									Peer group teaching is teaching the students by the students. Students are divided into different groups and those who are good in particular software or subjects will lead the group and help the students to excel in their area of interest. </p>
 
-								<p align=justify><b>Guest Lectures</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest Lectures</b><br>
 									Some topics which are highly related to industry and very new technology are handled by the experts from industry or the specialist in that particular subject.</p>
 
-								<p><b>Remedial Classes</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Remedial Classes</b><br>
 									For weak students separate remedial classes are conducted.</p>
 
-								<p align=justify><b>Discussion forum </b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Discussion forum </b><br>
 									It is also a method of teaching in which a topic related to the syllabus is asked to discuss by a group of students randomly chosen from the class. The group of students has to discuss all aspects and also should answer the questions and queries raised by the rest of the class. This activity makes the learning a fun and informative.</p>
 
 
