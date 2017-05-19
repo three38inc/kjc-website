@@ -111,7 +111,7 @@
                                         <p><a class="a-link-arrow" href="hindi.php">Hindi </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="history.php">History </a></p>
+                                        <p><a class="a-link-arrow" href="history.php" style="color: #2980b9;font-weight: bold;">History </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="political_science.php">Political Science</a></p>

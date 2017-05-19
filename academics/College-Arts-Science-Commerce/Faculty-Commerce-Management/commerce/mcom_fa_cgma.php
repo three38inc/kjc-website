@@ -175,7 +175,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
+                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php" style="color: #2980b9;font-weight: bold;">M.Com (FA with CGMA)
                                             </a></p>
                                     </section>
 

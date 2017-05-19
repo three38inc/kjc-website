@@ -619,7 +619,7 @@ The seminar on Cloud Computing was conducted by eminent resource personals from 
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="guest_lectures.php">Guest Lectures</a></p>
+                                        <p><a class="a-link-arrow" href="guest_lectures.php" style="color: #2980b9;font-weight: bold;">Guest Lectures</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

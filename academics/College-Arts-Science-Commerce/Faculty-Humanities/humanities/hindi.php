@@ -110,7 +110,7 @@ c) Essay Writing <br>
                                         <p><a class="a-link-arrow" href="kannada.php">Kannada </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="hindi.php">Hindi </a></p>
+                                        <p><a class="a-link-arrow" href="hindi.php" style="color: #2980b9;font-weight: bold;">Hindi </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="history.php">History </a></p>

@@ -137,7 +137,7 @@ c. Lab: Radio Documentary production<br>
                                         <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPolEng</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>
+                                        <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php" style="color: #2980b9;font-weight: bold;">MA Journalism & Mass Communication</a></p>
                                     </section> </div>
                                 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">

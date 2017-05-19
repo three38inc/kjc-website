@@ -184,7 +184,7 @@ Getting Acquainted with Excel <br>
                                         <p><a class="a-link-arrow" href="syllabus.php">Syllabus</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="certificate_programme.php">Certificate Programme</a></p>
+                                        <p><a class="a-link-arrow" href="certificate_programme.php" style="color: #2980b9;font-weight: bold;">Certificate Programme</a></p>
                                     </section>
                                    
                                     <section class="link-arrow">

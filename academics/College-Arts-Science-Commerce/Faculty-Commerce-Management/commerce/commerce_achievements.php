@@ -326,7 +326,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_achievements.php" style="color: #2980b9;font-weight: bold;"> Achievements </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>

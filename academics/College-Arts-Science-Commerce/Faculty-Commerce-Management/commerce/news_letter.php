@@ -251,7 +251,7 @@
                                         <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news_letter.php"> News Letter </a></p>
+                                        <p><a class="a-link-arrow" href="news_letter.php" style="color: #2980b9;font-weight: bold;"> News Letter </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>

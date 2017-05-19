@@ -101,7 +101,7 @@
                                         <p><a class="a-link-arrow" href="national_conference.php">National Conference</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="international_conference.php">International Conference</a></p>
+                                        <p><a class="a-link-arrow" href="international_conference.php" style="color: #2980b9;font-weight: bold;">International Conference</a></p>
                                     </section>
                                    
                                     <section class="link-arrow">

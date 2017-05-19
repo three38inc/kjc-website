@@ -153,7 +153,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
+                                        <p><a class="a-link-arrow" href="ma_english_literature.php" style="color: #2980b9;font-weight: bold;">MA English Literature</a></p>
                                     </section>
                                         
                                      </div></div>

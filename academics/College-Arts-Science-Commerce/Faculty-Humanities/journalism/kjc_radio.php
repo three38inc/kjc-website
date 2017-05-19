@@ -146,7 +146,7 @@
                                     </section>
                                         
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_radio.php">KJC Radio</a></p>
+                                        <p><a class="a-link-arrow" href="kjc_radio.php" style="color: #2980b9;font-weight: bold;">KJC Radio</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

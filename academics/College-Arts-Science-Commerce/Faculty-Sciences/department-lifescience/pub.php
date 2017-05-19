@@ -271,7 +271,7 @@ December 2014</td>
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
+                                        <p><a class="a-link-arrow" href="pub.php" style="color: #2980b9;font-weight: bold;">Publications</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

@@ -246,7 +246,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                        <p><a class="a-link-arrow" href="patent.php" style="color: #2980b9;font-weight: bold;">Patent Recognition</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

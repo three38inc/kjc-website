@@ -155,7 +155,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_tourism.php">B.Com Tourism</a></p>
+                                        <p><a class="a-link-arrow" href="bcom_tourism.php" style="color: #2980b9;font-weight: bold;">B.Com Tourism</a></p>
                                     </section>
 
 

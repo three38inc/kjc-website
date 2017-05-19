@@ -181,7 +181,7 @@
 
 
                                  <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty.php"> Faculty Profile
+                                        <p><a class="a-link-arrow" href="faculty.php" style="color: #2980b9;font-weight: bold;"> Faculty Profile
                                         </a></p>
                                     </section>
 

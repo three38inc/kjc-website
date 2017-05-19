@@ -169,7 +169,7 @@ or<br>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
+                                        <p><a class="a-link-arrow" href="mcom.php" style="color: #2980b9;font-weight: bold;">M.Com</a></p>
                                     </section>
 
 

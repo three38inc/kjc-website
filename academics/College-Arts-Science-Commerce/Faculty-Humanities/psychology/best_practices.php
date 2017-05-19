@@ -440,7 +440,7 @@ Students potential of preparing modules and effective delivery of the same in a 
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="best_practices.php" style="color: #2980b9;font-weight: bold;">Best Practices</a></p>
                                     </section>
 
 

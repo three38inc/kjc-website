@@ -100,7 +100,7 @@
                                     </section>
                                    
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="orientation_program.php">Orientation Program</a></p>
+                                        <p><a class="a-link-arrow" href="orientation_program.php" style="color: #2980b9;font-weight: bold;">Orientation Program</a></p>
                                     </section>
 									
 									 <section class="link-arrow">

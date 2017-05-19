@@ -151,7 +151,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="carer_opportunity.php">Career Opportunity</a></p>
+                                        <p><a class="a-link-arrow" href="carer_opportunity.php" style="color: #2980b9;font-weight: bold;">Career Opportunity</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

@@ -134,7 +134,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bba_integrated.php">BBA CGMA Integrated</a></p>
+                                        <p><a class="a-link-arrow" href="bba_integrated.php" style="color: #2980b9;font-weight: bold;">BBA CGMA Integrated</a></p>
                                     </section>
 
 

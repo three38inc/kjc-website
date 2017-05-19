@@ -174,7 +174,7 @@
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="consultancies_offered.php">Consultancies offered </a></p>
+                                        <p><a class="a-link-arrow" href="consultancies_offered.php" style="color: #2980b9;font-weight: bold;">Consultancies offered </a></p>
                                     </section>
 										
 										

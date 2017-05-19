@@ -137,7 +137,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="students_publications.php">Students Publications</a></p>
+                                        <p><a class="a-link-arrow" href="students_publications.php" style="color: #2980b9;font-weight: bold;">Students Publications</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

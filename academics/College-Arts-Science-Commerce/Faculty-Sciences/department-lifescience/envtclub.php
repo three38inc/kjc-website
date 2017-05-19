@@ -267,7 +267,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php" style="color: #2980b9;font-weight: bold;">Environmental Club</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

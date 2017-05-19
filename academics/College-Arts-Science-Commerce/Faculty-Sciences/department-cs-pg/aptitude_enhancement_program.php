@@ -110,7 +110,7 @@
                                     </section>
 									
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="aptitude_enhancement_program.php">Aptitude Enhancement Program</a></p>
+                                        <p><a class="a-link-arrow" href="aptitude_enhancement_program.php" style="color: #2980b9;font-weight: bold;">Aptitude Enhancement Program</a></p>
                                     </section>
 									
 									 <section class="link-arrow">

@@ -277,7 +277,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_bestpractcies.php"> Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="commerce_bestpractcies.php" style="color: #2980b9;font-weight: bold;"> Best Practices</a></p>
                                     </section>
 
 

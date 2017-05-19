@@ -198,7 +198,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php" style="color: #2980b9;font-weight: bold;">M.Sc., Biotechnology </a></p>
                                     </section>
 
 

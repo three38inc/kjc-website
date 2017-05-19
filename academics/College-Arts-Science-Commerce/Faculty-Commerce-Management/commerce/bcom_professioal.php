@@ -181,7 +181,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bcom_professioal.php">B.Com Professional</a></p>
+                                        <p><a class="a-link-arrow" href="bcom_professioal.php" style="color: #2980b9;font-weight: bold;">B.Com Professional</a></p>
                                     </section>
 
 

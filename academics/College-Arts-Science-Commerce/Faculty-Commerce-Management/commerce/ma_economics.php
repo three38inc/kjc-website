@@ -183,7 +183,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
+                                        <p><a class="a-link-arrow" href="ma_economics.php" style="color: #2980b9;font-weight: bold;">MA Economics</a></p>
                                     </section>
 
                                 </div>

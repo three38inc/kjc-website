@@ -171,7 +171,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="club_association.php">Club and Association</a></p>
+                                        <p><a class="a-link-arrow" href="club_association.php" style="color: #2980b9;font-weight: bold;">Club and Association</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

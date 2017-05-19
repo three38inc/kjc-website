@@ -212,7 +212,7 @@
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_vision_mission.php"> Vision, Mission &amp; Goals   </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_vision_mission.php" style="color: #2980b9;font-weight: bold;"> Vision, Mission &amp; Goals   </a></p>
                                     </section>
 
 

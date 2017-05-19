@@ -204,7 +204,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="department_magazine.php">Department Magazine</a></p>
+                                        <p><a class="a-link-arrow" href="department_magazine.php" style="color: #2980b9;font-weight: bold;">Department Magazine</a></p>
                                     </section> 
                                     
                                     

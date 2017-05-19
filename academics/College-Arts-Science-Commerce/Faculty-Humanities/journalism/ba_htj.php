@@ -104,7 +104,7 @@
                                         <span>&nbsp; <strong>Programs Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="ba_htj.php" style="color: #2980b9;font-weight: bold;">BA HTJ</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ba_jpcs.php">BA JPCS</a></p>

@@ -171,7 +171,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="association.php">Association</a></p>
+                                        <p><a class="a-link-arrow" href="association.php" style="color: #2980b9;font-weight: bold;">Association</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">
