@@ -12,11 +12,11 @@
             <span class="date">30<sup>th</sup> March 2017</span>
             <div class="quote">
                 <a href="../highlights/social_work_camp_2017.php"><h4>Social Work Camp 2017<br/><small>
-				The Social Work Camp organized by the Department of Social Work, Kristu Jayanti College, Bangalore..</small></h4></a>
+                    The Social Work Camp organized by the Department of Social Work, Kristu Jayanti College, Bangalore..</small></h4></a>
             </div>
         </li>
         <li>
-            <img src="../highlights/2017/socialwork_camp_2017.jpg" class="img-responsive"/>
+            <img src="../highlights/2017/fdp_analysis_natural_sciences.jpg" class="img-responsive"/>
             <span class="date">20<sup>th</sup> March 2017</span>
             <div class="quote">
               <a href="../highlights/fdp_data_analysis_natural_sciences.php"><h4>FDP on Data Analysis In<br> Natural Sciences<br/><small>The Department of Life Sciences conducted Faculty Development Programme on Data Analysis..</small></h4></a>
@@ -60,7 +60,7 @@
         </li>
 		
 		<li>
-            <img src="../highlights/2017/sustainable_development.jpg" class="img-responsive"/>
+            <img src="../highlights/2017/environmental_awarencesday.jpg" class="img-responsive"/>
             <span class="date">23 Feb 2017</span>
             <div class="quote">
                 <a href="../highlights/environmental_awareness.php"><h4>Environmental Awareness<br> Day- The Kristu Jayanti Way<br/><small>Nature was respected for all its valuable resources by our ancestors. But when man's greed took over,..
@@ -69,7 +69,7 @@
         </li>
 		
 		<li>
-            <img src="../highlights/2017/sustainable_development.jpg" class="img-responsive"/>
+            <img src="../highlights/2017/national_seminar_biofilm_technology.jpg" class="img-responsive"/>
             <span class="date">25 Feb 2017</span>
             <div class="quote">
                 <a href="../highlights/biofilm_technology.php"><h4> National Seminar on Biofilm<br> Technology- Problems & <br> Prospects<br/><small>With every event that it organizes, more so in the Life sciences Department, Kristu Jayanti College never fails to use an opportunity to impress and educate..
@@ -177,7 +177,7 @@
         </li>
 		
 		<li>
-            <img src="../highlights/2017/child_protection.jpg" class="img-responsive"/>
+            <img src="../highlights/2017/kurian_joseph.jpg" class="img-responsive"/>
             <span class="date">21 Jan 2017</span>
             <div class="quote">
                 <a href="../highlights/32edition_vichaarmanthan.php"><h4> 32<sup>nd</sup> edition of<br> Vichaarmanthan<br/><small>The event was titled on the theme 'Fundamental Duties'. The Honorable Justice emphasized the importance of the duties and responsibilities associated with being a citizen of India. ..

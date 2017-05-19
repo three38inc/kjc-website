@@ -6,47 +6,9 @@
     <span style="font-size: 20px;">&nbsp;Welcome to <strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College of Law</strong></span>
 </h4>
 <!--<hr />-->
-<p style="text-align:justify;padding-top:5px;"> A key instrument to plan and drive the economic means that portray a globalized
-
-    world is Legislative Law. This has gone under noteworthy weight to change its
-
-    workings, foundations and elements. Legal education in India is at present
-
-    experiencing a transformation phase. Law as a profession is going potential again
-
-    in 21st century because of globalization and this has posed many challenges to
-
-    legal education in India, but has also brought ample opportunities. The Indian
-
-    lawful calling is perhaps the largest in the World.<br/><br/>
-
-    The need for principled lawyers, and for the educational institutions to shape them
-
-    – is especially pressing in India, whose fast economic growth is inseparably
-
-    connected to its more unpredictable association in the worldwide market. One of
-
-    the real obstacles the nation needs to overcome on its way to reasonable
-
-    improvement is unequivocally that of the dearth of talented legitimate experts.<br/><br/>
-
-    The legal education degrees and the curriculum offered at Kristu Jayanti College of
-
-    Law envisions to facilitate India’s need for legal advisors who are able not just at
-
-    understanding the complexities of Law in this new universal situation, but also at
-
-    designing novel approaches to change them to meet the regional peculiarities and
-
-    the country’s worldwide interests. Such experts are sure to play a pivotal role in
-
-    India’s venture to set up manageable, comprehensive advancement.<br><br/>
-
-    Potential legal advisors require legitimate instruction degrees to provide legal
-
-    counsel. The training way ordinarily takes an aggregate of five to seven years to
-
-    finish, including three years of undergraduate programme and two years of Legal
-
-    Education.
-</p>
+<p style="text-align:justify;padding-top:5px;"> Kristu  Jayanti College of Law has been established as an institution to produce top-notch legal experts, who is capable of advancing rule of law and justice. The College’s faculty scholarship, its excellent facilities including a dedicated Law Library, serves to produce tomorrow's leaders in judiciary, academics and industry.</p>
+<p align=justify>Law being the custodian of the society’s collective values, and also a key influencer, driver and regulator of its economic and social development, the importance of high-quality legal education cannot be overstated. Legal education not only produces great academicians, visionary judges and champion lawyers, but also law-abiding citizens, the cornerstone of democracy. Legal education in India, with a long history and proud heritage, has created many brilliant jurists and legal experts, and has shaped a multicultural and socio-economically complex country’s progress as a modern nation. In the process, it has also considerably evolved in its elements, discourses and methodologies. 
+In the 21st century, which was born into a world of globalized trade and services and concomitant value systems, including those regarding a range of key matters, including consumerism, individual rights, democracy and sovereignty, environmental justice and minority rights, the need for state-of-the-art legal education in India has become more evident than ever. </p>
+<p align=justify>At Kristu Jayanti College of Law, we understand that while meeting the critical need for producing principled, qualified, knowledgeable and internationally competitive lawyers, legal education should also serve as the foundation for the development of modern jurisprudence in order to lead the society towards a better and less unequal world. 
+The law programmes offered at the College are designed with such deeper understanding about the emerging world, the changing needs of the society, and the values and aspirations of students. We have law and non-law faculty members, all highly qualified, with an impressive range and years of experience in providing high-quality legal education. The College currently offers dual degrees in B.A.LL.B, B.B.A.LL.B and B.Com LL.B with a keen focus on doctrinal and vocational training.  The courses offered under these programmes are aimed to train the students in constitutional law, international law, corporate and business law, contract law, environmental law etc.
+Welcome to Kristu Jayanti College of Law!</p>
