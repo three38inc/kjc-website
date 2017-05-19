@@ -126,80 +126,104 @@
 													<strong>Hostel Details</strong>
 													<br />
 												</p>
-												<table class="table table-hover table-bordered">
-													<thead>
-														<tr>
-															<th><strong>Name</strong></th>
-															<th><strong>Contact Person</strong></th>
-															<th><strong>Contact No</strong></th>
-														</tr>
-													</thead>
-													<tbody>
-														<tr>
-															<td><strong>Boys</strong><br/>
-																St. Aloysious Boys Hostel<br/>
-																K. Narayanapura<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077<br/><br/><br/>
-
-																RR Residency <br/>
-																K. Narayanapura<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077
-															</td>
-															<td><br/><br/><br/>Mr. Sabu Paul </td>
-															<td><br/><br/><br/>09449031805 <br/>
-																08050501291
-															</td>
-
-														</tr>
-														<tr>
-															<td>
-																<strong>Girls</strong><br/>
-																Navajyothi<br/>
-																K. Narayanapura<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077<br/><br/><br/>
-
-																Pallotinilaya<br/>
-																K. Narayanapura<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077<br/><br/><br/>
-
-																Prajyothi<br/>
-																K. Narayanapura<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077<br/><br/><br/>
-
-																Adrian Nivas (St. Charles convent)<br/>
-																Geddalahalli<br/>
-																Kothanur (PO)<br/>
-																Bangalore - 560 077<br/>
-															</td>
-															<td>
-																<br/><br/><br/>S.H. Sisters<br/><br/><br/>
-																<br/><br/><br/>Palloti Sisters<br/><br/><br/>
-																<br/><br/><br/>St. Anne's Sisters
-																<br/><br/><br/>
-																<br/><br/><br/>St. Charles Sisters
-																<br/><br/><br/>
-															</td>
-															<td>
-																<br/><br/><br/>080-28445829<br/><br/><br/>
-																<br/><br/><br/>080-28465250
-																<br/><br/><br/>
-																<br/><br/><br/>080-28465650
-																<br/><br/><br/>
-																<br/><br/><br/>080-28465328
-																<br/><br/><br/>
-															</td>
-														</tr>
-
-													</tbody>
-												</table>
-											
-
-
+									
+									
+									<table border="1" cellpadding="2" cellspacing="2" class="table table-hover table-bordered">
+        <tr>
+        <td width="200"><b><center>Name of the Hostel</center></b></td>
+        <td width="200"><b><center>Managed by</center></b></td>
+        <td width="100"><b><center>Contact Nos.</center></b></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Boys:</u></b><br />
+<b>St. Aloysious Boys Hostel</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Mr. Sabu Paul</center> </td>
+        <td width="100"><center><b>09449031805<br />
+08050501291</b></center></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Boys:</u></b><br />
+<b>RR Residency</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Mr. Thomas Mathew</center> </td>
+        <td width="100"><center><b>09449550771<br /> 
+        28443519</b></center></td>
+        </tr>
+        </table><br />
+        
+        <table border="1" cellpadding="2" cellspacing="2" class="table table-hover table-bordered">
+        <tr>
+        <td width="200"><b><center>Name of the Hostel</center></b></td>
+        <td width="200"><b><center>Managed by</center></b></td>
+        <td width="100"><b><center>Contact Nos.</center></b></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>St. Mary's Study House</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Managed by Kristu Jayanti College Run by PHJC Sisters</center> </td>
+        <td width="100"><center><b>9632265475<br />
+28444134</b></center></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>Navajyothi</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Managed and Run by S.H. Sisters</center> </td>
+        <td width="100"><center><b>9900759092<br /> 
+        28445829</b></center></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>Pallotti Study House</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Managed and Run by Pallotti Sisters</center> </td>
+        <td width="100"><center><b>9980666752</b>
+       </center></td>
+        </tr>
+        <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>Prajyothi Study House</b><br />
+K. Narayanapura
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Managed and Run by St. Ann's Sisters</center> </td>
+        <td width="100"><center><b>8553175572</b>
+       </center></td>
+        </tr>
+         <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>Adrian Nivas (St. Charles convent)</b><br />
+Geddalahalli
+Kothanur (PO)
+Bangalore - 560 077
+</td>
+        <td width="200"><center>Managed and Run by St. Charles Sisters</center> </td>
+        <td width="100"><center><b>09449608879<br />
+080-28465328</b>
+       </center></td>
+        </tr>
+        </table><br />
+			
+									
+		
 									
 								</div>
 							</div>
