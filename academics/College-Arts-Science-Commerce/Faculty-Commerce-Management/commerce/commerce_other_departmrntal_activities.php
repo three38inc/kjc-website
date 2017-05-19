@@ -128,7 +128,7 @@
 
                                     <br/>
                                     <p align="justify">
-                                        <strong>Kite Festival:</strong>
+										<b style="color: #cd6e08;font-weight: bold;">Kite Festival:</b>
 
                                     </p>
                                     <ul>
@@ -139,7 +139,7 @@
 
                                     </ul>
                                     <p align="justify">
-                                        <strong>Industrial Visits:</strong>
+										<b style="color: #cd6e08;font-weight: bold;">Industrial Visits:</b>
 
                                     </p>
                                     <ul>

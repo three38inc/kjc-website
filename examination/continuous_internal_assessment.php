@@ -119,9 +119,9 @@
 
 									<p align=justify>Exception for the above marks distribution occurs for the MBA and PGDM programme courses which have 2 or 3 credits where in the courses are evaluated out of 75 marks where 50 marks will be based on the End Trimester Examination and 25 marks will be based on the Continuous Internal Assessment.</p>
 
-									<p align=justify><b>Non Core Course:</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Non Core Course:</b><br>
 										Non Core theory courses of the Under Graduate Programmes are evaluated out of 50 marks where 45 marks will be based on the End Semester Examination and 5 marks will be based on the Continuous Internal Assessment (one assignment evaluated out of 5 marks). The marks secured for these courses are not considered for the grand total. But student should secure a pass status for the same for awarding the degree.</p>
-									<p><b>CIA Components - UG Programme</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">CIA Components - UG Programme</b><br>
 										CIA(Theory Course): Under Graduate Programme</p>
 									
  <table class="table table-bordered">

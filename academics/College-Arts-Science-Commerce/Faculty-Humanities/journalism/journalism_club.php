@@ -86,7 +86,7 @@
                                 
                                 <p align=justify>The main objective of the journalism club is to empower the media aspirants in KristuJayanti College with creative talents. Towards this end, the club regularly provides myriad opportunities to understand the latest developments in the media scenario, both in style and content. Activities like mock press, public communication for social transformation, debates, newsletter publishing, Ad campaigns, quizzes etc. are a few events where students get opportunities to become more expressive. The club also conducts regular workshops and seminars for the journalists to attain hands on experience. Moreover, every year the club organizes summer internship plan for budding journalists.</p>
                        
-                                <p align=justify><b>Film and Photography Club </b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Film and Photography Club </b><br>
                                     Film and Photography Club organizes regular screening of artistic cinema, documentaries and photo exhibitions. This forum provides the students an opportunity to watch, discuss and review films and photography. Moreover, it is a fantastic Launchpad for the student aspirants in the field, exposing them to liberal arts and critical thinking.</p>
 
                               

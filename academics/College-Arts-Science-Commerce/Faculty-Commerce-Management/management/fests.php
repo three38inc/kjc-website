@@ -114,9 +114,9 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Fests</span>
                                     </h4>
-                                 <p><b>Acumen:</b><br>
+                                 <p><b style="color: #cd6e08;font-weight: bold;">Acumen:</b><br>
                                         Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
-                                    <p><b>Prodigy:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Prodigy:</b><br>
                                         Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore. </p>
 
                                 </div>

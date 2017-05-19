@@ -127,16 +127,16 @@
                                     </h4>
 
                                   
-									<p align=justify><b> 1. Objective</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;"> 1. Objective</b><br>
 										The broad objectives of M.Com (Financial Analysis) programme is to impart students' with professional education and training in various aspects of business and its environment. It also provides them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
 
-									<p align=justify><b>2. Eligibility for Admission</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">2. Eligibility for Admission</b><br>
 										A candidate who has passed the B.Com/B.B.M/BBA/BBS Degree examination of Bangalore University or of any other University recognized as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat-I students and blind students the minimum percentage of marks required shall be less by 5%.</p>
 
-									<p align=justify><b>3.Internship Training</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">3.Internship Training</b><br>
 										Each student will select one business unit - a manufacturing or service organization for his or her training after the second semester. The student will study the organizational structure, financial position, information systems, customer profile, profile of competitors and the like, besides studying the marketing, HR and operations practices and submit a report in the beginning of third semester which will be evaluated for 50 marks. The marks is added to the total marks of the second semester.</p>
 
-									<p align=justify><b>4. Dissertation</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">4. Dissertation</b><br>
 										Each candidate is required to develop a case in finance/accounting/banking and analyse the same with probable solutions and submit a report based on the research findings during the fourth semester. This will be evaluated for 60 marks. Viva voce examination will be conducted for 40 marks.</p>
 									
 									<center><p><a href="curriculum/com_fa_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com (Financial Analysis) 2015-17  </a></p></center>

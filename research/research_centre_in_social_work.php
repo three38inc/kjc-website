@@ -125,7 +125,7 @@
 
 												The Bangalore University with its notification number No.Aca-111/A1/R.C/K.J.C/2007-08 dated 5th November 2007 has approved the proposal of Kristu Jayanti College to start a research center for the purpose of PhD programme in Social Work of Bangalore University. Accordingly, the department of Social Work of Kristu Jayanti College has initiated activities on PhD programme.<br /><br />
 
-												<strong>Admission Procedure</strong><br />
+										<b style="color: #cd6e08;font-weight: bold;">Admission Procedure</b><br />
 											<ul>
 												<li>The candidates for PhD programme will be admitted through Bangalore University.</li>
 												<li>The candidates desiring to do their PhD in social work through Kristu Jayanti College will be required to appear for the written test conducted periodically by the university.</li>

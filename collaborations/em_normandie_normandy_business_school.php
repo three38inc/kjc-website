@@ -120,7 +120,7 @@
 <b>*</b> Personal decelopment and coaching in communication skills.<br>
 										With its network of nearly 150 international partner institutions, EM NORMANDIE has developed a wide range of teaching and research programmes grounded in the assets of the region and the quality of its staff.</p>
 
-									<p><b>Our mission is to create a Global Village by:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Our mission is to create a Global Village by:</b><br>
 <b>*</b> providing incoming and outgoing students with an opportunity to widen their world view and life experience.<br>
 <b>*</b> Facilitating students integration into new cultures and new pedagogical systems, while encouraging student autonomy, responsibility and sensitivity.<br>
 <b>*</b> Cultivating mutually rewarding international academic partnerships which promote the exchange of students and foster collaboration in research and teaching experise between faculty members.<br>
@@ -130,7 +130,7 @@
 									
 								<center><img src="images/loc.jpg"></center>
 									
-									<p><b>Undergraduate programmes</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Undergraduate programmes</b></p>
 
 									<p><b>1) BACHELOR in EUROPEAN BUSINESS (EURO BA)</b><br>
 Format and Objectives A 2-semester course intended as the final year of an undergraduate business education at bachelor level. The focus is on business in the enlarged European context.<br>
@@ -147,30 +147,30 @@ Format and Objectives A 2-semester course intended as the final year of an under
 									<p><b>1) MASTER in Cross - Cultural marketing and Negotiation - Year 2</b><br>
 Format and Objectives A 2-semester course intended as the final year of an undergraduate business education at bachelor level. The focus is on business in the enlarged European context.<br>
 										An ideal springboard for doing business or further master's studies in Europe.</p>
-									<p><b>2) MASTER in International Business - Year 2</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">2) MASTER in International Business - Year 2</b><br>
 										Format and Objectives A 1-year programme designed for Middle Managers and team leaders intending to work internationally which provides students with not only theoretical knowledge but also operational training.</p>
 
-									<p><b>3) MASTER in Supply Chain Management/International Logistics and Crisis</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">3) MASTER in Supply Chain Management/International Logistics and Crisis</b><br>
 Management - Year 2<br>
 Format and Objectives 2 options:<br>
 * Supply Chain Management: Focuses on the strategic role of operations management networks and global supply and demand networks.<br>
 										* International Logistics and Crisis Management: The students will have all the tools and methods to actively participate in dynamic and sustainable decision-making sectors.</p>
 
-									<p><b>4) MASTER in Marketing and Sales Management - Year 2</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">4) MASTER in Marketing and Sales Management - Year 2</b><br>
 										Format and Objectives Designed to develop future manager's professional skills in Marketing and Sales for fast and high-quality integration into the labor market, promote their entrepreneurial and innovative spirit so as to contribute to business development</p>.
 
-									<p><b>5) MASTER in Finance - Year 2</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">5) MASTER in Finance - Year 2</b><br>
 Format and Objectives<br>
 We offer two majors in Finance:<br>
 * Audit and Corporate Finance (Le Havre)<br>
 * International Corporate Finance (Caen).<br>
 										Programs designed to prepare students to work in audit, cost control, banking & corporate finance sectors with operational and management responsibilities.</p>
 
-									<p><b>6) MASTER in Human Resource and Skills Management - Year 2</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">6) MASTER in Human Resource and Skills Management - Year 2</b><br>
 Format and Objectives<br>
 										A 1-year programme designed for Human Resource Managers, team leaders and Business Department Managers alike, intending to examine HRM tools from a skills management perspective.</p>
 
-									<p><b>7) MASTER in Entrepreneurship - Year 2</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">7) MASTER in Entrepreneurship - Year 2</b><br>
 Format and Objectives<br>
 										A 1-year programme which provides students wih operational as well as theoretical training. Students develop business diagnostic and auditing skills, management responsibility and a global vision of the enterprise. Optional individual coaching for business start-up or company acquisition.</p>
 									

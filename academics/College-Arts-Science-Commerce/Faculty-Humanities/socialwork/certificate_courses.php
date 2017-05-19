@@ -98,9 +98,9 @@ Certificate Course in Corporate Social Responsibility<br>
 Certificate Course in Training & Development<br>
 	Certificate Course in Disaster Management</p>
 
-								<p><b>Duration:</b> 30 Hours<br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Duration:</b> 30 Hours<br>
 
-									<b>Credits:</b> 3<br>
+									<b style="color: #cd6e08;font-weight: bold;">Credits:</b> 3<br>
 
 									For more details on course contents, eligibility, class timings and registration procedure please get in touch with the Head of the department </p>
 

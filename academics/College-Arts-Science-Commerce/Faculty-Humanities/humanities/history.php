@@ -85,7 +85,7 @@
                                     <span>&nbsp; <strong>History</strong></span></h4>
                                 
                                 <p align=justify>The department of History offers degree courses under BA HEP & HTJ from the academic year 2006- 2007. The two new courses were offered to meet the growing demand for Humanities courses in Kristu Jayanti College. The Department of History is committed to bring historical knowledge into conversation with issues of contemporary relevance. The college aims to train young men and women to develop wholesome personality committed towards excellence.</p>
-                                <p><b>Department Activities </b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Department Activities </b><br>
 1.	Guest Lecture on contemporary topics<br>
 2.	Workshop on Archaeology, Numismatics, Manuscripts<br>
 3.	Field Visit – Wyanad, Belur, Halebidu, Sravanabelagola, Hampi<br>

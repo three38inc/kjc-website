@@ -90,7 +90,7 @@
 Social Development<br>
 									Medical and Psychiatric Social Work</p>
 
-								<p><b>Eligibility</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br>
 									A candidate who has passed bachelors degree with 50 % marks is eligible to seek admission to the course.</p>
 								
                                <center><p><a href="curriculum/msw_syllabus_2015_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of MSW  2015-17</a></p></center>

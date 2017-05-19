@@ -117,13 +117,13 @@
 									<p align=justify>Language is essential for expressing ideas, opinions, views and emotions. English is the most common medium in today's educational scenario. The under graduate students are given in-house training by our own efficient faculties. We offer special coaching for the students who are weak in English. They are trained in both oral and aural skills giving due importance to grammar. They are also well trained in writing skills like report writing, speeches, articles, captions etc. Teachers function as counselors who give feedback and evaluate the students to bring out their best. Our aim is to empower students to use English in order to understand information, to express themselves orally and to communicate with native and non-native speakers.</p>
 
 									<p align=justify>For the benefit of MBA and MCA students our college collaborates with highly reputed and leading institution for their language skills. They are trained focusing more on aptitude tests, interview and presentation skills, personality development etc. They are moulded in such a way to meet the demands of the challenging corporate world. They are given opportunity to tailor their language skills more to their learning needs.</p>
-									<p><b>Kannada Kali</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Kannada Kali</b><br>
 
 										If we feel to do something wonderful to the state where we live and earn, we have to love ,teach and learn the local language of this state. Special coaching is given in Kannada by well qualified and experienced teachers of our college. Both students and staff are benefited out of this class which is conducted twice a week.</p>
-									<p><b>Foreign Languages</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Foreign Languages</b><br>
 
 										A major reason behind learning a foreign language is to be able to communicate in that language. Knowing the other person's language shows that you respect the language and also puts the other at ease. Our College offers classes in foreign languages such as French, German and Korean during weekends to facilitate and encourage those students who come from different partS of the country to do well in their second language.</p>
-									<p><b>Staff</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Staff</b><br>
 										Our teachers are native and very proficient non-native speakers who make language learning interesting and enjoyable. They are well qualified experienced and committed to help you to develop your language skills, so you can advance your career and achieve your ambitions.</p>
 
 									<p>With its highly interactive classes, dynamic staff and supportive learning environment the Language learning Centre invites you to embark on a journey of lifetime. Learn a Language or improve the one that you already know.</p>

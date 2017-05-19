@@ -76,8 +76,8 @@
 										<hr />
 										<div class="inner-content">
 											<p> 
-												<strong>Professional Coaching Centre
-												</strong><br/><br/>
+											<b style="color: #cd6e08;font-weight: bold;">Professional Coaching Centre
+												</b><br/><br/>
 											The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes for CAT/MAT and other MBA entrance exams in association with 'TIME,' and introductory coaching classes for Civil Services Examination.<br /><br />
 												To utilize the opportunities available in the corporate sector, the college provides coaching for students in 'Company Secretaryship Foundation Course'. The college is accredited to the Institute of Company Secretaryship of India, New Delhi.<br /><br />
 												The material and books for competitive exams have been allocated a separate section in the library for easy access. The placement cell of the institution notifies the students and provides information about competitive exams.<br /><br />

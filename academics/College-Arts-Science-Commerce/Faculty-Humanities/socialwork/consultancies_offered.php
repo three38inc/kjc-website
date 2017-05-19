@@ -87,14 +87,14 @@
 								
 								<p><b>The Department provides consultancy in the following areas</b><br>
 
-								<p><b>For NGOS</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">For NGOS</b><br>
 <b>*</b> Community need assessment surveys<br>
 <b>*</b> Beneficiary identification & verification researches<br>
 <b>*</b> Project monitoring & evaluation<br>
 <b>*</b> Preparation of Project Proposal & Sourcing Funds<br>
 									Capacity Mapping & SWOT Analysis</p>
 
-								<p><b>For Corporates</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">For Corporates</b><br>
 <b>*</b> CSR: Need Assessment Survey<br>
 <b>*</b> CSR: Stakeholder satisfaction survey<br>
 <b>*</b> CSR: Impact Assessment of the project<br>
@@ -102,7 +102,7 @@
 <b>*</b> Gender Sensitisation Workshops<br>
 									<b>*</b> Life Skills Education for Psycho Social Well Being</p>
 
-								<p><b>For Academic Institutions</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">For Academic Institutions</b><br>
 <b>*</b> Educational Leadership (For Principals& Administrators)<br>
 <b>*</b> Psycho Social Understanding of Gen Y Learners<br>
 <b>*</b> Class Room Management (CRM)<br>

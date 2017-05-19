@@ -85,13 +85,13 @@
                                     <span>&nbsp; BA  <strong>-Program offered </strong></span></h4>
                                     
                               
-   <p><b>Graduate Programme (BA)</b><br>
+   <p><b style="color: #cd6e08;font-weight: bold;">Graduate Programme (BA)</b><br>
 Psychology is one of the core subjects in the bachelor's programme (duration of three years) offered in the combinations:<br>
 JPCS (Journalism, Psychology, Computer Science), and<br>
                                     JPEng. (Journalism, Psychology, Optional English)</p>
-                                <p><b>Eligibility:</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Eligibility:</b><br>
                                     Students securing at least 40% aggregate marks, including languages, in P.U.C/10+2/ or equivalent courses are eligible for the programme.</p>
-                                <p><b>Syllabus:</b></p>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Syllabus:</b></p>
                                   <table class="table table-bordered">
   <thead>
     <tr>

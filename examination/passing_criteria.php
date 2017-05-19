@@ -115,18 +115,18 @@
                                         <span>&nbsp; Passing <strong> Criteria</strong></span>
                                     </h4>
 
-									<p><b>Passing Minimum for UG</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Passing Minimum for UG</b><br>
 * No minimum passmark for CIA<br>
 										* ESE (End Semester Examination) alone 35%</p>
 
 <p>* 25 marks out of 70<br>
 	* (ESE + CIA) aggregate 40% or 40 marks out of 100</p>
 
-									<p><b>Passing Minimum for PG</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Passing Minimum for PG</b><br>
 * No minimum pass mark for CIA<br>
 * ESE (End Semester Examination) alone 40%</p>
 
-									<p><b>Pass Status for a Programme</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Pass Status for a Programme</b><br>
 										The student must acquire the total number of credits allotted for the programme for achieving the degree.</p>
                                 </div>
                             </div>

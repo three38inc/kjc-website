@@ -85,16 +85,16 @@
                                     <span>&nbsp; Collaboration  <strong> and Linkage </strong></span></h4>
 								
 								<p>The Department has collaborated with various professional bodies to enhance the knowledge sharing experience of the students.</p>
-								<p align=justify><b>•	IEEE Student Branch (STB18221)</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">•	IEEE Student Branch (STB18221)</b><br>
 									Kristu Jayanti College - IEEE Student Branch aims to be an active technical community that provides knowledge and foster technical and professional development. It also aims in inculcating social awareness among the student community. As an initiative we have started IEEE student branch with 12 student members and we would like to add many numbers of students in the near future. </p>
 
-								<p align=justify><b>Who we are?</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Who we are?</b><br>
 									We are a combined association of faculty members along with the enthusiastic students of our department, Kristu Jayanti College, Bangalore. We strive for creating technology for the people and people for technology.</p>
 
-								<p align=justify><b>What we do?</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">What we do?</b><br>
 									We at Kristu Jayanti believe in building technology for people and people for technology. The branch activities offer numerous educational, technical, and professional opportunities through various events.</p>
 
-								<p align=justify><b>What have we done?</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">What have we done?</b><br>
 									Workshops in popular areas, distinguished lectures and student competitions are few regular events which this branch pursues with highest order of energy and expected outcomes. National and international level workshops and conferences are some of the milestones which we would really like to reach soon.</p>
 
 								<p align=justify>The department has academic linkage with IEEE Bangalore Chapter (R10) and conducts various activities like IEEE International Conference, workshops and seminars etc. current academic year the following activities were conducted.</p>

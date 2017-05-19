@@ -85,7 +85,7 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Best <strong> Practices </strong></span></h4>
 								
-								<p><b>Students</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Students</b><br>
 									Course Initiation Project That Helps Them To Identify Their Interest Areas in Social Work Field<br>
 <b>*</b> Functional Kannada Classes Non Kannada Students To Make Their Field Work Placements More Productive<br>
 <b>*</b> Life Skills Education All The MSW Students At The Beginning Of The Course<br>
@@ -94,7 +94,7 @@
 <b>*</b> Mithra Milan Program Which Fosters Regular Interaction With The Field Work Agencies<br>
 								<b>*</b>	Know Your Alumni Program Which Connects The Alumni And The Students Regularly Through Guest Lectures</p>
 
-								<p><b>Faculty Members</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Faculty Members</b><br>
 <b>*</b> Counselling Services Offered the Faculty Members To The Students, Teachers, And Outsiders.<br>
 <b>*</b> Consultancy Work Done Faculty Members In Research, Training And CSR Activities<br>
 <b>*</b> Membership In National And International Professional Bodies<br>

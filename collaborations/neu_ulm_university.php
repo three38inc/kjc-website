@@ -115,7 +115,7 @@
                                         <span>&nbsp;Neu-Ulm University of <strong>  Applied Sciences, Germany</strong></span></h4>
 									<p align=justify>The Neu-Ulm University of Applied Sciences (HNU) is an international business school which welcomes students from all over Germany and the world. Our aim is to educate students who are keen on results and to prepare them throughly for their future roles in management. Our bachelor and master's programmes are strongly grounded in the practical application of academic theory.</p>
 
-									<p><b>Courses taught in English</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Courses taught in English</b><br>
 
 Lectures at the HNU are either given in German or, in many cases, in English only.<br>
 In 'Business studies' (B.A.) four entire focus fields are held in English:<br>
@@ -132,9 +132,9 @@ International management and leadership<br>
 
 									<p>The range of courses in English is complemented by a number of optional courses, e.g.'Corporate finance','Cross-cultural aspects of business' and 'Managerial economics'.</p>
 
-									<p><b>Studying at the HNU</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Studying at the HNU</b></p>
 
-									<p><b>Academic departments</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Academic departments</b><br>
 The Neu-Ulm University of Applied Sciences consists of the following academic departments:<br>
 Department of Business and Economics<br>
 Department of Information management<br>
@@ -143,13 +143,13 @@ Department of Healthcare management<br>
 
 									<p>Undergraduate programmes usually take seven semester to complete, including one internship and the final thesis, whereas the master's degree requires four semesters of study. The part-time professional degree programmes take four to six semesters, depending on the programme.</p>
 
-									<p><b>HNU academic calendar</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">HNU academic calendar</b><br>
 The academic year at HNU consists of a summer and a winter semester.<br>
 Teaching period summer semester: mid-March to mid-July<br>
 Teaching period winter semester: October to mid-February<br>
 										For our international students, the International office holds welcoming weeks prior to the beginning of the teaching period.</p>
 
-									<p><b>Degree programmes</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Degree programmes</b><br>
 Bachelor majors<br>
 Business studies(B.A.)<br>
 Industrial engineering | Production (B.Sc.)*<br>
@@ -161,7 +161,7 @@ Information management in healthcare(B.Sc.)*<br>
 Healthcare management (B.A.)<br>
 										Management for health and care professional (B.A.) (part time)</p>
 
-									<p><b>Master majors</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Master majors</b><br>
 Master of advanced management (M.Sc.)<br>
 Business studies for engineers and other non-business professionals (MBA) (part-time)<br>
 Strategic information management (MBA) (part-time)<br>

@@ -122,7 +122,7 @@
 									
 									<center><img src="images/fhdw.jpg"></center>
 									
-									<p><b>Course of Studies</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Course of Studies</b><br>
 I. Dual Bachelor Programme<br>
 (Quarterly Change between theoretical and practical phases)<br>
 a) Bachelor of Arts (B.A.) Business Administration<br>

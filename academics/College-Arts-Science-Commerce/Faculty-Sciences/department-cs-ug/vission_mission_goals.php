@@ -85,11 +85,11 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Vision,Mission and<strong> Goals </strong></span></h4>
                                
-                                <p><b>VISION: </b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">VISION: </b><br>
                                     To provide quality education that enhances intellectual capabilities and career opportunities moulding prolific and ethical individuals.</p>
-                                <p><b>MISSION: </b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">MISSION: </b><br>
                                     To ensure intellectual, ethical, high quality education and career growth of the students</p>
-                                <p><b>GOALS:</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">GOALS:</b><br>
                                     <li> To continuously update the  knowledge through innovative curriculum design.</li>
                                     <li> To demonstrate mastery of computing skills.</li>
                                     <li> To educate ethical and social implication in usage of computers.</li>

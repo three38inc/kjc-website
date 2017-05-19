@@ -85,13 +85,13 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Vision <strong> , Mission & Goals </strong></span></h4>
 								
-								<p><b>Vision</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Vision</b><br>
 									To reflect constantly on theory, research and practice in Social Work by focusing on the social justice foundation of the profession.</p>
 
-								<p><b>Mission</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Mission</b><br>
 									To develop reflective Social Work practitioners' and social care workforce.</p>
 
-								<p><b>Goals</b><br>
+								<p><b style="color: #cd6e08;font-weight: bold;">Goals</b><br>
 1. To link theory, practice and research in Social Work<br>
 2. To prepare Social Workers with ethical competence<br>
 3. To engage actively in Social Work research and training<br>

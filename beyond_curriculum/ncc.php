@@ -123,17 +123,17 @@
 									<p align=justify><b>About NCC  </b><br>
 										The National Cadet Corps is the Indian military cadet corps with its Headquarters at New Delhi, India. It is open to school and college students on voluntary basis. National Cadet Corps is a Tri-Services Organization, comprising the Army, Navy and Air Force engaged in grooming the youth of the country into disciplined and patriotic citizens. The National Cadet Corps in India is a voluntary organization which recruits cadets from high schools, colleges and universities all over India. The Cadets are given basic military training in small arms and parades. The officers and cadets have no liability for active military service once they complete their course but are given preference over normal candidates during selections based on the achievements in the corps.</p>
 									
-									<p><b>Moto of NCC:</b> Unity and Discipline</p>
-									<p><b>NCC Army Wing</b><br>  
+									<p><b style="color: #cd6e08;font-weight: bold;">Moto of NCC:</b> Unity and Discipline</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">NCC Army Wing</b><br>  
 										NCC is engaged in grooming the youth into disciplined and patriotic citizen. The NCC programme of the college plays an important role in installing discipline as well as preparing students for productive citizenship. The college has NCC Army Wing which was started in year 2007. Now works with the strength of 108 cadets.</p>
-									<p><b>ANO (Associate NCC Officer)  </b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">ANO (Associate NCC Officer)  </b><br>
 										In the year 2007 NCC was started in the college. Lt Ramesh Krishnan was the ANO in charge up to 2012. He was trained at OTA, Kamptee, Nagpur (Maharashtra) in the year 2007. He got Bronze Medal for his overall performance in the training and stood third position in commandant’s confirmatory interview. </p>
 									<p>In the year 2013 Lt Sarvesh B S became the ANO of the college. He was trained at OTA, Kamptee, Nagpur (Maharashtra) in the year 2013. He got Silver Medal for overall performance in the training and stood second position in commandant’s confirmatory interview. He was awarded chief minister’s commendation in 2017 for his credible service in NCC.</p>
-									<p><b>Training Activities</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Training Activities</b><br>
 										Based on the aims of NCC the organization has laid down training schedule. These schedules are laid down for the cadets to ensure that they can get the maximum benefit of training.  </p>
 
 
-									<p><b>Activities Conducted by NCC</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Activities Conducted by NCC</b><br>
 •	Institutional Training<br>
 •	Regular NCC Camps<br>
 •	Firing<br>
@@ -144,7 +144,7 @@
 •	Swatch Barath Abhiyan<br>
 •	Social Service Activities<br>
 										•	Kargil Vijay Diwas etc.</p>
-									<p><b>Various NCC Camps Attended:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Various NCC Camps Attended:</b><br>
 •	Combined Annual Training Camp held at Al-Ameen Residential School, Hoskote, 25th July 2016 to 03rd August 2016 <br>
 •	Combined Annual Training Camp (2016-2017) (Pre Igc-I) held at St. Annie Besant Park, Dodballapur, 10th Oct 2016 to 19th Oct 2016.<br>
 •	Combined Annual Training Camp (2016-2017) (Pre Igc-II) held at Al-Ameen Educational Campus, Hoskote,20th Oct 2016 to 29th Oct 2016<br>
@@ -152,7 +152,7 @@
 •	Inter Group Competition held at Aloka Vihar Palace, Yelwal, Mysuru from 09th Nov 2016 to 18th Nov 2016. <br>
 										•	National Integration Camp held at Toranagallu, Bellary, 18th January 2017 to 29th January 2017 </p> 
 
-									<p><b>ACTIVITES ORGANISED:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">ACTIVITES ORGANISED:</b><br>
 
 •	TREE PLANTATION  9th July 2016<br>
 •	KARGIL VIJAY DIWAS 29th July 2016<br>
@@ -161,11 +161,11 @@
 										•	REPUBLIC DAY 26th January, 2017</p>
 
 
-									<p><b>Achievements in Camps Attended</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Achievements in Camps Attended</b><br>
 •	SUO Munesh R Verma was selected for Youth Exchange Programme (Bangladesh).<br>
 										•	SUO Divya Raju was awarded Chief Minister’s Commendation and got selected for SSB Training Capsule at Gwalior </p>
 
-									<p><b>Achievements EX-NCC CADETS</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Achievements EX-NCC CADETS</b><br>
 
 Major KIRAN KUMAR<br>
 Captain SARVANA NAIDU<br>

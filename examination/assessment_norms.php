@@ -122,7 +122,7 @@ Attendance<br>
 Performance in End Semester Examinations</p>
 
 									<p>Evaluation is based on Continuous Internal Assessment (CIA) which carries 30% weightage (30 marks out of 100) and End Semester Examination (ESE) which carries 70% weightage (70 marks out of 100).</p>
-									<p><b>Assessment Norms - PG Programme</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Assessment Norms - PG Programme</b><br>
 
 Students' academic performance is assessed throughout the semester/trimester based on the following:<br>
 Performance in the Mid Term Examination (Internal Examination)<br>

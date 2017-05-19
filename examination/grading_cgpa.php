@@ -117,7 +117,7 @@
 									<p>The individual semester/trimester marks card will have the marks, grade, total credits awarded and grade point average details.</p>
 									
 									
-									<p><b> Grade Point Interpretation Table	UG </b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;"> Grade Point Interpretation Table	UG </b></p>
 	<table class="table table-bordered">
 	<thead>
     <tr>
@@ -187,7 +187,7 @@
 	  </tr>	
 	  </tbody></table>
 									
-	<p><b>Result Interpretation Table</b></p>
+	<p><b style="color: #cd6e08;font-weight: bold;">Result Interpretation Table</b></p>
 						
 	<table class="table table-bordered">
 	<thead>
@@ -228,7 +228,7 @@
 	</tbody></table><br>
 									
 									
-				<p><b> Grade Point Interpretation Table	PG </b></p>
+				<p><b style="color: #cd6e08;font-weight: bold;"> Grade Point Interpretation Table	PG </b></p>
 	<table class="table table-bordered">
 	<thead>
     <tr>
@@ -286,7 +286,7 @@
 	  </tr>	
 	  </tbody></table>	
 									
-									<p><b>Result Interpretation Table</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Result Interpretation Table</b></p>
 						
 		<table class="table table-bordered">
 	<thead>

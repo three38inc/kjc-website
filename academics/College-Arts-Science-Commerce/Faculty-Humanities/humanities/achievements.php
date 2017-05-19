@@ -124,7 +124,7 @@
                                    </tbody>
                                 </table>
 
-                                <p><b> Achievements:</b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Achievements:</b><br>
 
                                 Overall Champions at CMR College<br>
 

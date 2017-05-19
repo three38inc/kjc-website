@@ -119,7 +119,7 @@
 
 <p align="justify">To strengthening the relationship with the corporate sector and help the students get placed in the company of their choice, the Centre for Employability & Corporate Relations started the Employability Lecture Series - TRANSCEND 2016 with a tagline enter, stay in and progress in the last placement season.</p>
 
-<p><b>Objectives of Transcend 2016-2017:</b><br>
+<p><b style="color: #cd6e08;font-weight: bold;">Objectives of Transcend 2016-2017:</b><br>
 1. C2C Engagement<br>
 2. Focus on Employability Skills to a specific audience<br>
 3. Companies from different verticals come and share about Specific Competencies (Knowledge, Skills, Behaviors & Attitude)<br>

@@ -128,7 +128,7 @@
 
                                     <br/>
                                     <p align="justify">
-                                        <strong>NSDC (National Skill development Corporation) : </strong>certificate programme on BFSI (Banking Financial Services and Insurance) by the Government of Idia under STAR (Standard Training Assessment and Rewards) </p>
+										<b style="color: #cd6e08;font-weight: bold;">NSDC (National Skill development Corporation) : </b> certificate programme on BFSI (Banking Financial Services and Insurance) by the Government of Idia under STAR (Standard Training Assessment and Rewards) </p>
                                     <p align="justify">
                                         The Department has a set of Value Added Courses which adds merit to the curriculum learning of students. It's run under the banner "Moolyavardan" and Certificate courses in Insurance Management, Retail Management, Excel, and Stock Market Management.</p>
                                     <p align="justify">
@@ -136,7 +136,7 @@
                                         Department offers value added courses to make the students eligible for professional courses and enhance their knowledge base.
                                     </p>
                                     <p align="justify">
-                                        <strong>CENTRE FOR PROFESSIONAL STUDIES (CPS): </strong> Centre for Professional Studies(CPS) was established with the objective of providing value based quality education to the B.Com and BBA students Who wanted to take various professional courses. It is a platform to get prepared for the entry level exams of Company Secretaryship and Chartered Accountant courses. </p>
+										<b style="color: #cd6e08;font-weight: bold;">CENTRE FOR PROFESSIONAL STUDIES (CPS): </b> Centre for Professional Studies(CPS) was established with the objective of providing value based quality education to the B.Com and BBA students Who wanted to take various professional courses. It is a platform to get prepared for the entry level exams of Company Secretaryship and Chartered Accountant courses. </p>
                                     <p align="justify">
                                         The Centre is in touch with the Professional Bodies like Institute of Chartered Accountant of India-(ICAI) and Institute of Company Secretaries of India (ICSI).</p>
                                     <p align="justify">
@@ -146,7 +146,7 @@
 
 
                                     <p align="justify">
-                                        <strong>Certification Programme on Tally ERP 9: </strong><br/>The Certification programme is offered by Tally in collaboration with NICT for all the B.Com students. The programme is part of curriculum with an objective to impart practical training on Tally ERP 9.
+										<b style="color: #cd6e08;font-weight: bold;">Certification Programme on Tally ERP 9:</b> <br/>The Certification programme is offered by Tally in collaboration with NICT for all the B.Com students. The programme is part of curriculum with an objective to impart practical training on Tally ERP 9.
 
                                     </p>
                                     <p class="text-center">

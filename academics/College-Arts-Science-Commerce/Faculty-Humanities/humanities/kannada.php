@@ -90,7 +90,7 @@
                                 <p>Department of Kannada also organizes National Level Seminar every year on language and cultural related topics. Well known writers, speakers visit the College to address the students. Rangantharanga- the annual theatrical performance of the department provides the opportunity for the students to exhibit their talents.</p>
                                 <p>Every year Kannada students will have a chance to attend theater workshop and a play to practice. Students also perform in Ravindrakalaakshethra, Rangashakara and Kalaagrama. </p>
 
-                                <p><b>Activities </b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">>Activities </b><br>
 1.	Kannada Habba<br>
 
 2.	Kuppali Field visit<br>

@@ -114,7 +114,7 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Art & <strong> Culture </strong></span></h4>
 									
-									<p><b>ARTS & CULTURE (Music, Art, Dance, Drama) </b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">ARTS & CULTURE (Music, Art, Dance, Drama) </b></p>
 									
 									<p align=justify>It is believed the best education involves more than classroom learning and nurtures the personal, creative and physical development of all students. These 'outside-the-classroom' activities expose aesthetic skills, teach leadership, team work, and responsibility to society. At Kristu Jayanti, involvement and participation are the key aspects. Literary, Creative and Cultural activities are given special emphasis. The performing arts are highly valued, where outstanding facilities and gifted teaching artists often elicit productions that well exceed the expectations of student musicians, actors, and singers. </p>
                                 </div>

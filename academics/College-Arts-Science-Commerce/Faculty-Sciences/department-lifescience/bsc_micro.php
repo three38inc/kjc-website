@@ -119,7 +119,7 @@
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
                                        <strong>Course Duration: 3 Years / Six Semesters</strong> <br> <br>
-                                        <strong>Eligibility</strong> <br><br>
+										<b style="color: #cd6e08;font-weight: bold;">Eligibility</b> <br><br>
 Pass in 10 + 2 / Pre-University Course / Equivalent. Candidate should have studied Biology / Chemistry as one of the subjects.<br><br><strong>
 Microbiology</strong> <br><br>
 Microbiology is the study of microscopic organisms, their activities and applications. Although small in size, microorganisms play an enormous role in many areas of society including food, pharmaceutical and biotechnology industries, health science, agriculture, and the environment. Microbes are often used as a model system to study microbiology. So, microbiology is the core of the emerging field of life sciences and career opportunities are limitless. 
@@ -128,13 +128,13 @@ The diversity of subjects covered under Microbiology provides a wide knowledge f
    <br><br>
                                     </p>
                                     <p align="justify">
-                          <strong>  Biochemistry</strong>             <br> <br>
+										<b style="color: #cd6e08;font-weight: bold;"> Biochemistry</b>            <br> <br>
 Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.
 This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.
 
                                     </p>
                                     <p align="justify">
-                                      <strong> Genetics </strong><br> <br>
+										<b style="color: #cd6e08;font-weight: bold;"> Genetics </b><br> <br>
 B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.
 A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.
 The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.

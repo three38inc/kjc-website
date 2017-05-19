@@ -116,7 +116,7 @@
 									
 									<p align=justify>Nestled in the Blue Ridge Mountains of North Carolina, Appalachian State University offers a challenging academic environment, energetic campus life and breathtaking location. Appalachian combines the best attributes of a small liberal arts college with those of a large research university. Known for its value and affordability, Appalachian enrolls about 17,000 students and offers more than 140 undergraduate and graduate majors. Small classes and close interactions between faculty and students create a strong sense of community, which has become an Appalachian hallmark. Appalachian, located in Boone, N.C., is one of 16 universities in theUniversity of North Carolina system.</p>
 
-									<p><b>Appalachian State University</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Appalachian State University</b><br>
 Address: ASU Box 32004 Boone, North Carolina 28608<br>
 Telephone: 828-262-2000 (switchboard)<br>
 										<a href="http://www.appstate.edu/" target="_blank">www.appstate.edu</a></p>

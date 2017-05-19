@@ -114,7 +114,7 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Annual <strong> Sports </strong></span></h4>
 									
-									<p><b>Kridostava</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Kridostava</b></p>
 									
 									<p align=justify>The annual games and sports fest of the college, Kridotsava is hosted with great zeal and spirit. The sports day is often the first event that marks the beginning of the even semester activities. Unlike Kalajyothi, the first major event involving all the students of the college, during Kridostava the whole college is divided into six different groups with a captain for each group. Particular care is taken to see that students from different departments are clubbed together to encourage participation and sportsman spirit among the students.</p>
 

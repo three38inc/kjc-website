@@ -115,9 +115,9 @@
                                         <span>&nbsp; Programme<strong> Pattern</strong></span>
                                     </h4>
 
-									<p align=justify><b>UG Programme - Semester Pattern</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">UG Programme - Semester Pattern</b><br>
 										UG programmes follow semester pattern with each programme spanning across six semesters. Each semester will have 90 working days.</p>
-									<p align=justify><b>PG Programme - Semester/Trimester Pattern</b><br>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">PG Programme - Semester/Trimester Pattern</b><br>
 
 										PG programmes follow semester pattern (except for MBA/PGDM which follow trimester pattern). M Sc. / M Com / MSW programmes span across four semesters where each semester will have 90 working days. MCA programme span across six semesters where each semester will have 90 working days. MBA and PGDM programmes span across six trimesters where each trimester will have 50 to 60 working days.</p>
 

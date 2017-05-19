@@ -121,10 +121,10 @@
                                     <br />
 										<div class="inner-content">
 											 <p align="justify">
-												<strong>Research Centre in Biotechnology</strong><br />
+												 <b style="color: #cd6e08;font-weight: bold;">Research Centre in Biotechnology</b><br />
 												The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University during January 2011. A state-of-the-art research complex is being developed in the college to facilitate research and to carry out major research projects. The facility will feature laboratories with facilities for full scale research in Plant Biotechnology Tissue Culture, Animal Cell Culture, Microbiology/ Microbial Technology and Biochemistry. A 'Central Instrumentation' facility will be a special feature of the Research complex.<br /><br />
 
-												<strong>Eligibility</strong><br />
+												 <b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br />
 
 											<ul>
 												<li>A candidate who has obtained a Master's Degree from Bangalore University or any University/institution in the State or from any other University recognized as equivalent thereto securing not less than 55% marks in the aggregate at the Master's Degree Course as a whole shall be eligible to register for the Ph.D. Degree Programme. However, in the case of SC/ST and the Category-I candidates the minimum marks required shall be 50%.</li>

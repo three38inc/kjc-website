@@ -85,7 +85,7 @@
                                     <span>&nbsp; Career <strong>Opportunities </strong></span></h4>
                                     
                                 <p><b>The course offers opportunities in the following fields</b><br>
-                                    <b>Counselling Psychologist</b><br>
+                                    <b style="color: #cd6e08;font-weight: bold;">Counselling Psychologist</b><br>
 * Special School Facilitators<br>
 * HR Specialist<br>
 * Teacher/Lecturer<br>
@@ -94,7 +94,7 @@
 * Psychology Consultant<br>
 * Life Skill Facilitator<br>
                                     * Research & Development</p>
-                                <p align=justify><b>PLACEMENT CELL</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">PLACEMENT CELL</b><br>
                                     The in-house placement team works towards a 100% placement of students in various work-related opportunities. Regular placement drives are organized to facilitate students with the exploring possible scope in their related fields.</p>
                                 
                                 <img src="images/psychology_placement.jpg">

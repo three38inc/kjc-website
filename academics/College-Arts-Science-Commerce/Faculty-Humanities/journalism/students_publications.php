@@ -83,9 +83,9 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;<strong>Students Publications</strong></span></h4>
-                                <p><b>Quadrangle</b> - The undergraduate students in the department of journalism brings out yearly newsletter consists of college and departmental activities. This enhances skills and talents with young aspiring journalists.</p>
-                                <p><b>Campus Courier</b> is a newsletter produced by PG students of Journalism on current events, features and college programs</p>
-                                <p><b>Pixel</b> is a yearly publication dedicated to photography brought out by UG Journalism students, which gives an opportunity to exhibit their photography skills and put in the form of magazine.</p>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Quadrangle</b> - The undergraduate students in the department of journalism brings out yearly newsletter consists of college and departmental activities. This enhances skills and talents with young aspiring journalists.</p>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Campus Courier</b> is a newsletter produced by PG students of Journalism on current events, features and college programs</p>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Pixel</b> is a yearly publication dedicated to photography brought out by UG Journalism students, which gives an opportunity to exhibit their photography skills and put in the form of magazine.</p>
 
                                 
                                
