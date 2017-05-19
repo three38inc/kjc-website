@@ -122,154 +122,88 @@
 									
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                           <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong> Examination </strong></span>
-                                    </h4>
 									
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="introduction.php">Introduction</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="examination_comittee.php">Examination Committee</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="internal_examination.php">Internal Examination</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="guidelines_termexam.php">Guidelines - Internal Exam</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pta_meeting.php">PTA Meeting</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="graducation_day.php">Graduation Day</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="semester_pattern_ug_pg.php">Semester Pattern UG &amp; Trimester Pattern PG</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="examination_calendar.php">Academic Year 2016-17</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="assessment_norms.php">Assessment Norms</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="continuous_internal_assessment.php">Continuous Internal Assessment
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="end_semester_examination.php">End Semester Examination
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="passing_criteria.php">Passing Criteria
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="credit_system.php">Credit System
-
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="grading_cgpa.php">Grading and CGPA
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="end_semester_trimester_examination_time_table.php">End Sem/Tri Examination 
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="term_examination_time_table.php">Term Examination Time Table
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="university_examination_time_table.php">University Examination Time Table
-
-
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="differently_abled_privileges.php">Differently Abled
-     (Physically Challenged)
-      privileges </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="non_core_courses_ug_programme.php">Non-Core Courses
-     UG Programme </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="marks_card_transcript.php">Marks Card/Transcript</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="supplementary_examination.php">Supplementary Examination
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="revaluations.php">Revaluation
-</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="result_announcement.php">Result Announcement
-</a></p>
-                                    </section>
-
-                                    
-
-
-
-                                </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                        </h4>
-
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
-
-
-
-                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
+									 <div class="panel panel-primary">
+                                        <div class="panel-heading">
+                                            <h3 class="panel-title">Examination</h3>
                                         </div>
+										 
+										  <div class="list-group">
+          <a href="introduction.php" class="list-group-item"> Introduction</a></div>
+										 
+										  <div class="list-group">
+          <a href="examination_comittee.php" class="list-group-item"> Non-Core Courses UG ProgrammExamination Committee</a></div>
+										 
+										  <div class="list-group">
+          <a href="internal_examination.php" class="list-group-item"> Internal Examination</a></div>
+										 
+										  <div class="list-group">
+          <a href="guidelines_termexam.php" class="list-group-item"> Guidelines - Internal Exam</a></div>
+										 
+										  <div class="list-group">
+          <a href="pta_meeting.php" class="list-group-item"> PTA Meeting</a></div>
+										 
+										  <div class="list-group">
+          <a href="graducation_day.php" class="list-group-item"> Graduation Day</a></div>
+										 
+										  <div class="list-group">
+  <a href="#" class="list-group-item disabled">Programme Pattern</a>
+  <a href="semester_pattern_ug_pg.php" class="list-group-item">Semester / Trimester Pattern UG / PG</a></div> 
+										 
+										 
+										 <div class="list-group">
+  <a href="#" class="list-group-item disabled">Examination Calendar</a>
+  <a href="examination_calendar.php" class="list-group-item">Academic Year 2016-17</a></div> 
+										 
+										  <div class="list-group">
+  <a href="#" class="list-group-item disabled">Assessment Regulations</a>
+  <a href="assessment_norms.php" class="list-group-item">Assessment Norms</a>
+  <a href="continuous_internal_assessment.php" class="list-group-item">Continuous Internal Assessment</a>
+  <a href="end_semester_examination.php" class="list-group-item">End Semester Examination</a>
+ <a href="passing_criteria.php" class="list-group-item">Passing Criteria</a>
+ <a href="credit_system.php" class="list-group-item">Credit System</a>
+ <a href="grading_cgpa.php" class="list-group-item">Grading and CGPA</a>
+										 </div> 
+										 
+									 <div class="list-group">
+  <a href="#" class="list-group-item disabled"> Pre Examination Procedures / Examination Time Table</a>
+  <a href="end_semester_trimester_examination_time_table.php" class="list-group-item">End Sem/Tri Examination </a>
+										  <a href="term_examination_time_table.php" class="list-group-item">Term Examination Time Table </a>
+										  <a href="university_examination_time_table.php" class="list-group-item">University Examination Time Table</a>
+										 
+										 </div>	 
+										 
+										 <div class="list-group">
+  <a href="#" class="list-group-item disabled">Post Examination Procedures</a>
+  <a href="result_announcement.php" class="list-group-item">Result Announcement</a>
+										  <a href="grievance_redressal.php" class="list-group-item">Grievance Redressal</a>
+										  <a href="revaluations.php" class="list-group-item">Revaluation</a>
+											  <a href="supplementary_examination.php" class="list-group-item">Supplementary Examinationn</a>
+											  <a href="marks_card_transcript.php" class="list-group-item">Marks Card/Transcript</a>
+										 
+										 </div>	 
+										 
+										 
+										 <div class="list-group">
+          <a href="non_core_courses_ug_programme.php" class="list-group-item"> Non-Core Courses UG Programme</a></div>
+										 
+										 <div class="list-group">
+          <a href="differently_abled_privileges.php" class="list-group-item"> Differently Abled (Physically Challenged) privileges</a></div>
+										 
+					 
+										 
+                                      
                                     </div>
-                                </div>
 
-                                </div>
 
                             </div>
                         </div>
 
                     </div>
 
-                    <!--						                                </div>-->
+                 </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
                     <?php include('../php/morphingSearch.php'); ?>
@@ -283,7 +217,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>

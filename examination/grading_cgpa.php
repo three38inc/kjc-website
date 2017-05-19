@@ -323,7 +323,7 @@
 									
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                          <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
@@ -470,7 +470,7 @@
 
                     </div>
 
-                    <!--						                                </div>-->
+                   </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
                     <?php include('../php/morphingSearch.php'); ?>
@@ -482,9 +482,9 @@
             <!--/st-content-inner-->
         </div>
         <!-- this is the wrapper for the content-->
-    </div>
+    
     <!--st-pusher-->
-    </div>
+   
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
