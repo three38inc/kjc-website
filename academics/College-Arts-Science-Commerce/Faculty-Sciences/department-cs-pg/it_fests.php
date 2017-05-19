@@ -124,7 +124,7 @@
 									
 									
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="it_fests.php">IT Fests</a></p>
+                                        <p><a class="a-link-arrow" href="it_fests.php" style="color: #2980b9;font-weight: bold;">IT Fests</a></p>
                                     </section>
 									
 								    <section class="link-arrow">

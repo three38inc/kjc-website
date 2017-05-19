@@ -103,7 +103,7 @@ Social Development<br>
                                         <span>&nbsp;Programs <strong> Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="master_socialwork.php">Masters in Social Work (MSW) </a></p>
+                                        <p><a class="a-link-arrow" href="master_socialwork.php" style="color: #2980b9;font-weight: bold;">Masters in Social Work (MSW) </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="phd_socialwork.php">Ph.D in Social Work</a></p>

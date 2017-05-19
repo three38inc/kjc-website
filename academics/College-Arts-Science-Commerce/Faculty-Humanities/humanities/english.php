@@ -97,7 +97,7 @@
                                         <span>&nbsp;Our  <strong>Domains</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="english.php">English </a></p>
+                                        <p><a class="a-link-arrow" href="english.php" style="color: #2980b9;font-weight: bold;">English </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="kannada.php">Kannada </a></p>

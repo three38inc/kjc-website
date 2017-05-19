@@ -129,7 +129,7 @@
                                     </section>
                                         
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
+                                        <p><a class="a-link-arrow" href="psychology_lab.php" style="color: #2980b9;font-weight: bold;">Psychology Lab</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

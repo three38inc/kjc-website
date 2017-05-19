@@ -114,7 +114,7 @@
 									
 									
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="club_activity.php">Club Activity</a></p>
+                                        <p><a class="a-link-arrow" href="club_activity.php" style="color: #2980b9;font-weight: bold;">Club Activity</a></p>
                                     </section>
 									
 									

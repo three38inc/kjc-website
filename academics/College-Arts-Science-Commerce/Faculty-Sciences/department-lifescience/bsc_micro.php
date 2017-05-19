@@ -168,7 +168,7 @@ The college recognizes the importance of this subject and offers the course stru
                                        <span>&nbsp;<strong>Programs Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php" style="color: #2980b9;font-weight: bold;">B.Sc., MicroBiology</a></p>
                                     </section>
 
 

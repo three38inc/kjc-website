@@ -118,7 +118,7 @@ Certificate Course in Training & Development<br>
                                         <p><a class="a-link-arrow" href="phd_socialwork.php">Ph.D in Social Work</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="certificate_courses.php">Certificate Courses </a></p>
+                                        <p><a class="a-link-arrow" href="certificate_courses.php" style="color: #2980b9;font-weight: bold;">Certificate Courses </a></p>
                                     </section>
                                      </div>
 								

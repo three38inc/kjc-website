@@ -177,7 +177,7 @@ Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
+                                        <p><a class="a-link-arrow" href="pg_diploma.php" style="color: #2980b9;font-weight: bold;">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
                                     </section> </div>
                                 
                                 

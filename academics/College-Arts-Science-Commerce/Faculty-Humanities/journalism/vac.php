@@ -152,7 +152,7 @@
                                     </section>
                                         
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vac.php">VAC</a></p>
+                                        <p><a class="a-link-arrow" href="vac.php" style="color: #2980b9;font-weight: bold;">VAC</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

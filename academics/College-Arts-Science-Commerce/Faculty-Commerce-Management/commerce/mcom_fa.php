@@ -178,7 +178,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
+                                        <p><a class="a-link-arrow" href="mcom_fa.php" style="color: #2980b9;font-weight: bold;">M.Com (Financial Analysis)
                                         </a></p>
                                     </section>
 

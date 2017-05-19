@@ -142,7 +142,7 @@
                                     </section>
                                         
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_tv.php">KJC TV</a></p>
+                                        <p><a class="a-link-arrow" href="kjc_tv.php" style="color: #2980b9;font-weight: bold;">KJC TV</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

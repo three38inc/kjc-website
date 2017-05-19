@@ -131,7 +131,7 @@
                                         
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_hep.php">BA HEP</a></p>
+                                        <p><a class="a-link-arrow" href="ba_hep.php" style="color: #2980b9;font-weight: bold;">BA HEP</a></p>
                                     </section>
 
 

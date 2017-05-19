@@ -160,7 +160,7 @@
                                     </section>
                                         
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
+                                        <p><a class="a-link-arrow" href="journalism_club.php" style="color: #2980b9;font-weight: bold;">Journalism Club</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

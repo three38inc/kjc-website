@@ -182,7 +182,7 @@
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news_letter.php">Newsletter</a></p>
+                                        <p><a class="a-link-arrow" href="news_letter.php" style="color: #2980b9;font-weight: bold;">Newsletter</a></p>
                                     </section>
 										
 									 </div>

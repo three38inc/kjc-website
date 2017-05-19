@@ -113,7 +113,7 @@
                                         <p><a class="a-link-arrow" href="english.php">English </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kannada.php">Kannada </a></p>
+                                        <p><a class="a-link-arrow" href="kannada.php" style="color: #2980b9;font-weight: bold;">Kannada </a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="hindi.php">Hindi </a></p>

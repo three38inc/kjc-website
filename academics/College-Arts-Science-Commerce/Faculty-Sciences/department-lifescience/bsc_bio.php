@@ -173,7 +173,7 @@ The college recognizes the importance of this subject and offers the course stru
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php" style="color: #2980b9;font-weight: bold;">B.Sc., BioTechnology</a></p>
                                     </section>
 
 

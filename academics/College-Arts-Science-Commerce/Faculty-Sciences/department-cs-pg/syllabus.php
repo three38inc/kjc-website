@@ -97,7 +97,7 @@
                                         <span>&nbsp;<strong>Curriculum</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="syllabus.php">Syllabus</a></p>
+                                        <p><a class="a-link-arrow" href="syllabus.php" style="color: #2980b9;font-weight: bold;">Syllabus</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="certificate_programme.php">Certificate Programme</a></p>

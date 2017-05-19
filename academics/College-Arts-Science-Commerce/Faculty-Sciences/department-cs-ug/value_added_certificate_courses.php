@@ -216,7 +216,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_added_certificate_courses.php">Value Added & Certificate Courses</a></p>
+                                        <p><a class="a-link-arrow" href="value_added_certificate_courses.php" style="color: #2980b9;font-weight: bold;">Value Added & Certificate Courses</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

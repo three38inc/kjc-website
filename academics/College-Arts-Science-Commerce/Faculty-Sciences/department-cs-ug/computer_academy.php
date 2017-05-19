@@ -141,7 +141,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="computer_academy.php">Computer Academy</a></p>
+                                        <p><a class="a-link-arrow" href="computer_academy.php" style="color: #2980b9;font-weight: bold;">Computer Academy</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

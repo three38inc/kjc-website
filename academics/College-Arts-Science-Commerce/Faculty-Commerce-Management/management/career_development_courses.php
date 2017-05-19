@@ -199,7 +199,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php" style="color: #2980b9;font-weight: bold;">Career Development Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

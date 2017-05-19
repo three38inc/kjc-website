@@ -105,15 +105,15 @@
                                         <span>&nbsp;<strong>Programs Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bca.php">BCA
-                                            <font size=2>(Bachelor of Computer Applications)</font></a></p>
+                                        <p><a class="a-link-arrow" href="bca.php" style="color: #2980b9;font-weight: bold;">BCA
+                                            <font size=1>(Bachelor of Computer Applications)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=2>(Computer Science, Mathematics, Electronics)</font></a></p>
+                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=1>(Computer Science, Mathematics, Electronics)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_csms.php">B.Sc. CSMS
-                                            <font size=2>(Computer Science, Mathematics, Statistics)</font></a></p>
+                                            <font size=1>(Computer Science, Mathematics, Statistics)</font></a></p>
                                     </section>
                                 </div>
                                 

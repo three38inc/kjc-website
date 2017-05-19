@@ -354,7 +354,7 @@ Central Instrumentation' facility is a special feature of the Research complex.
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ls_research.php">Research Centre </a></p>
+                                        <p><a class="a-link-arrow" href="ls_research.php" style="color: #2980b9;font-weight: bold;">Research Centre </a></p>
                                     </section>
 
 

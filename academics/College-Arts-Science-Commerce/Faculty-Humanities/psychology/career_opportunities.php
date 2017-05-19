@@ -138,7 +138,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
+                                        <p><a class="a-link-arrow" href="career_opportunities.php" style="color: #2980b9;font-weight: bold;">Career Opportunities</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

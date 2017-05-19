@@ -486,7 +486,7 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                        <p><a class="a-link-arrow" href="activities.php" style="color: #2980b9;font-weight: bold;">Activities</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">

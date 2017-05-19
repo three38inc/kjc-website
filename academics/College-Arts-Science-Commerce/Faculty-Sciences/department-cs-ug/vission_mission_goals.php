@@ -127,7 +127,7 @@
                                         
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vission_mission_goals.php">Vision,Mission and Goals</a></p>
+                                        <p><a class="a-link-arrow" href="vission_mission_goals.php" style="color: #2980b9;font-weight: bold;">Vision,Mission and Goals</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

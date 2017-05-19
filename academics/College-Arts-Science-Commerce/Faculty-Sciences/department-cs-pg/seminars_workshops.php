@@ -210,7 +210,7 @@ Conferences: (2016 - 2017)  <a href="pdf/conferences_2016_17.pdf" target="_blank
                                     </section>
 										
 										 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="seminars_workshops.php">Seminars/Workshops</a></p>
+                                        <p><a class="a-link-arrow" href="seminars_workshops.php" style="color: #2980b9;font-weight: bold;">Seminars/Workshops</a></p>
                                     </section>
 										
 										<section class="link-arrow">

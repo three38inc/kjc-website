@@ -114,7 +114,7 @@
                                         <p><a class="a-link-arrow" href="ba_jpeng.php">BA JPEng</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPolEng</a></p>
+                                        <p><a class="a-link-arrow" href="ba_jpoleng.php" style="color: #2980b9;font-weight: bold;">BA JPolEng</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>

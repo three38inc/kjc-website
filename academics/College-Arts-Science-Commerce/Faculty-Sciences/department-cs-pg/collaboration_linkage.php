@@ -215,7 +215,7 @@
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="collaboration_linkage.php">Collaboration and Linkage</a></p>
+                                        <p><a class="a-link-arrow" href="collaboration_linkage.php" style="color: #2980b9;font-weight: bold;">Collaboration and Linkage</a></p>
                                     </section>
 										
 										<section class="link-arrow">

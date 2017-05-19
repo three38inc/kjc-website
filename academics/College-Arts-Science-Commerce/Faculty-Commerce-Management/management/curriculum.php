@@ -196,7 +196,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="curriculm.php">Curriculum</a></p>
+                                        <p><a class="a-link-arrow" href="curriculm.php" style="color: #2980b9;font-weight: bold;">Curriculum</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

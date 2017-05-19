@@ -234,7 +234,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_value_added_courses.php"> Value Added Program &amp;  Certificate courses  </a></p>
+                                        <p><a class="a-link-arrow" href="commerce_value_added_courses.php" style="color: #2980b9;font-weight: bold;"> Value Added Program &amp;  Certificate courses  </a></p>
                                     </section>
 
 

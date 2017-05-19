@@ -273,7 +273,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="skilldevelop.php">Skill Development Activities</a></p>
+                                        <p><a class="a-link-arrow" href="skilldevelop.php" style="color: #2980b9;font-weight: bold;">Skill Development Activities</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

@@ -118,7 +118,7 @@
                                         <p><a class="a-link-arrow" href="history.php">History </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="political_science.php">Political Science</a></p>
+                                        <p><a class="a-link-arrow" href="political_science.php" style="color: #2980b9;font-weight: bold;">Political Science</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../journalism/journalism.php">Journalism</a></p>

@@ -202,7 +202,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php" style="color: #2980b9;font-weight: bold;">M.Sc., MicroBiology</a></p>
                                     </section>
 
 

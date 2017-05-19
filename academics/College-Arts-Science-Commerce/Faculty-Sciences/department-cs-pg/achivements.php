@@ -170,7 +170,7 @@
                                         
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="achivements.php">Achievements</a></p>
+                                        <p><a class="a-link-arrow" href="achivements.php" style="color: #2980b9;font-weight: bold;">Achievements</a></p>
                                     </section>
                                         
                                         <section class="link-arrow">

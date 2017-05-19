@@ -189,7 +189,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php">Bio-science Laboratory</a></p>
+                                        <p><a class="a-link-arrow" href="bio-science_laboratory.php" style="color: #2980b9;font-weight: bold;">Bio-science Laboratory</a></p>
                                     </section>
 
                                     <section class="link-arrow">

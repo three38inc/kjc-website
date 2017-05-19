@@ -187,7 +187,7 @@ Experts from industries are invited to interact with students on various issues 
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_programs.php">Academic Programs</a></p>
+                                        <p><a class="a-link-arrow" href="academic_programs.php" style="color: #2980b9;font-weight: bold;">Academic Programs</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

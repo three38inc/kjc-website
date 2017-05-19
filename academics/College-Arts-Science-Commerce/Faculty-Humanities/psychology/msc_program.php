@@ -104,7 +104,7 @@
                                         <p><a class="a-link-arrow" href="ba_program.php">BA - program offered</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_program.php">M.Sc - program offered</a></p>
+                                        <p><a class="a-link-arrow" href="msc_program.php" style="color: #2980b9;font-weight: bold;">M.Sc - program offered</a></p>
                                     </section> </div>
                                 
                                  <div class="row" style="margin-left:2px; margin-right: 2px;">

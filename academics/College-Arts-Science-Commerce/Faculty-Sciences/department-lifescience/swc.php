@@ -263,7 +263,7 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="swc.php">Seminars,Workshops and Conferences</a></p>
+                                        <p><a class="a-link-arrow" href="swc.php" style="color: #2980b9;font-weight: bold;">Seminars,Workshops and Conferences</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
