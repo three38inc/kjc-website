@@ -38,7 +38,6 @@ $fbAlbumObj = json_decode($jsonData, true, 512, JSON_BIGINT_AS_STRING);
 // Facebook albums content
 $fbAlbumData = $fbAlbumObj['data'];
 
-
 foreach($fbAlbumData as $data){
     $id = isset($data['id'])?$data['id']:'';
     $name = isset($data['name'])?$data['name']:'';
@@ -47,15 +46,19 @@ foreach($fbAlbumData as $data){
     $cover_photo_id = isset($data['cover_photo']['id'])?$data['cover_photo']['id']:'';
     $count = isset($data['count'])?$data['count']:'';
     
-    $pictureLink = "photos.php?album_id={$id}&album_name={$name}";
-    $photoCount = ($count > 1)?$count. 'Photos':$count. 'Photo';
+    $pictureLink = "photos.php?album_id={$id}&album_name={$name}&link={$link}";
+    $photoCount = ($count > 1)?$count. ' Photos':$count. ' Photo';
+    
+    if($name=="Timeline Photos" || $name=="Mobile Uploads")
+        continue;
     
     echo "
-<div class='col-lg-3'>
+<div class='col-lg-3 col-md-4 col-sm-6 col-xs-12'>
 <a href='{$pictureLink}'>
     <div class='album'>
         <div class='cover'>
-            <img src='https://graph.facebook.com/v2.9/{$cover_photo_id}/picture?access_token={$access_token}&height=170' />
+            <div class='img' style='background-image:url(https://graph.facebook.com/v2.9/{$cover_photo_id}/picture?access_token={$access_token})'></div>
+            
         </div>
         <div class='caption'>
             <h5>{$name}</h5>
