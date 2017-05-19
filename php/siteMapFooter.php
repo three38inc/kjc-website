@@ -73,12 +73,12 @@
 	
 </style>
 <script language="JavaScript">
-<!--
+
 function autoResize(id){
     var newheight;
     var newwidth;
 
-    if(document.getElementById){
+    if(document.getElementById(id)){
         newheight=document.getElementById(id).contentWindow.document .body.scrollHeight;
         newwidth=document.getElementById(id).contentWindow.document .body.scrollWidth;
     }
