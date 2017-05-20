@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+
 <html lang="en" class="no-js">
 
 <head>
@@ -11,7 +12,7 @@
     <meta name="author" content="Three38 inc" />
     <link rel="shortcut icon" href="../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo $ROOT; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
     <link rel="stylesheet" type="text/css" href="../css/component.css" />
     <link rel="stylesheet" href="../css/font-awesome.css">

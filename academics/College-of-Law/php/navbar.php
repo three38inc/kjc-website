@@ -1,5 +1,5 @@
 <?php 
-    $ROOT="http://".$_SERVER['HTTP_HOST']."";
+    $GLOBALS['ROOT']="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";
 ?>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
     <!--  <div class="container-fluid">-->
@@ -7,7 +7,7 @@
         <div class="navbar-header">
 
             <div  class="navbar-brand">
-                <a href="<?php echo $ROOT; ?>/academics/College-of-Law/index.php"><img class="img-responsive" src="<?php echo $ROOT; ?>/academics/College-of-Law/images/collegeOfLawFlag.png" id='imgLink'/></a>
+                <a href="<?php echo $ROOT ; ?>/academics/College-of-Law/index.php"><img class="img-responsive" src="<?php echo $ROOT ; ?>/academics/College-of-Law/images/collegeOfLawFlag.png" id='imgLink'/></a>
             </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar">
                 <span class="icon-bar"></span>
@@ -30,7 +30,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="<?php echo $ROOT; ?>/home/index.php" id="home">Home</a>
+                    <a href="<?php echo $ROOT ; ?>/home/index.php" id="home">Home</a>
                 </li>
 
                 <li class="dropdown yamm-fw">
@@ -524,7 +524,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="<?php echo $ROOT; ?>/admission/admission.php" id="contact">Admission</a>
+                    <a  href="<?php echo $ROOT ; ?>/admission/admission.php" id="contact">Admission</a>
                 </li>
 
                 <li class="hidden-lg">
@@ -540,6 +540,6 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
     <div class="nav2 hide">
         <a href="#">Student Services</a>
         <a href="#">Campus</a>
-        <a href="<?php echo $ROOT; ?>/admission/admission.php">Admissions</a>
+        <a href="<?php echo $ROOT ; ?>/admission/admission.php">Admissions</a>
     </div>
 </div>

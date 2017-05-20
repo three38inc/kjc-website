@@ -1,8 +1,5 @@
-<?php 
 
-    $ROOT="http://".$_SERVER['HTTP_HOST']."";
-?>
-<link rel="stylesheet" href="<?php echo $ROOT; ?>/css/fonts/flat-icon/flaticon.css" />
+<link rel="stylesheet" href="<?php echo $ROOT ; ?>/css/fonts/flat-icon/flaticon.css" />
 <style>
     .nav-tabs>li.active>a,
     .nav-tabs>li.active>a:focus,
@@ -131,21 +128,21 @@
 
                 <div class="tab-content" id="accPillTab">
                     <div class="col-lg-4 col-xs-12 myFav">
-                        <a href="<?php echo $ROOT; ?>/home/academic-calendar.php">
+                        <a href="<?php echo $ROOT ; ?>/home/academic-calendar.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-calendar"></i>Academic Calender</h2>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-xs-12 myFav">
-                        <a href="<?php echo $ROOT; ?>/notice/notice.php">
+                        <a href="<?php echo $ROOT ; ?>/notice/notice.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-notice"></i>Notice</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
-                        <a href="<?php echo $ROOT; ?>/events/events.php">
+                        <a href="<?php echo $ROOT ; ?>/events/events.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-events"></i>Events</h2>
                             </div>
@@ -166,7 +163,7 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
-                        <a href="<?php echo $ROOT; ?>/home/contact-us.php">
+                        <a href="<?php echo $ROOT ; ?>/home/contact-us.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-contact"></i>Support</h2>
                             </div>
@@ -180,21 +177,21 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT; ?>/examination/semester_pattern_ug_pg.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/semester_pattern_ug_pg.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-programme"></i>Programme Pattern</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT; ?>/examination/examination_calendar.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/examination_calendar.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-examcalendar"></i>Examination Calendar</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT; ?>/examination/assessment_norms.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/assessment_norms.php">
 
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-regulations"></i>Assesment Regulations</h2>
@@ -202,112 +199,112 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT; ?>/examination/end_semester_examination.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/end_semester_examination.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-examtimetable"></i>Exam Timetable</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT; ?>/examination/grievance_redressal.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/grievance_redressal.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-postexam"></i>POST-EXAM Procedure</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/art_culture.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/art_culture.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-art"></i>Art &amp; Culture</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/sports_games.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/sports_games.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-sports"></i>Sports &amp; Games</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/ethinic_day.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/ethinic_day.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-celebrations"></i>Celebrations</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/public_ncc.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/public_ncc.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-services"></i>Public Services</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/inter_intra_festivals.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/inter_intra_festivals.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-festivals"></i>Inter Intra Festivals</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT; ?>/studentlife/computer_academy.php">
+                        <a href="<?php echo $ROOT ; ?>/studentlife/computer_academy.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-association"></i>Association</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/jayantian_special/vichaarmanthan.php">
+                        <a href="<?php echo $ROOT ; ?>/jayantian_special/vichaarmanthan.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-vichaarmanthan"></i>Vichaarmanthan</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/jayantian_special/ccpd.php">
+                        <a href="<?php echo $ROOT ; ?>/jayantian_special/ccpd.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-ccpd"></i>C.C.P.D</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/jayantian_extension_services.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/jayantian_extension_services.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-extension"></i>Extension Services</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/entrepreneurship_development.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/entrepreneurship_development.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-entrepreneurship"></i>Entrepreneurship</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/language_learning_centre.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/language_learning_centre.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-language"></i>Language Learning</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/nss.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/nss.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-nss"></i>National Service Scheme</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/ncc.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-ncc"></i>National Cadet Corps</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT; ?>/beyond_curriculum/centre_life_skills.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-lifeskills"></i>Centre for LifeSkills</h2>
                         </div>
@@ -315,21 +312,21 @@
                     </div>
 
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT; ?>/collaborations/collaborations.php">
+                        <a href="<?php echo $ROOT ; ?>/collaborations/collaborations.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-collaborations"></i>Collaborations</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT; ?>/#">
+                        <a href="<?php echo $ROOT ; ?>/#">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-iqac"></i>IQAC</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT; ?>/#">
+                        <a href="<?php echo $ROOT ; ?>/#">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-gallery"></i>Gallery</h2>
                         </div>
@@ -341,7 +338,7 @@
     </div>
 </div>
 
-<script src="<?php echo $ROOT; ?>/js/isotope-docs.min.js"></script>
+<script src="<?php echo $ROOT ; ?>/js/isotope-docs.min.js"></script>
 <script>
     $(function() {
         // init Isotope for Accordian Pill Tabs
