@@ -138,7 +138,7 @@
 
                                 </div>
                             </div>
-                           <div class="col-lg-3">
+                          <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
 									
 									 <div class="panel panel-primary">
@@ -150,7 +150,7 @@
           <a href="introduction.php" class="list-group-item"> Introduction</a></div>
 										 
 										  <div class="list-group">
-          <a href="examination_comittee.php" class="list-group-item"> Non-Core Courses UG ProgrammExamination Committee</a></div>
+          <a href="examination_comittee.php" class="list-group-item">Examination Committee</a></div>
 										 
 										  <div class="list-group">
           <a href="internal_examination.php" class="list-group-item"> Internal Examination</a></div>
@@ -165,16 +165,16 @@
           <a href="graducation_day.php" class="list-group-item"> Graduation Day</a></div>
 										 
 										  <div class="list-group">
-  <a href="#" class="list-group-item disabled">Programme Pattern</a>
+											  <a href="#" class="list-group-item disabled"><b>Programme Pattern</b></a>
   <a href="semester_pattern_ug_pg.php" class="list-group-item">Semester / Trimester Pattern UG / PG</a></div> 
 										 
 										 
 										 <div class="list-group">
-  <a href="#" class="list-group-item disabled">Examination Calendar</a>
+											 <a href="#" class="list-group-item disabled"><b>Examination Calendar</b></a>
   <a href="examination_calendar.php" class="list-group-item">Academic Year 2016-17</a></div> 
 										 
 										  <div class="list-group">
-  <a href="#" class="list-group-item disabled">Assessment Regulations</a>
+											  <a href="#" class="list-group-item disabled"><b>Assessment Regulations</b></a>
   <a href="assessment_norms.php" class="list-group-item">Assessment Norms</a>
   <a href="continuous_internal_assessment.php" class="list-group-item">Continuous Internal Assessment</a>
   <a href="end_semester_examination.php" class="list-group-item">End Semester Examination</a>
@@ -184,7 +184,7 @@
 										 </div> 
 										 
 									 <div class="list-group">
-  <a href="#" class="list-group-item disabled"> Pre Examination Procedures / Examination Time Table</a>
+										 <a href="#" class="list-group-item disabled"> <b>Pre Examination Procedures / Examination Time Table</b></a>
   <a href="end_semester_trimester_examination_time_table.php" class="list-group-item">End Sem/Tri Examination </a>
 										  <a href="term_examination_time_table.php" class="list-group-item">Term Examination Time Table </a>
 										  <a href="university_examination_time_table.php" class="list-group-item">University Examination Time Table</a>
@@ -192,7 +192,7 @@
 										 </div>	 
 										 
 										 <div class="list-group">
-  <a href="#" class="list-group-item disabled">Post Examination Procedures</a>
+											 <a href="#" class="list-group-item disabled"><b>Post Examination Procedures</b></a>
   <a href="result_announcement.php" class="list-group-item">Result Announcement</a>
 										  <a href="grievance_redressal.php" class="list-group-item">Grievance Redressal</a>
 										  <a href="revaluations.php" class="list-group-item">Revaluation</a>
@@ -203,12 +203,16 @@
 										 
 										 
 										 <div class="list-group">
-          <a href="non_core_courses_ug_programme.php" class="list-group-item"> Non-Core Courses UG Programme</a></div>
+											 <a href="non_core_courses_ug_programme.php" class="list-group-item"> <b>Non-Core Courses UG Programme</b></a></div>
 										 
 										 <div class="list-group">
-          <a href="differently_abled_privileges.php" class="list-group-item"> Differently Abled (Physically Challenged) privileges</a></div>
+											 <a href="differently_abled_privileges.php" class="list-group-item"> <b>Differently Abled (Physically Challenged) privileges</b></a></div>
 										 
-					 
+										 
+										 <div class="list-group">
+											 <a href="seating_arrangement.php" class="list-group-item"> <b>Seating Arrangement</b></a></div>
+										 
+
 										 
                                       
                                     </div>

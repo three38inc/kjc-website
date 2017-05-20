@@ -112,14 +112,15 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Term <strong>  Examination </strong></span>
+                                        <span>&nbsp; Seating <strong>Arrangement</strong></span>
                                     </h4>
 
-									<p align=justify>In a semester there used to be two term examinations (For Undergraduate Programmes and one Mid Term Exam for Post Graduate Programmes) which will assess the academic progress of the students and the results of the same is intimated to the students as well as the parents. The marks secured by the students in these term examinations will be taken into account for the calculation of Internal Assessment marks. The scheduled dates of the Term examinations are mentioned in the college calendar. The time table and the syllabus for the same are announced 10 days ahead of the commencement of the examination</p>
-									
+									<iframe style="background-color:#ffffff" height="780" width="734" marginwidth="0" marginheight="0" frameborder="0" scrolling="No" 
+src="http://three38inc.com/seating/index.php"></iframe>
+
                                 </div>
                             </div>
-                       <div class="col-lg-3">
+                         <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
 									
 									 <div class="panel panel-primary">
@@ -193,6 +194,7 @@
 										 <div class="list-group">
 											 <a href="seating_arrangement.php" class="list-group-item"> <b>Seating Arrangement</b></a></div>
 										 
+										 
 					 
 										 
                                       
@@ -204,7 +206,7 @@
 
                     </div>
 
-                 </div>
+             </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
                     <?php include('../php/morphingSearch.php'); ?>
@@ -218,7 +220,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-  
+   
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
