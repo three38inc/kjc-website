@@ -1,6 +1,3 @@
-<?php 
-    $ROOT = "http://".$_SERVER['HTTP_HOST']."";
-?>
 
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
     <!--  <div class="container-fluid">-->
@@ -8,7 +5,7 @@
         <div class="navbar-header">
 
             <div  class="navbar-brand">
-                <a href="<?php echo $ROOT; ?>/home/index.php"><img class="img-responsive" src="<?php echo $ROOT; ?>/images/kjcFlag.png" id='imgLink'/></a>
+                <a href="<?php echo $ROOT ; ?>/home/index.php"><img class="img-responsive" src="<?php echo $ROOT ; ?>/images/kjcFlag.png" id='imgLink'/></a>
             </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar">
                 <span class="icon-bar"></span>
@@ -48,7 +45,7 @@
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="<?php echo $ROOT; ?>/admission/admission.php" id="contact">Admission</a>
+                    <a  href="<?php echo $ROOT ; ?>/admission/admission.php" id="contact">Admission</a>
                 </li>
                 
                 <li>

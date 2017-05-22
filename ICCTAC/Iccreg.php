@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <?php
 session_start();
 ?>

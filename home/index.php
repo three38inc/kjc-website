@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -157,7 +157,7 @@
                                         <div class="owl-carousel owl-theme" id="MediaSlider">
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/weekly-calendar.png" class="media-room-icon" />
+                                                    <img src="<?php echo $ROOT ; ?>/images/weekly-calendar.png" class="media-room-icon" />
                                                     <span class="media-room-heading">Glimpses</span>
 
                                                 </div>
@@ -172,7 +172,7 @@
                                             </div>
                                             <div class="item">
                                                 <div class="media-room">
-                                                    <img src="../images/newspaper.png" class="media-room-icon" />
+                                                    <img src="<?php echo $ROOT ; ?>/images/newspaper.png" class="media-room-icon" />
                                                     <div class="media-room-heading">KJC IN NEWS</div>
                                                 </div>
 
