@@ -122,7 +122,7 @@
 <p>The Placement Orientation and Training program of the Centre for Employability & Corporate Relations, for the young talents, is a continuous process which helps them get exposed to the industry practices and opens a passage to the Corporate World. GATE prepares the students for the final placements. </p>
 
 <b>The training given is multifarious and includes different verticals  </b><br />
-<table border="3" cellpadding="2" cellspacing="2" align="center">
+<table border="3" cellpadding="2" cellspacing="2" align="center" class=" table table-bordered">
 <tr>
 <td width="100">Express</td>
 <td width="200">Aptitude Test Paper</td>

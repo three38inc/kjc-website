@@ -114,8 +114,10 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our Recruiters</span>
                                     </h4>
+	
+									
 
-<table border="1" cellspacing="2" cellpadding="3">
+<table border="1" cellspacing="2" cellpadding="3" class="table table-bordered table-hover">
            <tr>
              <td width="89" valign="top"><p><b>Sl No</b></p></td>
              <td width="536" valign="top"><p><b>Companies Visited</b></p></td>

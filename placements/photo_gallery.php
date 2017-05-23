@@ -115,63 +115,63 @@
                                         <span>&nbsp;Photo Gallery</span>
                                     </h4>
                                     
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0" class="table table-bordered">
        
        <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; ICICI Prudential</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; ICICI Prudential</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1324209747657894" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
       <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Offer Letter day - UG</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Offer Letter day - UG</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1322514634494072" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Thomson Reuters</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Thomson Reuters</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310544195691116" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        <tr>
-  <td width="500"><p><font size="3" color="#006699"><b>&nbsp; UST Global</b></font></b></p></td>
+  <td width="500"><p><font size="3" color="#006699"><b>&nbsp; UST Global</b></font></p></td>
     <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310608222351380" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        <tr>
-    <td width="500"><p><font size="3" color="#006699"><b>&nbsp; KPMG</b></font></b></p></td>
+    <td width="500"><p><font size="3" color="#006699"><b>&nbsp; KPMG</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310606635684872" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        
         <tr>
-    <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Cognizant</b></font></b></p></td>
+    <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Cognizant</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310605875684948" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        
        <tr>
-   <td width="500"><p><font size="3" color="#006699"><b>&nbsp; 24[7]</b></font></b></p></td>
+   <td width="500"><p><font size="3" color="#006699"><b>&nbsp; 24[7]</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310603842351818" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
         
        
        <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; State Bank of India</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; State Bank of India</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310542379024631" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
         <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Wipro</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Wipro</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1310540219024847" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        
        <tr>
-     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; AXA</b></font></b></p></td>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp; AXA</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1300596643352538" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        <tr>
-       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Step 2 Strategy</b></font></b></p></td>
+       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Step 2 Strategy</b></font></p></td>
        <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1300591736686362" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
         <tr>
-       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Asian Paints</b></font></b></p></td>
+       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Asian Paints</b></font></p></td>
        <td width="500"><center><a href="  https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1300640403348162" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
         <tr>
-       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Great West</b></font></b></p></td>
+       <td width="500"><p><font size="3" color="#006699"><b>&nbsp; Great West</b></font></p></td>
        <td width="500"><center><a href="   https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1300642766681259" target="_blank">(VIEW GALLERY)</a></center></td>
        </tr>
        </table>
