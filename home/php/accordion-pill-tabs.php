@@ -199,7 +199,7 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/end_semester_examination.php">
+                        <a href="<?php echo $ROOT ; ?>/examination/end_semester_trimester_examination_time_table.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-examtimetable"></i>Exam Timetable</h2>
                             </div>
@@ -262,7 +262,7 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/jayantian_special/ccpd.php">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ccpd.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-ccpd"></i>C.C.P.D</h2>
                         </div>
@@ -319,14 +319,14 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/#">
+                        <a href="<?php echo $ROOT ; ?>/iqac/iqac_functions.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-iqac"></i>IQAC</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/#">
+                        <a href="<?php echo $ROOT ; ?>/gallery/index.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-gallery"></i>Gallery</h2>
                         </div>
