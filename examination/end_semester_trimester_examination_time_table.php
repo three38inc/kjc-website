@@ -110,14 +110,27 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; End Semester/Trimester  <strong> Examination Time Table  </strong></span>
                                     </h4>
 									
+									
+									<div class="well well-sm">
+										MBA/PGDM VI Trimester End Trimester Theory Examination May/June 2017  <a href="pdf/2017/mba_pgdm_VI_trimester_end_trimester_exam_may_june_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+										 </div>
+									
+									<div class="well well-sm">
+										MCA II Semester End Semester Theory Examination May 2017  <a href="pdf/2017/mca_II_sem_end_sem_theory_exam_may_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+										 </div>
+									
+									<div class="well well-sm">
+										MCA II Semester - End Semester Practical Examination May 2017  <a href="pdf/2017/mca_II_sem_end_sem_practical_exam_may_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+										 </div>
+									
 								
 									<div class="well well-sm">
-										MA / M Sc. / M Com / MSW II Semester - End Semester Theory Examination May 2017  <a href="pdf/2017/ma_msc_mcom_msw_II_sem_end_semester_theory_exam_may_2017" target="_blank"><b>[TIME TABLE]</b></a>
+										MA / M Sc. / M Com / MSW II Semester - End Semester Theory Examination May 2017  <a href="pdf/2017/ma_msc_mcom_msw_II_sem_end_semester_theory_exam_may_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
 										 </div>
 								
 									
@@ -169,12 +182,12 @@ UG End Semester Practical Examination March/April 2017<br>
   B Sc. CSMS/CSME End Semester Practical Examination <a href="pdf/2017/bsc_csms_e_end_semester_practical_exam_march_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
   </li>
  <li class="list-group-item">
-  BCA End Semester Practical Examination<a href="pdf/2017/bca_end_semester_practical_exam_march_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+  BCA End Semester Practical Examination <a href="pdf/2017/bca_end_semester_practical_exam_march_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
   </li>
  <li class="list-group-item">
 B Com (Tourism) VI Semester End Semester Practical Examination <a href="pdf/2017/bcom_tourism_end_semester_practical_exam_march_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
   </li>
-<li class="list-group-item">BBA End Semester Practical Examination<a href="pdf/2017/bba_VI_sem_end_semester_practical_exam_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+<li class="list-group-item">BBA End Semester Practical Examination <a href="pdf/2017/bba_VI_sem_end_semester_practical_exam_april_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
 </li>
 </ul>
 </div>
