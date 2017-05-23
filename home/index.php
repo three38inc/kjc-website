@@ -258,22 +258,22 @@
                                         </div>
                                         <div class="owl-carousel owl-theme" id="placementSlider">
                                             <div class="item">
-                                                <img src="../images/placements/google_new_logo.png" width="210" height="139" />
+                                                <img src="slider-images/ey.jpg" width="210" height="139" />
                                                 <p class="text-center">
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <a href="../placements/about_cecr.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                     </p>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/volvo.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="slider-images/accenture.jpg" width="210" height="139"/>
+                                                <a href="../placements/about_cecr.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/crossdomain.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="slider-images/airtel.jpg" width="210" height="139" />
+                                                <a href="../placements/about_cecr.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                             <div class="item">
-                                                <img src="slider-images/greatwest.jpg" />
-                                                <a href="../placements/our_recruiters.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                <img src="slider-images/cityunionbank.jpg"  width="210" height="139" />
+                                                <a href="../placements/about_cecr.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
