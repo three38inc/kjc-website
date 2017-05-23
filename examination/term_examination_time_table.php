@@ -115,6 +115,15 @@
                                         <span>&nbsp; Term Examination  <strong> Time Table  </strong></span>
                                     </h4>
 									
+									<div class="well well-sm">
+MBA/PGDM III Trimester Mid Term Exam May 2017 <a href="pdf/2017/mba_pgdm_III_trimester_midterm_exam_may2017.pdf" target="_blank"><b>[TIME TABLE]</b></a></div>
+									
+									<div class="well well-sm">
+MCA II Semester Term Practical Examination May 2017 <a href="pdf/2017/mca_II_sem_term_practical_exam_may_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a></div>
+									
+									<div class="well well-sm">
+MBA/PGDM VI Trimester Mid Term Examination May 2017  <a href="pdf/2017/vi_trimester_mba_pgdm_midterm_exam2017.pdf" target="_blank"><b>[TIME TABLE]</b></a></div>
+									
 								
 									<div class="well well-sm">
 Second Semester Mid Term Examinations - One Year Post Graduate Diploma <a href="pdf/2017/one_year_pg_diploma_second_sem_mid_term_exam_apr_may_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a></div>
