@@ -110,11 +110,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Campus  <strong> Culture </strong></span></h4>
 									
-									<p><b>1. Attendance</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">1. Attendance</b><br>
 * The students are expected to maintain 80% attendance in every subject to be eligible to write the semester exams<br>
 * Attendance carries 30% weightage for the calculation of internal marks for each subject<br>
 * The college timings - 9 am to 4 pm, divided into six periods with a 10-minute break at the end of every period.<br>
@@ -123,17 +124,20 @@
 * Attendance in Current Affairs classes and Club activities is compulsory.<br>
 										* Special prizes will be awarded to those who have 100% attendance during the graduation ceremony.</p>
 
-									<p><b>2. Internal Marks</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">2. Internal Marks</b><br>
 * Every subject has 10 marks allocated for internal assessment (BA/BSc/Bcom/BBM) and 20 marks for BCA<br>
 										* The internal marks are assessed as follows: 50 % through internal tests (2 term tests); 30% through attendance; 20% through class assignments.</p>
 
-									<p><b>3. Leave</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">3. Leave</b><br>
 * In case of leave the student should submit the prescribed leave application form duly signed by the parent, recommended by the class teacher and approved by any of the fathers<br>
 * The leave application should be submitted the next day after taking leave.<br>
 * Leave of more than 3 days requires the Principal's permission<br>
 										* Those who participate in college, club activities, represent College in various events, etc. have to submit prescribed attendance forms duly signed by authorized respective Club Staff Coordinator.</p>
 
-									<p><b>4. Dress code</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">4. Dress code</b><br>
 1. There are some special occasions when students have to come in complete formals (eg. Inauguration, Dept. fest, etc)<br>
 i. Boys: Full sleeve shirt, formal trousers, tie, shoes<br>
 ii. Girls: Churidhar with shawl<br>
@@ -148,12 +152,14 @@ ii. Girls: Salwar with shawl, decent jean/trouser, t-shirt<br>
 4. Strictly no track suits/three-fourth pants/cargos are allowed<br>
 										5. The dress code applies to days of examinations also</p>
 
-									<p><b>5. Two wheeler users</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">5. Two wheeler users</b><br>
 * The two wheeler users should compulsorily have a driver's license and other documents necessary.<br>
 * Riders should wear helmets. Only then they will be allowed inside the college premises.<br>
 										* Riding in triples, over speeding, etc. is a punishable offence.</p>
 
-									<p><b>6. Class and Campus discipline</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">6. Class and Campus discipline</b><br>
 * This is a ragging free campus. Ragging is banned not just in the college but also outside the campus. Even interaction between juniors and seniors is discouraged in the initial weeks to prevent ragging. The college discipline committee monitors the discipline regarding this matter.<br>
 * Smoking/chewing tobacco/using intoxicating substance is banned in and around the college. If the student is found indulging in any such activity by any authority it could lead to suspension.<br>
 * Chewing gum is strictly prohibited<br>
@@ -165,10 +171,12 @@ ii. Girls: Salwar with shawl, decent jean/trouser, t-shirt<br>
 * Growing long hair prohibited; Using different hair colour is not accepted; Beard, goatee, is not allowed.<br>
 										* Piercing of ears, nose, eye brows and wearing studs is prohibited.</p>
 
-									<p><b>7. Communication</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">7. Communication</b><br>
 										Students should strictly observe English as the medium of communication.</p>
 
-									<p><b>8. Cellphone</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">8. Cellphone</b><br>
 * Usage of cellphones in the college buildings is prohibited.<br>
 										* If there is a breach in this rule the cellphone would be confiscated.</p>
                                 </div>
@@ -195,7 +203,7 @@ ii. Girls: Salwar with shawl, decent jean/trouser, t-shirt<br>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="campus_culture.php">Campus Culture</a></p>
+                                        <p><a class="a-link-arrow" href="campus_culture.php" style="color: #2980b9;font-weight: bold;">Campus Culture</a></p>
                                     </section>
 
 

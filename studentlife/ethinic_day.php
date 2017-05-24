@@ -174,7 +174,7 @@
 								<div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
 									<p><b><font color="#3b96d6">CELEBRATIONS</font></b></p>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ethinic_day.php">Ethinic Day</a></p>
+                                        <p><a class="a-link-arrow" href="ethinic_day.php" style="color: #2980b9;font-weight: bold;">Ethinic Day</a></p>
                                     </section>
 
 

@@ -120,11 +120,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:538px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Research Profile</strong></span>
                                     </h4>
-                                    <br />
+                                  
 
                                     <p align="justify">
 										<b style="color: #cd6e08;font-weight: bold;">RESEARCH POLICY</b><br /> 'Aspiring towards global competency by creating a conducive physical and intellectual environment to infuse a culture of research that contribute towards transformation of the society'.<br /><br />
@@ -155,7 +155,7 @@
                                         <span>&nbsp;Our  <strong>Research Profile</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="centre_for_research.php">Centre for Research</a></p>
+                                        <p><a class="a-link-arrow" href="centre_for_research.php" style="color: #2980b9;font-weight: bold;">Centre for Research</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="research_projects.php">Research Projects</a></p>

@@ -121,7 +121,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Result <strong> Announcement </strong></span>
                                     </h4>
@@ -193,7 +193,7 @@
 										 
 										 <div class="list-group">
 											 <a href="#" class="list-group-item disabled"><b>Post Examination Procedures</b></a>
-  <a href="result_announcement.php" class="list-group-item">Result Announcement</a>
+  <a href="result_announcement.php" style="color: #2980b9;font-weight: bold;" class="list-group-item">Result Announcement</a>
 										  <a href="grievance_redressal.php" class="list-group-item">Grievance Redressal</a>
 										  <a href="revaluations.php" class="list-group-item">Revaluation</a>
 											  <a href="supplementary_examination.php" class="list-group-item">Supplementary Examinationn</a>

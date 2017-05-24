@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:538px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Do a  <strong>Ph. D in Social Work</strong></span>
                                     </h4>
-                                    <br />
+                                   
 
                                     <p align="justify">
 												The Department of social work is a recognized Research Centre which motivates to secure a Ph.D. The mission of the research centre of Department of Social Work is to provide scholarly leadership for the profession of social work through teaching, research and service. With a commitment to social and economic justice, cultural diversity and empowerment of individuals, the research centre is dedicated to make changes in the life of people. The research centre tries to advance the knowledge in the field of social work research through scientific discovery, collaborative work and other national and international organisations and academic outreach.<br /><br />
@@ -166,7 +166,7 @@
                                         <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php" style="color: #2980b9;font-weight: bold;">Research centre in Social Work</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>

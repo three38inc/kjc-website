@@ -102,7 +102,7 @@
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></p>
+                            <p><a class="a-link-arrow" href="schlorship_loan_facilities.php" style="color: #2980b9;font-weight: bold;">Scholarship &amp; Loan Facilities</a></p>
                             </section>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="health_care.php">Health Care</a></p>

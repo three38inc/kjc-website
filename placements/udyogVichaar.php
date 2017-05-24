@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;UdyogVichaar</span>
                                     </h4>
@@ -186,7 +186,7 @@ The Presidential Address was delivered by Rev.Fr. Augustine George, Vice Princip
                                         <p><a class="a-link-arrow" href="placement_extension_services.php">Placement Extension Services</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="udyogVichaar.php">UdyogVichaar</a></p>
+                                        <p><a class="a-link-arrow" href="udyogVichaar.php" style="color: #2980b9;font-weight: bold;">UdyogVichaar</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="transcend.php">Transcend</a></p>

@@ -109,14 +109,13 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Centre for Continuing  <strong>Professional Development (CCPD) </strong></span></h4>
 									
 									<p align=justify>The Centre for Continuing Professional Development (CCPD) was initiated with an objective of providing training solutions to the corporates, NGOs and Educational Institutions with the specific focus on training individuals and groups on better understanding of Human Relationships and the dynamics involved in them. With this specific objective in mind CCPD conducts regular training programme on various aspects of relationship in personal, professional and organizational contexts. The Centre has conducted more than 100 programs in different parts of the country to various governmental and Non-Governmental organizations, apart from schools and college teachers. The resource team consists of experts in the field of Human Resource Development, Industrial and Educational Psychologists and Senior Academicians.</p>
 
-									<p><b><u>Some of the specific areas of our expertise include sessions ons</u></b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;"><u>Some of the specific areas of our expertise include sessions ons</u></b><br>
 
 <b>*</b> Team Building<br>
 <b>*</b> Inter-Personal Relationship<br>
@@ -129,7 +128,7 @@
 										<b>*</b> Coping with Stress etc...</p>
 
 									<p>The duration of the above sessions vary from half day to 2 days.</p>
-									<p><b><u>The training Methodology is fully activity based</u></b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;"><u>The training Methodology is fully activity based</u></b><br>
 										We will be very happy to be associated with interested organization in this venture of developing potential human Professionals with high productivity with equally competent in human relations.</p>
 
 <p>For More Information Please Contact:<br>
@@ -150,7 +149,7 @@ Bangalore<br>
                                         <span>&nbsp; Beyond <strong>Curriculum</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ccpd.php"> Centre for Continuing Professional Development (CCPD)</a></p>
+                                        <p><a class="a-link-arrow" href="ccpd.php" style="color: #2980b9;font-weight: bold;"> Centre for Continuing Professional Development (CCPD)</a></p>
                                     </section>
 
 

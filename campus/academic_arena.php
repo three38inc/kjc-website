@@ -121,7 +121,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                    
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Academic Arena</strong></span>
                                     </h4>
@@ -144,7 +144,7 @@
                                         <span>&nbsp;Our  <strong>Campus Profile</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_arena.php">Academic Arena</a></p>
+                                        <p><a class="a-link-arrow" href="academic_arena.php" style="color: #2980b9;font-weight: bold;">Academic Arena</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="library_info.php">Library</a></p>

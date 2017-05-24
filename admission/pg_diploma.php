@@ -120,7 +120,7 @@ win=window.open(mypage,myname,settings);}
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong> Post Graduate Diploma (One Year)(For Working Executives)</strong></span>
                                     </h4>
@@ -156,16 +156,16 @@ win=window.open(mypage,myname,settings);}
   </tr>
   </table>
              <br>                       
-                                <p><b> Apply online:</b> <a href="admission_guidelines.php" target="_blank">(Click)</a></p>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Apply online:</b> <a href="admission_guidelines.php" target="_blank">(Click)</a></p>
 
                                     <p>Classes will commence during the 1st week of August, 2016</p>
 
-                                    <p><b>For further Details Contact:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">For further Details Contact:</b><br>
 College Office: 080 - 28465611 / 28465353 / 28465770,<br>
 E-mail: admission@kristujayanti.com<br>
                                         Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636</p>
 
-                                    <p><b>For details of Subjects</b> (Click here)</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">For details of Subjects</b> (Click here)</p>
 
                                 </div>
                             </div>
@@ -188,7 +188,7 @@ E-mail: admission@kristujayanti.com<br>
                                      <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
                                     </section><section class="link-arrow">
                                     
-                                    <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
+                                    <p><a class="a-link-arrow" href="pg_diploma.php" style="color: #2980b9;font-weight: bold;">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
                                     </section><section class="link-arrow">
                                     
                                         <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>

@@ -110,11 +110,10 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Padmashri Teesta Setalvad</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Padmashri Teesta Setalvad</b><br>
 										 Popular Civil Activist & Journalist </p>
 									
 									<p align=justify> Padmashri Teesta Setalvad while addressing the students at Vichaarmanthan said, "that our children should be taught about inequality and communalism to understand the realities existing in our country", at Kristu Jayanti College. Vichaarmanthan is a platform for students to interact with global and Indian visionaries, and churn their thoughts, to implement the best into reality. Teesta Setalvad, Popular Civil Activist & Journalist, was the chief guest of the Seventeenth edition of Vichaarmanthan. Rev. Fr. Sebastian T. A, Principal, Kristu Jayanti College; Rev. Fr. Jose P.J, Financial Administrator & Head, Department of Social Work; Rev. Fr. Augustine George, Dean, Science; Prof. Gopakumar A. V, Dean, Humanities, were present.</p>

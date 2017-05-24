@@ -115,11 +115,11 @@
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                         <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                       
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;About <strong> Luminary</strong></span>
                                         </h4>
-                                        <br />
+                                    
 
                                         <p align="justify"> Luminary was formed on August 2nd, 2013 by the students and student secretaries of E-CELL of Kristu Jayanti College Autonomous.
                                         </p>

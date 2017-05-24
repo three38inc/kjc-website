@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Shri. Nadirshaw K.Dhondy</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Shri. Nadirshaw K.Dhondy</b><br>
 										Advocate Supreme Court, Officer on special duty, Government of Maharashtra </p>
 									
 									<p align=justify> As part of interaction with global leaders and visionaries, Shri. Nadirshaw K Dhondy, Advocate Supreme Court, Officer on special duty, Government of Maharashtra, visited the campus to interact with students on 5th April, 2014. The visit by Mr. Dhondy enlightened students on various issues related law and its implications on society.</p>

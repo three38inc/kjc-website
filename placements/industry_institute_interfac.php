@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Industry Institute Interface</span>
                                     </h4>
@@ -155,7 +155,7 @@ Mr.Arun Issac, Regional Head South and Country Manager, Fujitsu India (P) Ltd.</
               <p><a class="a-link-arrow" href="orientation_training.php">Placement Orientation & Training Programme</a></p>
                                     </section><section class="link-arrow">
                                     
-          <p><a class="a-link-arrow" href="industry_institute_interfac.php">Industry Institute Interface(3iCell)</a></p>
+          <p><a class="a-link-arrow" href="industry_institute_interfac.php" style="color: #2980b9;font-weight: bold;">Industry Institute Interface(3iCell)</a></p>
                                     </section><section class="link-arrow">
                                     
                                         <p><a class="a-link-arrow" href="placement_initiatives.php">Placement Initiatives @ KJC</a></p>

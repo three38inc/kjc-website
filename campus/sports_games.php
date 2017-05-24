@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Sports Division</strong></span>
                                     </h4>
-                                    <br />
+                                  
 
                                     <p align="justify"> Kristu Jayanti College is well known for its performance and achievements in sports and games. The Sports department coordinates the events which help students to perform well in all sports and game events at University, State and National Level. The Department in collaboration with many recognized coaches give coaching to students in various games like basketball, football, cricket, throwball, volleyball, badminton and table tennis. An outstanding state-of- the-art facilities to coach students and considerable investment every year to have quality equipments is a commitment the college undertakes.<br /><br />
 												The College Teams participate in all inter-collegiate tournaments conducted by various colleges and Universites like, " SPIEL Tournament", "CRISPO", Bangalore University North and South Zone Tournament, UVCE ETC.<br/><br/>
@@ -145,7 +145,7 @@
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
                                     </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="sports_games.php">Sports &amp; Games</a></p>
+                                        <p><a class="a-link-arrow" href="sports_games.php" style="color: #2980b9;font-weight: bold;">Sports &amp; Games</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="hostel.php">Hostel</a></p>
                                     </section><section class="link-arrow">

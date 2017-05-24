@@ -123,7 +123,7 @@ win=window.open(mypage,myname,settings);}
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>MCA Admission</strong></span>
                                     </h4>
@@ -181,7 +181,7 @@ win=window.open(mypage,myname,settings);}
                 <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
                                     </section><section class="link-arrow">
                                     
-                                     <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
+                                     <p><a class="a-link-arrow" href="mca_admission.php" style="color: #2980b9;font-weight: bold;">MCA Admission</a></p>
                                     </section><section class="link-arrow">
                                     
                                     <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>

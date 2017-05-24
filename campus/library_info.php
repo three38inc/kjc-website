@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Library </strong></span>
                                     </h4>
-                                    <br />
+                                    
 
                                     <p align="justify"> The College Library is a gateway to a world of information. The staff and students have unlimited access to a wealth of Information found in resources like books, magazines, Journals, statistics, encyclopedias, annual reports and the Internet. In addition, the library offers spacious seating arrangements and a calm ambience for learning.  </p><br/>
 												<h4 style="text-decoration:underline;">Opening Hours</h4>
@@ -222,7 +222,7 @@ Other Visitors to the Library may use it provided he gets permission from the Di
                                         <p><a class="a-link-arrow" href="academic_arena.php">Academic Arena</a></p>
                                     </section>
                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="library_info.php">Library</a></p>
+                                        <p><a class="a-link-arrow" href="library_info.php" style="color: #2980b9;font-weight: bold;">Library</a></p>
                                     </section>
                                      <section class="link-arrow">   
                                         <p><a class="a-link-arrow" href="library_epac.php">Library EPAC</a></p>

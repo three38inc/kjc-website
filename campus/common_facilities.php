@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Academic Arena</strong></span>
                                     </h4>
-                                    <br />
+                                 
 
                                     <p align="justify"> The college has adequate infrastructure for effective functioning of all its academic programmes and non academic programme. Along with that college has made arrangement to offer value adder services to both students and faculty members.<br /><br />
                                         </p>
@@ -167,7 +167,7 @@
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="hostel.php">Hostel</a></p>
                                     </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="common_facilities.php">Common Facilities</a></p>
+                                        <p><a class="a-link-arrow" href="common_facilities.php" style="color: #2980b9;font-weight: bold;">Common Facilities</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="cafeteria.php">Cafeteria</a></p>
                                     </section>

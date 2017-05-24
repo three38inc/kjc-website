@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Value Instruction <strong>Classes </strong></span></h4>
 									
@@ -118,42 +118,42 @@
 
 									<p align=justify>Kristu Jayanti College endeavours to achieve academic excellence, as students progress through their education, it is important that their education provide instructional opportunities, explicit and implicit that help them develop their understanding about what is right and good. It also helps to inculcate high ethical standards, resulting in service to humanity. Value Instruction Class has been formed to take care of this great vision.</p>
 
-									<p><b>Main Objective</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Main Objective</b><br>
 										To emphasize on the importance of inculcating good ethical behaviour, responsibility, standards and ideals in the professional and personal life of the students.VIC aims at revival of human values, peace, prosperity and happiness in the society through the students.</p>
 
 									<p>VIC focuses on the following themes and seminars are arranged on odd semesters.</p>
 
-									<p><b>Equality:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Equality:</b><br>
 										The right and opportunity to develop one's potential as a human being.</p>
 
 									<p><b>Altruism:</b><br>
 										Concern for and motivation to act for the welfare of others</p>
 
-									<p><b>Civility and cheerfulness:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Civility and cheerfulness:</b><br>
 										Courtesy and politeness in action or speech</p>
 
-									<p><b>Compassion, kindness and generosity:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Compassion, kindness and generosity:</b><br>
 										Concern for suffering or distress of others and response to their feelings and needs.</p>
 
-									<p><b>Courtesy and cooperation:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Courtesy and cooperation:</b><br>
 										Recognition of mutual interdependence with others resulting in polite treatment and respect for them.</p>
 
-									<p><b>Integrity:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Integrity:</b><br>
 										Confirmed virtue and uprightness of character, freedom from hypocrisy</p>
 
-									<p><b>Honesty:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Honesty:</b><br>
 										Truthfulness and sincerity</p>
 
-									<p><b>Self control and virtue:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Self control and virtue:</b><br>
 										Exercising authority over one's emotions and actions</p>
 
-									<p><b>Self-Esteem:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Self-Esteem:</b><br>
 										Pride and belief in oneself and in achievement of one's potential</p>
 
-									<p><b>Cleanliness:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Cleanliness:</b><br>
 										Good habits of personal hygiene and grooming</p>
 
-									<p><b>Punctuality:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Punctuality:</b><br>
 										Being on time for attendance and tasks</p>
 
 									<p>The students are given sufficient exposure to the realities of life, to understand and empathize with the poor and needy so that they would develop progressive proclivity to reach out to fellow humans with a tender heart and a helping hand.</p>
@@ -169,7 +169,7 @@
                                         <span>&nbsp; Jayantian <strong>Special</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="value_instruction_classes.php"> Value Instruction Classes</a></p>
+                                        <p><a class="a-link-arrow" href="value_instruction_classes.php" style="color: #2980b9;font-weight: bold;"> Value Instruction Classes</a></p>
                                     </section>
 
 

@@ -110,17 +110,18 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. A.P.J. Abdul Kalam</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. A.P.J. Abdul Kalam</b><br>
 										Honourable Former President of India</p>
 									
 									<p align=justify>It was a historic moment for Kristu Jayanti College when Honourable Former President of India, Dr. A.P.J. Abdul Kalam visited the college as part of Vichaarmanthan on 31st March, 2011 and interacted with the students, faculty and administrative staff of the college. Dr. Kalam inspired jayantians to set goals for the twenty first century with the confluence of mind, experience and dreams.</p>
 
 									<p>His talk primarily focussed on creating a “Sustainable Development Systems” through a dynamic tool PURA [Provide Urban Amenities to Rural Areas]. It essentially requires four levels of connectivity like physical connectivity, knowledge connectivity leading to economic connectivity which have to be customized according to local talent and technology. Dr. Abdul Kalam's message</p>
-									<p><b><i>“Creativity leads to thinking,<br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;"><i>“Creativity leads to thinking,<br>
 Thinking provides knowledge<br>
 										Knowledge makes you great” mesemerized the audience.</i></b></p>
 

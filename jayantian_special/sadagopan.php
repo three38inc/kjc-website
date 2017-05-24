@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Professor S. Sadagopan</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Professor S. Sadagopan</b><br>
 										Director IIIT-B </p>
 									
 									<p align=justify> Vichaarmanthan had again brought a very eminent visionary in the jayantian campus, who had sealed every possible aspect in the field of IT, Prof. S Sadagopan, Director IIIT-B</p>

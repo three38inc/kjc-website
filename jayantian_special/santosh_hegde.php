@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                    
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Justice Santosh Hegde</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Justice Santosh Hegde</b><br>
 										Former justice of the Supreme Court Of India, former Solicitor General of India </p>
 									
 									<p align=justify> "The greatest injustices proceed from those who pursue excess, not by those who are driven by necessity." -- Aristotle</p>

@@ -215,7 +215,7 @@ following links and attach the copy of the same.</li>
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal </a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
+                            <p><a class="a-link-arrow" href="scholarship.php" style="color: #2980b9;font-weight: bold;">Scholarship</a></p>
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="schlorship_loan_facilities.php">Scholarship &amp; Loan Facilities</a></p>
                             </section>

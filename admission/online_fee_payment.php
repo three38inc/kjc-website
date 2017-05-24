@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                           
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Online Fee Payment Details</strong></span>
                                     </h4>
@@ -118,13 +118,13 @@
                                   
                                     <p>Students/Applicants can make use of electronic payment facility for remitting the prescribed fee.</p>
 
-                                    <p><b>Bank Details for UG Fee Payment</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Bank Details for UG Fee Payment</b><br>
 Name: 	Kristu Jayanti College<br>
 Bank: 	The South Indian Bank Ltd<br>
 Branch: 	Kothanur Branch, Bangalore - 560 077<br>
                                         IFSC Code: 	SIBL0000486</p>
 
-                                    <p><b>Please Note:</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Please Note:</b><br>
                                         Kindly contact the accounts section in the college office (Phone: 080 28465611 Ext: 305) with your reference number after your transcations, for issue of fee receipts.</p>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@ Branch: 	Kothanur Branch, Bangalore - 560 077<br>
                                         <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
+                                        <p><a class="a-link-arrow" href="online_fee_payment.php" style="color: #2980b9;font-weight: bold;">Online Fee Payment Details</a></p>
                                     </section>
                                     
                                     

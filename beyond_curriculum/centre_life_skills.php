@@ -110,13 +110,13 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Centre for Life Skills <strong> Education (CLSE) </strong></span></h4>
 									
 									<p align=justify>Centre for Life Skills Education (CLSE) has been initiated as an offspring on the recommendations of World Health organization (WHO) which has identified 10 core skills as life skills.</p>
 
-									<p><b>The center functions with the following specific objectives:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">The center functions with the following specific objectives:</b><br>
 										1. To provide training for all our under graduate and post graduate students of Kristu Jayanti College on Life Skill Education so that they are able to face the challenges and adapt to day to day demands of their everyday lives.</p>
 
 									<p>2. To offer the benefit of Life Skill Education to our neighborhood communities & institutes especially to government school children and youth so that their quality of life is enhanced and self-esteem improved.</p>
@@ -127,10 +127,10 @@
 
 									<p>5. To carry out research & publications in the area of Life Skill Education and to identify the newer areas for application of Life Skills.</p>
 
-									<p><b>What are Life Skills?</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">What are Life Skills?</b><br>
 										Life Skills are the abilities for adaptive and positive behavior that enables individuals to deal effectively with the demands and challenges of everyday life across cultures (WHO, 1997).</p>
 
-<p><b>The following are the 10 core life skills recommended by World Health Organization:</b><br>
+<p><b style="color: #cd6e08;font-weight: bold;">The following are the 10 core life skills recommended by World Health Organization:</b><br>
 1. Self-Awareness<br>
 2. Empathy<br>
 3. Decision Making<br>
@@ -142,7 +142,7 @@
 9. Coping With Emotions<br>
 										10. Coping With Stress</p>
 
-									<p><b>Ever since its inception, the center has been actively conducting several trainings on Life Skills in the following areas:</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Ever since its inception, the center has been actively conducting several trainings on Life Skills in the following areas:</b><br>
 <b>*</b> Life Skills Education for Teachers for Psycho-social understanding of Gen Y Learners.<br>
 <b>*</b> Life Skills for Students for Gender Sensitivity, Self-branding and Enhancing Employability Skills.<br>
 <b>*</b> Life Skills for Corporate Employees for Stress Management and Psycho-social Well-being.<br>
@@ -198,7 +198,7 @@ Kristu Jayanti College, Bangalore<br>
 
 
                                     <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="centre_life_skills.php"> Centre for Life Skills Education (CLSE)</a></p>
+                                <p><a class="a-link-arrow" href="centre_life_skills.php" style="color: #2980b9;font-weight: bold;"> Centre for Life Skills Education (CLSE)</a></p>
                                     </section>
 
 

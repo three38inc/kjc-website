@@ -102,12 +102,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1077px;">
                                     <img src="../images/principal.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Milestones</strong></span>
                                     </h4>
 
-                                    <br/>
+                               
 										<p>
 
 											The college has accomplished many milestones within a short span of its existence.
@@ -349,7 +349,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="milestones.php">Milestones</a></p>
+                                        <p><a class="a-link-arrow" href="milestones.php" style="color: #2980b9;font-weight: bold;">Milestones</a></p>
                                     </section>
 
 

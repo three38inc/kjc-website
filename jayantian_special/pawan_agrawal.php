@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. Pawan Agrawal</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. Pawan Agrawal</b><br>
 										CEO, Mumbai Dabbawala Association</p>
 									
 									<p align=justify>Vichaarmanthan - a platform that gives the students of Kristu Jayanti College an opportunity to interact with Global and Indian Visionaries was conducted on September 26, 2012, in Kristu Jayanti College. A dynamic personality, Dr. Pawan Agrawal, CEO, Mumbai Dabbawala Association, was the speaker of the12th edition of Vichaarmanthan. Rev. Fr. Augustine George, Head, Computer Science Department, Prof. Aloysius Edward, Programme Coordinator; Prof.Nelson Michael, Head, Management Studies and the Student Coordinators, were also present.</p>

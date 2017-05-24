@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Scholarship Scheme (KJSS)</strong></span>
                                     </h4>
@@ -122,7 +122,7 @@ i) JayantianAchievement Scholarship (JAS)<br>
 ii) Jayantian Talent Scholarship (JTS)<br>
             iii) JayantianUpliftment Scholarship (JUS)</p>
 
-                                    <p><b>General Guidelines</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">General Guidelines</b><br>
                                         <li>Students who receive any sort of scholarship (Government, Minority, etc) are not eligible under JUS</li>
                                         <li>Students who satisfy the stipulated conditions of the schemes are eligible under KJSS and are required to apply by filling up the form within the due date</li>
                                         <li>The Committee will scrutinize the forms and the Principal will approve the beneficiaries under KJSS</li>
@@ -134,7 +134,7 @@ ii) Jayantian Talent Scholarship (JTS)<br>
                                         <li>The number of scholarships and the amount disbursed each year will be decided by the Management of the College</li>
                                         <li>   The minimum conditions for applying for scholarship does not automatically guarantee scholarship</li>
 
-                                    <p><b>1. JayantianAchievement Scholarship (JAS)</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">1. JayantianAchievement Scholarship (JAS)</b><br>
 Conditions<br>
                                         <li>This scholarship is exclusively for students who are excellent in academics</li>
                                         <li>Students' academic excellence will be evaluated each semester on a continuous basis and students selected for this scholarship from II semester (after evaluation of performance in Semester I)</li>
@@ -142,7 +142,7 @@ Conditions<br>
 <li>B.Com./BBM students should secure minimum 75% of marks (aggregate of CIA & End Semester Examinations), BA & B.Sc. ( CSMS/CSME) - 75%& B.Sc. ( Life Science) / BCA - 80%<br>
     Each eligible student will receive Rs. 10000 per annum.</li>
 
-                                    <p><b>2. Jayantian Talent Scholarship (JTS)</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">2. Jayantian Talent Scholarship (JTS)</b><br>
                                         <b>Conditions</b><br>
 <li>This scholarship is provided for encouraging students to excel in co-curricular and
     extra-curricular activities (cultural, sports & games and inter-collegiate fests)</li>
@@ -151,7 +151,7 @@ Conditions<br>
                                         <li>Students should have represented the college and won at least one prize at the University level/State Level /National level competitions.</li>
                                         <li>Each eligible student will receive Rs. 10,000 in lump sum in an academic year and an additional amount of Rs. 5000 will be given if the same student satisfies the conditions in the following academic year</li>
 
-                                    <p><b>3. JayantianUpliftment Scholarship (JUS)</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">3. JayantianUpliftment Scholarship (JUS)</b><br>
                                         <b>Conditions</b><br>
                                         <li>This scholarship is provided to financially disadvantaged students</li>
                                         <li>Students' family annual income should be equal to or less than Rs. one lakh</li>
@@ -207,7 +207,7 @@ Conditions<br>
                                         <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
+                                        <p><a class="a-link-arrow" href="scholarship_scheme.php" style="color: #2980b9;font-weight: bold;">Scholarship Scheme (KJSS)</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>

@@ -159,7 +159,7 @@
                                 <p><a class="a-link-arrow" href="eic.php">Entrepreneurship and Innovation Centre(EIC)</a></p>
                             </section>
                             <section class="link-arrow">   
-                                <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php">Jayantian Entrepreneurs</a></p>
+                                <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php" style="color: #2980b9;font-weight: bold;">Jayantian Entrepreneurs</a></p>
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="counselling_center.php">Counselling Centre</a></p>
                             </section><section class="link-arrow">

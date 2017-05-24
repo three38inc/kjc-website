@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Sri Dr.M.Govinda Rao</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Sri Dr.M.Govinda Rao</b><br>
 										Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013).</p>
 									
 									<p align=justify>Vichaarmanthan' an interactive session with global and Indian visionaries was organized by Kristu Jayanti College on 1 December, 2014. The event was inaugurated in the presence of Sri Dr.M.Govinda Rao, Director National Institute of Public Finance and Policy and Former member of the Economic Advisory Council to the Prime Minister (2005-2013). ; Along with, Rev.Fr.Josekutty.P.D; Principal Kristu Jayanti College; Mr. Vijay Kumar .R , Head, Dept of Commerce; Dr.V.Babu, Co-ordinator M.Com Program; Md. Azaruddin, Student Coordinator of 'Vichaarmanthan'.</p>

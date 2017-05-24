@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Non Core   <strong>Courses - UG Programme</strong></span>
                                     </h4>
@@ -226,7 +226,7 @@
 										 
 										 
 										 <div class="list-group">
-											 <a href="non_core_courses_ug_programme.php" class="list-group-item"> <b>Non-Core Courses UG Programme</b></a></div>
+											 <a href="non_core_courses_ug_programme.php" style="color: #2980b9;font-weight: bold;" class="list-group-item"> <b>Non-Core Courses UG Programme</b></a></div>
 										 
 										 <div class="list-group">
 											 <a href="differently_abled_privileges.php" class="list-group-item"> <b>Differently Abled (Physically Challenged) privileges</b></a></div>

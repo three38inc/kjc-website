@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Mr. A S Kiran Kumar.</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Mr. A S Kiran Kumar.</b><br>
 										ISRO Chairman </p>
 									
 									<p align=justify>Vichaarmanthan is an is an interactive session with a visionary setting sparks in the minds of young Jayantians .The last Vichaarmantthan of the academic year was marked by the presence of the ISRO Chairman, Mr.A S Kiran Kumar. The chief guest spoke with an enthusiasm true to the spirit of his profession and his bright personality.</p>

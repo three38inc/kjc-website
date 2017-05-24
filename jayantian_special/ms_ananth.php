@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Prof. M.S. Ananth</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Prof. M.S. Ananth</b><br>
 										Director, IIT Chennai</p>
 									
 									<p align=justify>“Values hold a pivotal role in University education, as how grammar functions in a language, and brings refinement in civilization with other basic components of education”, said Prof. M.S. Ananth, Director, IIT- Chennai. He was addressing the students at Kristu Jayanti College, in connection with an interactive program “Vichaarmanthan”. It is an interactive series that enable students to congregate with global and Indian visionaries.</p>

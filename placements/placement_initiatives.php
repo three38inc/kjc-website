@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Placement Initiatives @ KJC</span>
                                     </h4>
@@ -155,7 +155,7 @@ The campus recruitment season starts during the month of October. Recruiters can
           <p><a class="a-link-arrow" href="industry_institute_interfac.php">Industry Institute Interface(3iCell)</a></p>
                                     </section><section class="link-arrow">
                                     
-                                        <p><a class="a-link-arrow" href="placement_initiatives.php">Placement Initiatives @ KJC</a></p>
+                                        <p><a class="a-link-arrow" href="placement_initiatives.php" style="color: #2980b9;font-weight: bold;">Placement Initiatives @ KJC</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="our_recruiters.php">Our Recruiters</a></p>

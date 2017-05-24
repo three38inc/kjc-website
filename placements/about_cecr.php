@@ -110,12 +110,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Placements</strong></span>
                                     </h4>
 
-                                    <br/>
+                                 
                                     <p align="justify"><b><font color="#006699">Centre for Employability and Corporate Relations (CECR)</b><br>
 
 <b>Greetings</b></font><br>
@@ -143,7 +143,7 @@ Global Competitive environment today requires resilient individuals who are dyna
                                         <span>&nbsp;Learn <strong>Placements</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="about_cecr.php">Introduction</a></p>
+                                        <p><a class="a-link-arrow" href="about_cecr.php" style="color: #2980b9;font-weight: bold;">Introduction</a></p>
                                     </section>
                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../pdf/2017/placements/2016_17_student_placed.pdf" target="_blank">Student Placed 2016-17</a></p>

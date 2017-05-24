@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Shri S.V. Ranganath</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Shri S.V. Ranganath</b><br>
 										Former Chief Secretary, Government of Karnataka </p>
 									
 									<p align=justify>'Vichaarmanthan' an interactive session with global and Indian visionaries was organized by Kristu Jayanti College on 9th September 2014. The program was inaugurated in the presence of Shri S.V.Ranganath, Former Chief Secretary, Government of Karnataka; Rev Fr Josekutty P.D, Principal, Kristu Jayanti College; Shri. R Kumar, faculty, Department of Management and Shri Velmurgan, Staff Coordinator, Vichaarmanthan. The key note address for the event was delivered by Shri S.V Ranganath.</p>

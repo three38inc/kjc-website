@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. G. Madhavan Nair</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. G. Madhavan Nair</b><br>
 										“Space technology is a luxury outwardly, but a necessity for any developing nation.” says Former ISRO Chairman at Vichaarmanthan, Kristu Jayanti College.</p>
 									
 									<p align=justify>“It’s a general belief that space technology is a luxurious affair. But according to a study carried out by the Madras School of Economics, the advances and facilities gained as a result of satellite technology are 1.5 times more valuable than what is invested for space technology”, said Dr.G. Madhavan Nair, Chairman, High Power Committee, National Civil Aircraft Development, Govt. of India & Former Chairman, ISRO.  Dr. Madhavan Nair was interacting with the students of Kristu Jayanti College on the occasion of ‘Vichaarmanthan- an interaction with Indian and global visionaries.’</p>

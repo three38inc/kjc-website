@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                           
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Shri M. N. Vidyashankar</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Shri M. N. Vidyashankar</b><br>
 										IAS, Additional Chief Secretary to the Government of Karnataka </p>
 									
 									<p align=justify> The Chief guest for Vichaarmanthan on 20.09.13 was Shri M. N. Vidyashankar IAS, Additional Chief Secretary to the Government of Karnataka, Department of Industries and Commerce. The topic was Technology-only the way of life. He briefed about where we are and where we are going to be with respect to Technology. According to him, one should become an employer not an employee .In 2001, there were 28 million telephones, now in 2013, it has increased up to 980 million, mostly cell phones. Today, there are 7-7.5 billion phones in the world all around. Majority of these phones has an content orientation from Bangalore .Years before San Francisco, San diego played a role in the designing and production aspect. Currently 70% designing is taking place in Bangalore but unfortunately unable to capture post production process which is carried as an escalated cost from other states .</p>

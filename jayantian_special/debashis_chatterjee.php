@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Prof. Debashis Chatterjee</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Prof. Debashis Chatterjee</b><br>
 										Director, IIMK </p>
 									
 									<p align=justify> The 13th session of vichaarmanthan -An interaction with Indian and global visionaries took place on 4th may, 2013 at Kristu Jayati College. The session organised by the department of management studies began at 10 am in the BKE auditorium.</p>
