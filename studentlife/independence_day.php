@@ -177,7 +177,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="independence_day.php">Independence day</a></p>
+                                        <p><a class="a-link-arrow" href="independence_day.php" style="color: #2980b9;font-weight: bold;">Independence day</a></p>
                                     </section>
 
 

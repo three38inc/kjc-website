@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission International Students</strong></span>
                                     </h4>
@@ -120,17 +120,17 @@
 
                                     <p>We have Intensive English Language Course for International students coming from Non-English speaking countries. Those interested candidate can contact the admission office in advance. These students can later apply regular degree or postgraduate programme. The programme starts in January 2017, and duration of this programme is four months.</p>
 
-                                    <p><b>Admission procedures for International Students</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Admission procedures for International Students</b><br>
 
-                                        <b>Register Online</b><br>
+                                        <b style="color: #cd6e08;font-weight: bold;">Register Online</b><br>
                                         1) Applicants are requested to apply online through the college website or can come in person to fill the application form in the college office itself. Applicants are requested to provide valid e-mail id and further communication will be done through this mail id only till the admission process is over. More details regarding online application can be found in 'online application' page.</p>
 
                                     <p>2) Details of each course, Admission Process, Eligibility Criteria & Fee Structure can be seen against the admission page link of each program.</p>
 
-                                    <p><b>Bona fide Certificate</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Bona fide Certificate</b><br>
                                         College will issue Bona fide certificate to foreign national students to apply for visa only after the admission process is over. Those who are in absentia have to send the translated copy of their marks card, copy of their passport and first year tuition fee to get the bona fide certificate. But admission to such students will be conditional until they enroll the college in time with all original documents and approved by the Principal.</p>
 
-                                    <p><b>Admission</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Admission</b><br>
 Admission process and eligibility criteria stipulated for Indian applicants are applicable to foreign national applicants also. Besides, admission to all foreign national students are reserved until<br>
 1) they submit all relevant original documents<br>
 2) get eligibility certificate from Bangalore University<br>
@@ -144,7 +144,7 @@ Documents (Original plus two copies)<br>
 5. Residential permit from Police Commissioner office, Bangalore.<br>
                                         6. Address proof</p>
 
-                                    <p><b>Equivalence Certificate from Association of Indian Universities (AIU)</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Equivalence Certificate from Association of Indian Universities (AIU)</b><br>
 To obtain equivalence certificate the following documents copies along with the prescribed fee should sent to address given below. Applicants can apply directly to get certificate from AIU or can be done through college office.<br>
 Documents required to get AIU certificate<br>
 (a) Original Marks Card ( X, PUC / XII & Degree)<br>
@@ -152,7 +152,7 @@ Documents required to get AIU certificate<br>
 (b) Passport Copies<br>
 (c) Student visa copy</p>
 
-                                    <p><b>AIU Address and website</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">AIU Address and website</b><br>
 Association of Indian Universities, AIU House, 16 Comrade Indrajit Gupta Marg (KotlaMarg) New Delhi - 110 002 Ph: (011) 23230059, 23231097, 23232429, 23232435
                                         www.aiuweb.org/</p>
 
@@ -198,7 +198,7 @@ Association of Indian Universities, AIU House, 16 Comrade Indrajit Gupta Marg (K
                                         <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                        <p><a class="a-link-arrow" href="admission_international_students.php" style="color: #2980b9;font-weight: bold;">Admission International Students</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>

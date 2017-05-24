@@ -110,11 +110,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Shri. Ashok Soota</b><br>
+									<p>
+<b style="color: #cd6e08;font-weight: bold;">Shri. Ashok Soota</b><br>
 										Chairperson & MD, Happiest Minds Technologies Pvt. Ltd.<br>
 (Founder and Former Chairman, Mindtree, India)</p>
 									

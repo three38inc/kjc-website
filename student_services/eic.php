@@ -115,11 +115,11 @@
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                         <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                     
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;About <strong> Entrepreneurship and Innovation Centre(EIC)</strong></span>
                                         </h4>
-                                        <br />
+                                    
 
                                         <p align="justify"> EIC was formed on August 2nd, 2013 by the students and student secretaries of  Entrepreneurship and Innovation Centre  of  Kristu Jayanti College Autonomous.
                                             EIC symbolizes "a person who positively inspires and influences others. The EIC motivates, encourages and spreads the knowledge, skills which an individual need to acquire to be an ENTREPRENEUR and help the society in order to make it a better place than yesterday. Our aim is to create awareness among the students about various avenues of ENTREPRENEURSHIP and various aspects related to it such as financial aspects, marketing aspects and technical aspects.
@@ -529,7 +529,7 @@
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="eic.php">Entrepreneurship and Innovation Centre(EIC)</a></p>
+                                <p><a class="a-link-arrow" href="eic.php" style="color: #2980b9;font-weight: bold;">Entrepreneurship and Innovation Centre(EIC)</a></p>
                             </section>
                             <section class="link-arrow">   
                                 <p><a class="a-link-arrow" href="jayantian_entrepreneurs.php">Jayantian Entrepreneurs</a></p>

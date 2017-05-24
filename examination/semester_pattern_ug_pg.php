@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Programme<strong> Pattern</strong></span>
                                     </h4>
@@ -152,7 +152,7 @@
 										 
 										  <div class="list-group">
 											  <a href="#" class="list-group-item disabled"><b>Programme Pattern</b></a>
-  <a href="semester_pattern_ug_pg.php" class="list-group-item">Semester / Trimester Pattern UG / PG</a></div> 
+  <a href="semester_pattern_ug_pg.php" style="color: #2980b9;font-weight: bold;" class="list-group-item">Semester / Trimester Pattern UG / PG</a></div> 
 										 
 										 
 										 <div class="list-group">

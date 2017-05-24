@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Journalism  <strong> Club  </strong></span></h4>
 									
@@ -237,7 +237,7 @@
                                         <p><a class="a-link-arrow" href="environmental_club.php">Environmental Club</a></p>
                                     </section>
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
+                                        <p><a class="a-link-arrow" href="journalism_club.php" style="color: #2980b9;font-weight: bold;">Journalism Club</a></p>
                                     </section>
 									 <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="literary_cultural_academy.php">Literary and Cultural Academy</a></p>

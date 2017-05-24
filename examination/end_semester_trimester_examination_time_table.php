@@ -244,7 +244,7 @@ B Com (Tourism) VI Semester End Semester Practical Examination <a href="pdf/2017
 										 
 									 <div class="list-group">
 										 <a href="#" class="list-group-item disabled"> <b>Pre Examination Procedures / Examination Time Table</b></a>
-  <a href="end_semester_trimester_examination_time_table.php" class="list-group-item">End Sem/Tri Examination </a>
+  <a href="end_semester_trimester_examination_time_table.php" style="color: #2980b9;font-weight: bold;" class="list-group-item">End Sem/Tri Examination </a>
 										  <a href="term_examination_time_table.php" class="list-group-item">Term Examination Time Table </a>
 										  <a href="university_examination_time_table.php" class="list-group-item">University Examination Time Table</a>
 										 

@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                    
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Faculty  <strong> Development </strong></span></h4>
 									
@@ -147,7 +147,7 @@ Reimbursement of registration fee, traveling expenses, boarding and
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty_development.php">Faculty Development</a></p>
+                                        <p><a class="a-link-arrow" href="faculty_development.php" style="color: #2980b9;font-weight: bold;">Faculty Development</a></p>
                                     </section>
 
 

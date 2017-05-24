@@ -111,12 +111,12 @@
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;The College <strong>Profile</strong></span>
                                     </h4>
 
-                                    <br/>
+                                 
 
 
                                     <div class="table-responsive">
@@ -364,7 +364,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="profile.php">Profile</a></p>
+                                        <p><a class="a-link-arrow" href="profile.php" style="color: #2980b9;font-weight: bold;">Profile</a></p>
                                     </section>
 
 

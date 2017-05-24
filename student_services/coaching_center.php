@@ -121,7 +121,7 @@
                                 <p><a class="a-link-arrow" href="international_student_forum.php">International Student Forum</a></p>
                             </section>
                             <section class="link-arrow">
-                                <p><a class="a-link-arrow" href="coaching_center.php">Coaching Centre</a></p>
+                                <p><a class="a-link-arrow" href="coaching_center.php" style="color: #2980b9;font-weight: bold;">Coaching Centre</a></p>
                             </section>
 
                         </div>

@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Academic Arena</strong></span>
                                     </h4>
-                                    <br />
+                                
 
                                     <p align="justify"> Well equipped and state-of-the-art labs with updated technology is one of strongest assets of the college. Practical sessions provide authentic and current knowledge to every budding scientist. The college takes pride at its labs that harbours favourable nurturing ground for personal growth, research and social progress. The maximum number of graduate students who return for post-graduation itself is an evidence of the quality of labs that the college offers. The college has computer labs, bio-science labs, psychology lab, commerce lab, language lab and multimedia center to give practical training in respective field.<br /><br />
                                     </p>
@@ -160,7 +160,7 @@
                                      <section class="link-arrow">   
                                         <p><a class="a-link-arrow" href="library.php">Library EPAC</a></p>
                                     </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
+                                        <p><a class="a-link-arrow" href="labs.php" style="color: #2980b9;font-weight: bold;">Labs</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sports_games.php">Sports &amp; Games</a></p>
                                     </section><section class="link-arrow">

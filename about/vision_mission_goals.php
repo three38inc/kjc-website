@@ -124,7 +124,7 @@
 												<li>To develop a lifelong desire in individuals to learn and to create a positive change in the society and contribute to the economic development of the nation.</li>
 											</ul>
 
-											</p>
+										
 
 
 									</div>
@@ -147,7 +147,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission_goals.php">Vision, Mission &amp; Goals</a></p>
+                                        <p><a class="a-link-arrow" href="vision_mission_goals.php" style="color: #2980b9;font-weight: bold;">Vision, Mission &amp; Goals</a></p>
                                     </section>
 
 

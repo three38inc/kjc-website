@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                            
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Ms. Deepali Pant Joshi</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Ms. Deepali Pant Joshi</b><br>
 										Executive Director, Reserve Bank of India</p>
 									
 									

@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:538px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Research Profile</strong></span>
                                     </h4>
-                                    <br />
+                                 
 
                                     <p align="justify">
 													<strong>Papers Presented in Regional, National and International Conferences</strong>
@@ -230,7 +230,7 @@
                                         <p><a class="a-link-arrow" href="patents.php">Patents</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="publications.php">Publications</a></p>
+                                        <p><a class="a-link-arrow" href="publications.php" style="color: #2980b9;font-weight: bold;">Publications</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>

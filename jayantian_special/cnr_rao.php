@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Bharat Ratna Prof. CNR Rao</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Bharat Ratna Prof. CNR Rao</b><br>
 										National Research Professor, Honorary President & Linus Pauling Research Professor Jawaharlal Nehru Centre for Advanced Scientific Research </p>
 									
 									<p align=justify>"Long term success of India will depend on investment in education," said Bharat Ratna Prof. CNR Rao, National Research Professor, Honorary President & Linus Pauling Research Professor Jawaharlal Nehru Centre for Advanced Scientific Research as he stressed on the importance of education while addressing a gathering at Kristu Jayanti College on October 8, 2015.</p>

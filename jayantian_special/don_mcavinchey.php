@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                           
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Mr. Don McAvinchey</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Mr. Don McAvinchey</b><br>
 										American Gandhi </p>
 									
 									<p align=justify> As part of interaction with global leaders and visionaries, Mr.Don McAvinchey, The American Gandhi, visited the campus to interact with students on 8th August, 2013. The visit by Mr.Don enlightened students on need for adopting Gandhian principles and philosophy in current times.</p>

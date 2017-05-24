@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                          
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Graduation  <strong> Day </strong></span>
                                     </h4>
@@ -146,7 +146,7 @@
           <a href="pta_meeting.php" class="list-group-item"> PTA Meeting</a></div>
 										 
 										  <div class="list-group">
-          <a href="graducation_day.php" class="list-group-item"> Graduation Day</a></div>
+          <a href="graducation_day.php" style="color: #2980b9;font-weight: bold;" class="list-group-item"> Graduation Day</a></div>
 										 
 										  <div class="list-group">
 											  <a href="#" class="list-group-item disabled"><b>Programme Pattern</b></a>

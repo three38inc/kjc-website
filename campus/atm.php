@@ -121,7 +121,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;The College <strong>ATM</strong></span>
                                     </h4>
@@ -167,7 +167,7 @@
                                         <p><a class="a-link-arrow" href="cafeteria.php">Cafeteria</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="atm.php">Atm</a></p>
+                                        <p><a class="a-link-arrow" href="atm.php" style="color: #2980b9;font-weight: bold;">Atm</a></p>
                                     </section>
 
                                 </div>

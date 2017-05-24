@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Neu-Ulm University of <strong>  Applied Sciences, Germany</strong></span></h4>
 									<p align=justify>The Neu-Ulm University of Applied Sciences (HNU) is an international business school which welcomes students from all over Germany and the world. Our aim is to educate students who are keen on results and to prepare them throughly for their future roles in management. Our bachelor and master's programmes are strongly grounded in the practical application of academic theory.</p>
@@ -202,7 +202,7 @@ Business studies for doctors (MBA) (part-time)<br>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="neu_ulm_university.php">Neu-Ulm University of Applied Sciences, Germany</a></p>
+                                        <p><a class="a-link-arrow" href="neu_ulm_university.php" style="color: #2980b9;font-weight: bold;">Neu-Ulm University of Applied Sciences, Germany</a></p>
                                     </section>
 
 

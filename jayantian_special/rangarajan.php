@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. C. Rangarajan</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. C. Rangarajan</b><br>
 										Chairman<br>
 Economic Advisory Council to the Prime Minister</p>
 									

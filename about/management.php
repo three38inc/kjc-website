@@ -102,12 +102,9 @@
 								<div class="col-lg-9">
 
 									<div class="content-left myWelcome wow fadeIn" style="min-height:930px;">
-										<h4>
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Management
-												</strong></span>
-										</h4>
-										<hr />
+										<h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Our <strong>Management</strong></span>
+                                    </h4>
 										<div class="inner-content about_minheight">
 											<p align="justify"> Kristu Jayanti College, Bangalore - Administration<br/><br/>				
 											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align:center;margin-top:40px;">
@@ -129,8 +126,8 @@ Director, Library &amp; Information</span>
 												<img src="../images/emmanual.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Emmanuel P.J. 
 Faculty, Department of Psychology</span> 
 											</div>
-											<br /><br />
-											</p>
+											
+									
 
 
 									</div>
@@ -178,7 +175,7 @@ Faculty, Department of Psychology</span>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="management.php">Management</a></p>
+                                        <p><a class="a-link-arrow" href="management.php" style="color: #2980b9;font-weight: bold;">Management</a></p>
                                     </section>
 
 

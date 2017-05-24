@@ -154,7 +154,7 @@
           <a href="introduction.php" class="list-group-item"> Introduction</a></div>
 										 
 										  <div class="list-group">
-          <a href="examination_comittee.php" class="list-group-item">Examination Committee</a></div>
+          <a href="examination_comittee.php" style="color: #2980b9;font-weight: bold;" class="list-group-item">Examination Committee</a></div>
 										 
 										  <div class="list-group">
           <a href="internal_examination.php" class="list-group-item"> Internal Examination</a></div>

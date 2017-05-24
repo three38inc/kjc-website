@@ -104,7 +104,7 @@
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="counselling_center.php">Counselling Centre</a></p>
                             </section><section class="link-arrow">
-                            <p><a class="a-link-arrow" href="grievance_redressal.php">Grievance Redressal </a></p>
+                            <p><a class="a-link-arrow" href="grievance_redressal.php" style="color: #2980b9;font-weight: bold;">Grievance Redressal </a></p>
                             </section><section class="link-arrow">
                             <p><a class="a-link-arrow" href="scholarship.php">Scholarship</a></p>
                             </section>

@@ -108,12 +108,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1077px;">
                                     <img src="../images/principal.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Educational Philosophy</strong></span>
                                     </h4>
 
-                                    <br/>
+                                 
                                     <p align="justify">
                                         Kristu Jayanti College, the place where an educational legacy of more than a century meets modernity, is a unique entity in the fabric of Higher Education in India. The educational philosophy of the academy envisions to weld in the individual academic excellence with holistic development. This pedagogy is encapsulated in the mission which focuses on the overall growth of the students to become responsible citizens, intellectually alert and active, to grow with mutual respect and co-operation, transforming them into morally sensitive leaders of the future.
                                     </p>
@@ -167,7 +167,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="educational_philosophy.php">Educational Philosophy</a></p>
+                                        <p><a class="a-link-arrow" href="educational_philosophy.php" style="color: #2980b9;font-weight: bold;">Educational Philosophy</a></p>
                                     </section>
 
 

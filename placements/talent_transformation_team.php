@@ -110,12 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Talent Transformation Team </span>
                                     </h4>
 
-                                    <br/>
                                   <p align="justify">The Talent Transformation team of the Centre for Employability and Corporate Relations consist of a team of professionals who are from the industry and academia. The Team interacts with the officials from the industry and analyzes the industry expectations on a regular basis. The team develops content and trains the young talents on what the industry expects. This will make them stay ahead in the competitive world. The Talent Transformation Team believes in collaborative relationship, works closely with the students and helps them to think ahead and to gain competitive advantage.</p>
 
 
@@ -134,7 +133,7 @@
                                         <p><a class="a-link-arrow" href="../pdf/2017/placements/2016_17_student_placed.pdf" target="_blank">Student Placed 2016-17</a></p>
                                    </section>
                                      <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="talent_transformation_team.php">Talent Transformation Team(TTT)</a></p>
+                <p><a class="a-link-arrow" href="talent_transformation_team.php" style="color: #2980b9;font-weight: bold;">Talent Transformation Team(TTT)</a></p>
                                     </section><section class="link-arrow">
                                     
                                         <p><a class="a-link-arrow" href="gate.php">GATE</a></p>

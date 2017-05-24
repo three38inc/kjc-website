@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                           
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Padmashree V. V. S. Laxman</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Padmashree V. V. S. Laxman</b><br>
 										Former Indian cricketer</p>
 									
 									<p align=justify>The students of Kristu Jayanti College had the privilege to interact with Padmashree V. V. S. Laxman, a former Indian cricketer. Vichaarmanthan - is a platform provided by Kristu Jayanti College for the students to interact with leading global and national visionaries. This 13th edition of Vichaarmanthan enlightened the students on how choosing your passion can bring about a change in the society.</p>

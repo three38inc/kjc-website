@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; <strong>Introduction</strong></span>
                                     </h4>
@@ -128,7 +128,7 @@
                                         </div>
 										 
 										  <div class="list-group">
-          <a href="introduction.php" class="list-group-item"> Introduction</a></div>
+          <a href="introduction.php" style="color: #2980b9;font-weight: bold;" class="list-group-item"> Introduction</a></div>
 										 
 										  <div class="list-group">
           <a href="examination_comittee.php" class="list-group-item">Examination Committee</a></div>

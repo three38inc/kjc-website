@@ -135,12 +135,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1077px;">
                                     <img src="../images/principal.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Message from <strong>The Principal</strong></span>
                                     </h4>
 
-                                    <br/>
+                               
                                     <p style="text-align:justify;"> A few years ago, there was an attempt to encapsulate and treasure down in the burrows of the earth, all the available accrued knowledge of this globe, for future generations to explore and discover. Future generations may or may not be interested in such a time capsule from the past.
                                     </p>
                                     <br/>
@@ -207,7 +207,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="message.php">Principal's Message</a></p>
+                                        <p><a class="a-link-arrow" href="message.php" style="color: #2980b9;font-weight: bold;">Principal's Message</a></p>
                                     </section>
 
 

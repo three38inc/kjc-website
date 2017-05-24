@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                    
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Mr. Kris Gopalakrishnan</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Mr. Kris Gopalakrishnan</b><br>
 										Understand, imagine and create are the keys to change the world: Kris Gopalakrishnan </p>
 									
 									<p align=justify>“Understand, imagine and create- if you are able to do this, you can change the world. That is the opportunity in front of you”, said Kris Gopalakrishnan as he was addressing the students of Kristu Jayanti College. The co-founder and executive co- chairman of Infosys who was hopeful about the progressive growth of the IT industry in the next thirty years opined that the fruitful, exciting and transformable growth of the industry would be to such an extent that by the year 2032 computers will be capable of doing anything that a human brain is capable of. Kris Gopalakishnan was in the college as part of Vichaarmanthan, the interactive programme to meet various global visionaries that is hosted by the college.</p>

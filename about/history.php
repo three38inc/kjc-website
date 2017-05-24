@@ -110,12 +110,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>History</strong></span>
                                     </h4>
 
-                                    <br/>
+                                  
                                     <p align="justify">
 
                                         Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) &amp; 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015.
@@ -145,7 +145,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="history.php">History</a></p>
+                                        <p><a class="a-link-arrow" href="history.php" style="color: #2980b9;font-weight: bold;">History</a></p>
                                     </section>
 
 

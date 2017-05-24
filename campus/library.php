@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Library Automated Service: <strong> Electronic Public Access Catalogue (EPAC)</strong></span>
                                     </h4>
-                                    <br />
+                                
 
                                     <p align="justify"> Kristu Jayanti Library is completely automated. This facilitates easy access to all type of library functions. EPAC is an efficient search engine that can be used to browse/search for an item, its details, its availability and other details in a particular library. Also, information about digital subscriptions, Periodicals/serials can also be browsed and accessed through EPAC.</p><br />
 											<h4 style="text-decoration:underline;">EPAC consists of 9 major options in it:</h4>
@@ -171,7 +171,7 @@
                                         <p><a class="a-link-arrow" href="library_info.php">Library</a></p>
                                     </section>
                                      <section class="link-arrow">   
-                                        <p><a class="a-link-arrow" href="library.php">Library EPAC</a></p>
+                                        <p><a class="a-link-arrow" href="library.php" style="color: #2980b9;font-weight: bold;">Library EPAC</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
                                     </section><section class="link-arrow">

@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. K. Kasturirangan</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. K. Kasturirangan</b><br>
 										 Member Planning Commission, Government of India, Chairman Jawaharlal Nehru University</p>
 									
 									<p align=justify>Dr. K. Kasturirangan "India has all the potential and unlimited opportunities to make a global impact" said Dr. K. Kasturirangan while addressing the gathering on the Vichaarmanthan at Kristu Jayanti College on 9th February. Vichaarmanthan is a platform for the students of Kristu Jayanti College to interact with the global and Indian visionaries and churn their thoughts to bring the best idea into reality. Padma Vibushan Dr. K. Kasturirangan, member Planning Commission, Government of India, Chairman Jawaharlal Nehru University was the chief guest of the 15th edition of Vichaarmanthan. Rev. Fr. Jose P.J, Principal & Financial Administrator; Rev. Fr. Augustine George, Head of Computer science Department, Prof. Jeo Joy, Prof. Anita, Staff Coordinators , Computer science Department; and Ms. Sadia Fudoos, Student Coordinator of Computer science Department were also present.</p>

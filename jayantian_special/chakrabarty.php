@@ -110,11 +110,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Vichaarmanthan </strong></span></h4>
 									
-									<p><b>Dr. K.C.Chakrabarty</b><br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Dr. K.C.Chakrabarty</b><br>
 										"India is going to be a super economy power in next two decades with its productive population and less dependency ratio” said Deputy Governor RBI at Kristu Jayanti College, Bangalore </p>
 									
 									<p align=justify>“I ’am not disappointed with the current poor growth rate, and this painful situation (7% growth rate) is going to continue for another one year, and one should not be worried about this lower growth rate and higher inflation, as the country is expecting a spectacular growth rate in the next two decades” said, Dr. KC Chakrabarty, Deputy Governor, Reserve Bank of India. He was addressing students of Kristu Jayanti College on the topic ‘The Current Economic Scene- A way forward’ during the occasion of ‘Vichaarmanthan’, a program intended for the students to interact with various global visionaries.</p>

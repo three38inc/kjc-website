@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Passing <strong> Criteria</strong></span>
                                     </h4>
@@ -170,7 +170,7 @@
   <a href="assessment_norms.php" class="list-group-item">Assessment Norms</a>
   <a href="continuous_internal_assessment.php" class="list-group-item">Continuous Internal Assessment</a>
   <a href="end_semester_examination.php" class="list-group-item">End Semester Examination</a>
- <a href="passing_criteria.php" class="list-group-item">Passing Criteria</a>
+ <a href="passing_criteria.php" style="color: #2980b9;font-weight: bold;" class="list-group-item">Passing Criteria</a>
  <a href="credit_system.php" class="list-group-item">Credit System</a>
  <a href="grading_cgpa.php" class="list-group-item">Grading and CGPA</a>
 										 </div> 

@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:538px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Do a  <strong>Phd. in Lifescience</strong></span>
                                     </h4>
-                                    <br />
+                                   
 										<div class="inner-content">
 											 <p align="justify">
 												 <b style="color: #cd6e08;font-weight: bold;">Research Centre in Biotechnology</b><br />
@@ -181,7 +181,7 @@
                                         <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php" style="color: #2980b9;font-weight: bold;">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>

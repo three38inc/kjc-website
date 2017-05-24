@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                      
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Sports &  <strong> Games </strong></span></h4>
 									
@@ -160,7 +160,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="sports_games.php">Sports & Games</a></p>
+                                        <p><a class="a-link-arrow" href="sports_games.php" style="color: #2980b9;font-weight: bold;">Sports & Games</a></p>
                                     </section>
 
 

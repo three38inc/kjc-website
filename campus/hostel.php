@@ -114,11 +114,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Hostel Facilities</strong></span>
                                     </h4>
-                                    <br />
+                                 
 
                                     <p align="justify"> Well managed hostels are available for both boys and girls. All the hostels for girls are run by Rev. Sisters of various congregations and there is a separate hostel for post graduate students. As an extended home, the hostel facilitates the students to do serious study and go grow spiritually, intellectually, physically and psychology. The college tradition and discipline is also extented to the hostel in fine manner.<br /><br />
                                             </p>
@@ -246,7 +246,7 @@ Bangalore - 560 077
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sports_games.php">Sports &amp; Games</a></p>
                                     </section><section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="hostel.php">Hostel</a></p>
+                                        <p><a class="a-link-arrow" href="hostel.php" style="color: #2980b9;font-weight: bold;">Hostel</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="common_facilities.php">Common Facilities</a></p>
                                     </section><section class="link-arrow">
