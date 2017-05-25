@@ -2029,7 +2029,7 @@ time.icon:focus {
 
 .mainDiv:hover {
     box-shadow: 0px 4px 5px 1px #ccc;
-    background: #34495e!important;
+    background: rgba(85,85,85,0.6)!important;
     /*ii*/
     color: #fff;
 }

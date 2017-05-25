@@ -7,11 +7,17 @@
         border-width: 0;
     }
     
+    .nav-tabs{
+        background-color: #05a6f0;
+        border-radius: 0px 0px 5px 5px;
+    }
+    
     .nav-tabs>li>a {
         border: none;
         color: #fff;
         background: transparent;
         padding: 5px 10px;
+        border-radius: 0px 0px 5px 5px;
     }
     
     .myNav li.active a:hover,
@@ -34,7 +40,7 @@
         position: absolute;
         width: 100%;
         left: 0px;
-        bottom: -1px;
+        top: 0px;
         transition: all 250ms ease 0s;
         transform: scale(0);
     }
@@ -100,8 +106,7 @@
         <!-- Nav tabs -->
         <div class="card">
             <div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
-                <ul class="nav nav-tabs filter-button" role="tablist" style="background: #2c3e50;
-    padding: .5em 0em;">
+                <ul class="nav nav-tabs filter-button" role="tablist" style="padding: 0em 0em;">
                     <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav"><i class="flaticon-kjc-favourites"></i>&nbsp; My Favourites</a></li>
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl"><i class="flaticon-kjc-special"></i>&nbsp; Jayantian Special</a></li>
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student"><i class="flaticon-kjc-life"></i>&nbsp; Student Life</a></li>
