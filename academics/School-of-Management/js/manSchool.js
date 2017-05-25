@@ -2,7 +2,14 @@
 
 $(document).ready(function(){
     
+    $('#mba').click(function(){
+        window.location.href= "mba.php";
+    });
     
+
+    $('#pgdm').click(function(){
+        window.location.href= "mba.php";
+    });
     
     
 });

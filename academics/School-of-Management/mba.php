@@ -9,31 +9,31 @@
         <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
         <meta name="author" content="Three38 inc" />
-        <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/images/icon.png">
+        <link rel="shortcut icon" href="<?php echo $ROOT; ?>/images/icon.png">
         <!-- Bootstrap css -->
-        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="<?php echo $ROOT; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!--additional css-->
-        <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/component.css" />
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.min.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/roundIcons.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/hoverEffect.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/morphing.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/navTabs.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/animate.css">
-        <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/fakeLoader.css">
+        <link rel="stylesheet" type="text/css" href="<?php echo $ROOT; ?>/css/component.css" />
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/font-awesome.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/roundIcons.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/hoverEffect.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/morphing.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/navTabs.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/animate.css">
+        <link rel="stylesheet" href="<?php echo $ROOT; ?>/css/fakeLoader.css">
         <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
 
         <!--custom css-->
-        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/custom.css" rel="stylesheet">
-        <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/innerpage.css" rel="stylesheet">
+        <link href="<?php echo $ROOT; ?>/css/custom.css" rel="stylesheet">
+        <link href="<?php echo $ROOT; ?>/css/innerpage.css" rel="stylesheet">
         <link href="css/manSchool.css" rel="stylesheet">
         <!-- javascript -->
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery-1.11.0.min.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/js/bootstrap.min.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/respond.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/custom.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/fakeLoader.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/jquery-1.11.0.min.js"></script>
+        <script src="<?php echo $ROOT; ?>/bootstrap/js/bootstrap.min.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/respond.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/custom.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/fakeLoader.js"></script>
 
     </head>
 
@@ -206,20 +206,20 @@
             })();
 
         </script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.academics.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/spin.min.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/mySpin.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/swipeview.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery.bootstrap.newsbox.min.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/classie.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/morphingSearch.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sidebarEffects.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/transit.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sly.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/customSly.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/wow.min.js"></script>
-        <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/scripts.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/modernizr.custom.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/modernizr.custom.academics.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/spin.min.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/mySpin.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/swipeview.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/jquery.bootstrap.newsbox.min.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/classie.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/morphingSearch.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/sidebarEffects.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/transit.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/sly.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/customSly.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/wow.min.js"></script>
+        <script src="<?php echo $ROOT; ?>/js/scripts.js"></script>
         <script type="text/javascript">
             function googleTranslateElementInit() {
                 new google.translate.TranslateElement({

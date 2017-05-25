@@ -104,7 +104,7 @@
                                 <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                     <?php include ('php/welcome.php'); ?>
                                 </div>
-                                <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;">
+                                <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;padding-top: 0;">
                                     <?php include ('php/accordion-pill-tabs.php'); ?>
                                     <div style="clear: both;"></div>
                                 </div>
