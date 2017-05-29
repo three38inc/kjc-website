@@ -150,12 +150,12 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
                                             <span>&nbsp;<strong>Departments</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-pg/academic_training.php">Department of Computer Science [PG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php">Department of Computer Science [PG]</a></p>
                                         </section>
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-ug/bca.php">Department of Computer Science [UG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-ug/computer_science.php">Department of Computer Science [UG]</a></p>
                                         </section>
 
 
