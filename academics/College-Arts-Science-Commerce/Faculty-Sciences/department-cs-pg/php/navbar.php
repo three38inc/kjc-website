@@ -28,7 +28,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="index.php" id="home">MBA/PGDM</a>
+                    <a href="index.php" id="home">MCA</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
@@ -36,11 +36,11 @@
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="training.php" id="home">Training</a>
+                    <a href="academic_training.php" id="home">Training</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="activities.php" id="home">Activities</a>
+                    <a href="national_conference.php" id="home">Activities</a>
                 </li>
 
                 <li>
@@ -50,7 +50,7 @@
                 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="pdf/mandatory_2015_mba.pdf" target="_blank" id="contact">Mandatory Annexure</a>
+                    <a  href="pdf/mandatory_2015_mca.pdf" target="_blank" id="contact">Mandatory Annexure</a>
                 </li>
 
                 <li>

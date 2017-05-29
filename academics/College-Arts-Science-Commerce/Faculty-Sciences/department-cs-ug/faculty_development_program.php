@@ -9,30 +9,30 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/images/icon.png">
+    <link rel="shortcut icon" href="../../../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/component.css" />
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/roundIcons.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/hoverEffect.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/morphing.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/navTabs.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/animate.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/fakeLoader.css">
-    <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
-
+    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../../../css/morphing.css">
+    <link rel="stylesheet" href="../../../../css/navTabs.css">
+    <link rel="stylesheet" href="../../../../css/animate.css">
+    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
+    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/innerpage.css" rel="stylesheet">
+    <link href="../../../../css/custom.css" rel="stylesheet">
+    <link href="../../../../css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery-1.11.0.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/js/bootstrap.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/respond.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/fakeLoader.js"></script>
+    <script src="../../../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../../js/respond.js"></script>
+    <script src="../../../../js/custom.js"></script>
+    <script src="../../../../js/fakeLoader.js"></script>
+
 
 </head>
 
@@ -246,20 +246,18 @@
         })();
 
     </script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.academics.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/spin.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/mySpin.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/swipeview.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/classie.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/morphingSearch.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sidebarEffects.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/transit.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/customSly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/wow.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/scripts.js"></script>
+     <script src="../../../../js/modernizr.custom.js"></script>
+    <script src="../../../../js/spin.min.js"></script>
+    <script src="../../../../js/mySpin.js"></script>
+    <script src="../../../../js/swipeview.js"></script>
+    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../../../js/classie.js"></script>
+    <script src="../../../../js/morphingSearch.js"></script>
+    <script src="../../../../js/sidebarEffects.js"></script>
+    <script src="../../../../js/transit.js"></script>
+    <script src="../../../../js/sly.js"></script>
+    <script src="../../../../js/customSly.js"></script>
+    <script src="../../../../js/wow.min.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
