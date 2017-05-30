@@ -78,7 +78,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="Faculty-Sciences/department-cs-pg/mca.php">
+            <a href="Faculty-Sciences/department-cs-pg/index.php">
                 <div class="courseTitle color-1">
                     <i class="fa fa-laptop c1" style="float: left;"></i>
                     <h2>MCA</h2>
