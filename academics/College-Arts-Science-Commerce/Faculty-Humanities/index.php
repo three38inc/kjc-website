@@ -165,7 +165,7 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
                                         
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="socialwork/vision_mission_goals.php">Department of Social Work</a></p>
+                                            <p><a class="a-link-arrow" href="socialwork/social_work.php">Department of Social Work</a></p>
                                         </section>
 
                                     </div>
