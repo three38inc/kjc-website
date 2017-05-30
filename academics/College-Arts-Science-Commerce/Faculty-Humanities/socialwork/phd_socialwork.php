@@ -9,30 +9,29 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/images/icon.png">
+    <link rel="shortcut icon" href="../../../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/component.css" />
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/roundIcons.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/hoverEffect.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/morphing.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/navTabs.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/animate.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/fakeLoader.css">
-    <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
-
+    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../../../css/morphing.css">
+    <link rel="stylesheet" href="../../../../css/navTabs.css">
+    <link rel="stylesheet" href="../../../../css/animate.css">
+    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
+    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/innerpage.css" rel="stylesheet">
+    <link href="../../../../css/custom.css" rel="stylesheet">
+    <link href="../../../../css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery-1.11.0.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/js/bootstrap.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/respond.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/fakeLoader.js"></script>
+    <script src="../../../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../../js/respond.js"></script>
+    <script src="../../../../js/custom.js"></script>
+    <script src="../../../../js/fakeLoader.js"></script>
 
 </head>
 
@@ -88,12 +87,12 @@
 
 								<p align=justify>The Bangalore University with its notification number No.Aca-111/A1/R.C/K.J.C/2007-08 dated 5th November 2007 has approved the proposal of Kristu Jayanti College to start a research center for the purpose of PhD programme in Social Work of Bangalore University. Accordingly, the department of Social Work of Kristu Jayanti College has initiated activities on PhD programme.</p>
 
-								<p align=justify><b>Admission Procedure</b><br>
+								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Admission Procedure</b><br>
 									The candidates for PhD programme will be admitted through Bangalore University. The candidates desiring to do their PhD in social work through Kristu Jayanti College will be required to appear for the written test conducted periodically by the university.</p>
 
 								<p>For more details the Chairperson, Department of Social work, Bangalore university may be contacted (Ph: 080-22961761).</p>
 
-								<p>However the candidate may also contact Head, Department of Social Work of Kristu Jayanti College for assistance</p>
+						<p>However, the candidate may also contact  The Head, Department of  Social Work, Kristu Jayanti College, Bengaluru for assistance.</p>
                               
 
 								</div></div>
@@ -210,20 +209,20 @@
         })();
 
     </script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.academics.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/spin.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/mySpin.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/swipeview.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/classie.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/morphingSearch.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sidebarEffects.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/transit.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/customSly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/wow.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/scripts.js"></script>
+   <script src="../../../../js/modernizr.custom.js"></script>
+    <script src="../../../../js/spin.min.js"></script>
+    <script src="../../../../js/mySpin.js"></script>
+    <script src="../../../../js/swipeview.js"></script>
+    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../../../js/classie.js"></script>
+    <script src="../../../../js/morphingSearch.js"></script>
+    <script src="../../../../js/sidebarEffects.js"></script>
+    <script src="../../../../js/transit.js"></script>
+    <script src="../../../../js/sly.js"></script>
+    <script src="../../../../js/customSly.js"></script>
+    <script src="../../../../js/wow.min.js"></script>
+    <!--    <script src="js/res-navtabs.js"></script>-->
+    <script src="../../../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
