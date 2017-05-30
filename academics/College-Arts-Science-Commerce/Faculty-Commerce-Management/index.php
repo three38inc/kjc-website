@@ -109,13 +109,13 @@
                                 <div class="marginTopDiv">&nbsp;</div>
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                        <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                        <img src="images/banner_com_mang.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                       
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp; Faculty Of <strong>Commerce &amp; Management</strong></span>
                                         </h4>
 
-                                        <br/>
+                                   
                                         <p align="justify">
                                             <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
                                             The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology &amp; Microbiology.   
