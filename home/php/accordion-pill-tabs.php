@@ -142,7 +142,7 @@
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/notice/notice.php">
                             <div class="accTabs">
-                                <h2><i class="flaticon-kjc-notice"></i>Notice</h2>
+                                <h2><i class="flaticon-kjc-notice"></i>Circulars</h2>
                             </div>
                         </a>
                     </div>
@@ -248,14 +248,14 @@
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/inter_intra_festivals.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-festivals"></i>Inter Intra Festivals</h2>
+                            <h2><i class="flaticon-kjc-festivals"></i>Academic / Co-curricular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fests</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/computer_academy.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-association"></i>Association</h2>
+                            <h2><i class="flaticon-kjc-association"></i>Academic Clubs and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associations</h2>
                         </div>
                         </a>
                     </div>
@@ -269,7 +269,7 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ccpd.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-ccpd"></i>C.C.P.D</h2>
+                            <h2><i class="flaticon-kjc-ccpd"></i>Centre for Continuing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional Education</h2>
                         </div>
                         </a>
                     </div>
@@ -290,7 +290,8 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/language_learning_centre.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-language"></i>Language Learning</h2>
+                            <h2><i class="flaticon-kjc-language"></i>Jayantian Language
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Centre</h2>
                         </div>
                         </a>
                     </div>
@@ -311,7 +312,7 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-lifeskills"></i>Centre for LifeSkills</h2>
+                            <h2><i class="flaticon-kjc-lifeskills"></i>Centre for Life Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education</h2>
                         </div>
                         </a>
                     </div>
