@@ -110,12 +110,124 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                    <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Seminars, Workshops and<strong> Conferences</strong></span>
-                                    </h4>
-                                  
-                                    <table class="table table-bordered">
+                                        <span>&nbsp;Seminars, Workshops and<strong> Conferences</strong></span></h4>
+									
+									     <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading1">
+                                                    <h5 class="panel-title">
+                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                                                           Activities Organized (2015-2017)
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+                                                    <div class="panel-body">
+
+                                                        <div class="table-responsive">
+           <table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td width="59" valign="top"><p align="center"><strong>S.No</strong></p></td>
+    <td width="95" valign="top"><p align="center"><strong>Date</strong></p></td>
+    <td width="207" valign="top"><p align="center"><strong>Title</strong></p></td>
+    <td width="257" valign="top"><p align="center"><strong>Resource person(s) with designation</strong></p></td>
+    <td width="180" valign="top"><p align="center"><strong>No of participants</strong></p></td>
+  </tr>
+										<tr>
+    <td width="59" valign="top"><p>1</p></td>
+    <td width="95" valign="top"><p align="center">20/03/2017</p></td>
+    <td width="207" valign="top"><p align="center">FDP Data Analysis in Natural sciences, </p></td>
+    <td width="257" valign="top"><p>Dr.K.P.Suresh,  Scientist, NIVEDI, Bangalore<br />
+      Dr.Sridaran, Chairperson, IEC-CRICR</p></td>
+    <td width="180" valign="top"><p align="center">25</p></td>
+  </tr>
+										<tr>
+    <td width="59" valign="top"><p>2</p></td>
+    <td width="95" valign="top"><p align="center">25/01/2017</p></td>
+    <td width="207" valign="top"><p align="center">National Seminar on Biofilm Technology</p></td>
+    <td width="257" valign="top"><p><strong>Dr. AnandKhedkar</strong><br />
+      Associate Director<br />
+      ApotexPharmachem India Pvt. Ltd, Bengaluru</p>
+      <p><strong>Dr. S. MURUGAN</strong><br />
+        School of Biotechnology &amp; Health Sciences,<br />
+        Karunya University, Coimbatore, Tamil Nadu</p>
+      <p>&nbsp;</p>
+      <p><strong>Dr. B. ANANDKUMAR</strong><br />
+        Scientific Officer - D <br />
+        Surface Modification and Characterization Section,<br />
+        Corrosion Science and Technology Division,<br />
+        Metallurgy and Materials Group, Indira Gandhi    Centre for Atomic Research(IGCAR)<br />
+        Kalpakkam, Tamil Nadu.</p>
+      <p>&nbsp;</p>
+      <p><strong>Dr.KUSHI ANAND</strong> <br />
+        Amit Singh Group, Centre for Infectious Disease Research (CIDR)<br />
+        Indian Institute of Science (IISc) Bangalore, Karnataka</p>
+      <p>&nbsp;</p>
+      <p><strong>Dr. C.NAGARAJ</strong><br />
+        Professor,<br />
+        PES Institute of Medical Sciences and Research (PES), Kuppam, Andhra Pradesh</p>
+      <p>&nbsp;</p>
+      <p><strong>Dr.KAVITHA G.</strong> <br />
+        Scientist,<br />
+        Institute of Animal Health and Veterinary Biologicals (IAHVB), Bengaluru </p></td>
+    <td width="180" valign="top"><p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">53</p></td>
+  </tr>
+  
+  <tr>
+    <td width="59" valign="top"><p>3</p></td>
+    <td width="95" valign="top"><p>09/03/2016</p></td>
+    <td width="207" valign="top"><p>National Seminar on Tropical infectious diseases(NASTID)</p></td>
+    <td width="257" valign="top"><p align=justify>Dr.UV Babu, Head, Department of Phytochemistry,<br />
+      Himalaya Drugs Company ltd, Bangalore.<br />
+      Dr.Ramanujam Srinivasan, Reader-F,School of Biological Sciences, National institute of Science Education and Research(NISER), Khurda, odisha<br />
+      Dr.P.Ramadaa, Former Prof and Head, Department of Animal Biotechnology, Madras Veterinary college, Chennai<br />
+      Dr.Manjunath, Chairman, Department of Biotechnology and Microbiology, Bangalore university, Bengaluru</p></td>
+    <td width="180" valign="top"><p>30+140(UG &amp;PG)</p></td>
+  </tr>
+  <tr>
+    <td width="59" valign="top"><p>4</p></td>
+    <td width="95" valign="top"><p>&nbsp;</p>
+      <p>19/12/2016</p></td>
+    <td width="207" valign="top"><p align="center">&nbsp;</p>
+      <p align="center">FDP-Workshop on BioInstrumentation</p></td>
+    <td width="257" valign="top">Dr.E.M.Elango, Director, ResearchSerene Cell Sciences &amp; Technologies, Bangalore
+      <p>&nbsp;</p>
+      <p><strong>Mr.S.Srinivasan</strong><br />
+        Smart Lab Tech Pvt Ltd, Bangalore</p>
+      <p><strong>Mr.K.E.Shankar</strong>, Director, Serene Cell Sciences &amp; Technologies, Bangalore</p>
+      <p><strong>Mr.Somashekar</strong>,Scigenics Biotech Ltd, Bangalore</p>
+      <p><strong>Mr.Nagaraju</strong><br />
+        RPM    Enterprises, Bangalore</p></td>
+    <td width="180" valign="top"><p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">&nbsp;</p>
+      <p align="center">17</p></td>
+  </tr>
+  
+</table>
+														</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+									
+									
+<div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading2">
+                                                    <h5 class="panel-title">
+                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                                                           Activities Organized (2009-2015)
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+                                                    <div class="panel-body">
+
+                                                        <div class="table-responsive">
+				<table class="table table-bordered">
   <thead>
     <tr>
      
@@ -181,8 +293,10 @@ Prof. Harrold Phillip, SK University, AP,<br>
 Prof. M. G. Venkatesha, Bangalore University  </td>
     </tr>
                                         </tbody>
-                                    </table>
-                                    
+                                    </table></div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                     
                                  
                                     

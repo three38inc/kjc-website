@@ -110,51 +110,31 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="images/banner02.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.Sc., <strong>Biotechnology (Biotechnology, Biochemistry, Genetics)</strong></span>
-                                    </h4>
+                                        <span>&nbsp;B.Sc., <strong>Biotechnology (Biotechnology, Biochemistry, Genetics)</strong></span></h4>
+									
+									
+									<p><b>Course Duration: 3 Years / Six Semesters</b></p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br>
+										Pass in 10 + 2 / Pre-University Course / Equivalent. Candidate should have studied Biology / Chemistry as one of the subjects.</p>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biotechnology</b><br>
+										Biotechnology is an area of multi-disciplinary sciences, involving a variety of distinct subjects where living organisms or their derivatives are modified and put into effective use in catering the welfare of humanity. Applications of Biotechnology have been found in several sectors, including Agriculture, Food Science and Medicine.</p>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       <strong>Course Duration: 3 Years / Six Semesters</strong> <br> <br>
-										<b style="color: #cd6e08;font-weight: bold;">Eligibility</b> <br><br>
-Pass in 10 + 2 / Pre-University Course / Equivalent. Candidate should have studied Biology / Chemistry as one of the subjects.<br><br><strong>
-Biotechnology</strong> <br><br>
-Biotechnology is an area of multi-disciplinary sciences, involving a variety of distinct subjects where living organisms or their derivatives are modified and put into effective use in catering the welfare of humanity. Applications of Biotechnology have been found in several sectors, including Agriculture, Food Science and Medicine. 
-Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable career in their life.
-The course introduces the students to detailed study of biological molecules, cell biology, genetics, microbiology, biophysics, molecular biology, recombinant DNA technology, genetic engineering, environmental biotechnology, animal biotechnology, immunology and plant biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.
+									<p align=justify>Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable career in their life.</p>
+<p>The course introduces the students to detailed study of biological molecules, cell biology, genetics, microbiology, biophysics, molecular biology, recombinant DNA technology, genetic engineering, environmental biotechnology, animal biotechnology, immunology and plant biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.</p>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biochemistry</b><br>
+										Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.</p>
+									<p align=justify>This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.</p>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Genetics</b><br>
+										B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.</p>
+									<p align=justify>A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.</p>
+									<p align=justify>The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.</p>
 
-   <br><br>
-                                    </p>
-                                    <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">  Biochemistry</b>        <br> <br>
-Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.
-This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.
-
-                                    </p>
-                                    <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Genetics </b><br> <br>
-B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.
-A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.
-The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.
-
-                                    </p>
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-									<center><p><a href="curriculum/bsc_bt_2014-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Biotechnology   2014 - 17</a></p></center>
+									
+									
+			
+				<center><p><a href="curriculum/bsc_bt_2014-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Biotechnology   2014 - 17</a></p></center>
 								<center><p><a href="curriculum/bsc_biotechnology_curriculum_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Biotechnology  2015 - 18</a></p></center>
 									<center><p><a href="curriculum/bsc_biotechnology_coursematrix.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of B.Sc., Biotechnology  University batch</a></p></center>
 

@@ -110,95 +110,24 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Skill Development<strong>  Activities</strong></span>
-                                    </h4>
-
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       Post graduate students of our department are involved in self-funded short term research projects and are efficiently guided by the faculty. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.</p>
-                                    <p align="justify">
-                        Skill Development Programmes are organized by the department every week. This will involve the Post Graduate students in various activities such as paper presentations, update on research, discoveries, biotech ventures, company profiles, quiz, mock interviews, laboratory skills, etc
-
-                                    </p>
-                                    <p align="justify">
-                                    Field visits are arranged for the students for collecting specimens from the natural environment for the purpose of in-house project work. Industrial / Institutional visits to different local and outstation industries, and hospital visits are organised on a regular basis to give the students first hand knowledge about the practices and activities in the industries / institutes and hospitals.
-
-                                    </p>
-                                    
-                                    
-                                    
-                                    
-                                    <p>
-                                    
-                                    
-                                    
-                                    Conferences , seminars and workshops are organized annually. Invited talks involving specialists in the field of Life Sciences are organized often in an academic year. Programmes such as these facilitate one to one interaction between the students and the experts from academic institutes and industry. The students are informed of the industry perspective during many such interactions.
-                                    
-                                    
-                                    </p>
-                                    
-                                    
-                                    
-                                    
-                                    <p>
-                                    
-                                    
-                                    Fests featuring competitions wherein undergraduate students compete individually and in groups are organized annually. This helps in enhancing team work and leadership abilities among students. In addition, since the competitions are fully of academic base, the event involves the student in an innovative learning process
-                                    
-                                    
-                                    
-                                    </p>
-                                    
-                                    
-                                    
-                                    
                                    
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Skill Development<strong>  Activities</strong></span></h4>
+									
+									<p>Post graduate students of our department are involved in self-funded short term research projects and are efficiently guided by the faculty. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.</p>
 
+									<p>Skill Development Programmes are organized by the department every week. This will involve the Post Graduate students in various activities such as paper presentations, update on research, discoveries, biotech ventures, company profiles, quiz, mock interviews, laboratory skills, etc</p>
+									<p>Field visits are arranged for the students for collecting specimens from the natural environment for the purpose of in-house project work. Industrial / Institutional visits to different local and outstation industries, and hospital visits are organised on a regular basis to give the students first hand knowledge about the practices and activities in the industries / institutes and hospitals.</p>
+									<p>Conferences , seminars and workshops are organized annually. Invited talks involving specialists in the field of Life Sciences are organized often in an academic year. Programmes such as these facilitate one to one interaction between the students and the experts from academic institutes and industry. The students are informed of the industry perspective during many such interactions.</p>
+									<p>Fests featuring competitions wherein undergraduate students compete individually and in groups are organized annually. This helps in enhancing team work and leadership abilities among students. In addition, since the competitions are fully of academic base, the event involves the student in an innovative learning process</p>
+									<ul>
+									<li>BioVentura - Intra collegiate fest (PG)</li>
+									<li>Connoisseur - Intra Collegiate (UG)</li>
+									<li>Bioaura - Intercollegiate (UG & PG)</li>
+									<li>Creatrix- Model making competition (UG)</li>
 
-
-                                    
-                                    <ul>
-                                    
-                                    <li>
-                                        
-                                         BioVentura - Intra collegiate fest (PG)
-                                        
-                                        
-                                        
-                                        </li>
-                                        
-                                        <li>
-                                        
-                                        Connoisseur - Intra Collegiate (UG)
-                                        
-                                        </li>
-                                        <li>
-                                        Bioaura - Intercollegiate (UG & PG)
-                                        </li>
-                                        <li>
-                                        
-                                       Creatrix- Model making competition (UG) 
-                                        
-                                        </li>
-                                    
-                                    </ul>
-                                    
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
+									</ul>
+                                
 
                                 </div>
                             </div>
