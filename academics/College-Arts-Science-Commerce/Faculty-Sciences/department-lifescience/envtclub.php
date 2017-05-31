@@ -133,7 +133,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
@@ -141,17 +141,17 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 

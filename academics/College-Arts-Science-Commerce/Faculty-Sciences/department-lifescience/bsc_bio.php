@@ -112,7 +112,7 @@
                                     <img src="images/banner02.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.Sc., <strong>Biotechnology (Biotechnology, Biochemistry, Genetics)</strong></span></h4>
+                                        <span>&nbsp;B.Sc., <strong> Biotechnology, Biochemistry, Genetics </strong></span></h4>
 									
 									
 									<p><b>Course Duration: 3 Years / Six Semesters</b></p>
@@ -121,10 +121,13 @@
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biotechnology</b><br>
 										Biotechnology is an area of multi-disciplinary sciences, involving a variety of distinct subjects where living organisms or their derivatives are modified and put into effective use in catering the welfare of humanity. Applications of Biotechnology have been found in several sectors, including Agriculture, Food Science and Medicine.</p>
 
-									<p align=justify>Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable career in their life.</p>
-<p>The course introduces the students to detailed study of biological molecules, cell biology, genetics, microbiology, biophysics, molecular biology, recombinant DNA technology, genetic engineering, environmental biotechnology, animal biotechnology, immunology and plant biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.</p>
+									<p align=justify>Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable and exciting  career in their life.</p>
+									
+<p>The course introduces the students to detailed study of biological molecules, Cell Biology, Genetics, Microbiology, Biophysics, Molecular Biology, Recombinant DNA Technology, Genetic Engineering, Environmental Biotechnology, Animal Biotechnology, Immunology, Industrial Biotechnology and Plant Biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.</p>
+									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biochemistry</b><br>
 										Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.</p>
+									
 									<p align=justify>This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.</p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Genetics</b><br>
 										B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.</p>
@@ -145,7 +148,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
@@ -153,17 +156,17 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php" style="color: #2980b9;font-weight: bold;">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 
