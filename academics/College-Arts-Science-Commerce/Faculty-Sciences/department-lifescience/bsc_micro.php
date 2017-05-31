@@ -112,7 +112,7 @@
                                     <img src="images/banner01.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.Sc., <strong> Microbiology (Microbiology, Biochemistry, Genetics)</strong></span>
+                                        <span>&nbsp;B.Sc., <strong> Microbiology, Biochemistry, Genetics</strong></span>
                                     </h4>
 									
 									<p><b>Course Duration: 3 Years / Six Semesters</b></p>
@@ -121,21 +121,21 @@ Pass in 10 + 2 / Pre-University Course / Equivalent. Candidate should have studi
 									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Microbiology</b><br>
 Microbiology is the study of microscopic organisms, their activities and applications. Although small in size, microorganisms play an enormous role in many areas of society including food, pharmaceutical and biotechnology industries, health science, agriculture, and the environment. Microbes are often used as a model system to study microbiology. So, microbiology is the core of the emerging field of life sciences and career opportunities are limitless. </p>
-<p align=justify>In recognition of the importance of Microbiology and the abundant career opportunities, Kristu Jayanti College offers Bachelors Degree in Microbiology. The degree provides sound theoretical and laboratory expertise in the diverse area of Microbiology. The college has incorporated the latest and most up to date laboratory facilities. Besides, abundant employment opportunities at the bachelor's level, Microbiology major provides a sound foundation for specialized studies in Microbiology.</p>
-<p align=justify>The diversity of subjects covered under Microbiology provides a wide knowledge for a career in industrial biotechnology, pharmaceutical and food industry, human health, agriculture, etc.</p>
+<p align=justify>In recognition of the importance of Microbiology and the abundant career opportunities, Kristu Jayanti College offers Bachelors Degree in Microbiology. A Bachelors Degree in Microbiology provides sound theoretical and laboratory expertise in the diverse area of Microbiology. The college has incorporated the latest and most up to date laboratory facilities. Besides, abundant employment opportunities at the bachelor's level, Microbiology major provides a sound foundation for specialized studies in Microbiology.</p>
+<p align=justify>The diversity of subjects covered under Microbiology provides a wide knowledge for a career in Industrial Microbiology, pharmaceutical and food industry, human health, agriculture, etc.</p>
 									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biochemistry</b><br>
-Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.</p>
+Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by knowledge in Biochemistry have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.</p>
 <p align=justify>This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.</p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Genetics</b><br>
 B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.</p>
 <p align=justify>A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.</p>
-<p align=justify> The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.</p>
+<p align=justify> The college recognizes the importance of this subject and offers the programme structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.</p>
 
 	
-	<center><p><a href="curriculum/bsc_mb_2014-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Microbiology   2014 - 17</a></p></center>
-<center><p><a href="curriculum/bsc_microbiology_curriculum_2015_2018.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.Sc., Microbiology   2015 - 18</a></p></center>
-<center><p><a href="curriculum/bsc_microbiology_coursematrix.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of B.Sc., Microbiology  University batch</a></p></center>
+	<center><p><a href="curriculum/bsc_mb_2014-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum  - B.Sc Microbiology 2014 - 17</a></p></center>
+<center><p><a href="curriculum/bsc_microbiology_curriculum_2015_2018.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum  - B.Sc., Microbiology 2015 - 18</a></p></center>
+<center><p><a href="curriculum/bsc_microbiology_coursematrix.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix - B.Sc., Microbiology  University batch</a></p></center>
 								
 
 
@@ -145,25 +145,25 @@ B.Sc. Genetics has higher prospects in the field of research and development. It
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php" style="color: #2980b9;font-weight: bold;">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 
