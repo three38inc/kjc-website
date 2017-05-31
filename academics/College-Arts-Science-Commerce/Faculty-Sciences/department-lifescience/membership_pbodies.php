@@ -110,120 +110,173 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Faculty Consultancy service & <strong>Membership  in Professional bodies</strong></span>
                                     </h4>
+									
+									<table border="1" class="table table-hover table-bordered">
+  <tr>
+    <td width="54" valign="top"><p><strong>S.No</strong></p></td>
+    <td width="124" valign="top"><p><strong>Name of the faculty</strong></p></td>
+    <td width="178" valign="top"><p><strong>Consultancy provided</strong></p></td>
+    <td width="366" valign="top"><p><strong>Institutions/Organizations</strong></p></td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="5" valign="top"><p>1</p></td>
+    <td width="124" rowspan="5" valign="top"><p>Dr. Elcey C D </p></td>
+    <td width="178" valign="top"><p>BOE Member </p></td>
+    <td width="366" valign="top"><p>Bangalore University, CMRIMS, Govt  <br />
+      Science    College(Autonomous), Bangalore,<br />
+      Kristu Jayanti    College, Bangalore.</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOS Member</p></td>
+    <td width="366" valign="top"><p>Christ University, Kristu Jayanti College, Bangalore. </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Research Supervisor for Ph.D</p></td>
+    <td width="366" valign="top"><p>(Part Time – category B) of Bharathiar University    Coimbatore</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOE Member (Ph. D)</p></td>
+    <td width="366" valign="top"><p>University of Kerala &amp;<br />
+      Kannur    University </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p> Membership</p></td>
+    <td width="366" valign="top"><p>Association of    Microbiologists in India (Life Member)<br />
+      Association of    Food Science Technologists </p></td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="8" valign="top"><p>2</p></td>
+    <td width="124" rowspan="8" valign="top"><p>Dr. Calistus    Jude</p></td>
+    <td width="178" valign="top"><p>Board of    examiner  (Ph.D)</p></td>
+    <td width="366" valign="top"><p>Bharathiar University, Coimbatore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOS member</p></td>
+    <td width="366" valign="top"><p>Government science college, Christ University,  Indian Academy College  Kristu Jayanti    College, Bangalore.Board of Studies (Zoology) – Bharathiar University, Coimbatore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOE member</p></td>
+    <td width="366" valign="top"><p>Bangalore University, CMRIMS and Jain University, Kristu Jayanti College, Bangalore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Reviewed manuscript</p></td>
+    <td width="366" valign="top"><p>Journal of Food Science and Technology(JFST-D-16-01166). </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Research Supervisor for Ph.D </p></td>
+    <td width="366" valign="top"><p>(Part Time – category B) of Bharathiar University, Coimbatore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Resource Person</p></td>
+    <td width="366" valign="top"><p>Assessment and Accreditation - an overview' St. Pauls Institute of Professional Studies,    Indore, MP </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOE Member (Ph. D)</p></td>
+    <td width="366" valign="top"><p>VIT University, Vellore</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Membership</p></td>
+    <td width="366" valign="top"><p>Indian Science Congress Association (Life Member)</p>
+     </td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="8" valign="top"><p>3</p></td>
+    <td width="124" rowspan="8" valign="top"><p>Dr.S.Vijayanand</p></td>
+    <td width="178" valign="top"><p>Board of examiner  (Ph.D)</p></td>
+    <td width="366" valign="top"><p>Centre for Research, Anna University, Chennai, Periyar University, Salem</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Advisory Board Member</p></td>
+    <td width="366" valign="top"><p>European Journal of Pharmaceutical and Medical Research</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Editorial board member </p></td>
+    <td width="366" valign="top"><p>1.International Journal of Chemical, Biological      <br />
+      and Physical sciences<br />
+      2.International Journal of integrative Sciences, <br />
+      innovation and technology </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOS Member</p></td>
+    <td width="366" valign="top"><p>Kristu Jayanti College, Bangalore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOE Member </p></td>
+    <td width="366" valign="top"><p>CMRIMS,  Reva  University, Bangalore<br />
+      Kristu Jayanti    College, Bangalore</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Reviewed manuscript</p></td>
+    <td width="366" valign="top"><p>1.Palgo journal of Medicine and Medical  <br />
+      sciences (PJMMS)<br />
+      2.Journal of Advances in Bioscience and <br />
+      Biotechnology (ABB)<br />
+      3.<a href="http://sciencedomain.org/journal/36">Journal of Advances in Medical and</a> <br />
+      <a href="http://sciencedomain.org/journal/36"> Pharmaceutical Sciences</a> (JAMPS)<br />
+      4.International Journal of Biochemistry <br />
+      Biophysics &amp; Molecular Biology (IJBBMB)  5.Excellent world Journal of biology<br />
+      6.<a href="http://sciencedomain.org/journal/13">European Journal of Medicinal Plants</a></p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Resource Person </p></td>
+    <td width="366" valign="top"><p>State level Seminar on &ldquo;Scientific Advancement in Genetically Modified Organisms&rdquo;  held at St Joseph College of Arts &amp;    Science on 17th September 2016, Hosur, Tamilnadu </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Membership</p></td>
+    <td width="366" valign="top"><p>Indian Science Congress Association (Life Member)</p></td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="3" valign="top"><p>4</p></td>
+    <td width="124" rowspan="3" valign="top"><p>Dr.Challaraj Emmanuel</p></td>
+    <td width="178" valign="top"><p>BOS member</p></td>
+    <td width="366" valign="top"><p>Indian Academy College, Kristu Jayanti College, Bangalore.</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>BOE member</p></td>
+    <td width="366" valign="top"><p>Mount carmel college,CMRIMS, Indian Academy college, Kristu Jayanti College, Bangalore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Resource Person </p></td>
+    <td width="366" valign="top"><p>National conference on Role of Bioscience in Societal Developments held at Palanisamy  College of Arts and Science    on 17th February 2017,Perundari, Tamilnadu</p></td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="2" valign="top"><p>5</p></td>
+    <td width="124" rowspan="2" valign="top"><p>Dr.Sonia Angeline</p></td>
+    <td width="178" valign="top"><p>BOE member</p></td>
+    <td width="366" valign="top"><p>Kristu Jayanti College, Bangalore </p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Resource Person </p></td>
+    <td width="366" valign="top"><p>National Lecture Workshop on Analytical methods in immunology and molecular biology on February 7 and 8th at DKM College, Vellore, Tamilnadu</p></td>
+  </tr>
+  <tr>
+    <td width="54" rowspan="2" valign="top"><p>6</p></td>
+    <td width="124" rowspan="2" valign="top"><p>Dr.Jayashankar</p></td>
+    <td width="178" valign="top"><p>BOE member</p></td>
+    <td width="366" valign="top"><p>Karnataka State womens university, Bijapur, Karnataka</p></td>
+  </tr>
+  <tr>
+    <td width="178" valign="top"><p>Resource Person</p>
+      <p>&nbsp;</p></td>
+    <td width="366" valign="top"><p>1.National Conference on  Natural Sciences on <br />
+      12th January 2017 held at  Holy Cross <br />
+      College(Autonomous), Tiruchirappali,<br />
+      Tamilnadu.<br />
+      2.Invited    Talk on Microbes of Man  on 23rd <br />
+      February 2017 at Sayyid Akbar Husayni <br />
+      Degree College, Sangtrashwadi, Gulbarga  </p></td>
+  </tr>
+</table>
+									
+									
 
-                                      <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                      
+                                   
                                     
-                                   <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFour">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                                            Projects applied to Government funding agency
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                                                    <div class="panel-body">
-
-                                                        <div class="table-responsive">
-                                                            <table class="table table-hover table-bordered">
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th>S.No</th>
-                                                                        <th>Name of the faculty</th>
-                                                                        <th>Consultancy provided</th>
-                                                                        <th>Institutions/Organizations</th>
-                                                                </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    
-<!--                                                                    row 1-->
-                                                                    <tr >
-                                                                        <td rowspan="4">1.</td>
-                                                                        <td rowspan="4">Dr.Elcey C D </td>
-                                                                        
-                                                                        
-                                                                    
-                                                               
-                                                                        <td>BOE Member</td>
-                                                                        
-                                                                         
-                                                                        <td>Bangalore University, CMRIMS, Govt Science College(Autonomous), Bangalore,
- Kristu Jayanti College, Bangalore.
-</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>BOS Member</td>
-                                                                        <td>Christ University, Kristu Jayanti College, Bangalore.</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Research Supervisor for Ph.D</td>
-                                                                        <td>(Part Time – category B) of Bharathiar University Coimbatore</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>BOE Member (Ph. D)</td>
-                                                                        <td>University of Kerala &
-Kannur University
-</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr >
-                                                                        <td rowspan="3">1.</td>
-                                                                        <td rowspan="3">Dr.Elcey C D </td>
-                                                                        
-                                                                        
-                                                                    
-                                                               
-                                                                        <td>BOE Member</td>
-                                                                        
-                                                                         
-                                                                        <td>Bangalore University, CMRIMS, Govt Science College(Autonomous), Bangalore,
- Kristu Jayanti College, Bangalore.
-</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>BOS Member</td>
-                                                                        <td>Christ University, Kristu Jayanti College, Bangalore.</td>
-                                                                        
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Research Supervisor for Ph.D</td>
-                                                                        <td>(Part Time – category B) of Bharathiar University Coimbatore</td>
-                                                                        
-                                                                    </tr>
-                                                                    
-                                                                    
-                                                                 
-                                                                    
-                                                                </tbody>
-                                                            </table>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
+                                
 
 
                                 </div>

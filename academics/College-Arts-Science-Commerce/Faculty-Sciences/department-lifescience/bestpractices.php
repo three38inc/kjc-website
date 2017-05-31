@@ -110,15 +110,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Best <strong> Practices</strong></span>
                                     </h4>
 
-                                      <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                      
-                                    
+                                
                                     <ul>
                                     <li type="bullet">     Periodic Microbial Analysis of potable water in the campus     </li>
                                          <li type="bullet"> Transferring technology from lab to field – students are trained to train farmers in the use of      
@@ -136,21 +133,7 @@
                                     </ul> 
 <br><br>
                                    
-                                  
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
+                          
 
                                 </div>
                             </div>

@@ -110,16 +110,16 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Research <strong>  Center</strong></span>
                                     </h4>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
+                                 
                                       
-                                        <p>The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University during January 2011. A state-of-the-art research complex is set up in the college to facilitate research and to carry out major research projects and to pursue Ph.D. The facility features laboratories with full scale research in Plant Tissue Culture, Animal Cell Culture, Microbiology and Phytochemistry.
-Central Instrumentation' facility is a special feature of the Research complex.
-                                            Collaborative projects have been carried out by the department in association with industries / research labs. Post graduate students of the department are involved in self-funded short term research projects and are efficiently guided by the faculty </p><br>
+									<p align=justify>The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University during January 2011. A state-of-the-art research complex is set up in the college to facilitate research and to carry out major research projects and to pursue Ph.D. The facility features laboratories with full scale research in Plant Tissue Culture, Animal Cell Culture, Microbiology and Phytochemistry.</p>
+									<p>Central Instrumentation' facility is a special feature of the Research complex.</p>
+									<p align=justify>Collaborative projects have been carried out by the department in association with industries / research labs. Post graduate students of the department are involved in self-funded short term research projects and are efficiently guided by the faculty.</p>
+
                                     
                                     
                                     <div class="panel panel-default">
