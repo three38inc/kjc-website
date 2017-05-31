@@ -31,5 +31,5 @@
 <!--        <span class="sr-only">Next</span>-->
       </a>
 </div>
-<p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
-</p>
+<!--<p style="text-align:justify;margin-top: 15px;margin-bottom: 0;" > The institution strives to fulfill its mission to provide educational opportunities.The institution strives to fulfill its mission to provide educational opportunities.
+</p>-->
