@@ -203,7 +203,8 @@
 
                                 
                                     <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
+										
+									<div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
                                             <div class="fb-xfbml-parse-ignore">
                                                 <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                             </div>
