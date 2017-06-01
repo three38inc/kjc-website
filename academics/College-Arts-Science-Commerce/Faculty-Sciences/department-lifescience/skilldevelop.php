@@ -114,7 +114,7 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Skill Development<strong>  Activities</strong></span></h4>
 									
-									<p>Post graduate students of our department are involved in self-funded short term research projects and are efficiently guided by the faculty. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.</p>
+									<p>Post graduate students of our department. The project is not part of the University syllabus but is an initiative of the department of Life Sciences. The list of student projects completed during the last academic year are listed in Annexures I & II.</p>
 
 									<p>Skill Development Programmes are organized by the department every week. This will involve the Post Graduate students in various activities such as paper presentations, update on research, discoveries, biotech ventures, company profiles, quiz, mock interviews, laboratory skills, etc</p>
 									<p>Field visits are arranged for the students for collecting specimens from the natural environment for the purpose of in-house project work. Industrial / Institutional visits to different local and outstation industries, and hospital visits are organised on a regular basis to give the students first hand knowledge about the practices and activities in the industries / institutes and hospitals.</p>
