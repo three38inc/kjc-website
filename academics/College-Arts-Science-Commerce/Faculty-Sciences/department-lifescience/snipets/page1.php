@@ -4,16 +4,14 @@
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
             <div class="item-content">
                 <h4>Dr. Elcey C. Daniel
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
-                <p>
-                    <span>Specialization </span><br/>Environmental Biotechnology/
-Microbial Technology
-                </p>
+                
                  <p>
                     <span> Years of experience </span><br/>25 Years
                 </p>
@@ -36,15 +34,15 @@ Technology/Industrial Microbiology
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
             <div class="item-content">
                 <h4>Dr. Calistus Jude AL
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D. 
                 </p>
-                 <p>
-                    <span>Specialization </span> <br/>Zoology 
-                </p>
+                 
                  <p>
                     <span>Years of experience </span> <br/>19 years 
                 </p>
@@ -66,15 +64,16 @@ Technology/Industrial Microbiology
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
             <div class="item-content">
                 <h4>Dr. Vijayanand.S
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., M.Phil., NET., Ph.D 
                 </p>
-                 <p>
-                    <span>Specialization </span> <br/>Biochemistry 
-                </p>
+                
                  <p>
                     <span>Years of experience </span> <br/>15 Years 
                 </p>
@@ -96,15 +95,15 @@ Technology/Industrial Microbiology
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
             <div class="item-content">
                 <h4>Dr.Challaraj Emmanuel, E.S.
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph.D 
                 </p>
-                 <p>
-                    <span>Specialization </span> <br/>Microbiology 
-                </p>
+                 
                  <p>
                     <span>Years of experience </span> <br/>17 Years 
                 </p>
@@ -126,15 +125,15 @@ Technology/Industrial Microbiology
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
             <div class="item-content">
                 <h4>Dr. M. Sonia Angeline
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph. D 
                 </p>
-                 <p>
-                    <span>Specialization </span> <br/>Biotechnology- Neuroscience 
-                </p>
+                 
                  <p>
                     <span>Years of experience </span> <br/>5 years 
                 </p>
@@ -156,15 +155,15 @@ Technology/Industrial Microbiology
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
+			
+			<!--------------------------------------------------------------------end---------------------------------------------------------------->
             <div class="item-content">
                 <h4>Priya M Tomy
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc.,M.Phil 
                 </p>
-                 <p>
-                    <span>Specialization </span> <br/>Biochemistry 
-                </p>
+                 
                  <p>
                     <span>Years of experience </span> <br/>15 years 
                 </p>
