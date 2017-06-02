@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" >
   <head>
 	<link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
