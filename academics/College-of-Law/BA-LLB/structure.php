@@ -111,14 +111,14 @@
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
                                         <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                      
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;BA.LLB <strong>Course Structure</strong></span>
+                                            <span>&nbsp;B.A., LL.B. <strong>Course Structure</strong></span>
                                         </h4>
 
-                                        <br/>
+                                   
 
-                                        <table border="1" cellspacing="2" cellpadding="2">
+                                        <table border="0" class=" table table-bordered table-hover">
                                             <tbody>
                                                 <tr>
                                                     <td width="77" valign="top"><p align="center"><strong>Semester</strong></p></td>
@@ -129,10 +129,10 @@
                                                 <tr>
                                                     <td width="77"><p align="center"><strong>I</strong></p></td>
                                                     <td width="243" valign="top"><ol>
-                                                        <li>Kannada/Special English/ (Kannada is compulsory for all those    who have studied Kannada as a subject at the SSLC /PUC/+2 level </li>
+                                                        <li>Kannada/Special English/ (Kannada is compulsory for all those who have studied Kannada as a subject at the SSLC /PUC/+2 level </li>
                                                         <li>Sociology-I</li>
-                                                        <li>Political    Science-I</li>
-                                                        <li>Elements    of research</li>
+                                                        <li>Political Science-I</li>
+                                                        <li>Elements of research</li>
                                                         </ol></td>
                                                     <td width="77"><p><strong>&nbsp;</strong></p>
                                                         <p align="center"><strong>VI </strong></p></td>
@@ -191,8 +191,8 @@
                                                         </ol></td>
                                                     <td width="77" rowspan="2"><p align="center"><strong>IX</strong></p></td>
                                                     <td width="242" rowspan="2" valign="top"><ol>
-                                                        <li>Clinical    course-II: Alternative Dispute Resolution Systems</li>
-                                                        <li>Civil    Procedure Code and Limitation Act</li>
+                                                        <li>Clinical course-II: Alternative Dispute Resolution Systems</li>
+                                                        <li>Civil Procedure Code and Limitation Act</li>
                                                         <li>Optional-III:    Intellectual Property Rights-I / Penology &amp; Victimology</li>
                                                         <li>Optional-IV: Interpretation of Statutes &amp; Principles of    Legislation / Competition Law </li>
                                                         <li>Clinical course-III: Drafting, Pleading and Conveyance </li>
@@ -201,10 +201,7 @@
                                                 <tr>
                                                     <td width="77" rowspan="2"><p align="center"><strong>V</strong></p></td>
                                                     <td width="243" rowspan="2" valign="top"><p>&nbsp;</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>&nbsp;</p>
+                                                        
                                                         <ol>
                                                             <li>Contract-II</li>
                                                             <li>Law of Torts </li>
@@ -232,7 +229,7 @@
                                     <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Course <strong>BA.LLB</strong></span>
+                                            <span>&nbsp;Course <strong>B.A., LL.B.</strong></span>
                                         </h4>
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
@@ -263,16 +260,16 @@
                                             <span>&nbsp;Courses <strong>Offered</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BA-LLB/index.php">BA.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                         </section>
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BBA-LLB/index.php">BBA.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                         </section>
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">BCom.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
                                         </section>
                                         
                                     </div>

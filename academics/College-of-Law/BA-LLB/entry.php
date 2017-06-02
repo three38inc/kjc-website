@@ -111,21 +111,16 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;BA.LLB <strong>Eligibility</strong></span>
+                                        <span>&nbsp;B.A., LL.B. <strong>Eligibility</strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../../../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        To be eligible for admission tothe 5 year B. A., LL.B. integrated course, the candidate should have successfully completed 10+2/ PUC/ equivalent from a recognized University of India or other countries,or from Senior Secondary Board or equivalent from an educational institution, constituted or recognised by the Union or by the State Government or from any equivalent institution from a foreign country recognized by the government of that country for the purpose of issuing the qualifying certificate on successful completion of the course, may apply for the programme.<br/><br/>
-                                        <strong>Criteria for Admission</strong><br/><br/>
-                                        Minimum of 45% of total marks in qualifying examination, in case of general category applicants and 40% of total marks in case of SC and ST applicants. <br/><br/>
-                                        <strong>Age Limit</strong><br/><br/>
-                                        Less than twenty years in case of general category and less than twenty two years in the case of SC, ST and other backward communities as on 1st June, 2017.
-
-                                    </p>
+									<p align=justify>To be eligible for admission tothe 5 year B. A., LL.B. integrated course, the candidate should have successfully completed 10+2/ PUC/ equivalent from a recognized University of India or other countries,or from Senior Secondary Board or equivalent from an educational institution, constituted or recognised by the Union or by the State Government or from any equivalent institution from a foreign country recognized by the government of that country for the purpose of issuing the qualifying certificate on successful completion of the course, may apply for the programme.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Criteria for Admission</b><br>
+                                        Minimum of 45% of total marks in qualifying examination, in case of general category applicants and 40% of total marks in case of SC and ST applicants.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Age Limit</b><br>
+                                        Less than twenty years in case of general category and less than twenty two years in the case of SC, ST and other backward communities as on 1st June, 2017.</p>
 
 
                                 </div>
@@ -134,7 +129,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Course <strong>BA.LLB</strong></span>
+                                        <span>&nbsp;Course <strong>B.A., LL.B.</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
@@ -165,16 +160,16 @@
                                         <span>&nbsp;Courses <strong>Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">BA.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">BBA.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                     </section>
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">BCom.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
                                     </section>
 
                                 </div>
