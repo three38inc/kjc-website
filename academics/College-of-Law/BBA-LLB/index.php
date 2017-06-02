@@ -111,28 +111,27 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;BBA.LLB <strong>Course Details</strong></span>
+                                        <span>&nbsp;B.B.A., LL.B. <strong>Course Details</strong></span>
                                     </h4>
 
-                                    <br/>
+
                                     <p align="justify">
-                                        <!--                                        <img src="../../../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The B.B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s degree course in Business Administration with a Bachelor’s degree course in law.The programme and curriculum are well planned keeping in mind the rising needs of economy in India, the prodigious demand for legal managers and the course is  ideal to meet the same. Each academic year will be divided into two semesters. Each semester consists of ¬¬¬ 150 days excluding study vacation. The duration of the course shall be five academic years consisting of 10 semesters.  Medium of Instructions is in English. Students have option to write their exams either in English or Kannada.<br/><br/>
+                                       
+                                        The B.B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s degree course in Business Administration with a Bachelor’s degree course in law.The programme and curriculum are well planned keeping in mind the rising needs of economy in India, the prodigious demand for legal managers and the course is  ideal to meet the same. Each academic year will be divided into two semesters. Each semester consists of ¬¬¬ 150 days excluding study vacation. The duration of the course shall be five academic years consisting of 10 semesters.  Medium of Instructions is in English. Students have option to write their exams either in English or Kannada.</p>
                                         
-                                        <strong>ATTENDANCE</strong><br/><br/>
-                                        No student shall be considered to have followed a regular course of study unless he/she is certified by the Principal to have attended minimum 75% of the total number of classes conducted in each course at the end of the semester.<br/><br/>
+									<p><b style="color: #cd6e08;font-weight: bold;">ATTENDANCE</b><br>
+                                        No student shall be considered to have followed a regular course of study unless he/she is certified by the Principal to have attended minimum 75% of the total number of classes conducted in each course at the end of the semester.</p>
 
-                                        <strong>Library</strong> <br/><br/>
-                                        The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays<br/><br/>
+									<p><b style="color: #cd6e08;font-weight: bold;">Library</b><br>
+                                        The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays</p>
 
-                                        <strong>Anti- Ragging Committee</strong> <br/><br/>
-                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.<br/><br/>
+									<p><b style="color: #cd6e08;font-weight: bold;">Anti- Ragging Committee</b><br>
+                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.</p>
 
-                                        <strong>Moot Court Hall</strong><br/><br/> 
-                                        A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.
-                                    </p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Moot Court Hall</b><br>
+                                        A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.</p>
 
 
                                 </div>
@@ -141,7 +140,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Course <strong>BBA.LLB</strong></span>
+                                        <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
@@ -172,16 +171,16 @@
                                         <span>&nbsp;Courses <strong>Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">BA.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">BBA.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                     </section>
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">BCom.LLB</a></p>
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
                                     </section>
 
                                 </div>
