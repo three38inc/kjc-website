@@ -444,7 +444,7 @@
                         <li><a href="#" title=">Luminary E-CELL ">Luminary E-CELL</a></li>
                         <li><a href="#" title="Jayantian Entrepreneurs">Jayantian Entrepreneurs</a></li>
                         <li><a href="studentservices/bank_loan.php" title="Bank Loan">Bank Loan</a></li>
-                        <li><a href="studentservices/schlorship_loanfacilities.php" title="Scholorship &amp; Loan Facilities">Scholorship &amp; Loan Facilities</a></li>
+                        <li><a href="studentservices/schlorship_loanfacilities.php" title="Scholorship &amp; Loan Facilities">Scholarship &amp; Loan Facilities</a></li>
                       </ul>
                     </div>
                   </div>
