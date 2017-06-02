@@ -290,7 +290,7 @@
                     
 
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/collaborations/collaborations.php">
+                        <a href="<?php echo $ROOT ; ?>/placements/about_cecr.php">
                         <div class="accTabs">
                             <h2><i class="flaticon-kjc-collaborations"></i>Placements</h2>
                         </div>

@@ -32,7 +32,7 @@
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="curriculum.php" id="home">Curriculam</a>
+                    <a href="curriculum.php" id="home">Curriculum</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
