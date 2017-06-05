@@ -2,26 +2,28 @@
     <h3 onClick="classie.remove( document.getElementById( 'st-container' ), 'st-menu-open' );" style="color: #fff; cursor: pointer;">&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-left"></i>&nbsp;My Favorites</h3>
     <ul>
         <li><a href="#">Academic Calender</a></li>
-		<li><a href="#">Attendance</a></li>
-		<li><a href="#">Examination</a></li>
-        <li><a href="#">College Mail</a></li>
-        <li><a href="#">Events</a></li>
-        <li><a href="#">Notice</a></li>
+		<li><a href="#">Circulars</a></li>
+		<li><a href="#">Events</a></li>
+        <li><a href="#">TCS iON</a></li>
+        <li><a href="#">Mail</a></li>
+        <li><a href="#">Support Service Centers</a></li>
         <li><a href="#">Campus Management Solutions</a></li>
-		<li><a href="#">Support Service Centers</a></li>
-        <li><a href="#">Campus Connect</a></li>
+		<li><a href="#">Campus Connect</a></li>
         
     </ul>
 </nav>
 
 <nav class="st-menu st-effect-2" id="menu-2">
-    <h3 onClick="classie.remove( document.getElementById( 'st-container' ), 'st-menu-open' );" style="color: #fff; cursor: pointer;">&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-left"></i>&nbsp;College Special</h3>
+    <h3 onClick="classie.remove( document.getElementById( 'st-container' ), 'st-menu-open' );" style="color: #fff; cursor: pointer;">&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-left"></i>&nbsp; Jayantian Special</h3>
     <ul>
-        <li><a href="#">Value Instruction classes</a></li>
         <li><a href="#">Vichaarmanthan</a></li>
-        <li><a href="#">Glimpses </a></li>
-        <li><a href="#">Faculty Development </a></li>
-        <li><a href="#">Campus Culture</a></li>
+        <li><a href="#">Centre for Continuing Professional Education</a></li>
+        <li><a href="#">Extension Services</a></li>
+        <li><a href="#">Entrepreneurship </a></li>
+        <li><a href="#">Jayantian Language Learning Centre</a></li>
+		 <li><a href="#">National Service Scheme</a></li>
+		 <li><a href="#">National Cadet Corps</a></li>
+		 <li><a href="#">Centre for Life Skills Education</a></li>
     </ul>
 </nav>
 

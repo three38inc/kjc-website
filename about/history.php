@@ -124,10 +124,7 @@
                                         The institution strives to fulfill its mission to provide educational opportunities to all aspiring youth to excel in life by developing academic excellence, fostering values, creating civic responsibility and building global competencies in a dynamic environment.</p>
                                     <p align="justify">
 
-                                        Kristu Jayanti College is affiliated to the Bangalore University, the largest University in the country. A majority of higher educational institutions are established in the southern and eastern parts of Bangalore. The northern part of Bangalore District, which is semi-urban and rural, lacked educational and industrial development. In order to build vibrant academic environment and expand opportunities for socio-economic change in this geographical area, the college was started at K.Narayanapura in Kothanur from Bangalore city.The college which had a humble beginning with 1 course, 9 students and 3 full time academic faculty in 1999, has grown exponentially in programme (26 programme including two Ph.D. programme), in number of students (3540) and in full time faculty strength (163), all in a matter of 16 years.
-
-
-                                    </p>
+                                        Kristu Jayanti College is affiliated to the Bangalore University, the largest University in the country. A majority of higher educational institutions are established in the southern and eastern parts of Bangalore. The northern part of Bangalore District, which is semi-urban and rural, lacked educational and industrial development. In order to build vibrant academic environment and expand opportunities for socio-economic change in this geographical area, the college was started at K.Narayanapura in Kothanur from Bangalore city.The college which had a humble beginning with 1 course, 9 students and 3 full time academic faculty in 1999, has grown exponentially in programme (26 programme including two Ph.D. programme), in number of students (3540) and in full time faculty strength (163), all in a matter of 16 years.</p>
 
 
 
@@ -202,14 +199,14 @@
                                 </div>
 
                                 
-                                    <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
+                                   <!-- <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
 										
 									<div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
                                             <div class="fb-xfbml-parse-ignore">
                                                 <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>-->
 
 
                             </div>
