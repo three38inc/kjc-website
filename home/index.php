@@ -105,7 +105,7 @@
                                 <a href="../academics/College-Arts-Science-Commerce/">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts,Science &amp; Commerce</strong></span>
+                                            <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts, Science &amp; Commerce</strong></span>
                                         </h4>
                                         <p style="text-align:justify;margin:5px;">
                                             The synergism of Education, Innovation and Tradition proffers a prolific course of study – <b> BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA.</b> It also offers Post Graduate courses in Computer Science and Life Sciences.
@@ -139,7 +139,7 @@
                                 <div style="clear: both;"></div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="height: 523px; overflow-y:hidden;">
+                                <div class="content-spl wow fadeIn" style="height: 540px; overflow-y:hidden;">
                                     <?php include ('php/newsAndUpdates.php'); ?>
                                 </div>
                             </div>
@@ -303,7 +303,7 @@
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
                                         <a href="http://events.kristujayanti.edu.in/">
-                                            <h4><i class="fa fa-calendar-o"></i> Enroll for an Event</h4>
+                                            <h4><i class="flaticon-kjc-extension"></i> Collaborations</h4>
                                         </a>
                                     </div>
                                 </div>
@@ -340,7 +340,7 @@
 
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 423px; overflow: hidden;">
+                                <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 372px; overflow: hidden;">
                                     <?php include ('php/upcoming-events.php'); ?>
                                 </div>
                             </div>

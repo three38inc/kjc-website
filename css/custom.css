@@ -2169,6 +2169,7 @@ time.icon:focus {
 }
 
 .sideLinks a i {
+    color: #2980b9;
     font-size: 1.2em;
     margin-right: 10px;
 }
