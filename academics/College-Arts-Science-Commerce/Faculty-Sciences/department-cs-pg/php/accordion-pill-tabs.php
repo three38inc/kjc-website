@@ -8,7 +8,7 @@
     }
     
     .nav-tabs{
-        background-color: #05a6f0;
+        background-color: #34495e;
         border-radius: 0px 0px 5px 5px;
     }
     
@@ -107,11 +107,11 @@
         <div class="card">
             <div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
                 <ul class="nav nav-tabs filter-button" role="tablist" style="padding: 0em 0em;">
-                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav"><i class="flaticon-kjc-favourites"></i>&nbsp; My Favourites</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl"><i class="flaticon-kjc-special"></i>&nbsp; Our Uniqueness</a></li>
-                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student"><i class="flaticon-kjc-life"></i>&nbsp; Resources</a></li>
-                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam"><i class="flaticon-kjc-exam"></i>&nbsp; Examinations</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis"><i class="flaticon-kjc-miscellaneous"></i>&nbsp; Miscellaneous</a></li>
+                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav">&nbsp; My Favourites</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Our Uniqueness</a></li>
+                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Resources</a></li>
+                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp; Examinations</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Miscellaneous</a></li>
 
                 </ul>
             </div>
@@ -181,6 +181,15 @@
                             </div>
                         </a>
                     </div>
+
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <a href="http://events.kristujayanti.edu.in" target="_blank">
+                            <div class="accTabs">
+                                <h2><i class="fa fa-calendar-o"></i>Enroll for an Event</h2>
+                            </div>
+                        </a>
+                    </div>
+                    
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/semester_pattern_ug_pg.php">
                             <div class="accTabs">

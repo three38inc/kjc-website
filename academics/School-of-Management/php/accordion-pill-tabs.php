@@ -8,7 +8,7 @@
     }
     
     .nav-tabs{
-        background-color: #05a6f0;
+        background-color: #34495e;
         border-radius: 0px 0px 5px 5px;
     }
     
@@ -107,11 +107,11 @@
         <div class="card">
             <div class="col-lg-12 col-md-12 hidden-sm hidden-xs">
                 <ul class="nav nav-tabs filter-button" role="tablist" style="padding: 0em 0em;">
-                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav"><i class="flaticon-kjc-favourites"></i>&nbsp; My Favourites</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl"><i class="flaticon-kjc-special"></i>&nbsp; Jayantian Special</a></li>
-                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student"><i class="flaticon-kjc-life"></i>&nbsp; Student Life</a></li>
-                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam"><i class="flaticon-kjc-exam"></i>&nbsp; Examinations</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis"><i class="flaticon-kjc-miscellaneous"></i>&nbsp; Miscellaneous</a></li>
+                    <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav">&nbsp; My Favourites</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Jayantian Special</a></li>
+                    <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
+                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp;Examinations</a></li>
+                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Miscellaneous</a></li>
 
                 </ul>
             </div>
@@ -142,7 +142,7 @@
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/notice/notice.php">
                             <div class="accTabs">
-                                <h2><i class="flaticon-kjc-notice"></i>Notice</h2>
+                                <h2><i class="flaticon-kjc-notice"></i>Circulars</h2>
                             </div>
                         </a>
                     </div>
@@ -178,6 +178,13 @@
                         <a href="http://www.tcsion.com/PVC/" target="_blank">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-connect"></i>Campus Connect</h2>
+                            </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <a href="http://events.kristujayanti.edu.in" target="_blank">
+                            <div class="accTabs">
+                                <h2><i class="fa fa-calendar-o"></i>Enroll for an Event</h2>
                             </div>
                         </a>
                     </div>
@@ -248,14 +255,14 @@
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/inter_intra_festivals.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-festivals"></i>Inter Intra Festivals</h2>
+                            <h2><i class="flaticon-kjc-festivals"></i>Academic / Co-curricular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fests</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/computer_academy.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-association"></i>Association</h2>
+                            <h2><i class="flaticon-kjc-association"></i>Academic Clubs and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associations</h2>
                         </div>
                         </a>
                     </div>
@@ -269,7 +276,7 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ccpd.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-ccpd"></i>C.C.P.D</h2>
+                            <h2><i class="flaticon-kjc-ccpd"></i>Centre for Continuing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional Education</h2>
                         </div>
                         </a>
                     </div>
@@ -290,7 +297,8 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/language_learning_centre.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-language"></i>Language Learning</h2>
+                            <h2><i class="flaticon-kjc-language"></i>Jayantian Language
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Centre</h2>
                         </div>
                         </a>
                     </div>
@@ -311,8 +319,15 @@
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
                         <div class="accTabs">
-                            <h2><i class="flaticon-kjc-lifeskills"></i>Centre for LifeSkills</h2>
+                            <h2><i class="flaticon-kjc-lifeskills"></i>Centre for Life Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education</h2>
                         </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
+                            <div class="accTabs">
+                                <h2><i class="flaticon-kjc-entrepreneurship"></i>IQAC</h2>
+                            </div>
                         </a>
                     </div>
 
