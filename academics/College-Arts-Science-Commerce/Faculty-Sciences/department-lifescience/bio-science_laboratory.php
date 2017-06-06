@@ -110,31 +110,15 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                    <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Bio-Science <strong>Laboratory</strong></span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                      Life science department is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerator centrifuge and Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are a special feature of the lab. These instruments and facilities such as plant tissue culture lab, microbial culture, etc., help the students in performing experiments and minor projects in the field of rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.
-                                    </p>
-                                
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
-
-
+                                      <p>The Department of Life Sciences is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerated centrifuge Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are a special feature of the lab. These instruments and facilities such as plant tissue culture lab, microbial culture, etc., help the students in performing experiments and minor projects in the field of Plant Tissue Culture, Microbiology, rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.</p>
+									
+									<center><img src="images/bio_lab.jpg"></center>
+            
 
                                 </div>
                             </div>
@@ -142,7 +126,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                      <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
@@ -150,7 +134,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
@@ -160,7 +144,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 

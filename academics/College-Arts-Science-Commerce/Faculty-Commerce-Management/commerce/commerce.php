@@ -120,13 +120,13 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
-                                    <img src="images/commerce_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                    <img src="images/banner09.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Commerce</strong></span>
                                     </h4>
 
-                                    <br/>
+                               
                                     <p align="justify">
                                         <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
                                         The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.

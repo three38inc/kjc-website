@@ -32,7 +32,7 @@
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="curriculum.php" id="home">Curriculam</a>
+                    <a href="curriculum.php" id="home">Curriculum</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
@@ -50,12 +50,12 @@
                 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="#" id="contact">Mandatory Annexure</a>
+                    <a  href="pdf/mandatory_2015_mba.pdf" target="_blank" id="contact">Mandatory Annexure</a>
                 </li>
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="#" id="contact">MyCourse</a>
+                    <a  href="http://www.sevugapandian.com/moodle27/login/index.php" target="_blank" id="contact">MyCourse</a>
                 </li>
 
                 <li class="hidden-lg">

@@ -109,8 +109,8 @@
                                 <div class="marginTopDiv">&nbsp;</div>
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                        <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                        <img src="images/banner_sciences.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp; Faculty Of <strong>Sciences</strong></span>
                                         </h4>
@@ -150,12 +150,12 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
                                             <span>&nbsp;<strong>Departments</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-pg/academic_training.php">Department of Computer Science [PG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php">Department of Computer Science [PG]</a></p>
                                         </section>
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-ug/bca.php">Department of Computer Science [UG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-ug/computer_science.php">Department of Computer Science [UG]</a></p>
                                         </section>
 
 

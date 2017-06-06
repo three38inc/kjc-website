@@ -451,7 +451,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
                                                 <li><a href="<?php echo $ROOT; ?>/student_services/luminary.php" title="Luminary E-CELL ">Luminary E-CELL</a></li>
                                                 <li><a href="<?php echo $ROOT; ?>/student_services/jayantian_entrepreneurs.php" title="Jayantian Entrepreneurs">Jayantian Entrepreneurs</a></li>
                                                 <li><a href="<?php echo $ROOT; ?>/student_services/bank_loan.php" title="Bank Loan">Bank Loan</a></li>
-                                                <li><a href="<?php echo $ROOT; ?>/student_services/schlorship_loan_facilities.php" title="Scholorship &amp; Loan Facilities">Scholorship &amp; Loan Facilities</a></li>
+                                                <li><a href="<?php echo $ROOT; ?>/student_services/schlorship_loan_facilities.php" title="Scholorship &amp; Loan Facilities">Scholarship &amp; Loan Facilities</a></li>
                                             </ul>
                                         </div>
                                     </div>

@@ -110,71 +110,19 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="images/banner04.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;M.Sc  <strong> MicroBiology</strong></span>
-                                    </h4>
-
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-										<b style="color: #cd6e08;font-weight: bold;">Course Design</b> <br> <br>
-                                        <p>The M.Sc. Microbiology & Biotechnology courses are two year full time programme in four semesters, affiliated to the Bangalore University and recognized by the Govt. of Karnataka. The college provides comprehensive education to the students through effective planning and intensive training with recent trends in Biotechnology & Microbiology with experimental knowledge. Each semester builds and equips the students to adapt to the demands in research and development units, industries and entrepreneurship in the areas of Biotechnology.</p> <br>
-                                        <strong>Eligibility</strong> <br><br> 
-                                    
-                                    <ul>
-                                    <li type="bullet">    B.Sc. degree with 50% of marks (45% in the case of SC and ST students) in all subjects.    </li>
-                                         <li type="bullet">   Students should have studied Chemistry / Biochemistry compulsorily as an optional subject along with Biotechnology / Microbiology / Botany / Zoology / Genetcs / Life Science / Applied Botony / Applied Zoology / Environmental Science / Home Science / Sericulture / Biological Science / Agricultural Sciences / Horticultural Science / Fisheries / Dairy Sciences / Forestry / BE and B.Tech Biotechnology / Four Year BS Programme.     </li>
-                                    </ul> 
-<br><br>
-                                    <!--<div class="table-responsive">
-                                                            <table class="table table-hover table-bordered">
-                                                                <thead>
-                                                                    <tr>
-                                                                        <th>Curriculum</th>
-                                                                        <th>Year</th>
-                                                                        <th>Download</th>
-                                                                    </tr>
-                                                                </thead>
-                                                                <tbody>
-                                                                    <tr>
-                                                                        <td>Curriculum Outline and Syllabus - Autonomy 
-                                                                        </td>
-                                                                        <td>2014
-                                                                        </td>
-                                                                         <td><a href="" >click here </a> 
-                                                                        </td>
-                                                                    </tr>
-                                                                    <tr>
-                                                                        <td>Curriculum Outline and Syllabus - Autonomy 
-                                                                        </td>
-                                                                        <td>2015-2017
-                                                                        </td>
-                                                                          
-                                                                        <td><a href="" >click here </a> 
-                                                                        </td>
-                                                                    </tr>
-                                                                    
-                                                                     
-                                                                      
-                                                                   
-                                                                </tbody>
-                                                            </table>
-                                                        </div>-->
-
                                   
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;M.Sc  <strong> MicroBiology</strong></span></h4>
+									
+									
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Course Design</b><br>
+										The M.Sc. Microbiology & Biotechnology courses are two year full time programme in four semesters, affiliated to the Bangalore University and recognized by the Govt. of Karnataka. The college provides comprehensive education to the students through effective planning and intensive training with recent trends in Biotechnology & Microbiology with experimental knowledge. Each semester builds and equips the students to adapt to the demands in research and development units, industries and entrepreneurship in the areas of Biotechnology.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br>
+										1. B.Sc. degree with minimum 50% of marks (45% in the case of SC & ST students) in all subjects.</p>
+									<p align=justify>2. Students should have studied Chemistry / Biochemistry compulsorily as an optional subject along with Biotechnology / Microbiology / Botany / Zoology / Genetcs / Life Science / Applied Botony / Applied Zoology / Environmental Science / Home Science / Sericulture / Biological Science / Agricultural Sciences / Horticultural Science / Fisheries / Dairy Sciences / Forestry / BE and B.Tech Biotechnology / Four Year BS Programme.</p>
+
+									
+
 <center><p><a href="curriculum/msc_microbilogy_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Sc., Microbiology 2015 - 17</a></p></center>
 
 
@@ -184,7 +132,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
@@ -192,17 +140,17 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology </a></p>
+                                        <p><a class="a-link-arrow" href="msc_bio.php">M.Sc., Biotechnology</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php" style="color: #2980b9;font-weight: bold;">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 

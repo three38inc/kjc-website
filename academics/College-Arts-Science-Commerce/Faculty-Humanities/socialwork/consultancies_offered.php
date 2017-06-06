@@ -9,30 +9,29 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/images/icon.png">
+    <link rel="shortcut icon" href="../../../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/component.css" />
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/roundIcons.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/hoverEffect.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/morphing.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/navTabs.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/animate.css">
-    <link rel="stylesheet" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/fakeLoader.css">
-    <!--		<link rel="stylesheet" href="../css/deptCustomLink.css">-->
-
+    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../../../css/morphing.css">
+    <link rel="stylesheet" href="../../../../css/navTabs.css">
+    <link rel="stylesheet" href="../../../../css/animate.css">
+    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
+    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/custom.css" rel="stylesheet">
-    		<link href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/css/innerpage.css" rel="stylesheet">
+    <link href="../../../../css/custom.css" rel="stylesheet">
+    <link href="../../../../css/innerpage.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery-1.11.0.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/bootstrap/js/bootstrap.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/respond.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/fakeLoader.js"></script>
+    <script src="../../../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../../js/respond.js"></script>
+    <script src="../../../../js/custom.js"></script>
+    <script src="../../../../js/fakeLoader.js"></script>
 
 </head>
 
@@ -85,14 +84,14 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Consultancies <strong>  offered  </strong></span></h4>
 								
-								<p><b>The Department provides consultancy in the following areas</b><br>
+								<p><b>The Department provides consultancy in the following areas: </b><br>
 
 								<p><b style="color: #cd6e08;font-weight: bold;">For NGOS</b><br>
 <b>*</b> Community need assessment surveys<br>
 <b>*</b> Beneficiary identification & verification researches<br>
 <b>*</b> Project monitoring & evaluation<br>
 <b>*</b> Preparation of Project Proposal & Sourcing Funds<br>
-									Capacity Mapping & SWOT Analysis</p>
+<b>*</b> Capacity Mapping & SWOT Analysis</p>
 
 								<p><b style="color: #cd6e08;font-weight: bold;">For Corporates</b><br>
 <b>*</b> CSR: Need Assessment Survey<br>
@@ -103,14 +102,14 @@
 									<b>*</b> Life Skills Education for Psycho Social Well Being</p>
 
 								<p><b style="color: #cd6e08;font-weight: bold;">For Academic Institutions</b><br>
-<b>*</b> Educational Leadership (For Principals& Administrators)<br>
+<b>*</b> Educational Leadership (For Principals & Administrators)<br>
 <b>*</b> Psycho Social Understanding of Gen Y Learners<br>
 <b>*</b> Class Room Management (CRM)<br>
 <b>*</b> Workshops on Basic Counselling Skills for Teachers<br>
 <b>*</b> Life Skills for Self Branding & Employability<br>
 									<b>*</b> Parenting Skills Workshops</p>
 
-								<p>For More Details on the above and other extension services, opportunities for collaborations please get in touch with the Head of the Department</p>
+								<p align=justify>For more details on the other extension services and opportunities for collaborations, please get in touch with the Head of the Department of Social Work, Kristu Jayanti College, Bengaluru.</p>
 								
 								
 								</div></div>
@@ -227,20 +226,20 @@
         })();
 
     </script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/modernizr.custom.academics.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/spin.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/mySpin.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/swipeview.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/classie.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/morphingSearch.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sidebarEffects.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/transit.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/sly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/customSly.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/wow.min.js"></script>
-    <script src="http://<?php echo $_SERVER['HTTP_HOST']; ?>/js/scripts.js"></script>
+    <script src="../../../../js/modernizr.custom.js"></script>
+    <script src="../../../../js/spin.min.js"></script>
+    <script src="../../../../js/mySpin.js"></script>
+    <script src="../../../../js/swipeview.js"></script>
+    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../../../js/classie.js"></script>
+    <script src="../../../../js/morphingSearch.js"></script>
+    <script src="../../../../js/sidebarEffects.js"></script>
+    <script src="../../../../js/transit.js"></script>
+    <script src="../../../../js/sly.js"></script>
+    <script src="../../../../js/customSly.js"></script>
+    <script src="../../../../js/wow.min.js"></script>
+    <!--    <script src="js/res-navtabs.js"></script>-->
+    <script src="../../../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({

@@ -111,14 +111,13 @@
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
                                         <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;BBA.LLB <strong>Course Structure</strong></span>
+                                            <span>&nbsp;B.B.A., LL.B. <strong>Course Structure</strong></span>
                                         </h4>
 
-                                        <br/>
 
-                                        <table border="1" cellspacing="2" cellpadding="2">
+                                        <table border="0" class="table table-bordered table-hover">
                                             <tbody><tr>
                                                 <td width="97" valign="top"><p align="center"><strong>Semester</strong></p></td>
                                                 <td width="246" valign="top"><p align="center"><strong>Course Title</strong></p></td>
@@ -223,7 +222,7 @@
                                     <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Course <strong>BBA.LLB</strong></span>
+                                            <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
                                         </h4>
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
@@ -254,16 +253,16 @@
                                             <span>&nbsp;Courses <strong>Offered</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BA-LLB/index.php">BA.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                         </section>
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BBA-LLB/index.php">BBA.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                         </section>
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">BCom.LLB</a></p>
+                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
                                         </section>
 
                                     </div>

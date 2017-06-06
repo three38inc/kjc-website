@@ -110,34 +110,14 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                   <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Department Of <strong>LifeSciences</strong></span>
-                                    </h4>
+                                        <span>&nbsp; Department Of <strong>Life Sciences</strong></span></h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology.   
-                                    </p>
-                                    <p align="justify">
-                                        The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                    </p>
-                                    <p align="justify">
-                                         The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                    </p>
-<!--
-                                    <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--->
-<!--                                
-                                    <p align="justify">
-                                        The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
+									<p align=justify>The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources, the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology. Our B.Sc Biotechnology & Microbiology programmes contain a series of Biochemistry and Genetics subjects which we feel essential to make students fit for industry and Research & Development sector. </p>
+									<p align=justify>The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and Excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career. With the commitment of the faculty members to educational excellence, well equipped and state –of-the-art  laboratories for different programmes and research laboratories, the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences. </p>
+									<p align=justify>The syllabus of B.Sc and M.Sc programmes covers the latest information available and technical innovations in the respective majors and related subjects The curriculum is designed based on current needs of the industries and various Research & Development sectors, so that employability can be improved. We encourage and emphasize student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists. </p>
+
 
 
 
@@ -147,7 +127,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;<strong>Programs Offered</strong></span>
+                                      <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
@@ -155,7 +135,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., BioTechnology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_bio.php">B.Sc., Biotechnology</a></p>
                                     </section>
 
 
@@ -165,7 +145,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="msc_micro.php">M.Sc., Microbiology</a></p>
                                     </section>
 
 
