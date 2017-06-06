@@ -16,18 +16,11 @@
             <li data-effect="st-effect-5">
                 <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Miscellaneous</a>
             </li>
-            <li data-effect="st-effect-6">
-                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Special</a>
-            </li>
-			 <li data-effect="st-effect-7">
+           
+			 <li data-effect="st-effect-6">
                 <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Media Room</a>
             </li>
-			<li data-effect="st-effect-8">
-                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Placements</a>
-            </li>
-			<li data-effect="st-effect-9">
-                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Admissions</a>
-            </li>
+			
         </ul>
     </div>
 </div> 

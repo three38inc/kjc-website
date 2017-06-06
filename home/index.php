@@ -302,7 +302,7 @@
                             <div class="col-lg-3" style="padding:0;">
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
-                                        <a href="http://events.kristujayanti.edu.in/">
+                                        <a href="../collaborations/collaborations.php">
                                             <h4><i class="flaticon-kjc-extension"></i> Collaborations</h4>
                                         </a>
                                     </div>
