@@ -115,6 +115,9 @@
                                         <span>&nbsp; End Semester/Trimester  <strong> Examination Time Table  </strong></span>
                                     </h4>
 									
+									<div class="well well-sm">
+										MBA/PGDM III Trimester - End Trimester Examination June 2017  <a href="pdf/2017/mba_pgdm_III_trim_end_trim_exam_june_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
+										 </div>
 									
 									<div class="well well-sm">
 										MBA/PGDM VI Trimester End Trimester Theory Examination May/June 2017  <a href="pdf/2017/mba_pgdm_VI_trimester_end_trimester_exam_may_june_2017.pdf" target="_blank"><b>[TIME TABLE]</b></a>
