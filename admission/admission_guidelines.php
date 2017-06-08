@@ -150,7 +150,7 @@ Admission process will be initiated only after receiving the original DD/copy of
 &nbsp;&nbsp;&nbsp;&nbsp;(a)<u> Once you Register by clicking online Application Registration you will get a mail</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>immediately to the mail id you Provided with your login name and Password.</u><br />
 &nbsp;&nbsp;&nbsp;&nbsp;(b)<u> Fill the Application Form Completely using the login id and Password. </u></b></font></p>
 <p><b>4.</b><font color="#FF0000"> <b><u>You are advised to click the link below for online Registration only after reading the Guidelines.</u></b></font>  </p>-->
-<b><a href="http://www.digialm.com/EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank"><font size="+1" color="#FF0000">[Click here to register for application form]</font></a></b></p>
+<b><a href="http://www.digialm.com/EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank"><font size="+1" color="#FF0000">[Click here to register for application form]</font></a></b>
 
 <!--<p><font color="#FF0000" size="3"><b>Application forms will be availabe only after 1st December 2015</b></font></p>-->
 
@@ -336,7 +336,7 @@ Law Programmes: Rs 300/-  <br>
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+ 
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
