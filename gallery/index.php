@@ -1,3 +1,7 @@
+<?php
+if(!session_id()){
+    session_start();
+}?>
 <!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
     <head>
@@ -107,7 +111,7 @@
         <script src="../js/swipeview.js"></script>
         <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
         <script src="../js/classie.js"></script>
-<!--        <script src="../js/morphingSearch.js"></script>-->
+<!-- <script src="../js/morphingSearch.js"></script>-->
         <script src="../js/sidebarEffects.js"></script>
         <script src="../js/transit.js"></script>
         <script src="../js/sly.js"></script>

@@ -200,17 +200,20 @@
   </div>
                             <div class="panel panel-default">
   <div class="panel-body">
-<font size=2>UG course: 250/- Rs<br>
-PG course: 500/- Rs<br>
-MCA Programme: 500/- Rs<br>
-MBA Programme: 900/- Rs<br>
-    PGDM Programme: 900/- Rs</font> </p>
+<font size=2>UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/-  <br>
+1 year PG Diploma Programme
+(Working Executives): Rs 250/-</font> 
                        
   </div>
 </div>   
  </div>
                                  
- <div class="list-group">
+ <!--<div class="list-group">
   <a href="#" class="list-group-item active">
    Counselling Results
   </a>
@@ -220,7 +223,7 @@ MBA Programme: 900/- Rs<br>
   </a>
    <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
   </a>
-</div>
+</div>-->
                                    
 
                                 </div>

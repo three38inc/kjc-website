@@ -112,20 +112,13 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                            
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Online Fee Payment Details</strong></span>
-                                    </h4>
+                                        <span>&nbsp;<strong>Online Fee Payment Details</strong></span></h4>
 
-                                  
-                                    <p>Students/Applicants can make use of electronic payment facility for remitting the prescribed fee.</p>
+                                  <p><b style="color: #cd6e08;font-weight: bold;">Please Note:</b><br>
+                                      Kindly contact the college office for information on online fee payment.</p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Bank Details for UG Fee Payment</b><br>
-Name: 	Kristu Jayanti College<br>
-Bank: 	The South Indian Bank Ltd<br>
-Branch: 	Kothanur Branch, Bangalore - 560 077<br>
-                                        IFSC Code: 	SIBL0000486</p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Please Note:</b><br>
-                                        Kindly contact the accounts section in the college office (Phone: 080 28465611 Ext: 305) with your reference number after your transcations, for issue of fee receipts.</p>
+									<p><b>Contact Nos.-</b> (080)28465611, 28465770, 28465353</p>
+								
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -194,23 +187,26 @@ Branch: 	Kothanur Branch, Bangalore - 560 077<br>
     <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
   </div>
   <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
+    <font size=2> 1. Fee payment in College office<br>
 2. online payment<br>
         3. Payment through demand draft<br></font>
   </div>
                             <div class="panel panel-default">
   <div class="panel-body">
-<font size=2>UG course: 250/- Rs<br>
-PG course: 500/- Rs<br>
-MCA Programme: 500/- Rs<br>
-MBA Programme: 900/- Rs<br>
-    PGDM Programme: 900/- Rs</font> </p>
+<font size=2>UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/-  <br>
+1 year PG Diploma Programme
+(Working Executives): Rs 250/-</font> 
                        
   </div>
 </div>   
  </div>
                                  
- <div class="list-group">
+ <!--<div class="list-group">
   <a href="#" class="list-group-item active">
    Counselling Results
   </a>
@@ -220,7 +216,7 @@ MBA Programme: 900/- Rs<br>
   </a>
    <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
   </a>
-</div>
+</div>-->
                                    
 
                                 </div>
