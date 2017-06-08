@@ -125,13 +125,13 @@ win=window.open(mypage,myname,settings);}
                                         <span>&nbsp;<strong>PG Admission</strong></span>
                                     </h4>
 
-   <p><b><u>Faculty of Commerce & Management :</u></b></p>
-  <table border="1" cellpadding="0" cellspacing="0">
+  <p><b><u>Faculty of Commerce & Management :</u></b></p>
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
   <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
   </tr></table>
-  <table border="1" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom.php"><u>B.Com</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
@@ -139,7 +139,7 @@ win=window.open(mypage,myname,settings);}
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom_tourism.php"><u>B.Com (Tourism)</u></font></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom_tourism.php"><u>B.Com (Tourism)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_tourism_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_tourism_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
@@ -168,15 +168,13 @@ win=window.open(mypage,myname,settings);}
   <td width="200"><p><a href="pop_up_admission/bba_integrated_cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
-  <tr>
 
-  </tr>
   </table>
   
   
  <p><b><u>Faculty of Sciences: </u></b></p>  
   
-<table border="1" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
  <tr>
   <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/computerscience/bca.php"><u>BCA</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
@@ -212,7 +210,7 @@ win=window.open(mypage,myname,settings);}
   
   <p><b><u>Faculty of Humanities: </u></b></p>  
   
- <table border="1" cellpadding="0" cellspacing="0">
+ <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
    <tr>
   <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_hep.php"><u>BA (HEP)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
@@ -323,17 +321,20 @@ win=window.open(mypage,myname,settings);}
   </div>
                             <div class="panel panel-default">
   <div class="panel-body">
-<font size=2>UG course: 250/- Rs<br>
-PG course: 500/- Rs<br>
-MCA Programme: 500/- Rs<br>
-MBA Programme: 900/- Rs<br>
-    PGDM Programme: 900/- Rs</font> </p>
+<font size=2>UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/-  <br>
+1 year PG Diploma Programme
+(Working Executives): Rs 250/-</font> 
                        
   </div>
 </div>   
  </div>
                                  
- <div class="list-group">
+ <!--<div class="list-group">
   <a href="#" class="list-group-item active">
    Counselling Results
   </a>
@@ -343,7 +344,7 @@ MBA Programme: 900/- Rs<br>
   </a>
    <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
   </a>
-</div>
+</div>-->
                                    
 
                                 </div>

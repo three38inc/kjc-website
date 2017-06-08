@@ -151,7 +151,7 @@
 
                                     <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
 
-                                    <div class="panel panel-info">
+                                    <!--<div class="panel panel-info">
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Admission Drive in Jaipur</h3>
                                         </div>
@@ -166,9 +166,9 @@
                                                 <font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font>
                                             </p>
                                         </div>
-                                    </div>
+                                    </div>-->
 
-                                    <div class="panel panel-info">
+                                    <!--<div class="panel panel-info">
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Admission Drive in Bengaluru</h3>
                                         </div>
@@ -187,7 +187,7 @@
                                                 <center>PG COUNSELLING</center>
                                             </div>
                                             <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-                                                <!--<b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>-->
+                                               <b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>
                                                 <font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
                                                 <a href="admission_guidelines.php">
                                                     <font size=2>(Apply Online)</font>
@@ -239,7 +239,7 @@
                                                         </p>
 
                                         </div>
-                                    </div>
+                                    </div>-->
 
 
 
@@ -349,17 +349,22 @@
                                         </div>
                                         <div class="panel panel-default">
                                             <div class="panel-body">
-                                                <font size=2>UG course: 250/- Rs<br> PG course: 500/- Rs<br> MCA Programme: 500/- Rs<br> MBA Programme: 900/- Rs<br> PGDM Programme: 900/- Rs</font>
-                                                </p>
+                                               <font size=2>UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/-  <br>
+1 year PG Diploma Programme
+(Working Executives): Rs 250/-</font> 
+                                               
 
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="list-group">
-                                        <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
+                                   <!--<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
                                         <a href="pg_counselling_result_march_25_2017.php" class="list-group-item">
                                             <font size=2>All PG Counselling result held on 25th March 2017</font>
                                         </a>
@@ -369,7 +374,7 @@
                                         <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item">
                                             <font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
                                         </a>
-                                    </div>
+                                    </div>-->
 
 
                                 </div>
