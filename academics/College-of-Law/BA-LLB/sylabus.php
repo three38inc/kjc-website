@@ -113,7 +113,7 @@
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                           
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;BCom.LLB <strong>Sylabus</strong></span>
+										<span>&nbsp;<font size="5">BCom.LLB</font> <strong>Sylabus</strong></span>
                                     </h4>
 
                                     <p align="justify">
@@ -133,9 +133,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Course <strong>BCom.LLB</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
-                                    </section>
+                                    
 
 
                                     <section class="link-arrow">

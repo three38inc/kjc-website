@@ -113,7 +113,7 @@
                                         <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;B.B.A., LL.B. <strong>Course Structure</strong></span>
+											<span>&nbsp;<font size="5">B.B.A., LL.B. </font><strong>Course Structure</strong></span>
                                         </h4>
 
 
@@ -224,9 +224,7 @@
                                             <i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
                                         </h4>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
-                                        </section>
+                                       
 
 
                                         <section class="link-arrow">
@@ -255,15 +253,17 @@
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                         </section>
+										
+										 <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
+                                        </section>
 
 
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                         </section>
 
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
-                                        </section>
+                                       
 
                                     </div>
                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
