@@ -113,7 +113,7 @@
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.B.A., LL.B.<strong>Sylabus</strong></span>
+										<span>&nbsp;<font size="5">B.B.A., LL.B.</font><strong>Sylabus</strong></span>
                                     </h4>
 
                               
@@ -134,9 +134,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
-                                    </section>
+                                    
 
 
                                     <section class="link-arrow">
