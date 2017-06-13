@@ -112,8 +112,21 @@
                                     <img src="images/lifesciences_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Faculty Consultancy service & <strong>Membership  in Professional bodies</strong></span>
+                                        <span>&nbsp; Membership  in<strong> Professional bodies</strong></span>
                                     </h4>
+									
+									
+<div class="well well-sm">
+<font size=3 color="#a31f3b">1.  Member ABLE and BCIL</font> 
+</div>
+									
+									
+									
+									<p><b> </b></p>
+									
+									
+									
+									<!--Faculty Consultancy service & 
 									
 									<table border="1" class="table table-hover table-bordered">
   <tr>
@@ -270,7 +283,7 @@
       February 2017 at Sayyid Akbar Husayni <br />
       Degree College, Sangtrashwadi, Gulbarga  </p></td>
   </tr>
-</table>
+</table>-->
 									
 									
 

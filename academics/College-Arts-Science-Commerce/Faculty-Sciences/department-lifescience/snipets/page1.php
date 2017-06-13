@@ -1,10 +1,11 @@
 <div class="row">
+	
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
             <div class="item-content">
                 <h4>Dr. Elcey C. Daniel
                 </h4>
@@ -29,12 +30,14 @@ Technology/Industrial Microbiology
             </div>
         </div>
     </div>
+	
+	<!--------------------------------------------------------------------end---------------------------------------------------------------->
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
 			
             <div class="item-content">
                 <h4>Dr. Calistus Jude AL
@@ -59,13 +62,14 @@ Technology/Industrial Microbiology
             </div>
         </div>
     </div>
+	<!--------------------------------------------------------------------end---------------------------------------------------------------->
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
 			
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
 			
             <div class="item-content">
                 <h4>Dr. Vijayanand.S
@@ -90,13 +94,14 @@ Technology/Industrial Microbiology
             </div>
         </div>
     </div>
+	<!--------------------------------------------------------------------end---------------------------------------------------------------->
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
 			
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
             <div class="item-content">
                 <h4>Dr.Challaraj Emmanuel, E.S.
                 </h4>
@@ -120,13 +125,14 @@ Technology/Industrial Microbiology
             </div>
         </div>
     </div>
+	<!--------------------------------------------------------------------end---------------------------------------------------------------->
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
 			
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+			
             <div class="item-content">
                 <h4>Dr. M. Sonia Angeline
                 </h4>
@@ -150,13 +156,14 @@ Technology/Industrial Microbiology
             </div>
         </div>
     </div>
+		<!--------------------------------------------------------------------end---------------------------------------------------------------->
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
 			
-			<!--------------------------------------------------------------------end---------------------------------------------------------------->
+		
             <div class="item-content">
                 <h4>Priya M Tomy
                 </h4>
