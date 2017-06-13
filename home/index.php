@@ -27,6 +27,7 @@
     <link href="../css/owl.carousel.min.css" rel="stylesheet" />
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
+    <link href="../academics/College-Arts-Science-Commerce/css/academics.css" rel="stylesheet">
     <link href="../css/custom.css" rel="stylesheet">
     <!-- javascript -->
     <script src="../js/jquery-1.11.0.min.js"></script>
