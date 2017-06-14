@@ -197,7 +197,7 @@
 
                    <div class="col-lg-4">
                      <div class="menu-alt">
-                       <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/"><h4>School of Arts, Science &amp; Commerce</h4></a>
+                       <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/"><h4>College of Arts, Science &amp; Commerce</h4></a>
                        <p>
                         The synergism of Education, Innovation and Tradition proffers a prolific course of study – BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA. It also offers Post Graduate courses in Computer Science and Life Sciences.
                        </p>
