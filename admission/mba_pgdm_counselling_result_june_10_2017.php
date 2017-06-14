@@ -120,31 +120,53 @@ win=window.open(mypage,myname,settings);}
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>MBA/PGDM Counselling Result on 18th March 2017 </strong></span>
-                                    </h4>
-
                                   
-                           <p><b><u><font size="+1">Candidates provisionally selected for MBA</font> </u></b></p>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+										<span>&nbsp;MBA/PGDM Counselling Result<strong> on 10<sup>th</sup> June 2017 </strong></span>
+                                    </h4>
+									
+									<div class="panel panel-default">
+  <div class="panel-body">
+     <p><b><u><font size="+1">Candidates provisionally selected for MBA</font> </u></b></p>
   
-<p><b><font color="#006600" size="3">17KJ0450,  0470,  0551,  0791,  0859,  0926,  0942, 0991, 1171,  1193,  1237,  1252,  1354,  1384,  1441, 1445, 1474, 1484,  1520,  
-1527,  1544,  1552,  1556,  1562, 1586, 1646
+<p><b><font color="#006600" size="3">17KJ2002, 17KJ2949, 17KJ4977, 17KJ7084, 17KJ7615, 17KJ7905, 17KJ8460, 17KJ8496, 17KJ9037, 17KJ9352, 17KJ9497,      17KJ9531 
 </font></b></p>
+  </div>
+</div>
 
-<p><b><u><font size="+1">Candidates provisionally selected for PGDM</font> </u></b></p>
+									
+									
+									<div class="panel panel-default">
+  <div class="panel-body">
+    <p><b><u><font size="+1">Candidates provisionally selected for PGDM</font> </u></b></p>
 
-<p align="justify"><b><font color="#006600" size="3">17KJ0340,  0451, 0487, 0786,  0897, 0906, 1148, 1157,  1159, 1172, 1174, 1267, 1282, 1310, 1314, 1408, 1501, 1510, 1514,
-1532, 1557, 1609</font></b></p>
+<p align="justify"><b><font color="#006600" size="3">
+	17KJ0244, 17KJ2662, 17KJ4062, 17KJ4642, 17KJ4906, 17KJ4967, 17KJ5493, 17KJ5838, 17KJ6714, 17KJ7201, 17KJ7579, 17KJ7798, 17KJ7965, 17KJ8662, 17KJ9166, 17KJ9178,    17KJ9184, 17KJ9287, 17KJ9413, 17KJ9551, 17KJ9620</font></b></p>
+  </div>
+</div>
 
-<p><b>*</b> <b>Those who are in the selected List of MBA/ PGDM  are requested to register for  the course on or before <font color="#FF0000">5<sup>th</sup> April, 2017</font> by submitting all available original documents and the tuition fees.</b></p>
+                          
 
-<p><b><u>Waiting List for MBA</u></b></p>
-<p><b><font color="#006600" size="3">17KJ1464, 1279, 1224, 0521 </font></b></p>
 
-<p><b><u>Waiting List for PGDM</u></b></p>
-<p><b><font color="#006600" size="3">17 KJ1218, 1512, 1523</font></b></p>
-<p><font color="#FF0000">Those who are in the  Waiting  list are requested to contact College office after <b>05<sup>th</sup> April, 2017</b> for further details.</font></p>
+
+<p><b>*</b> Those who are in the selected List of MBA/ PGDM  are requested to register for  the course on or before <font color="#FF0000">20<sup>th</sup> June, 2017</font> by submitting all available original documents and the tuition fees.<p>
+									
+	<div class="panel panel-default">
+  <div class="panel-body">
+    <p><b><u>Waiting List for MBA</u></b></p>
+<p><b><font color="#006600" size="3">17KJ8951, 17KJ6785, 17KJ1914, 17KJ8803</font></b></p>
+  </div>
+</div>
+									
+<div class="panel panel-default">
+ <div class="panel-body">
+  <p><b><u>Waiting List for PGDM</u></b></p>
+<p><b><font color="#006600" size="3">17KJ8192, 17KJ9423, 17KJ9358, 17KJ9495, 17KJ8870</font></b></p>
+  </div>
+</div>
+									
+
+<p><font color="#FF0000">Those who are in the  Waiting  list are requested to contact College office after <b>21<sup>st</sup> June, 2017</b> for further details.</font></p>
 
 <p><b><u>Documents required:</u></b><br />
 (Original plus Two Copies)<br /><br />
@@ -253,17 +275,14 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
+ <div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        </a>
+                                       
+                                    </div>
                                    
 
                                 </div>

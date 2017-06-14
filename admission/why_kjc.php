@@ -122,11 +122,11 @@
     <h3 class="panel-title">Academic Excellence</h3>
   </div>
   <div class="panel-body">
-<li>Ranked as one of the Best Colleges in India and one among the Top Ten Commerce colleges in Bangalore</li>
-<li>Ranked as the Best Emerging Commerce College in India</li>
-<li>Rated as the Best Emerging Science College in India</li>
-<li>Ranked 32 among the Top 100 Arts Colleges in India</li>
-<li>Five University Ranks on an average every academic year</li>
+<li>Ranked as 2nd Best BCA College in India</li>
+<li>Ranked as 9th Best Commerce College in India </li>
+<li>Ranked as 14th Best Arts College in India</li>
+<li>Rated as 17th Best Science College in India</li>
+<li>Ranked as 2nd,3rd,4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore.</li>
   </div>
 </div>
                                   
@@ -302,17 +302,14 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
+ <div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        </a>
+                                       
+                                    </div>
                                    
 
                                 </div>

@@ -370,11 +370,15 @@ Law Programmes: Rs 300/-  <br>
 
                                   <div class="list-group">
                                   <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        <a href="pg_counselling_result_march_25_2017.php" class="list-group-item">
+                                            <font size=2>All PG Counselling result held on 25th March 2017</font>
                                         </a>
-                                       
+                                        <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item">
+                                            <font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
+                                        </a>
+                                        <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item">
+                                            <font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
+                                        </a>
                                     </div>
 
 
