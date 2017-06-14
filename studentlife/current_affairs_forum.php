@@ -141,11 +141,6 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="other.php">Other</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sargotsav.php"> Sargotsav</a></p>
                                     </section>
 
