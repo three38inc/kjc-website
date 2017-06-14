@@ -72,7 +72,10 @@
                                             <img src="images/img1.jpg" class="img-responsive"/>
                                         </div>
                                         <div class="item">
-                                            <img src="images/img1.jpg"/>
+                                            <img src="images/img2.jpg"/>
+                                        </div>
+										 <div class="item">
+                                            <img src="images/img3.jpg"/>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +122,7 @@
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i>Mock Court</h4></a>
+                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i>Moot Court</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">

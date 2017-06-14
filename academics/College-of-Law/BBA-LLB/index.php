@@ -113,7 +113,7 @@
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.B.A., LL.B. <strong>Course Details</strong></span>
+										<span>&nbsp;<font size="5">B.B.A., LL.B. </font><strong>Course Details</strong></span>
                                     </h4>
 
 
@@ -127,8 +127,8 @@
 									<p><b style="color: #cd6e08;font-weight: bold;">Library</b><br>
                                         The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays</p>
 
-									<p><b style="color: #cd6e08;font-weight: bold;">Anti- Ragging Committee</b><br>
-                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.</p>
+									<!--<p><b style="color: #cd6e08;font-weight: bold;">Anti- Ragging Committee</b><br>
+                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.</p>-->
 
 									<p><b style="color: #cd6e08;font-weight: bold;">Moot Court Hall</b><br>
                                         A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.</p>
@@ -142,9 +142,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
-                                    </section>
+                                   
 
 
                                     <section class="link-arrow">
@@ -173,15 +171,17 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                     </section>
+									
+									<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
+                                    </section>
 
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
-                                    </section>
+                                    
 
                                 </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">

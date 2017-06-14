@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="../../../css/navTabs.css">
     <link rel="stylesheet" href="../../../css/animate.css">
     <link rel="stylesheet" href="../../../css/fakeLoader.css">
-    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
+    <!--<link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
     <link href="../../../css/custom.css" rel="stylesheet">
     <link href="../../../css/innerpage.css" rel="stylesheet">
@@ -102,7 +102,7 @@
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
+                        <!--<div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
@@ -111,18 +111,26 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                          
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										<span>&nbsp;<font size="5">B.B.A., LL.B.</font> <strong>Placements</strong></span>
+										<span>&nbsp;<font size="5">Law Programme</font> <strong>Admission</strong></span>
                                     </h4>
 
+                                    
+                                    <p align="justify">
+                                     The B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s Degree programmein Arts along with a Bachelor’s Degree in law. Candidates admitted to this programme will be taught subjects in Arts during the first two years and from the third year the law subjects are integrated in the curriculum. Each academic year is divided into two semesters.The duration of the course shall be five academic years consisting of 10 semesters. Medium of Instruction is in English. Students have the option to write their exams either in English or Kannada.</p>
 
-                                    <p align="justify">
-                                       
-                                        Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province of the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation in India. This congregation is the embodiment of the dream and vision of Saint Kuriakose Elias Chavara who was a nineteenth century educationist and social reformer in India. Kuriakose Chavara was born in 1805, in Kainakary, Kerala. In 1829 he was ordained as priest after his early schooling in the native village and priestly studKristu Jayanti College Founderies at Pallipuram seminary in Alapuzha.
-                                    </p>
-                                    <p align="justify">
-                                        Kuriakose Elias Chavara though he hailed from an upper caste Syrian Christian family, he played a major role in educating the people of the lower ranks of society. In 1846, Kuriakose Elias established St. Joseph's Press at Mannanam- a remote hamlet near the town of Kottayam in Central Kerala. This was the third printing press in Kerala and the first press founded by a Keralite without the help of foreigners. From this printing press came the first Malayalam newspaper Nasrani Deepika which later became a daily in 1887 and is circulated even today as Deepika. He also started a school at Mannanam in 1846. He was responsible for introducing noon day meals in schools, a practice later adopted by the rulers of Travancore and then by the Indian government. In 1864, while he was serving as the Vicar General of Syrian Catholics, he ordered to start a school along with every church which was successful in making free education available for everyone. Thus schools in Kerala came to be known as 'pallikudam'.
+									<p><b style="color: #cd6e08;font-weight: bold;">ATTENDANCE</b><br>
+                                        No student shall be considered to have followed a regular course of study unless he/she is certified by the Principal to have attended minimum 75% of the total number of classes conducted in each course at the end of the semester.</p>
+
+									<p><b style="color: #cd6e08;font-weight: bold;">Library</b><br>
+                                        The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays</p>
+
+									<!--<p><b style="color: #cd6e08;font-weight: bold;">Anti- Ragging Committee</b><br>
+                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.</p>-->
+
+									<p><b style="color: #cd6e08;font-weight: bold;">Moot Court Hall</b><br> 
+                                        A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.
                                     </p>
 
 
@@ -132,9 +140,9 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Course <strong>B.B.A., LL.B.</strong></span>
+                                        <span>&nbsp;Course <strong>B.A., LL.B.</strong></span>
                                     </h4>
-                                    
+                                  
 
 
                                     <section class="link-arrow">
@@ -142,9 +150,11 @@
                                     </section>
                                     
                                     
+<!--
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sylabus.php">Sylabus</a></p>
                                     </section>
+-->
 
 
                                     <section class="link-arrow">
@@ -152,10 +162,27 @@
                                     </section>
 
 
+
+                                </div>
+                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;Courses <strong>Offered</strong></span>
+                                    </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="placements.php">Placements</a></p>
+                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
+                                    </section>
+									
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
                                     </section>
 
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
+                                    </section>
+
+                                   
 
                                 </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -185,7 +212,7 @@
 
                     </div>
 
-                    <!--						                                </div>-->
+                    <!--</div>-->
                     <?php include ('../../../php/alerts.php');  ?>
                     <?php include('../../../php/footer.php'); ?>
                     <?php include('../../../php/morphingSearch.php'); ?>
@@ -199,7 +226,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+  
     <!--st-container-->
 
     <script src="../../../js/cbpFWTabs.js"></script>

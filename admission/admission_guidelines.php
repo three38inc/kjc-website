@@ -150,7 +150,7 @@ Admission process will be initiated only after receiving the original DD/copy of
 &nbsp;&nbsp;&nbsp;&nbsp;(a)<u> Once you Register by clicking online Application Registration you will get a mail</u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>immediately to the mail id you Provided with your login name and Password.</u><br />
 &nbsp;&nbsp;&nbsp;&nbsp;(b)<u> Fill the Application Form Completely using the login id and Password. </u></b></font></p>
 <p><b>4.</b><font color="#FF0000"> <b><u>You are advised to click the link below for online Registration only after reading the Guidelines.</u></b></font>  </p>-->
-<b><a href="http://www.digialm.com/EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank"><font size="+1" color="#FF0000">[Click here to register for application form]</font></a></b></p>
+<b><a href="http://www.digialm.com/EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank"><font size="+1" color="#FF0000">[Click here to register for application form]</font></a></b>
 
 <!--<p><font color="#FF0000" size="3"><b>Application forms will be availabe only after 1st December 2015</b></font></p>-->
 
@@ -268,17 +268,20 @@ If the page displays the following error message "An error seems to have occurre
   </div>
                             <div class="panel panel-default">
   <div class="panel-body">
-<font size=2>UG course: 250/- Rs<br>
-PG course: 500/- Rs<br>
-MCA Programme: 500/- Rs<br>
-MBA Programme: 900/- Rs<br>
-    PGDM Programme: 900/- Rs</font> </p>
+<font size=2>UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/-  <br>
+1 year PG Diploma Programme
+(Working Executives): Rs 250/-</font> 
                        
   </div>
 </div>   
  </div>
                                  
- <div class="list-group">
+ <!--<div class="list-group">
   <a href="#" class="list-group-item active">
    Counselling Results
   </a>
@@ -288,7 +291,7 @@ MBA Programme: 900/- Rs<br>
   </a>
    <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
   </a>
-</div>
+</div>-->
                                    
 
                                 </div>
@@ -333,7 +336,7 @@ MBA Programme: 900/- Rs<br>
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+ 
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>

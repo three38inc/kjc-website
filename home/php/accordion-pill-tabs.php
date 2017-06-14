@@ -323,7 +323,7 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
+                        <a href="<?php echo $ROOT ; ?>/iqac/iqac_functions.php">
                             <div class="accTabs">
                                 <h2><i class="flaticon-kjc-entrepreneurship c7"></i>IQAC</h2>
                             </div>

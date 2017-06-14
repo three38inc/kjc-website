@@ -108,21 +108,19 @@
                         <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn">
+
+                                <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                   
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Instructions</strong></span>
+                                        <span>&nbsp; Photographs<strong></strong></span>
                                     </h4>
 
-                               <p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
- 
- <p><b>2. </b> <font color="#FF0000"><b><u>If the session expires if it remains idle for 10 minutes. Use the "Save" button towards the bottom of the E-form page to avoid session from getting expired.</u></b></font></p>
- 
-<p><b>3.</b> <font color="#FF0000"><b><u>Refer the User ID and Password shared through your email at the time of registration.</u></b></font></p>
+                                 
+									<p align=justify>Our dedicated photographers provide a visual experience about the college infrastructure, campus life, events and other co-curricular and extracurricular activities. Images are available to the interested community members and media upon request.</p>
 
+									<p align=justify><b>Filming and Photographing on Campus:</b> Kristu Jayanti College’s primary mission is to support teaching and learning activities. For this reason, the college has put in place a number of restrictions on photographing and filming to ensure that students, faculty, and staff can pursue academic endeavors with as little hindrance as possible. Reporting, photographing, and videotaping are prohibited on campus without prior permission. In accordance with Kristu Jayanti College media policy, photographers and videographers must request for a permission to videograph or photograph the campus. </p>
 
-<b><a href="http://www.tcsion.com/EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank"><font size="+1">To proceed to login page click here </font></a></b></p><br />
 
 
 
@@ -132,122 +130,63 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission</strong></span>
+                                        <span>&nbsp;Medai <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
+                                        <p><a class="a-link-arrow" href="news.php">News</a></p>
                                     </section>
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                   </section>
-                                     <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-              <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-          <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
+                                        <p><a class="a-link-arrow" href="in_house_publications.php">In-house publications</a></p>
                                     </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
+                                        <p><a class="a-link-arrow" href="photographs.php" style="color: #2980b9;font-weight: bold;">Photographs</a></p>
                                     </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                        <p><a class="a-link-arrow" href="press_releases.php">Press releases</a></p>
                                     </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
+                                        <p><a class="a-link-arrow" href="in_the_news.php">In the news</a></p>
                                     </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
+                                        <p><a class="a-link-arrow" href="social_media.php">Social Media</a></p>
                                     </section>
-                                    
-                                    
-                              <div class="well">
- <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
-                                  <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-</div>
-                                    
-                                     <div class="well">
- <p><font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font></p>
-                                 <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center> 
-</div>
-                                    
-                      
-                        <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-  </div>
-  <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
-2. online payment<br>
-        3. Payment through demand draft<br></font>
-  </div>
-                            <div class="panel panel-default">
-  <div class="panel-body">
-<font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                       
-  </div>
-</div>   
- </div>
-                                 
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
-                                   
+
+
+                                  
+
 
                                 </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Quick Links</span>
-                                        </h4>
 
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
-
+                                <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+                                    <?php include ('../php/sideMenu.php'); ?>
+                                </div>
 
 
-                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+
+
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="870" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                         <div class="fb-xfbml-parse-ignore">
                                             <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
                                 </div>
 
-                                </div>
+
 
                             </div>
                         </div>

@@ -182,7 +182,7 @@
                                                     The institution has experienced a rapid growth since its humble inception ...
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/in_the_news.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -195,7 +195,7 @@
                                                     Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/in_house_publications.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
 
@@ -224,7 +224,7 @@
                                                     Facebook and Youtube became a part and parcel of the Age .
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/social_media.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -303,7 +303,7 @@
                             <div class="col-lg-3" style="padding:0;">
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
-                                        <a href="http://events.kristujayanti.edu.in/">
+                                        <a href="../collaborations/collaborations.php">
                                             <h4><i class="flaticon-kjc-extension"></i> Collaborations</h4>
                                         </a>
                                     </div>

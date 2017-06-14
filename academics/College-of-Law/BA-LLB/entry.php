@@ -113,7 +113,7 @@
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.A., LL.B. <strong>Eligibility</strong></span>
+										<span>&nbsp;<font size="5">B.A., LL.B. </font><strong>Eligibility</strong></span>
                                     </h4>
 
 									<p align=justify>To be eligible for admission tothe 5 year B. A., LL.B. integrated course, the candidate should have successfully completed 10+2/ PUC/ equivalent from a recognized University of India or other countries,or from Senior Secondary Board or equivalent from an educational institution, constituted or recognised by the Union or by the State Government or from any equivalent institution from a foreign country recognized by the government of that country for the purpose of issuing the qualifying certificate on successful completion of the course, may apply for the programme.</p>
@@ -131,9 +131,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Course <strong>B.A., LL.B.</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="index.php">Course Details</a></p>
-                                    </section>
+                                    
 
 
                                     <section class="link-arrow">
@@ -162,15 +160,17 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
                                     </section>
+									
+									 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
+                                    </section>
 
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                     </section>
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
-                                    </section>
+                                   
 
                                 </div>
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">

@@ -1,8 +1,6 @@
 <?php
 
-if(!session_id()){
-    session_start();
-}
+
 
 /*
  * Get access token using Facebook Graph API

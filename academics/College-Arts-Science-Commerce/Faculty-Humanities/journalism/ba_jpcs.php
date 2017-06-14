@@ -81,9 +81,9 @@
 								 <div class="content-left myWelcome wow fadeIn">
 <img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;BA JPCS<strong>(Journalism, Psychology, Computer Science)</strong></span></h4>
+                                    <span>&nbsp;BA JPCS<strong> (Journalism, Psychology, Computer Science)</strong></span></h4>
                                 
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Course Description</b><br>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Programme Description</b><br>
                                     <b style="color: #cd6e08;font-weight: bold;">Journalism</b><br>
                                     The course aims at moulding the student for a career in Journalism, both print and broadcasting and in allied fields like Advertising, Film, and Public Relations. The course introduces various facets of the profession of the journalism to the students with theoretical knowledge and on the job training. The course is a part of the four BA triple main combinations and consists of eight subject titles stretching all the semesters. The major papers include Reporting, Editing, Media Laws, Basic Audio-Visual Media and Media Management. Furthermore, the Department stresses a balance between the theoretical and practical elements of journalism and mass communication, and the curriculum is carefully tailored to prepare students for professional or academic careers in communication, giving them the broad liberal arts education necessary to succeed as communicators in today's complex and changing world.</p>
                                 <p align=justify><b style="color: #cd6e08;font-weight: bold;">Psychology</b><br>
