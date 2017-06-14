@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 
 <html lang="en" class="no-js">
 
@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
-    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
+    <!--<link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
     <link href="../css/custom.css" rel="stylesheet">
     <link href="../css/innerpage.css" rel="stylesheet">
