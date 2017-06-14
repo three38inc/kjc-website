@@ -159,71 +159,71 @@ center .mainheading span strong{
     transition: all ease-in-out .3s;
 }
                                                         
-.courseDetails .color-1{
+.color-1{
     border-right: 1px solid  #10c45c;
 }
 
-.courseDetails .color-1:hover{
+.color-1:hover{
     background-color: #10c45c;
     border-right: 5px solid  #0eb053;
     color: #fff;
 }
 
-.courseDetails .color-2{
+.color-2{
     border-right: 1px solid  #24ccc0;
 }
 
-.courseDetails .color-2:hover{
+.color-2:hover{
     background-color: #24ccc0;
     border-right: 5px solid  #079d92;
     color: #fff;
 }
 
-.courseDetails .color-3{
+.color-3{
     border-right: 1px solid  #fc5f42;
 }
 
-.courseDetails .color-3:hover{
+.color-3:hover{
     background-color: #fc5f42;
     border-right: 5px solid  #fd2a03;
     color: #fff;
 }
 
-.courseDetails .color-4{
+.color-4{
     border-right: 1px solid  #45aef4;
 }
 
-.courseDetails .color-4:hover{
+.color-4:hover{
     background-color: #45aef4;
     border-right: 5px solid  #008be7;
     color: #fff;
 }
 
-.courseDetails .color-5{
+.color-5{
     border-right: 1px solid  #ad33c6;
 }
 
-.courseDetails .color-5:hover{
+.color-5:hover{
     background-color: #ad33c6;
     border-right: 5px solid  #9000ae;
     color: #fff;
 }
 
-.courseDetails .color-6{
+.color-6{
     border-right: 1px solid  #f8c331;
 }
 
-.courseDetails .color-6:hover{
+.color-6:hover{
     background-color: #f8c331;
     border-right: 5px solid  #e1a500;
     color: #fff;
 }
 
-.courseDetails .color-7{
+.color-7{
     border-right: 1px solid  #e1001a;
 }
 
-.courseDetails .color-7:hover{
+.color-7:hover{
     background-color: #e1001a;
     border-right: 5px solid  #a1001a;
     color: #fff;
