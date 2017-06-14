@@ -140,11 +140,6 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="other.php">Other</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="sargotsav.php" style="color: #2980b9;font-weight: bold;"> Sargotsav</a></p>
                                     </section>
 
