@@ -14,11 +14,11 @@
                 <i class="fa fa-user" style="color:#2980b9"></i><a>&nbsp;&nbsp;Examinations</a>
             </li>
             <li data-effect="st-effect-5">
-                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Miscellaneous</a>
+                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Achievements</a>
             </li>
            
 			 <li data-effect="st-effect-6">
-                <i class="fa fa-rss" style="color:#2980b9"></i><a>&nbsp;&nbsp;Media Room</a>
+                <i class="fa fa-star" style="color:#2980b9"></i><a>&nbsp;&nbsp;Media Room</a>
             </li>
 			
         </ul>
