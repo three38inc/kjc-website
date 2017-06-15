@@ -59,7 +59,7 @@ center .mainheading span strong{
     top: 0px;
     height: 100%;
     padding: 50px 0;
-    background: linear-gradient(90deg,transparent,rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8),rgba(255,255,255,0.8));
+    background: linear-gradient(90deg,transparent,rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7));
 }
 
 .deanary{
@@ -67,19 +67,22 @@ center .mainheading span strong{
     margin: 20px 0;
     padding: 0 20px;
     cursor: pointer;
+    color: #fff;
 }
 
 .deanary>.iconDiv>i{
-    background-color: #fff;
+    background-color: transparent;
     text-align: center;
     padding: 25px;
     border-radius: 50%;
     font-size: 1.6em;
+    color: #fff;
     border: 1px solid #e79800;
     transition: all ease-in-out .3s;
 }
 
 .deanary:hover>.iconDiv>i{
+    background-color: #fff;
     color: #e79800;
     border: 1px solid #c7c7c7;
     box-shadow: 0px 4px 10px #c7c7c7;
@@ -102,11 +105,11 @@ center .mainheading span strong{
     font-weight: thin;
     letter-spacing: 1px;
     line-height: 1.6em;
-    color: #999;
+    color: #ccc;
 }
 
 .deanary>a{
-    color: #333;
+    color: #fff;
     font-weight: bold;
     font-size: 14px;
     letter-spacing: 0.5px;

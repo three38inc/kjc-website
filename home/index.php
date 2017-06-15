@@ -302,30 +302,30 @@
                             </div>
                             <div class="col-lg-3" style="padding:0;">
                                 <div class="col-lg-12">
-                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                    <div class="content-spl sideLinks color-1 wow fadeIn" style="min-height: 20px;">
                                         <a href="../collaborations/collaborations.php">
-                                            <h4><i class="flaticon-kjc-extension"></i> Collaborations</h4>
+                                            <h4><i class="fa fa-globe c1" style="font-size: 20px;"></i> &nbsp;&nbsp;Collaborations</h4>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
-                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                    <div class="content-spl sideLinks color-2 wow fadeIn" style="min-height: 20px;">
                                         <a href="http://alumni.kristujayanti.edu.in/">
-                                            <h4><i class="fa fa-link"></i> Alumini Connect</h4>
+                                            <h4><i class="fa fa-link c2" style="font-size: 20px;"></i> &nbsp;&nbsp;Alumini Connect</h4>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
-                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                    <div class="content-spl sideLinks color-3 wow fadeIn" style="min-height: 20px;">
                                         <a href="#">
-                                            <h4><i class="fa fa-graduation-cap"></i> Coaching Centers</h4>
+                                            <h4><i class="fa fa-graduation-cap c3" style="font-size: 20px;"></i> Conferences &amp; Workshops</h4>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
-                                    <div class="content-spl sideLinks wow fadeIn" style="min-height: 20px;">
+                                    <div class="content-spl sideLinks color-4 wow fadeIn" style="min-height: 20px;">
                                         <a href="../career/career.php">
-                                            <h4><i class="fa fa-suitcase"></i> Career Vacancies</h4>
+                                            <h4><i class="fa fa-suitcase c4" style="font-size: 20px;"></i> &nbsp;&nbsp;Career Vacancies</h4>
                                         </a>
                                     </div>
                                 </div>
