@@ -84,19 +84,18 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic <strong>Training</strong></span></h4>
 								
-								<p>To achieve academic excellence the following teaching methods have been followed</p>
+								<p>The department provides educational resources to keep students abreast of the recent developments in the field of Information Technology. Academic excellence is achieved through the following teaching methods offered</p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Class Room Teaching</b><br>
-									Class room teaching follows traditional lecture method with latest technologies like ICT resources.</p>
+									Class room teaching includes traditional lecture method, ICT enabled teaching, hands-on experiences, brain storming discussions and video lectures. Students have to complete two non-academic projects during their course along with their academic projects. For all the projects synopsis submission is must and approved projects are taken up with the guidance of faculty members. Regular reviews will be conducted.</p>
 
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;"></b><br>
-									Students are asked to complete at least two non-academic projects during vacation along with their regular projects. They should submit the synopsis in the beginning of the project term and every week the review be conducted.</p>
+							
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Practical Sessions</b><br>
-									Wi-Fi enabled labs upgraded with all new software helps the students to do their practicals in all the subjects with the guidance from the dedicated faculty members. List of practical programs given in the syllabus is executed in the lab. The logic and the description are given by the teacher and the program is written and debugged by the students.</p>
+									Wi-Fi enabled labs with all necessary software provides effective learning experience and proficiency in handling to real time situations.</p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Student's seminar</b><br>
-									Apart from lecture method students are given some sessions to show their knowledge and presentation skills through some seminar. The topics for seminar to be selected either from the syllabus or from the current topics related to the subjects.</p>
+									Apart from traditional teaching and training method students are given with opportunity to learn by themselves and present new concepts in students seminar series. These sessions are not only improving the skills to explore new arenas of knowledge, but also helps to elevate one’s confidence level and presentation skill</p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Assignments</b><br>
 									Assignments are given as part of internal assessment. Assignment topics are given from the topics related to the subjects either from syllabus or from current events.</p>
@@ -107,13 +106,13 @@
 									Peer group teaching is teaching the students by the students. Students are divided into different groups and those who are good in particular software or subjects will lead the group and help the students to excel in their area of interest. </p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest Lectures</b><br>
-									Some topics which are highly related to industry and very new technology are handled by the experts from industry or the specialist in that particular subject.</p>
+									Guest lectures are arranged every Saturday where the students gain chance to interact with industry experts, these sessions add more value and provides deeper insights to recent developments and requirements of IT industry. It also open placements and internship opportunities to the aspiring students </p>
 
 								<p><b style="color: #cd6e08;font-weight: bold;">Remedial Classes</b><br>
 									For weak students separate remedial classes are conducted.</p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Discussion forum </b><br>
-									It is also a method of teaching in which a topic related to the syllabus is asked to discuss by a group of students randomly chosen from the class. The group of students has to discuss all aspects and also should answer the questions and queries raised by the rest of the class. This activity makes the learning a fun and informative.</p>
+									Discussion forum provides a learning platform for students to share their ideas and clarify their doubts on topics of interest. The students group and faculty members have their freedom to reflect their thoughts and read others response from the discussion.</p>
 
 
 								</div></div>

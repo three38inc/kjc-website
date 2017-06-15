@@ -83,10 +83,10 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Technical <strong>Training</strong></span></h4>
-								<p align=justify>To hone technical skills demanded by today’s professionals by providing a sound technical platform and the required knowledge base. It prepares them to meet the challenges faced by today’s IT professional by exposing them to wide array of cutting-edge technologies. To make the students equip themselves technically sound various programs been organized in the department.</p>
-<p>•	Technical Community Presentation<br>
+								<p align=justify>To hone technical skills demanded by today’s corporate world, department provides various platforms in the form of workshop sessions, Technical community presentations. These sessions provide hands-on training on latest technologies like JQuery, Python, Matlab, Hadoop, R Programming,Rapid Miner, and Selenium IDE.</p>
+<!--<p>•	Technical Community Presentation<br>
 •	Student Seminar Series<br>
-	•	Workshop on Latest Technology like JQuery, Python, Matlab, Hadoop, R Programming and Rapid Miner</p>
+	•	Workshop on Latest Technology like JQuery, Python, Matlab, Hadoop, R Programming and Rapid Miner</p>-->
 
 
 

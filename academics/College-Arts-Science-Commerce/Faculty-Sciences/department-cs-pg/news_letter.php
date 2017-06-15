@@ -84,15 +84,17 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; News <strong> letter</strong></span></h4>
 								
-								<p align=justify>"Technobytes" is a bi annual newsletter published by the Dept. of MCA. The objective of having a newsletter for the department is to bring together all the activities and achievements of the department in a very striking manner. The newsletter contains articles by students and staff based on the advancements in the field of technology which are of great relevance.</p>
-								<p align=justify>This venture was initiated in the year 2011 and five editions of the newsletter are released till now. The members of staff and students of MCA department represent the Editorial board.</p>
+								<p align=justify>"Technobytes" is a bi-annual newsletter published by the Department of Computer Science(PG). The newsletter showcases all the activities and achievements of the department. The newsletter is prepared by student editors and also contains articles prepared by students and staff on topics relevant to IT industry the advancements in the field of technology which are of great relevance.</p>
+								<p align=justify>This venture was initiated in the year 2011 and 8 Volumes of the newsletter are released till now. </p>
 								
 								<p>•	Volume - 1 <a href="pdf/mca_volume1.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
 								<p>•	Volume - 2 <a href="pdf/mca_volume2.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
 								<p>•	Volume - 3 <a href="pdf/mca_volume3.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
 								<p>•	Volume - 4 <a href="pdf/mca_volume4.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
 								<p>•	Volume - 5 <a href="pdf/mca_volume5.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
-								<p>•	Volume - 8 <a href="pdf/mca_volume8.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
+								<p>•	Volume - 6  <a href="pdf/mca_volume8.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
+								<p>•	Volume - 7  <a href="pdf/mca_volume7_issue_2.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
+								<p>•	Volume - 8  <a href="pdf/mca_volume8_issue_1.pdf" target="_blank" class="btn btn-primary btn-xs">Click here</a></p>
 								
 
 								</div></div>
