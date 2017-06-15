@@ -283,12 +283,12 @@
 						<table cellpadding="4">
 							<tr>
                                 <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">MAY</p>
-                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">10</p>
+                                <p style="font-size: 2em;font-weight: bold;">JUN</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">20</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
-								    School of Management (MBA &amp; PGDM) Ventura 2017 Intra-collegiate Business Plan Competition
+								    Commencement of III Sem MA / MSc / MCom / M.Com. (FA)/ MSW / III &amp; V Sem MCA programmes
 								</p>
 								<a href="#" class="read-more">
                                     Read More 
@@ -340,12 +340,12 @@
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">MAY</p>
-                                <p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">10</p>
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
-								    School of Management (MBA &amp; PGDM) Ventura 2017 Intra-collegiate Business Plan Competition
+								   Inauguration of Academic Year - commencement of I sem Law programmes 
 								</p>
 								<a href="#" class="read-more">
                                     Read More 
@@ -355,41 +355,8 @@
 							</tr>
                         </table>
                     </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">MAY</p>
-                                <p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">10</p>
-                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
-								<td>
-								<p style="margin-top: 2px; margin-bottom: 0px;">
-								    School of Management (MBA &amp; PGDM) Ventura 2017 Intra-collegiate Business Plan Competition
-								</p>
-								<a href="#" class="read-more">
-                                    Read More 
-                                    <i class='fa fa-angle-double-right'></i>
-								</a>
-								</td>
-							</tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: left; "><p style="font-size: 2em;font-weight: bold;">DEC</p><p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">24</p></td>
-                                <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in venenatis enim... <a href="#">Read more...</a></td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: left; "><p style="font-size: 2em;font-weight: bold;">DEC</p><p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">24</p></td>
-                                <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in venenatis enim... <a href="#">Read more...</a></td>
-                            </tr>
-                        </table>
-                    </li>
+                   
+                  
                 </ul>
             </div>
         </div>
