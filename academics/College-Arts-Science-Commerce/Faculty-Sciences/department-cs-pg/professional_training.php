@@ -84,16 +84,14 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Professional <strong>Training</strong></span></h4>
 								
-								<p>Professional Training described as intensive and collaborative training, ideally incorporating the various professional skills required for employability.</p>
-								<p><b>There are a variety of approaches to professional development been provided to our students such as</b><br>
+								<p>Professional Training includes intensive and collaborative training which inculcates the various professional skills and enhances employability.</p>
+								<p><b>Department offers variety of approaches to professional development of students, they are </b><br>
 •	Value Added Courses<br>
 •	Certificate Courses<br>
-•	Soft Skills Training<br>
-•	Aptitude Enhancement Training<br>
-•	Mock Interview Process<br>
-									•	Coding Training</p>
-
-
+•	Soft skills training<br>
+•	Aptitude enhancement training<br>
+•	Mock interview process<br>
+•	Coding training</p>
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

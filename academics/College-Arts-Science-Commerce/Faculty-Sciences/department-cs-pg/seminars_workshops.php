@@ -83,7 +83,7 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Seminars <strong> Workshops</strong></span></h4>
 								
-								<p align=justify><b>Workshops and Seminars:</b> In house seminars and workshops will be conducted for the purpose of acquiring knowledge through group work and presentations. Workshops will be organized with objective of imparting the basic managerial skills to the students.</p>
+								<p align=justify><b>Workshops and Seminars:</b> In house seminars and workshops are conducted for the students with the objective of imparting technical skills.</p>
 								
 								<div class="panel panel-primary">
   <div class="panel-heading">
