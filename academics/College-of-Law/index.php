@@ -22,7 +22,8 @@
 		<link rel="stylesheet" href="../../css/animate.css">
 		<link rel="stylesheet" href="../../css/fakeLoader.css">
 		<!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
-		<!--custom css-->
+        <!--custom css-->
+        <link href="../College-Arts-Science-Commerce/css/academics.css" rel="stylesheet">
 		<link href="../../css/custom.css" rel="stylesheet">
 		<link href="../../css/innerpage.css" rel="stylesheet">
 		<link href="css/law.css" rel="stylesheet">
@@ -116,28 +117,28 @@
                                 </div>
                                 <div class="col-lg-3">
                                     <div class="col-lg-12">
-                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="http://events.kristujayanti.edu.in/"><h4><i class="fa fa-book"></i>Library</h4></a>
+                                        <div class="content-spl sideLinks color-1 wow fadeIn"  style="min-height: 50px;">
+                                            <a href="http://events.kristujayanti.edu.in/"><h4><i class="fa fa-book c1"></i>Library</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link"></i>Moot Court</h4></a>
+                                        <div class="content-spl sideLinks color-2 wow fadeIn"  style="min-height: 50px;">
+                                            <a href="http://alumni.kristujayanti.edu.in/"><h4><i class="fa fa-link c2"></i>Moot Court</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="#"><h4><i class="fa fa-graduation-cap"></i>Coaching Centers</h4></a>
+                                        <div class="content-spl sideLinks color-3 wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-graduation-cap c3"></i>Coaching Centers</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="#"><h4><i class="fa fa-calendar-o"></i>Enroll For Events</h4></a>
+                                        <div class="content-spl sideLinks color-4 wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-calendar-o c4"></i>Enroll For Events</h4></a>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
-                                        <div class="content-spl sideLinks wow fadeIn"  style="min-height: 50px;">
-                                            <a href="#"><h4><i class="fa fa-calendar"></i>Academic Calendar</h4></a>
+                                        <div class="content-spl sideLinks color-5 wow fadeIn"  style="min-height: 50px;">
+                                            <a href="#"><h4><i class="fa fa-calendar c5"></i>Academic Calendar</h4></a>
                                         </div>
                                     </div>
                                 </div>

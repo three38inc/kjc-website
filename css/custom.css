@@ -2161,17 +2161,21 @@ time.icon:focus {
     cursor: pointer;
     text-decoration: none;
     color: rgba(44, 62, 80, 1.0);
-    transition: all ease-in-out 0.3s;
 }
 
-.sideLinks a:hover {
-    color: #18bc9c;
+
+.sideLinks:hover a{
+    color: #fff;
 }
+
 
 .sideLinks a i {
-    color: #2980b9;
     font-size: 1.2em;
     margin-right: 10px;
+}
+
+.sideLinks:hover i{
+    color: #fff;
 }
 
 .tab-pane {
@@ -2362,7 +2366,7 @@ time.icon:focus {
 
 .yamm .menu-alt a {
     font-size: 0.9em;
-    text-transform: capitalize;
+/*    text-transform: capitalize;*/
     text-decoration: none;
     font-family: 'PT Sans', sans-serif;
 }
