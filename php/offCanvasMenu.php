@@ -50,16 +50,9 @@
     </ul>
 </nav>
 
-<nav class="st-menu st-effect-5" id="menu-5">
-    <h3 onClick="classie.remove( document.getElementById( 'st-container' ), 'st-menu-open' );" style="color: #fff; cursor: pointer;">&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-left"></i>&nbsp; Miscellaneous</h3>
-    <ul>
-        <li><a href="../collaborations/collaborations.php">Collaborations</a></li>
-        <li><a href="../gallery/index.php">Gallery</a></li>
-       
-    </ul>
-</nav>
 
-<nav class="st-menu st-effect-6" id="menu-6">
+
+<nav class="st-menu st-effect-5" id="menu-5">
     <h3 onClick="classie.remove( document.getElementById( 'st-container' ), 'st-menu-open' );" style="color: #fff; cursor: pointer;">&nbsp;&nbsp;<i class="fa fa-arrow-circle-o-left"></i>&nbsp;Media Room</h3>
     <ul>
         <li><a href="#">Glimpses</a></li>
