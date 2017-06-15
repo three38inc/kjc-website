@@ -1,7 +1,8 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html>
+<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?>
 <html lang="en" class="no-js">
 
-   <head>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,170 +67,121 @@
     </div>
     <div id="st-container" class="st-container">
         <?php include('../../../../php/offCanvasMenu.php'); ?>
-            <!-- content push wrapper -->
-            <div class="st-pusher">
-                <div class="st-content">
-                    <!-- this is the wrapper for the content -->
-                    <div class="st-content-inner">
-                        <div class="container">
-                            <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
+        <!-- content push wrapper -->
+        <div class="st-pusher">
+            <div class="st-content">
+                <!-- this is the wrapper for the content -->
+                <div class="st-content-inner">
+                    <div class="container">
+                        <div class="row" style="margin-top: 100px; padding-left: 5px; padding-right: 5px;">
+                            <img src="images/img2.jpg" class="img-responsive" style="margin-bottom:4px;height: 330px;
+    width: 100%;" />
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col-lg-9">
+                                <div class="content-left myWelcome wow fadeIn" style="margin-left: 0px;margin-right: 0px;">
+
+
+                                    <?php include('php/welcome.php');?>
+
+                                </div>
+                                <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 284px;padding-top: 0;margin-top: 8px;">
+                                    <?php include ('php/accordion-pill-tabs.php'); ?>
+                                    <div style="clear: both;"></div>
+                                </div>
+
+                                <div class="content-spl wow fadeIn" style="margin-top: 9px;">
+                                    <?php include('php/highLights.php');?>
+                                </div>
+                                <div style="clear: both;"></div>
+                            </div>
+                            <div class="col-lg-3" style="margin-top:1em;">
+                                <div class="content-spl wow fadeIn" style="height: 400px; overflow-y:hidden;margin-top:-6px;">
+                                    <?php include ('php/dept_acheivements.php'); ?>
+                                </div>
+                                <div class="content-spl wow fadeIn" style="height: 508px; overflow-y:hidden;margin-top: 15px;">
+                                    <?php include ('php/newsAndUpdates.php'); ?>
+                                </div>
+                                <div class="clearfill"></div>
+
 
                             </div>
+                        </div>
 
-
-
-                            <div class="row">
-                                <div class="col-lg-9">
-                                    <div class="content-left myWelcome wow fadeIn">
-                                        <img src="images/img2.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                      
-                                        <?php include('php/welcome.php');?>
-
-                                    </div>
-                                </div>
-                                <div class="col-lg-3" style="margin-top:1em;">
-                                    <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; <strong>Activities</strong></span>
-                                        </h4>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="inter_collegiate_fests.php">Inter Collegiate Fests</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="intra_collegiate_fests.php"> Intra Collegiate Fests</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="gramasamvedita.php">Gramasamvedita</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="conferences.php">Conferences</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="expert_lecture.php">Expert Lecture</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="industry_institute_interface.php">Industry Institute Interface (3i)</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="international_lecture_series.php">International Lecture Series</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="faculty_development_programme.php">Faculty Development Programme</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="panel_discussion.php">Panel Discussion</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="debate.php">Debate</a></p>
-                                        </section>
-
-                                    </div>
-
-                                    <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                        <div class="content-right wow fadeIn">
-                                            <h4 style="margin-left:10px;" class="mainheading">
-                                                <i class="fa fa-bookmark"></i>
-                                                <span>Department <strong>Special</strong></span>
-                                            </h4>
-
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
-                                            </section>
-
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="management_fests.php">Management Fests</a></p>
-                                            </section>
-
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
-                                            </section>
-                                        </div>
-
-                                        <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                            <h4 style="margin-left:10px;" class="mainheading">
-                                                <i class="fa fa-bookmark"></i>
-                                                <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                            </h4>
-                                            <?php include ('../../../../php/sideMenu.php'); ?>
-                                        </div>
-                                        <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                            <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                                <div class="fb-xfbml-parse-ignore">
-                                                    <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div></div>
-
-                        <?php include ('../../../../php/alerts.php');  ?>
-                        <?php include('../../../../php/footer.php'); ?>
-                        <?php include('../../../../php/morphingSearch.php'); ?>
                     </div>
 
-
+                    <?php include ('../../../../php/alerts.php');  ?>
+                    <?php include('../../../../php/footer.php'); ?>
 
                 </div>
-                <!--/st-content-inner-->
+
+
+
             </div>
-            <!-- this is the wrapper for the content-->
+            <!--/st-content-inner-->
         </div>
-        <!--st-pusher-->
-        <!--        </div> st-container -->
+        <!-- this is the wrapper for the content-->
+    </div>
+    <!--st-pusher-->
+    <!--        </div> st-container -->
 
-        <!--<script src="../js/cbpFWTabs.js"></script>-->
+    <!--<script src="../js/cbpFWTabs.js"></script>-->
 
-        <script>
-            (function() {
+    <script>
+        (function() {
 
-                [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
-                    new CBPFWTabs(el);
-                });
+            [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
+                new CBPFWTabs(el);
+            });
 
-            })();
+        })();
 
-        </script>
-          <script src="../../../../js/modernizr.custom.js"></script>
+    </script>
+    <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>
     <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../../../../js/classie.js"></script>
-    <script src="../../../../js/morphingSearch.js"></script>
+    <!--    <script src="../../../../js/morphingSearch.js"></script>-->
     <script src="../../../../js/sidebarEffects.js"></script>
     <script src="../../../../js/transit.js"></script>
     <script src="../../../../js/sly.js"></script>
     <script src="../../../../js/customSly.js"></script>
     <script src="../../../../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
+    <script src="../../../../js/owl.carousel.min.js" type="text/javascript"></script>
     <script src="../../../../js/scripts.js"></script>
-        <script type="text/javascript">
-            function googleTranslateElementInit() {
-                new google.translate.TranslateElement({
-                    pageLanguage: 'en'
-                }, 'google_translate_element');
-            }
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en'
+            }, 'google_translate_element');
+        }
 
-        </script>
-        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        <script>
-            $("document").ready(function() {
-                //below code is for retrieving corresponding pages #START
-                var activePage = 'page1';
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script>
+        $("document").ready(function() {
+            //below code is for retrieving corresponding pages #START
+            var activePage = 'page1';
+            $.ajax({
+                url: 'snipets/' + activePage + '.php',
+                success: function(data) {
+                    $('#page').html(data);
+                },
+                error: function(data) {
+                    alert('failed to load data');
+                }
+            });
+            $('.profile-pagination li a').click(function() {
+                $(this).parent().siblings().removeClass('active');
+                $(this).parent().addClass('active');
+            });
+            $('.profile-pagination li a').click(function() {
+                var activePage = this.getAttribute('data-value');
                 $.ajax({
                     url: 'snipets/' + activePage + '.php',
                     success: function(data) {
@@ -239,26 +191,38 @@
                         alert('failed to load data');
                     }
                 });
-                $('.profile-pagination li a').click(function() {
-                    $(this).parent().siblings().removeClass('active');
-                    $(this).parent().addClass('active');
-                });
-                $('.profile-pagination li a').click(function() {
-                    var activePage = this.getAttribute('data-value');
-                    $.ajax({
-                        url: 'snipets/' + activePage + '.php',
-                        success: function(data) {
-                            $('#page').html(data);
-                        },
-                        error: function(data) {
-                            alert('failed to load data');
-                        }
-                    });
-                });
-                //above code is for retrieving corresponding pages #END
             });
+            //above code is for retrieving corresponding pages #END
+            $('#frameHighLights').owlCarousel({
+                items: 1,
+                loop: true,
+                autoplay: true,
+                nav: true,
+                navSpeed: 500,
+                navText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"],
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: true
+                    },
+                    500: {
+                        items: 2,
+                        nav: true
+                    },
+                    700: {
+                        items: 3,
+                        nav: false
+                    },
+                    1000: {
+                        items: 4,
+                        nav: true,
+                        loop: false
+                    }
+                }
+            });
+        });
 
-        </script>
-    </body>
+    </script>
+</body>
 
 </html>
