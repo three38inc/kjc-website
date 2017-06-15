@@ -121,21 +121,32 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/banner08.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.A <strong>Programme in Economics</strong></span>
                                     </h4>
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;"> 1. Programme Design</b><br>
-										M.A in Economics two academic year intensive programme is designed in providing indispensable knowledge and training for well- qualified economist. This programme not only equipped in different branches of economics, it also establishes the platform for quantitative and qualitative applications, economic modeling and policy analysis. At the same time, this programme is worthwhile to the student in terms of effective understanding of subject, strong analytical provoking and inter-disciplinary nature. The overall envisage of the M.A Economics programme is to nurture the student in economic theory and practice and make them capable to solve the social and economic issues through their economic professional carrier and multi-dimensional economic research.</p>
+										M.A in Economics is an intensive two years (4 semesters) full time on-campus programme designed to provide to the students a sound theoretical background in the principles of economics and equip them with analytical tools and techniques for understanding & solving social and economic issues with multi-dimensional economic research. Apart from being equipped in different branches of economics, this programme also establishes a platform for quantitative and qualitative applications, economic modeling and policy analysis. It will be worthwhile to the student in terms of effective understanding of the theoretical aspect & analytical aspects of the subject as well as enable them to understand the tools of empirical analysis. The present curriculum contains teaching and evaluation methodology which ensures that the students are well trained and equipped with the latest knowledge and skills to cope with new emerging challenges. The overall envisage of the M.A Economics programme is dissemination of comprehensive knowledge focused at problem solving for national and international economic issues. </p>
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">2. Programme Objective</b><br>
-										The broad objectives of the Masters in Economics are to impart the economic ideologies and their practices with quantitative and qualitative applications and to enable the students to carry out the research in theoretical, empirical, policy and inter-disciplinary areas.</p>
+										<b>The broad objectives of the Masters in Economics Programme are:</b> <br>
+										<ul><li>To impart sound theoretical knowledge & economic ideologies to the students</li>
+										<li>To  teach them the quantitative and qualitative applications of these ideologies</li> 
+											<li>To enable them to carry out theoretical, empirical, policy and inter-disciplinary research</li></ul>
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">3. Eligibility</b><br>
-										A candidate who has passed the BA ( Economics one of the triple majors) Degree examination of Bangalore University or BA (Economics) of any other University as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat.-I students and blind students the minimum percentage of marks required shall be less by 5%. </p>
+										<ul><li>Passed BA Degree examination of Bangalore University (with Economics as one of the triple majors) or BA (Economics) of any other University as equivalent thereto </li>
+										<li>Secured not less than 50% of the marks in the aggregate </li>
+											<li>For SC/ST/Cat.-I students and blind students, the minimum percentage of marks required shall be less by 5%</li></ul>
+									
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">4. Career Opportunities</b><br>
+										<ul><li>Career in the government and non-government organizations that are involved in economic analysis, economic policy development, social policy development, project management and policy evaluation. </li>
+										<li>Opportunities as economists and policy analysts, researchers, project officers and consultants. </li>
+											<li>Career in Academic/Research area</li></ul>
+
                                    
-									<center><p><a href="curriculum/ma_economics_course_matrix.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com FA with CGMA </a></p></center>
+									<center><p><a href="curriculum/ma_economics_course_matrix.pdf" target="_blank" class="btn btn-primary btn-xs">M.A Programme in Economics Course Matrix </a></p></center>
 
                                 </div>
                             </div>
