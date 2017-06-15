@@ -2029,9 +2029,10 @@ time.icon:focus {
 
 .mainDiv:hover {
     box-shadow: 0px 4px 5px 1px #ccc;
-    background: rgba(85,85,85,0.6)!important;
+/*    background: rgba(85,85,85,0.6)!important;*/
     /*ii*/
     color: #fff;
+    color:#000;
 }
 
 
@@ -2064,7 +2065,10 @@ time.icon:focus {
     text-align: left;
     /*  transition: all ease-in 0.2s;*/
     /*ii*/
-    margin: 13px;
+    margin: 5px 0px !important;
+    
+    min-height: 85px;
+    
     /*ii*/
 }
 
@@ -2133,10 +2137,15 @@ time.icon:focus {
     font-size: 20px;
 }
 
-.mainDiv:hover strong {
+.mainDiv:hover p {
     color: #fff;
     /*ii*/
     /*    font-size: 20px;*/
+    background-color: #3498db;
+    opacity: 0.9;
+    box-shadow: 0 0px 5px #3498db;
+    font-size: 14px !important;
+    padding: 5px;
 }
 
 .placementTitle {
