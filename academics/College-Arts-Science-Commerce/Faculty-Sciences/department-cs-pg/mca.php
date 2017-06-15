@@ -9,31 +9,31 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="../../images/icon.png">
+    <link rel="shortcut icon" href="../../../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="../../css/component.css" />
-    <link rel="stylesheet" href="../../css/font-awesome.css">
-    <link rel="stylesheet" href="../../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../../css/roundIcons.css">
-    <link rel="stylesheet" href="../../css/hoverEffect.css">
-    <link rel="stylesheet" href="../../css/morphing.css">
-    <link rel="stylesheet" href="../../css/navTabs.css">
-    <link rel="stylesheet" href="../../css/animate.css">
-    <link rel="stylesheet" href="../../css/fakeLoader.css">
-    <link href="../../css/owl.carousel.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
+    <link rel="stylesheet" href="../../../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../../../css/morphing.css">
+    <link rel="stylesheet" href="../../../../css/navTabs.css">
+    <link rel="stylesheet" href="../../../../css/animate.css">
+    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
+    <link href="../../../../css/owl.carousel.min.css" rel="stylesheet" />
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="../../css/custom.css" rel="stylesheet">
-    <link href="../../css/innerpage.css" rel="stylesheet">
+    <link href="../../../../css/custom.css" rel="stylesheet">
+    <link href="../../../../css/innerpage.css" rel="stylesheet">
     <link href="css/manSchool.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="../../js/jquery-1.11.0.min.js"></script>
-    <script src="../../bootstrap/js/bootstrap.min.js"></script>
-    <script src="../../js/respond.js"></script>
-    <script src="../../js/custom.js"></script>
-    <script src="../../js/fakeLoader.js"></script>
+    <script src="../../../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../../../js/respond.js"></script>
+    <script src="../../../../js/custom.js"></script>
+    <script src="../../../../js/fakeLoader.js"></script>
 
 </head>
 
@@ -65,7 +65,7 @@
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../../php/offCanvasMenu.php'); ?>
+        <?php include('../../../../php/offCanvasMenu.php'); ?>
             <!-- content push wrapper -->
             <div class="st-pusher">
                 <div class="st-content">
@@ -81,12 +81,9 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                        <img src="images/banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="images/img2.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                       
-                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Welcome <strong>PGDM &amp; MBA</strong></span></h4>
-
-                                        <p align=justify>Kristu Jayanti College a pioneer institute to pursue knowledge beyond the traditional boundaries. We offer MBA and industry relevant PGDM Course. Our MBA/PGDM course is a two year full time programme spanning over Six Trimesters, Autonomous Programme, affiliated to Bangalore University and approved by the All India Council for Technical Education (AICTE). The main objective of these courses is to impart quality professional education and training in various aspects of modern management. The classroom segment has both core and specialized content, thus equipping the students to adapt effortlessly to the demands of professional management in their chosen field of specialization. The core and specialization subjects are designed so that each term builds upon the subjects taught in the previous term as well as on the field experience gained. Jayantian graduates have the strategic perspective, business knowledge, and excellent management skills to deliver strong performance while making a positive impact on society and the environment.</p>
+                                        <?php include('php/welcome.php');?>
 
                                     </div>
                                 </div>
@@ -165,7 +162,7 @@
                                                 <i class="fa fa-bookmark"></i>
                                                 <span>&nbsp;goto <strong>QuickLinks</strong></span>
                                             </h4>
-                                            <?php include ('../../php/sideMenu.php'); ?>
+                                            <?php include ('../../../../php/sideMenu.php'); ?>
                                         </div>
                                         <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
                                             <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
@@ -179,9 +176,9 @@
                                 </div>
                             </div></div>
 
-                        <?php include ('../../php/alerts.php');  ?>
-                        <?php include('../../php/footer.php'); ?>
-                        <?php include('../../php/morphingSearch.php'); ?>
+                        <?php include ('../../../../php/alerts.php');  ?>
+                        <?php include('../../../../php/footer.php'); ?>
+                        <?php include('../../../../php/morphingSearch.php'); ?>
                     </div>
 
 
@@ -206,20 +203,20 @@
             })();
 
         </script>
-          <script src="../../js/modernizr.custom.js"></script>
-    <script src="../../js/spin.min.js"></script>
-    <script src="../../js/mySpin.js"></script>
-    <script src="../../js/swipeview.js"></script>
-    <script src="../../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../../js/classie.js"></script>
-    <script src="../../js/morphingSearch.js"></script>
-    <script src="../../js/sidebarEffects.js"></script>
-    <script src="../../js/transit.js"></script>
-    <script src="../../js/sly.js"></script>
-    <script src="../../js/customSly.js"></script>
-    <script src="../../js/wow.min.js"></script>
+          <script src="../../../../js/modernizr.custom.js"></script>
+    <script src="../../../../js/spin.min.js"></script>
+    <script src="../../../../js/mySpin.js"></script>
+    <script src="../../../../js/swipeview.js"></script>
+    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../../../js/classie.js"></script>
+    <script src="../../../../js/morphingSearch.js"></script>
+    <script src="../../../../js/sidebarEffects.js"></script>
+    <script src="../../../../js/transit.js"></script>
+    <script src="../../../../js/sly.js"></script>
+    <script src="../../../../js/customSly.js"></script>
+    <script src="../../../../js/wow.min.js"></script>
     <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../../js/scripts.js"></script>
+    <script src="../../../../js/scripts.js"></script>
         <script type="text/javascript">
             function googleTranslateElementInit() {
                 new google.translate.TranslateElement({
