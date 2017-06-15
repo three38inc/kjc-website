@@ -223,7 +223,7 @@ Kurian George C </td>
 
                                
                                
-                              <iframe src="right_frame.php" scrolling="no" height="1000" style="border:0;"></iframe> 
+                              <iframe src="../events/right_events.php" scrolling="no" height="1000" style="border:0;"></iframe> 
 
 
                                   

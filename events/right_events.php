@@ -22,223 +22,181 @@
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
-
+    <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
     <link href="../css/custom.css" rel="stylesheet">
     <link href="../css/innerpage.css" rel="stylesheet">
-    <link rel="stylesheet" href="event_style.css">
     <!-- javascript -->
     <script src="../js/jquery-1.11.0.min.js"></script>
     <script src="../bootstrap/js/bootstrap.min.js"></script>
     <script src="../js/respond.js"></script>
     <script src="../js/custom.js"></script>
     <script src="../js/fakeLoader.js"></script>
-                          
-                               <div class="panel panel-primary">
-                                        <div class="panel-heading">
-											<h3 class="panel-title">Recent Events</h3>
-                                        </div>
-                                       
-                                        <div class="panel panel-default">
-                                            <div class="panel-body">
-                                              
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
-												 <table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-												<table cellpadding="4">
-                            <tr>
-                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
-                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
-                            </tr>
-                        </table>----------------------------------------
-                  
+   
+</head>
 
-                                            </div>
-                                        </div>
-
-                </div>
-                <!--/st-content-inner-->
-           
-            <!-- this is the wrapper for the content-->
-        
-        <!--st-pusher-->
+<body>
+	
+	<div class="list-group">
+  <a href="#" class="list-group-item active">
+	Recent Events
+  </a>
+  <a href="#" class="list-group-item"> 
+	  <table cellpadding="4">
+                            <tr>
+                               <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>School of Management</b> (MBA & PGDM) VI Trimester Mid Term Examination
+                             </td>
+                            </tr>
+                        </table></a>
+		
+                     <a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for Commerce (PG) & MBA & PGDM by <b>Thomson Reuters</b> 
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		 <a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for Dept. of Huminaties (PG) by <b>Sprinklr</b> 
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management (MBA & PGDM) by <b>Sunrise Systems</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for Dep. of Humanities (PG) by <b>Reliance Broadcast Network</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Second Saturday</b> - Working Day 
+                                   </td>
+                            </tr>
+                        </table></a>
+	
+	<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for All Graduates by <b>Indigo Airline </b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for BCom by <b>PwC recruitment </b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for All Graduates by <b>ICICI Prudential </b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>Oracle</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>Godrej & Boyce</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>School of Management</b> (MBA & PGDM) IInd End Trimester Examination 
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>Ocwen Financial Solutions</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>ITC Limited</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>Oracle</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+		<a href="#" class="list-group-item"><table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>Gate 2017 & UdyogVichaar</b> for School of Management by <b>Godrej & boyce</b>
+                                   </td>
+                            </tr>
+                        </table></a>
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div>
   
-    <!--st-container-->
+							
+                           
+                                   
+                                      
 
-    <script src="../js/cbpFWTabs.js"></script>
-    <script>
-        (function() {
 
-            [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
-                new CBPFWTabs(el);
-            });
 
-        })();
 
-    </script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/spin.min.js"></script>
-    <script src="../js/mySpin.js"></script>
-    <script src="../js/swipeview.js"></script>
-    <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
-    <script src="../js/sidebarEffects.js"></script>
-    <script src="../js/transit.js"></script>
-    <script src="../js/sly.js"></script>
-    <script src="../js/customSly.js"></script>
-    <script src="../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../js/scripts.js"></script>
-    <script type="text/javascript">
-        function googleTranslateElementInit() {
-            new google.translate.TranslateElement({
-                pageLanguage: 'en'
-            }, 'google_translate_element');
-        }
-
-    </script>
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
-    <script type="text/javascript">
-        $('#event-year').html((new Date()).getFullYear());
-        $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
-        $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
-        getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
-        $('.event-navigator a').on('click', function(e) {
-            $('.event-navigator a').removeAttr("class");
-            $(this).addClass("nowMonth");
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
-        });
-        $(".yearLeft").click(function() {
-            var year = Number(document.getElementById('event-year').innerHTML);
-            document.getElementById('event-year').innerHTML = year - 1;
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
-        });
-        $(".yearRight").click(function() {
-            var year = Number(document.getElementById('event-year').innerHTML);
-            document.getElementById('event-year').innerHTML = year + 1;
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
-        });
-        $('body').on('click',".event-links",function(e){
-            e.preventDefault();
-            var url=$(this).attr("href");
-            var year=$(this).data("year");
-            var month=$(this).data("month");
-            $('.event-navigator a').removeAttr("class");
-            $('.event-navigator a:contains("'+month+'")').addClass("nowMonth");
-            var mode="openlink";
-            getNews(year,month,mode,url);
-        });
-
-        function getNews(year, month,mode,url) {
-            var dataString = "year=" + (year) + "&month=" + (month) + "&mode=" + (mode) + "&url=" + (url);
-            $.ajax({
-                url: "loadEvent.php",
-                data: dataString,
-                success: function(data) {
-                    $('.event-details').html(data);
-
-                },
-                error: function(data) {
-
-                }
-            });
-        }
-
-    </script>
+                           
 </body>
 
 </html>
