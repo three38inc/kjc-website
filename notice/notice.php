@@ -210,99 +210,23 @@
 
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                           <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Important Events of <strong class="presentMonth"> </strong></span>
-                                    </h4>
-                                    <style>
-                                        .event-dates p>span:before {
-                                            content: "";
-                                            position: absolute;
-                                            height: 30px;
-                                            width: 30px;
-                                            left: -7px;
-                                            top: -6px;
-                                            margin-bottom: 9px;
-                                            z-index: -1;
-                                            background: #2c3e50;
-                                            padding: 0px;
-                                            border-radius: 100%;
-                                        }
-                                        .event-dates p>span{
-                                            color: #fff;
-                                        }
-                                        .event-dates {
-                                            margin: 17px 0px 0px 10px;;
-                                        }
-                                        a.a-link-date{
-                                            margin-left: 10px;
-                                            color: red;
-                                            cursor:default;
-                                        }
-                                        .a-link-date:hover{
-                                            text-decoration: none;
-                                            color: #2980b9;
-                                        }
-
-                                    </style>
-                                    <section class="event-dates">
-                                        <p><span> 01 </span><a class="a-link-date event-links" data-year="2017" data-month="April" href="test.php">UdyogVichaar - Thomson Reuters</a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 08 </span><a class="a-link-date event-links" href="#">UdyogVichaar - Sprinklr</a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 11 </span><a class="a-link-date" href="#">Gate 2017 - Sunrise Systems</a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 15 </span><a class="a-link-date" href="#">Second Saturday - Working Day</a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 21 </span><a class="a-link-date" href="#">Gate 2017 - Indigo Airline </a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 28 </span><a class="a-link-date" href="#">International Conferance - KRISYM</a></p>
-                                    </section>
-                                    <section class="event-dates">
-                                        <p><span> 29 </span><a class="a-link-date" href="#">International Conferance - KRISYM</a></p>
-                                    </section>
-
-
-
-
-                                </div>
-
-                                <div class="content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                    </h4>
-
-                                    <?php include ('../php/sideMenu.php'); ?>
-                                </div>
-
-
-                                <div class="content-right wow fadeIn" style="height: 137px;overflow: hidden;visibility: visible;animation-name: fadeIn;background: #fff;box-shadow: 0 1px 2px #ccc;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="310" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="false">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                        </div>
+									
+									 <iframe src="../events/right_events.php" style="border:none;" height="1000px" width="295px"></iframe> 
                                     </div>
-                                </div>
-
+									
+								</div>
 
                             </div>
                         </div>
                     </div>
-
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
                     <?php include('../php/morphingSearch.php'); ?>
 
 
-
+			
 
                 </div>
                 <!--/st-content-inner-->
@@ -310,7 +234,7 @@
             <!-- this is the wrapper for the content-->
         </div>
         <!--st-pusher-->
-    </div>
+
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
