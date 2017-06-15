@@ -136,6 +136,13 @@
                                     <a href="../admission/admission_2017.php">(Apply online)</a></td>
                             </tr>
                         </table>----------------------------------------
+												<table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b> BBA Programme:</b> Next Counselling will be held on 8<sup>th</sup>May, 2017. Apply Soon
+                                    <a href="../admission/admission_2017.php">(Apply online)</a></td>
+                            </tr>
+                        </table>----------------------------------------
                   
 
                                             </div>
