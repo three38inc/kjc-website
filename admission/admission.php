@@ -147,9 +147,8 @@
                                     </h4>
 
 
-                                    <p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2015. The college is ranked 16th Best Commerce College, 22nd Best Science College & 24th Best Arts College in India and 3rd,4th,5th positions in Commerce, Arts & Science among Top 10 Colleges in Bangalore.</p>
-
-                                    <p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
+									<p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Prov ince of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd,3rd,4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore.</p>
+									<p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
 
                                     <!--<div class="panel panel-info">
                                         <div class="panel-heading">
@@ -168,30 +167,67 @@
                                         </div>
                                     </div>-->
 
-                                    <!--<div class="panel panel-info">
+                                    <div class="panel panel-info">
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Admission Drive in Bengaluru</h3>
                                         </div>
                                         <div class="panel-body">
-                                            <p><b><font color="#FF0000" size="2"><u>MBA/PGDM & All PG/UG Counselling:</u> </font></b>
-                                                <a href="admission_guidelines.php">
-                                                    <font size=2>(Apply Online Now)</font>
-                                                </a>
-                                                <br />
-                                                <font size="2" color="#990000"><b>Counselling will be held on 30<sup>th</sup> April, 2017</b></font><br/>
-                                                <font color="#" size="2"><b><u>Venue:</u></b> St. Anselm's Pink City Senior Secondary School, Jaipur</font><br />
-                                                <font color="#" size="2"><b><u>Time:</u></b> 09.30 AM Onwards</font>
-                                            </p>
+											 
+											<p><b>Admissions to all UG Programmes are Open</b></p>
+											<p>* Online Application Forms are available in our website (Hard copies are not available).<br>
+												* Applicants can either apply online on their own or apply from college campus</p>
+											
+											
+											 <div class="well well-sm">
+                                                        <center>UG COUNSELLING</center>
+                                                    </div>
+											
+											
+											<div class="panel panel-default">
+  <div class="panel-body">
+   <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
+   <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
+	   <b>Selected applicants will be intimated through email. </b></font>
+</div>
+</div>
+											
+											<div class="panel panel-default">
+  <div class="panel-body">
+    <p><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font><br />
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font>
+                                                           
+                                                               <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
+                                                           <br />
+                                                            <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
+                                                            <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
+                                                            <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
+                                                                <font size=2>Click here for Admission process</font> </a><br>
+																Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
+																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a></p></div></div>
+											
+											<div class="well well-sm">
+                                                <center>LAW PROGRAMMES COUNSELLING</center>
+                                            </div>
+											
+								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 20<sup>th</sup> June, 2017</b> </font>
+                                                           
+                                                               <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
+                                                           <br />
+                                                            <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
+                                                            <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
+                                                            <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
+                                                                <font size=2>Click here for Admission process</font> </a>
+                                                  
+
+                                                        
 
                                             <div class="well well-sm">
                                                 <center>PG COUNSELLING</center>
                                             </div>
-                                            <p><b><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font></b><br />
-                                               <b>Results of  MBA/PGDM Counselling  held on 18th March, 2017 will be announced in the college website and notice board on <font color="#006699">20<sup>th</sup> March, 2017 at 10.00 A.M.</font></b>
-                                                <font size="2" color="#990000"><b>Next Counselling will be held on 05<sup>th</sup> May, 2017</b></font>
-                                                <a href="admission_guidelines.php">
-                                                    <font size=2>(Apply Online)</font>
-                                                </a><br />
+                                            <p><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font><br />
+                                               <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b>
+                                               <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                 <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
                                                 <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                 <a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
@@ -199,74 +235,43 @@
                                                 </a>
 
 
-                                                <p><b><font color="#FF0000" size="2"><u>Other PG Programmes: </u> </font></b><br />
-                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b></font>
-                                                    <a href="admission_guidelines.php">
-                                                        <font size=2>(Apply online Now)</font>
-                                                    </a><br />
+                                                <p><font color="#FF0000" size="2"><u>PG Programmes: </u> </font><br />
+                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 01<sup>st</sup> July, 2017</b></font>
+                                                    <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                     <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
                                                     </font><br />
                                                     <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                     <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                         <font size=2>Click here for Admission process</font>
-                                                    </a>
+													</a></div></div>
+									
+									<div class="alert alert-info">
+  
+										<p><b><u>NRI Candidates</u></b><br />
+	 Applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
+</div>
 
-                                                    <div class="well well-sm">
-                                                        <center>UG COUNSELLING</center>
-                                                    </div>
+<div class="alert alert-dismissible alert-success">
+ 
+	<p><b><u>Foreign Nationals</u></b><br>
+	Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br>
+<b>*</b> Original marks card<br>
+<b>*</b> Translated copy of marks card<br>
+<b>*</b> Copy of passport<br>
+		<b>*</b> First year tuition fee</p>
 
-                                                    <p><b><font color="#FF0000" size="2"><u>BBA Programme: </u> </font></b><br />
-                                                        <font size="2" color="#990000"><b>1<sup>st</sup> Counselling will be held on 22<sup>nd</sup> April, 2017</b> </font>
-                                                        <a href="admission_guidelines.php">
-                                                            <font size=2>(Apply Online)</font>
-                                                        </a><br />
-                                                        <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-                                                        <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-                                                        <a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
-                                                            <font size=2>Click here for Admission process</font>
-                                                        </a>
-
-                                                        <p><b><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font></b><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font>
-                                                            <a href="admission_guidelines.php">
-                                                                <font size=2>(Apply Online)</font>
-                                                            </a><br />
-                                                            <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-                                                            <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-                                                            <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
-                                                                <font size=2>Click here for Admission process</font>
-                                                            </a>
-                                                        </p>
-
-                                        </div>
-                                    </div>-->
-
-
-
-
-
-                                    <p><b><i>B.Com. Programmes</i></b><br />
-                                        <b>*</b> Admissions for the B.Com programmes will start immediately after the declaration of Class XII results<br />
-                                        <b>*</b> Aspiring candidates can apply online immediately after the result declaration of the respective boards<br />
-                                        <b>*</b> Counselling dates will be announced in the website</p>
-
-                                    <p><b><i> NRI Candidates</i></b><br /> Regular admissions for UG programmes will start only after the declaration of Class XII results. However applicants or parents can meet the Admission Officer in the college campus, in advance, to enquire about the status of admissions.</p>
-
-                                    <p><b><i>Foreign Nationals</i></b><br /> Aspiring candidates seeking admissions to UG / PG programmes can avail the bona fide certificate, which will be issued in the month of March 2017, for VISA application, by submitting the following documents:<br />
-                                        <li>Original marks card</li>
-                                        <li> Translated copy of marks card</li>
-                                        <li>Copy of passport</li>
-                                        <li>First year tuition fee</li>
-                                    </p>
-                                    <p> We have <b>Intensive English Language Course</b> for International students coming from <br />Non-English speaking countries. <br />
-                                        <li>The above Course will commence in the first week of January 2017</li>
-                                        <li> Duration of this programme is four months</li>
-                                        <li>The Bona fide certificate will be issued in the month of December 2016</li>
-                                        <li>Candidates can later apply for regular degree or postgraduate programme</li>
-                                        <a href="admission_international_students.php" target="_blank">For more details click here</a></p>
-
-                                    <p>for further clarifications or issues<br> Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com</p>
-
+<p>We have Intensive English Language Course for International students coming from Non-English speaking countries.<br>
+<b>*</b> The above Course will commence in the first week of January 2017<br>
+<b>*</b> Duration of this programme is four months<br>
+<b>*</b> The Bona fide certificate will be issued in the month of December 2016<br>
+<b>*</b> Candidates can later apply for regular degree or postgraduate programme
+	<a href="admission_international_students.php" class="btn btn-primary btn-xs">For more details click here</a></p>
+</div>
+									
+									<blockquote>
+										<p><u>for further clarifications or issues</u><br>
+Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
+</blockquote>
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -363,18 +368,14 @@ Law Programmes: Rs 300/-  <br>
                                         </div>
                                     </div>
 
-                                   <!--<div class="list-group">
+                                  <div class="list-group">
                                   <a href="#" class="list-group-item active">Counselling Results</a>
-                                        <a href="pg_counselling_result_march_25_2017.php" class="list-group-item">
-                                            <font size=2>All PG Counselling result held on 25th March 2017</font>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
                                         </a>
-                                        <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item">
-                                            <font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-                                        </a>
-                                        <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item">
-                                            <font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-                                        </a>
-                                    </div>-->
+                                       
+                                    </div>
 
 
                                 </div>

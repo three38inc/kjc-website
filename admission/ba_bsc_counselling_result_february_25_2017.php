@@ -120,14 +120,14 @@ win=window.open(mypage,myname,settings);}
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>BA / B.Sc. Counselling Result on 25th February 2017  </strong></span>
+										<span>&nbsp;BA / B.Sc. Counselling Result<strong> on 25<sup>th</sup> February 2017  </strong></span>
                                     </h4>
 
                                   
                       <p>Applicants provisionally selected for various BA / B.Sc.  programmes after the counseling held on February 25, 2017. <b>Selected applicants are requested to take admission on or before  March 25, 2017 by submitting all available original documents and paying fee for first year.</b></p>
-<table border="1" cellspacing="2" cellpadding="1" width="800" align="center">
+<table border="1" cellspacing="0" cellpadding="0" align="center" class="table table-bordered table-hover">
   <tr>
     <td width="133" nowrap="nowrap" valign="bottom"><p><strong>App. No.</strong></p></td>
     <td width="279" nowrap="nowrap" valign="bottom"><p><strong>Name</strong></p></td>
@@ -255,7 +255,7 @@ win=window.open(mypage,myname,settings);}
 
 <p><b>Waiting List:</b><br />
 Those who are in the waiting list can contact the Admission Office  after  the declaration of class 12th  results.</p>
-<table border="1" cellspacing="2" cellpadding="1" width="800" align="center">
+<table border="1" class="table table-bordered table-hover">
  
   <tr>
     <td width="133" nowrap="nowrap" valign="bottom"><p><strong>App. No.</strong></p></td>
@@ -387,17 +387,14 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
+ <div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        </a>
+                                       
+                                    </div>
                                    
 
                                 </div>

@@ -120,51 +120,51 @@ win=window.open(mypage,myname,settings);}
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>MBA/PGDM Counselling Result on 18th March 2017 </strong></span>
+                                        <span>&nbsp;LAW<strong> Admission</strong></span>
                                     </h4>
-
-                                  
-                           <p><b><u><font size="+1">Candidates provisionally selected for MBA</font> </u></b></p>
+                                    
+                                    <!--<p><b><font color="#FF0000"><u>MBA/PGDM: </u></font></b> Counselling result held on <b>18<sup>th</sup> March, 2017</b>
+                                        <a href="mba_pgdm_counselling_result_march_18_2017.php"><b><font size=2>[View Result]</font></b>
+ </a><br /> Next Counselling will be held on <b>05<sup>th</sup> May, 2017</b></p>-->
+                                    
+                                    
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
+  <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
+  </tr></table>
   
-<p><b><font color="#006600" size="3">17KJ0450,  0470,  0551,  0791,  0859,  0926,  0942, 0991, 1171,  1193,  1237,  1252,  1354,  1384,  1441, 1445, 1474, 1484,  1520,  
-1527,  1544,  1552,  1556,  1562, 1586, 1646
-</font></b></p>
+  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BA-LLB/index.php"><u>B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/ba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+	   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BCom-LLB/index.php"><u>B.Com., LL.B. <br>(Five Year Integrated)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+   <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BBA-LLB/index.php"><u>B.B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+	 
+  </table><br>
+                                    
+									<p align=justify>A key instrument to plan and drive the economic means that portray a globalized world is Legislative Law. This has gone under noteworthy weight to change its workings, foundations and elements. Legal education in India is at present experiencing a transformation phase. Law as a profession is going potential again in 21st century because of globalization and this has posed many challenges to legal education in India, but has also brought ample opportunities. The Indian lawful calling is perhaps the largest in the World.</p>
 
-<p><b><u><font size="+1">Candidates provisionally selected for PGDM</font> </u></b></p>
+									<p align=justify>The need for principled lawyers, and for the educational institutions to shape them - is especially pressing in India, whose fast economic growth is inseparably connected to its more unpredictable association in the worldwide market. One of the real obstacles the nation needs to overcome on its way to reasonable improvement is unequivocally that of the dearth of talented legitimate experts.</p>
 
-<p align="justify"><b><font color="#006600" size="3">17KJ0340,  0451, 0487, 0786,  0897, 0906, 1148, 1157,  1159, 1172, 1174, 1267, 1282, 1310, 1314, 1408, 1501, 1510, 1514,
-1532, 1557, 1609</font></b></p>
+									<p align=justify>The legal education degrees and the curriculum offered at Kristu Jayanti College of Law envisions to facilitate India's need for legal advisors who are able not just at understanding the complexities of Law in this new universal situation, but also at designing novel approaches to change them to meet the regional peculiarities and the country's worldwide interests. Such experts are sure to play a pivotal role in India's venture to set up manageable, comprehensive advancement.</p>
 
-<p><b>*</b> <b>Those who are in the selected List of MBA/ PGDM  are requested to register for  the course on or before <font color="#FF0000">5<sup>th</sup> April, 2017</font> by submitting all available original documents and the tuition fees.</b></p>
-
-<p><b><u>Waiting List for MBA</u></b></p>
-<p><b><font color="#006600" size="3">17KJ1464, 1279, 1224, 0521 </font></b></p>
-
-<p><b><u>Waiting List for PGDM</u></b></p>
-<p><b><font color="#006600" size="3">17 KJ1218, 1512, 1523</font></b></p>
-<p><font color="#FF0000">Those who are in the  Waiting  list are requested to contact College office after <b>05<sup>th</sup> April, 2017</b> for further details.</font></p>
-
-<p><b><u>Documents required:</u></b><br />
-(Original plus Two Copies)<br /><br />
-<b>1.</b>	Original Marks Card ( X, XII & Degree (All Semester / Year wise marks cards)
-(foreign students  Both - translation original & Original Marks Card)<br />
-<b>2.</b>	Transfer Certificate<br />
-<b>3.</b>	Provisional / Degree Certificate<br />
-<b>4.</b>	Conduct Certificate<br />
-<b>5.</b>	Migration Certificate (if applicable)<br />
-<b>6.</b>	Caste Certificate (if applicable)<br />
-<b>7.</b>	AIU Equivalency Certificate (for students who have done their qualifying  examination in any curriculum other than Indian Educational Curriculum)<br />
-<b>8.</b>	Five Passport size  Photos<br />
-<b>9.</b>	First year fees</p>
-
-<p><b>In addition to the above, NRI and Foreign Students should produce:</b><br />
-a.	Valid Passport<br />
-b.	Residential Permit from the Commissioner of Police Bengaluru<br /> (for foreign students only<br />
-c.	HIV Test Certificate</p>
-
-                     
+									<p align=justify>Potential legal advisors require legitimate instruction degrees to provide legal counsel. The training way ordinarily takes an aggregate of five to seven years to finish, including three years of undergraduate programme and two years of Legal Education. </p>
 
                                 </div>
                             </div>
@@ -181,7 +181,7 @@ c.	HIV Test Certificate</p>
                                         <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
                                    </section>
                                      <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
+                <p><a class="a-link-arrow" href="mba_admission.php" style="color: #2980b9;font-weight: bold;">MBA/PGDM Admission</a></p>
                                     </section><section class="link-arrow">
                                     
                                     <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
@@ -253,17 +253,14 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
+ <div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        </a>
+                                       
+                                    </div>
                                    
 
                                 </div>

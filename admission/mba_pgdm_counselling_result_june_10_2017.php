@@ -63,6 +63,16 @@
         }
 
     </style>
+    <script language="javascript" type="text/javascript">
+var win=null;
+function NewWindow(mypage,myname,w,h,scroll,pos){
+if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):200;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):200;}
+if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:200;}
+else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no,dialog=yes';
+win=window.open(mypage,myname,settings);}
+
+</script>
 </head>
 
 <body>
@@ -110,57 +120,73 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Scholarship<strong> Scheme (KJSS)</strong></span>
-                                    </h4>
-
                                   
-                                    <p>KJSS aims to recognize the students who are outstanding in academics and co-curricular & extra-curricular activities and to assist the students who are financially disadvantaged. KJSS has three broad categories:<br>
+                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+										<span>&nbsp;MBA/PGDM Counselling Result<strong> on 10<sup>th</sup> June 2017 </strong></span>
+                                    </h4>
+									
+									<div class="panel panel-default">
+  <div class="panel-body">
+     <p><b><u><font size="+1">Candidates provisionally selected for MBA</font> </u></b></p>
+  
+<p><b><font color="#006600" size="3">17KJ2002, 17KJ2949, 17KJ4977, 17KJ7084, 17KJ7615, 17KJ7905, 17KJ8460, 17KJ8496, 17KJ9037, 17KJ9352, 17KJ9497,      17KJ9531 
+</font></b></p>
+  </div>
+</div>
 
-i) JayantianAchievement Scholarship (JAS)<br>
-ii) Jayantian Talent Scholarship (JTS)<br>
-            iii) JayantianUpliftment Scholarship (JUS)</p>
+									
+									
+									<div class="panel panel-default">
+  <div class="panel-body">
+    <p><b><u><font size="+1">Candidates provisionally selected for PGDM</font> </u></b></p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">General Guidelines</b><br>
-                                        <li>Students who receive any sort of scholarship (Government, Minority, etc) are not eligible under JUS</li>
-                                        <li>Students who satisfy the stipulated conditions of the schemes are eligible under KJSS and are required to apply by filling up the form within the due date</li>
-                                        <li>The Committee will scrutinize the forms and the Principal will approve the beneficiaries under KJSS</li>
-                                        <li>KJSS is applicable only to under-graduate students</li>
-                                        <li>The scholarships will not be disbursed if there are no eligible students</li>
-                                        <li>The scholarships will be provided at the end of the academic year during a special function</li>
-                                        <li>Students who would qualify under category (iii. JUS) will be eligible to get scholarships under category (i) & (ii) provided they qualify for them</li>
-                                        <li>The decision of the scholarship in identifying the beneficiaries will be final</li>
-                                        <li>The number of scholarships and the amount disbursed each year will be decided by the Management of the College</li>
-                                        <li>   The minimum conditions for applying for scholarship does not automatically guarantee scholarship</li>
+<p align="justify"><b><font color="#006600" size="3">
+	17KJ0244, 17KJ2662, 17KJ4062, 17KJ4642, 17KJ4906, 17KJ4967, 17KJ5493, 17KJ5838, 17KJ6714, 17KJ7201, 17KJ7579, 17KJ7798, 17KJ7965, 17KJ8662, 17KJ9166, 17KJ9178,    17KJ9184, 17KJ9287, 17KJ9413, 17KJ9551, 17KJ9620</font></b></p>
+  </div>
+</div>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">1. JayantianAchievement Scholarship (JAS)</b><br>
-Conditions<br>
-                                        <li>This scholarship is exclusively for students who are excellent in academics</li>
-                                        <li>Students' academic excellence will be evaluated each semester on a continuous basis and students selected for this scholarship from II semester (after evaluation of performance in Semester I)</li>
-                                        <li>Students should have minimum 85% of attendance in each course in the previous semester</li>
-<li>B.Com./BBM students should secure minimum 75% of marks (aggregate of CIA & End Semester Examinations), BA & B.Sc. ( CSMS/CSME) - 75%& B.Sc. ( Life Science) / BCA - 80%<br>
-    Each eligible student will receive Rs. 10000 per annum.</li>
+                          
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">2. Jayantian Talent Scholarship (JTS)</b><br>
-                                        <b>Conditions</b><br>
-<li>This scholarship is provided for encouraging students to excel in co-curricular and
-    extra-curricular activities (cultural, sports & games and inter-collegiate fests)</li>
-                                        <li>Students should have minimum 80% of attendance in each course in the previous semester</li>
-                                        <li>Students should secure minimum 60% of marks (aggregate of CIA & End Semester Examinations) and should have passed in all the courses</li>
-                                        <li>Students should have represented the college and won at least one prize at the University level/State Level /National level competitions.</li>
-                                        <li>Each eligible student will receive Rs. 10,000 in lump sum in an academic year and an additional amount of Rs. 5000 will be given if the same student satisfies the conditions in the following academic year</li>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">3. JayantianUpliftment Scholarship (JUS)</b><br>
-                                        <b>Conditions</b><br>
-                                        <li>This scholarship is provided to financially disadvantaged students</li>
-                                        <li>Students' family annual income should be equal to or less than Rs. one lakh</li>
-                                        <li>Student should satisfy the Scholarship Committee's queries and convince the need for scholarship</li>
-                                        <li>Students need to produce the proof of income certificate given by the local civil authority</li>
-                                        <li>Students should have minimum 80% of attendance in each course in the previous semester</li>
-                                        <li>Students should secure minimum 60% of marks ( aggregate of CIA & End Semester Examinations) and should have passed in all the courses</li>
-                                        <li>Students need to pay only 50% of the annual tuition fee and remaining 50% the fee is exempted</li></p>
-                                        
+
+<p><b>*</b> Those who are in the selected List of MBA/ PGDM  are requested to register for  the course on or before <font color="#FF0000">20<sup>th</sup> June, 2017</font> by submitting all available original documents and the tuition fees.<p>
+									
+	<div class="panel panel-default">
+  <div class="panel-body">
+    <p><b><u>Waiting List for MBA</u></b></p>
+<p><b><font color="#006600" size="3">17KJ8951, 17KJ6785, 17KJ1914, 17KJ8803</font></b></p>
+  </div>
+</div>
+									
+<div class="panel panel-default">
+ <div class="panel-body">
+  <p><b><u>Waiting List for PGDM</u></b></p>
+<p><b><font color="#006600" size="3">17KJ8192, 17KJ9423, 17KJ9358, 17KJ9495, 17KJ8870</font></b></p>
+  </div>
+</div>
+									
+
+<p><font color="#FF0000">Those who are in the  Waiting  list are requested to contact College office after <b>21<sup>st</sup> June, 2017</b> for further details.</font></p>
+
+<p><b><u>Documents required:</u></b><br />
+(Original plus Two Copies)<br /><br />
+<b>1.</b>	Original Marks Card ( X, XII & Degree (All Semester / Year wise marks cards)
+(foreign students  Both - translation original & Original Marks Card)<br />
+<b>2.</b>	Transfer Certificate<br />
+<b>3.</b>	Provisional / Degree Certificate<br />
+<b>4.</b>	Conduct Certificate<br />
+<b>5.</b>	Migration Certificate (if applicable)<br />
+<b>6.</b>	Caste Certificate (if applicable)<br />
+<b>7.</b>	AIU Equivalency Certificate (for students who have done their qualifying  examination in any curriculum other than Indian Educational Curriculum)<br />
+<b>8.</b>	Five Passport size  Photos<br />
+<b>9.</b>	First year fees</p>
+
+<p><b>In addition to the above, NRI and Foreign Students should produce:</b><br />
+a.	Valid Passport<br />
+b.	Residential Permit from the Commissioner of Police Bengaluru<br /> (for foreign students only<br />
+c.	HIV Test Certificate</p>
+
+                     
 
                                 </div>
                             </div>
@@ -207,7 +233,7 @@ Conditions<br>
                                         <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php" style="color: #2980b9;font-weight: bold;">Scholarship Scheme (KJSS)</a></p>
+                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>

@@ -112,17 +112,21 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                    
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Instructions</strong></span>
+                                        <span>&nbsp;Guidelines <strong>Login</strong></span>
                                     </h4>
-
-                               <p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
+									
+									<div class="alert alert-dismissible alert-success">
  
- <p><b>2. </b> <font color="#FF0000"><b><u>If the session expires if it remains idle for 10 minutes. Use the "Save" button towards the bottom of the E-form page to avoid session from getting expired.</u></b></font></p>
+	
+                               <p><b> 1. </b>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome. <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p>
  
-<p><b>3.</b> <font color="#FF0000"><b><u>Refer the User ID and Password shared through your email at the time of registration.</u></b></font></p>
+ <p><b>2. </b> If the session expires if it remains idle for 10 minutes. Use the "Save" button towards the bottom of the E-form page to avoid session from getting expired.</p>
+ 
+<p><b>3.</b> Refer the User ID and Password shared through your email at the time of registration.</p>
+</div>
+				
+									<center><a href="http://www.tcsion.com/EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank" class="btn btn-primary btn-sm">CLCIK HERE TO PROCEED TO LOGIN PAGE </a></center>
 
-
-<b><a href="http://www.tcsion.com/EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank"><font size="+1">To proceed to login page click here </font></a></b></p><br />
 
 
 
@@ -213,17 +217,14 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <!--<div class="list-group">
-  <a href="#" class="list-group-item active">
-   Counselling Results
-  </a>
-     <a href="pg_counselling_result_march_25_2017.php" class="list-group-item"><font size=2>All PG Counselling result held on 25th March 2017</font>
-  </a>
-     <a href="mba_pgdm_counselling_result_march_18_2017.php" class="list-group-item"><font size=2>MBA/PGDM Counselling result held on 18th March 2017</font>
-  </a>
-   <a href="ba_bsc_counselling_result_february_25_2017.php" class="list-group-item"><font size=2>BA / BSc. Counselling result held on 25th February 2017 </font>
-  </a>
-</div>-->
+ <div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
+										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
+                                        </a>
+                                       
+                                    </div>
                                    
 
                                 </div>
