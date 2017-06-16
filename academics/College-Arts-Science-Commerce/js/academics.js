@@ -17,7 +17,7 @@ $(document).ready(function(){
     
     $('#falSci').click(function(){window.location.href="Faculty-Sciences/index.php";});
     $('#falCom').click(function(){window.location.href="Faculty-Commerce-Management/index.php";});
-    $('#falHum').click(function(){window.location.href="Faculty-Humanitiesindex.php";});
+    $('#falHum').click(function(){window.location.href="Faculty-Humanities/index.php";});
     
     
 });
