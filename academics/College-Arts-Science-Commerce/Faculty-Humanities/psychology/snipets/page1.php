@@ -30,7 +30,7 @@ Fr. Emmanuel joined the Psychology Department of Kristu Jayanti College during 2
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Dr. Molly Joy, Head of the Department 
+                <h4> Dr. Molly Joy
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>  MA (Psychology), MEd, MA (English Literature), PGD Human Resource Management, PhD Psychology
@@ -42,7 +42,7 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br><br><br>
             </div>
         </div>
     </div>
@@ -84,7 +84,7 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
@@ -94,20 +94,19 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  Mr. Rex Jose Joseph 
+                <h4>  Dr. R. Krishnan Bhatt
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc. Applied Psychology, UGC-NET, (PhD)
+                    <span>Qualification </span> <br/> M.Sc., PGDIPM &amp;IR, PGDCP, PhD
                 </p>
                 <p>
-                    <span>Area of research</span><br/>Cognitive Dissonance, Personality
+                    <span>Area of research</span><br/> Industrial/ Organizational Psychology,
+Competency Mapping, Performance Management System and EI
                 </p>
                 <p>
-                    <span>Experience</span><br/>3 years of Research Experience
+                    <span>Experience</span><br/>25 years
                 </p>
-                 <p>
-                    <span>Publications &amp; Conference Presentations </span> <br/> 1 & 1
-                </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -124,21 +123,18 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Dr. R. Krishnan Bhatt 
+                <h4> Arun Jacob
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc., PGDIPM &amp; IR, PGDCP, PhD
+                    <span>Qualification </span> <br/> Msc, M.phil, 
                 </p>
                 <p>
-                    <span>Area of research </span><br/>Industrial/ Organizational Psychology,
-Competency Mapping, Performance Management System and EI
+                    <span>Area of research </span><br/>Creative Drama, Parenting Styles 
                 </p>
                 <p>
-                    <span>Experience </span><br/>   25 years
+                    <span>Experience </span><br/>   2 years
                 </p>
-                <p>
-                    <span>Publications &amp; Conference Presentations </span><br/>  1 &amp; 9
-                </p>
+              
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
