@@ -146,7 +146,7 @@
     <div class="panel-body">
         <div class="row">
             <div class="col-xs-12">
-                <ul class="demo2">
+                <ul class="demo1">
                     <li class="news-item" style="text-align:center;padding:0px;border-bottom: 0px;">
 
                     </li>
