@@ -32,7 +32,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Diana Susan
+                <h4> Diana Susan Mary Ann D’Roza
                 </h4>
                 <p>
                     <span>Qualification </span> <br/> M.C.A ,M.Tech

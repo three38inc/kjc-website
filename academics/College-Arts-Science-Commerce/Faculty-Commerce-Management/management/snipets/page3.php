@@ -5,14 +5,17 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>  T Shenbagavalli
+                <h4> Monica L
                 </h4>
-                <p> <span>Qualification </span>
-                    <br/> M.Com, M.Phil.(com),MBA(Fin) (Ph.D.)  </p>
-                <p> <span>Experience </span>
-                    <br/> 16 Years  </p>
-                <p> <span>Area of Interest</span>
-                    <br/>Advanced Corporate &amp; Cost Accounting, Advanced Financial Management</p>
+                <p>
+                    <span>Qualification </span> <br/>  M.Com. 
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/>  Finance, General Management, and Marketing
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/> 02 years
+                </p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -23,5 +26,11 @@
             </div>
         </div>
     </div>
-  
+   
 </div>
+
+
+
+
+
+        

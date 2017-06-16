@@ -8,13 +8,13 @@
                 <h4>  C.Surendranath Reddy
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MBA, (Ph.D.)
+                    <span>Qualification </span> <br/>  MBA, M.Phil, (Ph.D.)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Marketing, Production Management, Retail Management, Industrial Marketing 
+                    <span>Areas of Interest </span><br/> Marketing and General Management 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>14 years
+                    <span>Teaching Experience </span><br/>16 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -35,13 +35,13 @@
                 <h4>Shilpa Rao C
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MBA 
+                    <span>Qualification </span> <br/>  MBA., HDSE
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>  Human Resource Management, Marketing Management, Banking, Advertising Management
+                    <span>Areas of interest</span><br/>  Human Resourse and Marketing
                 </p>
                  <p>
-                    <span>Teaching Experience </span><br/> 08 Years
+                    <span>Teaching Experience </span><br/> 12 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -62,13 +62,13 @@
                 <h4>  Manjunath S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MBA, B.Ed. 
+                    <span>Qualification </span> <br/> MBA, BEd, KSET
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Marketing Management, Business Environment, Human Resource Management, Environment Science 
+                    <span>Areas of interest </span><br/> Marketing and Finance 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  05 Years
+                    <span>Teaching Experience </span><br/>  08 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -92,7 +92,8 @@
                     <span>Qualification </span> <br/>  MBA (PGDPM &amp; IR), M.Phil, (Ph.D.)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Human Resource Management, Industrial Relations, Marketing Management, Principles of Management
+                    <span>Areas of interest </span><br/> Human Resource Management, Industrial
+Relations, Marketing Management, Principles of Management
                 </p>
                 <p>
                     <span>Teaching Experience</span><br/> 11 Years 
@@ -116,13 +117,14 @@
                 <h4>  Vinod Joseph George 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MBA, M.Phil
+                    <span>Qualification </span> <br/> BE, MBA, M.Phil 
                 </p>
                 <p>
-                    <span>Areas of Interest</span><br/>Marketing Management, Entrepreneurship, Banking 
+                    <span>Areas of Interest</span><br/>General Management, Marketing, Strategic
+management, Entrepreneurship, HR 
                 </p>
                 <p>
-                    <span>Teaching Experience</span><br/> 10 Years
+                    <span>Teaching Experience</span><br/> 13 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -140,16 +142,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Manjunath C.G. 
+                <h4>Dr. A.J. Excelce
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MA(Eco), LLB, LLM, MBA, MBL, PGDIPR 
+                    <span>Qualification </span> <br/> M.Com., MBA., PhD
+                </p> 
+                <p>
+                    <span>Areas of interest </span><br/> Accounting, Finance, and Marketing
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>Business Law, Law and Practice of Banking, Corporate Law, International Business
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/>  6 Years
+                    <span>Teaching Experience </span><br/>  06 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

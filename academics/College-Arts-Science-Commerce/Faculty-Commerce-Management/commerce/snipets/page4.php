@@ -5,95 +5,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Ms. Neeta Dwivedi
+                <h4> Thanuja K.A
                 </h4>
-                <p> <span>Qualification </span>
-                    <br/> M.A (Economics), M.Phil (Entrepreneurship), M.B.A, PGDCA, (Ph.D) </p>
-                <p> <span>Experience </span>
-                    <br/> Teaching experience-18 years 
-                    Industry experience-5 years </p>
-                <p> <span>Areas of Publications </span>
-                    <br/>Micro Economics, Women Entrepreneurship, Banking </p>
-                <p> <span>Other responsibilities </span>
-                    <br/> 1. Co-ordinator for M.A. (Economics)
-                    Programme
-                    2. Office bearer for Centre for Placement &amp; Corporate Relations </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> Ms. Kalyani V
-                </h4>
-                <p> <span>Qualification </span>
-                    <br/>   B.E, MBA, (Ph.D) </p>
-                <p> <span>Awards/Recognitions</span>
-                    <br/> Certificate of Appreciation for a training programme conducted at the Office of the Commissioner of Police, Coimbatore. </p>
-                 <p> <span>Experience </span>
-                    <br/>  2 years Industry and 6 years academics experience </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>    Ms. Varsha Madhavan 
-                </h4>
-                <p> <span>Qualification </span>
-                    <br/>   Teaching- M.Com,NET  </p>
-                <p> <span>Subject expertise </span>
-                    <br/> Business Ethics, Financial Accounting I,
-Financial Accounting II Marketing and Services
-Management,Banking Law and Operations , Business Regulations </p>
-                <p> <span>Experience </span>
-                    <br/>    1 Year  </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>   Ms. Geetanjali Diwani 
-                </h4>
-                <p> <span>Qualification </span>
-                    <br/>M.A.(Economics), B.Ed., (Ph.D.)  </p>
-                <p> <span>Subject expertise </span>
-                    <br/> Micro Economics, Macro Economics,
-International Economics, Public Economics, Business Economics </p>
-                <p> <span>Experience  </span>
-                    <br/> Teaching- 6
-
+                <p>
+                    <span>Qualification </span> <br/>  M.Com
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/>  Finance
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/> 08years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -111,16 +32,17 @@ International Economics, Public Economics, Business Economics </p>
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>   Dr. E.Eswara Reddy
+                <h4>Padmanagendra R 
                 </h4>
-                <p> <span>Qualification </span>
-                    <br/> M.Com., M.B.A., Ph.D </p>
-                <p> <span>Experience </span>
-                    <br/>HR And Marketing</p>
-                <p> <span>Experience </span>
-                    <br/>  19 Years  </p>
-                 <p> <span>Area of Specialization </span>
-                    <br/>  Finance and Marketing </p>
+                <p>
+                    <span>Qualification </span> <br/> M.com, NET, JRF, KSET, CMA (Final)
+                </p>
+                <p>
+                    <span>Areas of interest</span><br/> Law, Finance ,Accounting Taxation
+                </p>
+                 <p>
+                    <span>Teaching Experience </span><br/> 02 Years
+                </p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -137,14 +59,98 @@ International Economics, Public Economics, Business Economics </p>
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Thanuja K.A 
+                <h4>  Ponny Thomas
                 </h4>
-                <p> <span>Qualification </span>
-                    <br/>  M.Com  </p>
-                <p> <span>Experience  </span>
-                    <br/> 8 Years   </p>
-                <p> <span>Area of Specialization  </span>
-                    <br/> Finance </p>
+                <p>
+                    <span>Qualification </span> <br/> MTA, M.Phil
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/>  HR And Marketing
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>  02 Years
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4> Saranya S
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> M.Com., M.Phil., (Ph.D.)
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/>  Financial Accounting and Research Methodology
+                </p>
+                <p>
+                    <span>Teaching Experience</span><br/> 01 Year 
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4> K.Kiran Kumar
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  MBA,M.Com, NET-JRF, (Ph.D) 
+                </p>
+                <p>
+                    <span>Areas of Interest</span><br/> Finance, Financial Accounting, Business Law, Investment and Security Analysis and Research Methodology  
+                </p>
+                <p>
+                    <span>Teaching Experience</span><br/> 08 Years
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+            </div>
+            <div class="item-content">
+                <h4>K.Vinodha Devi
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  M.A., M.PHIL, (PH.D) 
+                </p> 
+                <p>
+                    <span>Areas of interest </span><br/>  Micro Economics, Development Economics
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>  02 Years
+                </p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -156,3 +162,9 @@ International Economics, Public Economics, Business Economics </p>
         </div>
     </div>
 </div>
+
+
+
+
+
+        
