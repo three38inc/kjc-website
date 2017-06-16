@@ -108,6 +108,7 @@
                                 <div class="content-spl wow fadeIn" style="height: 400px; overflow-y:hidden;margin-top:-6px;">
                                     <?php include ('php/dept_acheivements.php'); ?>
                                 </div>
+								
                                 <div class="content-spl wow fadeIn" style="height: 508px; overflow-y:hidden;margin-top: 15px;">
                                     <?php include ('php/newsAndUpdates.php'); ?>
                                 </div>
