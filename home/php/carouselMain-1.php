@@ -418,6 +418,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
       <div class="front__bg front__bg-3"></div>
       <div class="front__bg front__bg-4"></div>
     </div>
+<!--
     <div class="nav">
       <div data-page="1" class="nav__el nav__el-1">
         Why i'm not here?
@@ -444,6 +445,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
         </div>
       </div>
     </div>
+-->
   </div>
 <!--
   <div class="menu">

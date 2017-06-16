@@ -189,7 +189,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/School-of-Management/"><h4>School of Management</h4></a>
                        <p>
-                        Committed to Excellence in Education, the School of Management pioneers a strategic version of Managerial Education; offers MBA, industry pertinent PGDM course and one year Post Graduate Diploma programme for working executives.
+                        The school of Management offers two years Management Programme MBA &amp; PGDM.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -199,7 +199,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/"><h4>College of Arts, Science &amp; Commerce</h4></a>
                        <p>
-                        The synergism of Education, Innovation and Tradition proffers a prolific course of study – BA, BCA, B.Sc. CSME, B.Sc. CSMS, B.Sc. Microbiology and Biotechnology, B.Com and BBA. It also offers Post Graduate courses in Computer Science and Life Sciences.
+                        Kristu Jayanti College (Autonomous) offers various undergraduate and postgraduate programmes in Commerce, Management, Science, Humanities &amp; one year executive programmes in management.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
@@ -209,7 +209,7 @@
                      <div class="menu-alt">
                        <a href="<?php echo $ROOT; ?>/academics/College-of-Law/"><h4>College of Law</h4></a>
                        <p>
-                        The Legal Education template (BA. LLB, B.COM. LLB & BBA. LLB) and the curriculum offered at Kristu Jayanti College of Law, envision facilitating the need for potential legal advisors in India, evolving experiential learning to probe the emerging intersection of technology, business and law.
+                        Kristu Jayanti College of Law offers 5 years integrated BA LL.B., BBA LL.B., B.Com LL.B.
                        </p>
                        <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                      </div>
