@@ -5,16 +5,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>SJ. Michael
+                <h4>Sarvesha B.S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA, PDPMIR 
+                    <span>Qualification </span> <br/>  MA , M.Ed, M.Phil 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Administration and Social service
+                    <span>Areas of Interest </span><br/>Literature
                 </p>
                 <p>
-                    <span>Experience </span><br/>24 years 
+                    <span>Experience </span><br/>10 years 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -33,16 +33,16 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4>Shrestha Ghosh Chowdhury 
+                <h4>Chandrashekar .N
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  pursuing PhD research from Jadavpur University has completed MA in IR from JU in 2012 and Bed from JU in 2013.
+                    <span>Qualification </span> <br/>  MA, M.Ed 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Include Theories of International relations, Strategic Studies and ICT. 
+                    <span>Areas of Interest </span><br/> Literature
                 </p>
                 <p>
-                    <span>Experience </span><br/>03 years 
+                    <span>Experience </span><br/>06 years 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -54,6 +54,8 @@
             </div>
         </div>
     </div>
+	
+	
     
 </div>
 

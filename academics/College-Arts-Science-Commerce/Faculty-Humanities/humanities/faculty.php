@@ -33,6 +33,7 @@
     <script src="../../../../js/custom.js"></script>
     <script src="../../../../js/fakeLoader.js"></script>
 
+
 </head>
 
 <body>
@@ -78,13 +79,23 @@
 
                         <div class="row">
                             <div class="col-lg-9">
-								 <img src="images/humanities_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
-								 <div class="content-left myWelcome wow fadeIn">
+								<div class="content-left myWelcome wow fadeIn">
+									 <img src="images/humanities_banner.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Faculty <strong>Profile</strong></span>
 
                                 </h4>
+									<div class="row profile-pagination">
+                                        <ul class="pagination pagination-sm">
+                                            <li class="active"><a href="#" data-value="page1">English</a></li>
+                                            <li><a href="#" data-value="page2">History</a></li>
+											 <li><a href="#" data-value="page3">Political Science </a></li>
+											 <li><a href="#" data-value="page4">Hindi </a></li>
+											 <li><a href="#" data-value="page5">Kannada </a></li>
+                                           
+                                        </ul>
+                                    </div>
                                 <div class="profile-page">
                                     <div id="page">
 
@@ -92,17 +103,18 @@
 
                                     <div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page3">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                            <li><a href="#" data-value="page4">4</a></li>
-                                            <li><a href="#" data-value="page5">5</a></li>
+                                            <li class="active"><a href="#" data-value="page1">English</a></li>
+                                            <li><a href="#" data-value="page2">History</a></li>
+											 <li><a href="#" data-value="page3">Political Science </a></li>
+											 <li><a href="#" data-value="page4">Hindi </a></li>
+											 <li><a href="#" data-value="page5">Kannada </a></li>
+                                           
                                         </ul>
                                     </div>
                                 </div>
 
 								</div></div>
-                            <div class="col-lg-3" style="margin-top:1em;">
+                               <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
@@ -141,19 +153,19 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpeng.php">BA JPENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
@@ -171,12 +183,12 @@
                                         
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty.php" style="color: #2980b9;font-weight: bold;">Faculty Profile</a></p>
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                        <p><a class="a-link-arrow" href="activities.php" style="color: #2980b9;font-weight: bold;">Activities</a></p>
                                     </section>
                                         
                                          <section class="link-arrow">
@@ -191,13 +203,7 @@
                                         <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
                                     </section>
                                         
-                                         </div></div>
-                                
-                                
-                                
-                                
-                                
-                                
+                                         </div>
                                 
                                 
 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
@@ -218,7 +224,7 @@
                             </div>
                         </div>
                     </div>
-
+                    </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -246,7 +252,7 @@
         })();
 
     </script>
-   <script src="../../../../js/modernizr.custom.js"></script>
+     <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>
@@ -258,8 +264,6 @@
     <script src="../../../../js/sly.js"></script>
     <script src="../../../../js/customSly.js"></script>
     <script src="../../../../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../../../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
