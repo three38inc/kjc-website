@@ -132,12 +132,12 @@
         <span style="font-size:14px;">&nbsp;Dept. <strong style="font-size:16px;"> Acheivements</strong></span>
         <ul class="pagination1 pull-right" style="margin: 0px;">
             <li>
-                <a href="#" class="prev" id="prev-high">
+                <a href="#" class="prev" id="prev-acheive">
                     <i class="fa fa-chevron-left"></i>
                 </a>
             </li>
             <li>
-                <a href="#" class="next" id="next-high">
+                <a href="#" class="next" id="next-acheive">
                     <i class="fa fa-chevron-right"></i>
                 </a>
             </li>
@@ -146,7 +146,7 @@
     <div class="panel-body">
         <div class="row">
             <div class="col-xs-12">
-                <ul class="demo1">
+                <ul class="demo2">
                     <li class="news-item" style="text-align:center;padding:0px;border-bottom: 0px;">
 
                     </li>
@@ -273,7 +273,7 @@
         </div>
     </div>
 
-    <a href="../../../../events/events.php" class="a-News-All">
+    <a href="achivements.php" class="a-News-All">
         <div class="row news-all">
             <p>Read More</p>
         </div>
