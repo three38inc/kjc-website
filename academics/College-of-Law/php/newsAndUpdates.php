@@ -141,8 +141,8 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>MBA/PGDM:</b> Counselling will be held on 23<sup>rd</sup>January, 2016.
-                                    Apply online on or before 18thJanuary, 2016  <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                                <td><b>MBA/PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
+                                    <a href="../../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -150,8 +150,8 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>MCA:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27thJanuary, 2016
-                                    <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                              <td><b>Law Programmes:</b> Next Counselling will be held on  <b>20<sup>th</sup> June, 2017.</b>
+                                    <a href="../../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -159,8 +159,8 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> All other PG Programme:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27<sup>th</sup>January, 2016
-                                    <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                               <td><b> B.Com Programmes:</b> Applicants can apply online. Selected applicants will be intimated through email<br>
+                                    <a href="../../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -168,7 +168,8 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/megaphone-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>51st Convocation of Bangalore University <a href="#">[CLICK HERE]</a></td>
+                                 <td><b> PG Programme:</b> Next Counselling will be held on 1<sup>st</sup> July, 2017. 
+                                    <a href="../../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -176,7 +177,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/trophy-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KALAJYOTHI <a href="#">[CLICK HERE FOR RESULT]</a></td>
+                                <td>3rd Trim MBA/PGDM 2016-18 batch CBCS Course Registration  <a href="http://kristujayanti.edu.in/CBCS/choice_based_credit_mba.php" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
                     </li>
@@ -184,7 +185,8 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 <a href="#">[CLICK HERE FOR DETAILS]</a></td>
+                                 <td><strong>June 15th to 29 st 2017</strong> School of Management (MBA & PGDM) IIIrd End Trimester Examination
+</td>
                             </tr>
                         </table>
                     </li>
@@ -192,7 +194,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                 <td><strong>June 17th 2017</strong> Graduation Day (UG)</td>
                             </tr>
                         </table>
                     </li>
@@ -200,7 +202,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                  <td><strong>June 19th 2017</strong>Commencement of III & V Sem UG Programmes</td>
                             </tr>
                         </table>
                     </li>
@@ -208,7 +210,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><strong>June 20th 2017</strong>Commencement of III Sem MA / MSc / MCom / M.Com. (FA)/ MSW / III & V Sem MCA programmes</td>
                             </tr>
                         </table>
                     </li>
@@ -216,7 +218,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                               <td><strong>June 24th 2017</strong> Graduation Day (PG)</td>
                             </tr>
                         </table>
                     </li>
@@ -224,7 +226,31 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                              <td><strong>July 17th 2017</strong> School of Management (MBA & PGDM) Inauguration of Academic Year 2017-18 Commencement of First Trimester Classes</td>
+                            </tr>
+                        </table>
+                    </li>
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
+                               <td><strong>July 18th 2017</strong> Commencement of I Sem MA / MSc / MCom / M.Com. (FA)/ MSW programmes</td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>August 01 st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../images/open-book.png" width="50" height="50" class="img-circle" /></td>
+                               <td><strong>August 01 st 2017</strong> Commencement of I Sem MCA programme</td>
                             </tr>
                         </table>
                     </li>
