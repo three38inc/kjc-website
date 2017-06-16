@@ -58,7 +58,7 @@ Technology/Industrial Microbiology
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@ Technology/Industrial Microbiology
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br>
             </div>
         </div>
     </div>
