@@ -199,7 +199,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/gear-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>02 Feb 2018:</b> Panel Discussions  </td>
                             </tr>
                         </table>
@@ -208,7 +208,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/news-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>09 Feb 2018:</b> Abhigyan  2K18 - Management Through Theatre  </td>
                             </tr>
                         </table>
@@ -217,7 +217,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>21 Apr 2018:</b> Incognito 2K18 - Business Quiz Competition</td>
                             </tr>
                         </table>
@@ -226,7 +226,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/calendar-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>27 &amp; 28 Apr 2018:</b> International Conference  - KRISYM 2K18</td>
                             </tr>
                         </table>
@@ -235,7 +235,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/brush-pencil-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>27 &amp; 11 May 2018:</b> Ventura 2K18 - Business Plan Contest</td>
                             </tr>
                         </table>
