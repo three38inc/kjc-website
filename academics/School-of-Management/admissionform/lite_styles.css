@@ -1,0 +1,27 @@
+.cflite {
+	width: 400px;
+	font-family: arial;
+}
+.cflite_td {
+	padding:4px;
+	font-size:13px;
+}
+.cflite p {
+	padding:4px;
+}
+.cflite label {
+	padding:4px;
+}
+label {
+ padding-right:10px
+}
+.required {
+ font-weight:bold;
+}
+.required_star {
+ font-weight:bold;
+ color:#F00;
+}
+.not-required {
+ font-weight:normal
+}

@@ -9,64 +9,45 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="../images/icon.png">
+    <link rel="shortcut icon" href="../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="../css/component.css" />
-    <link rel="stylesheet" href="../css/font-awesome.css">
-    <link rel="stylesheet" href="../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../css/roundIcons.css">
-    <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
-    <link rel="stylesheet" href="../css/navTabs.css">
-    <link rel="stylesheet" href="../css/animate.css">
-    <link rel="stylesheet" href="../css/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="../../css/component.css" />
+    <link rel="stylesheet" href="../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../css/morphing.css">
+    <link rel="stylesheet" href="../../css/navTabs.css">
+    <link rel="stylesheet" href="../../css/animate.css">
+    <link rel="stylesheet" href="../../css/fakeLoader.css">
+    <link href="../../css/owl.carousel.min.css" rel="stylesheet" />
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="../css/custom.css" rel="stylesheet">
-    <link href="../css/innerpage.css" rel="stylesheet">
+    <link href="../../css/custom.css" rel="stylesheet">
+    <link href="../../css/innerpage.css" rel="stylesheet">
+    <link href="css/manSchool.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="../js/jquery-1.11.0.min.js"></script>
-    <script src="../bootstrap/js/bootstrap.min.js"></script>
-    <script src="../js/respond.js"></script>
-    <script src="../js/custom.js"></script>
-    <script src="../js/fakeLoader.js"></script>
-    <style>
-        .link-arrow a.a-link-arrow::before {
-            left: 0px;
-            z-index: -1;
-            width: 100%;
-            background: #f3f3f3;
-        }
-        
-        .link-arrow {
-            /* background: rgba(149,165,166,0.4); */
-            background: rgba(255, 255, 255, 0);
-        }
-        
-        .link-arrow a.a-link-arrow {
-            left: 10px;
-        }
-        
-        .menu-list ul li {
-            background: transparent;
-        }
-        
-        .side-menu {
-            background: transparent;
-        }
-        
-        .content-right {
-            background: transparent;
-            box-shadow: none;
-        }
+    <script src="../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../js/respond.js"></script>
+    <script src="../../js/custom.js"></script>
+    <script src="../../js/fakeLoader.js"></script>
+	<script language="javascript" type="text/javascript">
+var win=null;
+function NewWindow(mypage,myname,w,h,scroll,pos){
+if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):200;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):200;}
+if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:200;}
+else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no,dialog=yes';
+win=window.open(mypage,myname,settings);}
 
-    </style>
+</script>
+
 </head>
 
 <body>
-    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -90,32 +71,32 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php include ('../php/navbar.php');  ?>
+            <?php include ('php/navbar.php');  ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../php/offCanvasMenu.php'); ?>
+        <?php include('../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
-                        <div class="row">
-                            <div class="marginTopDiv">&nbsp;</div>
-                            <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                              
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Application Form <strong>Instructions</strong></span>
-                                    </h4>
 
-                                  <p>Kindly use Mozilla Firefox or Google Chrome as your browser for applying online<br />
+
+
+                        <div class="row">
+                            <div class="col-lg-9">
+								<div class="content-left myWelcome wow fadeIn">
+									<img src="images/banner_activities.jpg" class="img-responsive" style="margin-bottom:20px;" />
+
+                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                    <span>&nbsp;Application Form <strong> Instructions</strong></span></h4>
+								
+			        <p>Kindly use Mozilla Firefox or Google Chrome as your browser for applying online<br />
 Following steps are involved in submitting application form online</p>
 									
 									<div class="alert alert-info">
@@ -146,7 +127,7 @@ Admission process will be initiated only after receiving the original DD/copy of
 </div>
 
 
-										<center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO REGISTER FOR APPLICATION FORM</a></center>
+									<center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO REGISTER FOR APPLICATION FORM</a></center>
  
  <!--<p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
  
@@ -197,62 +178,39 @@ system clock? <a href="http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=w
 <p><b>Error Message</b><br />
 If the page displays the following error message "An error seems to have occurred please try after sometime"</p>
 
-<p>This may be due to browser compatibility issues. Mozilla Firefox is preferred as the internet browser for applying. If not installed you may download the same browser from the following link click here </p> <PROVIDE THE LINK> </p>
+									<p>This may be due to browser compatibility issues. Mozilla Firefox is preferred as the internet browser for applying. If not installed you may download the same browser from the following link click here <PROVIDE THE LINK></PROVIDE> </p>
 
-
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
+								</div></div>
+                            <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission</strong></span>
+                                        <span>&nbsp; MBA &amp; PGDM<strong> Admission</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
+                                 <section class="link-arrow">   
+                <p><a class="a-link-arrow" href="admission.php">MBA/PGDM Admission</a></p>
                                     </section>
                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
                                    </section>
-                                     <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section><section class="link-arrow">
                                     
-                                    <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-              <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-          <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section><section class="link-arrow">
+									
+									<section class="link-arrow">
                                     
                                         <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
-                                    </section>
+                                   
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
                                     </section>
+                                   
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
+                                        <p><a class="a-link-arrow" href="online_fee_payment.php" style="color: #2980b9;font-weight: bold;">Online Fee Payment Details</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-                                    
-                                    
-                              <div class="well">
+									  <div class="well">
  <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
                                   <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
 </div>
@@ -274,12 +232,9 @@ If the page displays the following error message "An error seems to have occurre
   </div>
                             <div class="panel panel-default">
   <div class="panel-body">
-<font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
+<font size=2>
 MBA Programme: Rs 900/- <br>
 PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
 1 year PG Diploma Programme
 (Working Executives): Rs 250/-</font> 
                        
@@ -297,52 +252,49 @@ Law Programmes: Rs 300/-  <br>
                                     </div>
                                    
 
+                                
+                                    
+									
+                               
+								
+								
+									
+<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+                                    <?php include ('../../php/sideMenu.php'); ?>
                                 </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Quick Links</span>
-                                        </h4>
-
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
-
-
-
-                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                         <div class="fb-xfbml-parse-ignore">
                                             <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
                                 </div>
 
-                                </div>
-
                             </div>
                         </div>
+						</div></div>
 
-                    </div>
-
-                    <!--						                                </div>-->
-                    <?php include ('../php/alerts.php');  ?>
-                    <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    <?php include ('../../php/alerts.php');  ?>
+                    <?php include('../../php/footer.php'); ?>
+                    <?php include('../../php/morphingSearch.php'); ?>
                 </div>
 
 
 
-            </div>
+				</div>
             <!--/st-content-inner-->
         </div>
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
- 
-    <!--st-container-->
+    <!--        </div> st-container -->
 
-    <script src="../js/cbpFWTabs.js"></script>
+    <!--<script src="../js/cbpFWTabs.js"></script>-->
+	
     <script>
         (function() {
 
@@ -353,20 +305,20 @@ Law Programmes: Rs 300/-  <br>
         })();
 
     </script>
-    <script src="../js/modernizr.custom.js"></script>
-    <script src="../js/spin.min.js"></script>
-    <script src="../js/mySpin.js"></script>
-    <script src="../js/swipeview.js"></script>
-    <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
-    <script src="../js/sidebarEffects.js"></script>
-    <script src="../js/transit.js"></script>
-    <script src="../js/sly.js"></script>
-    <script src="../js/customSly.js"></script>
-    <script src="../js/wow.min.js"></script>
+     <script src="../../js/modernizr.custom.js"></script>
+    <script src="../../js/spin.min.js"></script>
+    <script src="../../js/mySpin.js"></script>
+    <script src="../../js/swipeview.js"></script>
+    <script src="../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../js/classie.js"></script>
+    <script src="../../js/morphingSearch.js"></script>
+    <script src="../../js/sidebarEffects.js"></script>
+    <script src="../../js/transit.js"></script>
+    <script src="../../js/sly.js"></script>
+    <script src="../../js/customSly.js"></script>
+    <script src="../../js/wow.min.js"></script>
     <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../js/scripts.js"></script>
+    <script src="../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
@@ -376,7 +328,39 @@ Law Programmes: Rs 300/-  <br>
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script>
+        $("document").ready(function() {
+            //below code is for retrieving corresponding pages #START
+            var activePage = 'page1';
+            $.ajax({
+                url: 'snipets/' + activePage + '.php',
+                success: function(data) {
+                    $('#page').html(data);
+                },
+                error: function(data) {
+                    alert('failed to load data');
+                }
+            });
+            $('.profile-pagination li a').click(function() {
+                $(this).parent().siblings().removeClass('active');
+                $(this).parent().addClass('active');
+            });
+            $('.profile-pagination li a').click(function() {
+                var activePage = this.getAttribute('data-value');
+                $.ajax({
+                    url: 'snipets/' + activePage + '.php',
+                    success: function(data) {
+                        $('#page').html(data);
+                    },
+                    error: function(data) {
+                        alert('failed to load data');
+                    }
+                });
+            });
+            //above code is for retrieving corresponding pages #END
+        });
 
+    </script>
 </body>
 
 </html>
