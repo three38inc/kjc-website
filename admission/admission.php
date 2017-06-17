@@ -187,14 +187,14 @@
   <div class="panel-body">
    <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
    <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
-	   <b>Selected applicants will be intimated through email. </b></font>
+	   <b>Selected applicants will be intimated through email and sms. </b></font>
 </div>
 </div>
 											
 											<div class="panel panel-default">
   <div class="panel-body">
-    <p><font color="#FF0000" size="2"><u>BA / BS.c / BCA Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 28<sup>th</sup> April, 2017</b> </font>
+    <p><font color="#FF0000" size="2"><u>BA Programmes: </u> </font><br />
+                                                            <font size="2"><b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b> </font>
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />
