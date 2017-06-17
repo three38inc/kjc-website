@@ -138,13 +138,13 @@ win=window.open(mypage,myname,settings);}
   
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../mba/mba.php"><u>MBA/PGDM</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/School-of-Management/mba.php"><u>MBA/PGDM</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/mba_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../mba/mba_pgdm_international_finance.php"><u>MBA/PGDM <br />International<br /> Finance</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/School-of-Management/mba.php"><u>MBA/PGDM <br />International<br /> Finance</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mba_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/mba_international_finance_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>

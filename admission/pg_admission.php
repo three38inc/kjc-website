@@ -133,25 +133,25 @@ win=window.open(mypage,myname,settings);}
  
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mcom.php"><u>M.Com</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom.php"><u>M.Com</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
 <td width="200"><p><a href="pop_up_admission/mcom_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
 <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/socialwork/social_work.php"><u>MSW</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/social_work.php"><u>MSW</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/msw_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_microbiology.php"><u>M.Sc (Microbiology)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/msc_micro.php"><u>M.Sc (Microbiology)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/msc_mb_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_biotechnology.php"><u>M.Sc (Biotechnology)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/msc_bio.php"><u>M.Sc (Biotechnology)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> 
   & Status</u>
   </center></a></p></td>
@@ -160,39 +160,39 @@ win=window.open(mypage,myname,settings);}
   </tr>
   
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/msc/msc_programoffered.php"><u>M.Sc (Psychology)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/psychology/msc_program.php"><u>M.Sc (Psychology)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/msc_psychology_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_economics.php"><u>MA Economics</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/ma_economics.php"><u>MA Economics</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ma_economics_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_english_literatures.php"><u>MA English Literature</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/humanities/ma_english_literature.php"><u>MA English Literature</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ma_english_literature_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ma_mass_communication_journalism.php"><u>MA Journalism & <br /> Mass Communication</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ma_journalism_mass_communication.php"><u>MA Journalism & <br /> Mass Communication</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ma_journalism_mass_communicationfee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mfa.php"><u>M.Com <br />(Financial Analysis)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa.php"><u>M.Com <br />(Financial Analysis)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/mfa_feee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/mcom_fa_cgma.php"><u>M.Com <br />(Financial Analysis<br /> with CGMA)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa_cgma.php"><u>M.Com <br />(Financial Analysis<br /> with CGMA)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>

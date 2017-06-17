@@ -138,19 +138,19 @@ win=window.open(mypage,myname,settings);}
   
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../A-LLB/index.php"><u>B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BA-LLB/index.php"><u>B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
 	   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BCom-LLB/index.php"><u>B.Com., LL.B. <br>(Five Year Integrated)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BCom-LLB/index.php"><u>B.Com., LL.B. <br>(Five Year Integrated)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BBA-LLB/index.php"><u>B.B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-of-Law/BBA-LLB/index.php"><u>B.B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
