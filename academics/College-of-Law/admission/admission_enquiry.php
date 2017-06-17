@@ -123,51 +123,65 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										<span>&nbsp;<font size="5">Law Programme</font> <strong>Admission</strong></span>
+										<span>&nbsp;<font size="5">Admission  </font> <strong>Enquiry</strong></span>
                                     </h4>
+
+					  <form name="contactformlite" method="post" action="admissionform/lite_process.php" onSubmit="return validate.check(this)">
+         
+            <table width="400px" class="cflite" border="0">
+              <tr>
+                <td colspan="2"><p style="text-align:center">We value your privacy<span class="required_star"> <font color="#FF0000"><b>*</b></font> </span><b>are mandatory</b></p></td>
+              </tr>
+              <tr>
+                <td valign="top" class="cflite_td"><label for="Full_Name" class="required"><b>Full Name</b> <span class="required_star"> <font color="#FF0000"><b>*</b></font> </span></label>
+                </td>
+                <td valign="top" class="cflite_td"><input type="text" name="Full_Name" id="Full_Name" maxlength="80" style="width:250px">
+                </td>
+              </tr>
+			   <tr>
+                <td valign="top" class="cflite_td"><label for="Telephone_Number" class="not-required"><b>Address</b><span class="required_star"> <font color="#FF0000"><b>*</b></font> </span></label>
+                </td>
+                <td valign="top" class="cflite_td"><input type="text" name="Address" id="Address" maxlength="100" style="width:250px">
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" class="cflite_td"><label for="Email_Address" class="required"><b>Email Address</b><span class="required_star"> <font color="#FF0000"><b>*</b></font> </span></label>
+                </td>
+                <td valign="top" class="cflite_td"><input type="text" name="Email_Address" id="Email_Address" maxlength="100" style="width:250px">
+                </td>
+              </tr>
+              <tr>
+                <td valign="top" class="cflite_td"><label for="Telephone_Number" class="not-required"><b>Telephone Number</b></label>
+                </td>
+                <td valign="top" class="cflite_td"><input type="text" name="Telephone_Number" id="Telephone_Number" maxlength="100" style="width:250px">
+                </td>
+              </tr> <tr>
+                <td valign="top" class="cflite_td"><label for="Telephone_Number" class="not-required"><b>Course looking for</b> <span class="required_star"> <font color="#FF0000"><b>*</b></font> </span></label>
+                </td>
+                <td valign="top" class="cflite_td"><input type="text" name="Course_Looking" id="Course_Looking" maxlength="100" style="width:250px">
+                </td>
+              </tr>			   
+              <tr>
+                <td valign="top" class="cflite_td"><label for="Your_Message" class="required"><b>Your Message</b><span class="required_star"> <font color="#FF0000"><b>*</b></font> </span></label>
+                </td>
+                <td valign="top" class="cflite_td"><textarea style="width:250px;height:120px" name="Your_Message" id="Your_Message" maxlength="2000"></textarea>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" style="text-align:center"  class="cflite_td"><input type="submit" value="Submit">
+                  
+                </td>
+              </tr>
+            </table>
+          </form>
 									
 									
-									<table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
-  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
-  <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
-  </tr></table>
-  
-  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
-  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BA-LLB/index.php"><u>B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/ba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-	   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BCom-LLB/index.php"><u>B.Com., LL.B. <br>(Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BBA-LLB/index.php"><u>B.B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-	 
-  </table>
-
-
-									<p align=justify>A key instrument to plan and drive the economic means that portray a globalized world is Legislative Law. This has gone under noteworthy weight to change its workings, foundations and elements. Legal education in India is at present experiencing a transformation phase. Law as a profession is going potential again in 21st century because of globalization and this has posed many challenges to legal education in India, but has also brought ample opportunities. The Indian lawful calling is perhaps the largest in the World.</p>
-
-									<p align=justify>The need for principled lawyers, and for the educational institutions to shape them - is especially pressing in India, whose fast economic growth is inseparably connected to its more unpredictable association in the worldwide market. One of the real obstacles the nation needs to overcome on its way to reasonable improvement is unequivocally that of the dearth of talented legitimate experts.</p>
-
-									<p align=justify>The legal education degrees and the curriculum offered at Kristu Jayanti College of Law envisions to facilitate India's need for legal advisors who are able not just at understanding the complexities of Law in this new universal situation, but also at designing novel approaches to change them to meet the regional peculiarities and the country's worldwide interests. Such experts are sure to play a pivotal role in India's venture to set up manageable, comprehensive advancement.</p>
-
-									<p align=justify>Potential legal advisors require legitimate instruction degrees to provide legal counsel. The training way ordinarily takes an aggregate of five to seven years to finish, including three years of undergraduate programme and two years of Legal Education. </p>
-									
+        
+      
 
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                           <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
@@ -227,13 +241,6 @@ Law Programme: Rs 300/- <br>
 									   <a href="#" class="list-group-item">
 										   <font size=2>LAW Counselling result held on 10<sup>th</sup> June 2017</font>
                                         </a>
-                                       
-                                 
-                                   
-
-                                
-                                    
-									
                                    
 
                                 </div>
