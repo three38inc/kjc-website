@@ -140,7 +140,7 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>17 July 2017:</b> Commencement of Trimester I</td>
                             </tr>
                         </table>
@@ -148,7 +148,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>01 August 2017:</b> Commencement of Trimester IV</td>
                             </tr>
                         </table>
@@ -156,7 +156,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>13, 14 & 15th Aug 2017:</b> Gramasamvedhitha</td>
                             </tr>
                         </table>
@@ -164,7 +164,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>07 Sep 2017:</b> Management Development Programme </td>
                             </tr>
                         </table>
@@ -172,7 +172,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/check-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>28 Sep 2017:</b> Intra Collegiate Management Fest - Talento 2K17 </td>
                             </tr>
                         </table>
@@ -181,7 +181,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/hourglass-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>24 &amp; 25 Nov 2017:</b> Inter Collegiate Management Fest - Synectics 2K17</td>
                             </tr>
                         </table>
@@ -190,7 +190,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/easel-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>29 &amp; 30 Nov 2017:</b> Faculty Development Programme </td>
                             </tr>
                         </table>
