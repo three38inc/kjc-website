@@ -84,9 +84,171 @@
 										<img src="images/banner_deptspecial.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Management  <strong>Fests winners   </strong></span></h4>
+                                    <span>&nbsp; Management  <strong>Fests </strong></span></h4>
+									
+									<p align=justify>Kristu Jayanti School of Management, constantly motivate and support the students to participate in various management fests and competition across the nation and globally to make the students competitive and to bring out the hidden talents in them. Both the first and second year MBA/PGDM students of the batches 2016-18 and 2015-17 respectively participated in various management fests at national and state level across the country and brought laurels to the School of Management. The below is the list of events won by the students of MBA/PGDM:</p>
+									
+									<table class="table table-bordered table-hover">
+  <tr>
+    <td width="85" valign="top"><p align="center"><strong>S.no</strong></p></td>
+    <td width="90" valign="top"><p align="center"><strong>Date</strong></p></td>
+    <td width="114" valign="top"><p align="center"><strong>Name of fest</strong></p></td>
+    <td width="126" valign="top"><p align="center"><strong>Organiser or    college</strong></p></td>
+    <td width="90" valign="top"><p align="center"><strong>No. of    Students</strong></p></td>
+    <td width="140" valign="top"><p align="center"><strong>Result</strong></p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">1</p></td>
+    <td width="90" valign="top"><p align="center">30/9/2016<br />
+      -<br />
+      1/10/2016</p></td>
+    <td width="114" valign="top"><p align="center">Berchnova 2016</p></td>
+    <td width="126" valign="top"><p align="center">St. Berchmans College, Changanacherry</p></td>
+    <td width="90" valign="top"><p align="center">21<br />
+      Members<br />
+      (6 Teams)</p></td>
+    <td width="140" valign="top"><p align="center">Marketing team and Best Manager were    the runners up and BMT was the 2nd runners up</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">2</p></td>
+    <td width="90" valign="top"><p align="center">27/10/2016<br />
+      -<br />
+      28/10/2016</p></td>
+    <td width="114" valign="top"><p align="center">Vishesh 2016</p></td>
+    <td width="126" valign="top"><p align="center">Ramaiah Institute of Management,    Bangalore</p></td>
+    <td width="90" valign="top"><p align="center">9<br />
+      Members<br />
+      (4 Teams)</p></td>
+    <td width="140" valign="top"><p align="center">Finance team won 1st price,    Runners up in Best Manager</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">3</p></td>
+    <td width="90" valign="top"><p align="center">25/11/2016<br />
+      -<br />
+      26/11/2016</p></td>
+    <td width="114" valign="top"><p align="center">USHUS 2016</p></td>
+    <td width="126" valign="top"><p align="center">Christ Institute of Management</p></td>
+    <td width="90" valign="top"><p align="center">2<br />
+      Members<br />
+      (1 Teams)</p></td>
+    <td width="140" valign="top"><p align="center">General management Event<br />
+      First Prize</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">4</p></td>
+    <td width="90" valign="top"><p align="center">16/1/2017 – <br />
+      17/1/2017</p></td>
+    <td width="114" valign="top"><p align="center">DIAKSHIRI</p></td>
+    <td width="126" valign="top"><p align="center">Mount Carmel Institute of Management</p></td>
+    <td width="90" valign="top"><p align="center">6<br />
+      Members<br />
+      (3 Teams)</p></td>
+    <td width="140" valign="top"><p align="center">Retail<br />
+      IT<br />
+      HR<br />
+      Runner up in all the three events</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">5</p></td>
+    <td width="90" valign="top"><p align="center">16/2/2017<br />
+      -<br />
+      17/2/2017</p></td>
+    <td width="114" valign="top"><p align="center">&ldquo;Perceptions 2017&rdquo;</p></td>
+    <td width="126" valign="top"><p align="center">Ramaiah Institute of Management,    Bangalore</p></td>
+    <td width="90" valign="top"><p align="center">14<br />
+      Members<br />
+      (4 Teams)</p></td>
+    <td width="140" valign="top"><p align="center"><strong>Overall    champions</strong><br />
+      The Treasure Hunt team 1st    place<br />
+      The Finance team 1st place<br />
+      The Mad Ads team 1st place<br />
+      The HR team2nd place</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">6</p></td>
+    <td width="90" valign="top"><p align="center">3/3/2017<br />
+      -<br />
+      4/3/2017 </p></td>
+    <td width="114" valign="top"><p align="center">&ldquo;Archish 2017&rdquo;</p></td>
+    <td width="126" valign="top"><p align="center">The Indus Business Academy</p></td>
+    <td width="90" valign="top"><p align="center">17<br />
+      Members<br />
+      (7 Teams)</p></td>
+    <td width="140" valign="top"><p align="center"><strong>Overall    champions</strong><br />
+      The Business Analytics Team1st place<br />
+      The Retail Team 1st place<br />
+      Sustainability Team 1st place<br />
+      The Economics Team 2nd place<br />
+      The Business Quiz Team 2nd place<br />
+      The Ad Make-up team 2nd place<br />
+      The Treasure Hunt Team 2nd place<br />
+      the Best Manager 1st place</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">7</p></td>
+    <td width="90" valign="top"><p align="center">3/03/2017<br />
+      -<br />
+      4/03/2017 </p></td>
+    <td width="114" valign="top"><p align="center">&ldquo;Expedite 2017&rdquo;</p></td>
+    <td width="126" valign="top"><p align="center">CMR institute of Information    Technology</p></td>
+    <td width="90" valign="top"><p align="center">13<br />
+      Members<br />
+      (7 Teams)</p></td>
+    <td width="140" valign="top"><p align="center"><strong>Overall    champions</strong><br />
+      Business Quiz<br />
+      The Mad Ads Team1st place<br />
+      Crisis Management 2nd place<br />
+      Product Launch 2nd place<br />
+      &nbsp; The Treasure Hunt Team 2nd    place</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">8</p></td>
+    <td width="90" valign="top"><p align="center">5/04/2017<br />
+      -<br />
+      6/04/2017</p></td>
+    <td width="114" valign="top"><p align="center">&ldquo;Eclat 2017&rdquo;</p></td>
+    <td width="126" valign="top"><p align="center">Jain University</p></td>
+    <td width="90" valign="top"><p align="center">22<br />
+      Members<br />
+      (8 Teams)</p></td>
+    <td width="140" valign="top"><p align="center"><strong>Overall    champions</strong><br />
+      The Finance team<br />
+      2nd place<br />
+      The Business Quiz<br />
+      2nd place <br />
+      The Marketing team 1st    place<br />
+      The HR team 1st place<br />
+      Photography 1st place<br />
+      The Treasure Hunt Team 1st    place<br />
+      The Solo Dance 1st and 2nd    place<br />
+      The Group Dance 1st place<br />
+      The Best Manager</p></td>
+  </tr>
+  <tr>
+    <td width="85" valign="top"><p align="center">9</p></td>
+    <td width="90" valign="top"><p align="center">7/04/2017 <br />
+      -  <br />
+      8/04/ 2017</p></td>
+    <td width="114" valign="top"><p align="center">&ldquo;Quest 2017&rdquo;</p></td>
+    <td width="126" valign="top"><p align="center">BMS College of Engineering</p></td>
+    <td width="90" valign="top"><p align="center">7<br />
+      Members<br />
+      (4 Teams)</p></td>
+    <td width="140" valign="top"><p align="center"><strong>Overall    champions</strong><br />
+      Business Quiz Team 1st place<br />
+      The Business Plan Team 1st place<br />
+      &nbsp; The Marketing team 1st place<br />
+      &nbsp; Best Manager 1st place</p></td>
+  </tr>
+</table>
+									
+									
+									
+									
+									
+									
 								
-								<p><b>Date:</b> 16th & 17th February, 2017<br>
+							<!--	<p><b>Date:</b> 16th & 17th February, 2017<br>
 									<b>Conducted by:</b> “Perceptions 2017” conducted by Ramaiah Institute of Management<br>
 									<b>Events Won:</b> 1. The Treasure Hunt team comprising Jacob Matthew, Roja Elza, Donal James and Merin Jose  won the 1st place!<br>
 2. The Finance team, Anup Raj and Ansu Joseph, won the 1st place!<br>
@@ -168,7 +330,7 @@
 (ii) Deepti<br>
 
 
-									<b>Position:</b>Runner up in all the three events</p>
+									<b>Position:</b>Runner up in all the three events</p>-->
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
