@@ -6,6 +6,11 @@
     <span style="font-size: 20px;">&nbsp;Welcome to <strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti School of Management</strong></span>
 </h4>
 <!--<hr />-->
-<p style="text-align:justify;padding-top:15px;"> Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd,3rd,4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore.</p>
+<p style="text-align:justify;padding-top:15px;"> Kristu Jayanti School of Management has grown at a staggering pace since its inception with a strong vision and a mission. The School of Management has created ethical and wise business leaders who span the globe and it has also produced vibrant entrepreneurs during its journey. Kristu Jayanti School of Management continues its path breaking journey with the following Vision and Mission:</p>
 
-<p align=justify>The institution strives to fulfill its mission to provide educational opportunities to all aspiring youth to excel in life by developing academic excellence, fostering values, creating civic responsibility and building global competencies in a dynamic environment.</p>
+<p align=justify><strong style="font-size:1.2em;"><u>Vision</u></strong><br/>
+To provide Innovative relevance in managerial education by empowering youth with holistic integrity and a thirst for social transformation
+
+<strong style="font-size:1.2em;"><u>Mission</u></strong><br/>
+The department of Management Studies vouches to educate management students with a passion to effectively lead industries, impart social transcendence and emanate global competency.
+</p>

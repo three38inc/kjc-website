@@ -276,7 +276,15 @@
         $('#event-year').html((new Date()).getFullYear());
         $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
         $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
-        getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+        var url = new URL(window.location.href);
+        var mode = url.searchParams.get("mode");
+        if(mode=="openlink"){
+            getNews(url.searchParams.get("year"), url.searchParams.get("month"),mode,url.searchParams.get("url"));
+        }
+        else
+        {
+            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+        }
         $('.event-navigator a').on('click', function(e) {
             $('.event-navigator a').removeAttr("class");
             $(this).addClass("nowMonth");

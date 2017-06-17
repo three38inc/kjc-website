@@ -119,7 +119,7 @@
 </style>
 <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:650px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-        <span>&nbsp;New &amp;<strong> Updates</strong></span>
+        <span>&nbsp;News &amp;<strong> Events</strong></span>
         <ul class="pagination1 pull-right" style="margin: 0px;">
             <li>
                 <a href="#" class="prev" id="prev-high">
@@ -140,35 +140,36 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>MBA/PGDM:</b> Counselling will be held on 23<sup>rd</sup>January, 2016.
-                                    Apply online on or before 18thJanuary, 2016  <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                                <td><img src="../../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Commencement of Trimester I<br/>
+                                    <strong>1st August 2017</strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>MCA:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27thJanuary, 2016
-                                    <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                                <td><img src="../../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Commencement of Trimester IV<br/>
+                                    <strong>17<sup>th</sup> July 2017</strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/1.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> All other PG Programme:</b> Counselling will be held on 30<sup>th</sup>January, 2016. Apply online on or before 27<sup>th</sup>January, 2016
-                                    <a href="../../admission/admission_2016.php">(Apply online)</a></td>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Gramasamvedhitha<br/>
+                                <strong>13, 14 & 15th Aug 2017</strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/megaphone-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>51st Convocation of Bangalore University <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Management Development Programme <br/>
+                                <strong>07<sup>th</sup> Sep 2017 </strong></td>
                             </tr>
                         </table>
                     </li>
@@ -176,58 +177,75 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../images/trophy-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KALAJYOTHI <a href="#">[CLICK HERE FOR RESULT]</a></td>
+                                <td>Intra Collegiate Management Fest - Talento 2K17 <br/>
+                                <strong>28<sup>th</sup> Sep 2017 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 <a href="#">[CLICK HERE FOR DETAILS]</a></td>
+                                <td><img src="../../images/trophy-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Inter Collegiate Management Fest - Synectics 2K17 <br/>
+                                <strong>24<sup>th</sup> &amp; 25<sup>th</sup> Nov 2017 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Faculty Development Programme <br/>
+                                <strong>29<sup>th</sup> &amp; 30<sup>th</sup> Nov 2017 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Panel Discussions <br/>
+                                <strong>02<sup>nd</sup> Feb 2018 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/megaphone-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Abhigyan  2K18 - Management Through Theatre <br/>
+                                <strong>09<sup>th</sup> Feb 2018 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/img (12).png" width="50" height="50" class="img-circle" /></td>
+                                <td>Incognito 2K18 - Business Quiz Competition <br/>
+                                <strong>21<sup>st</sup> April 2018 </strong></td>
                             </tr>
                         </table>
                     </li>
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td>KRIDOTHSAVA 2015-16 FIXTURES <a href="#">[CLICK HERE]</a></td>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>International Conference  - KRISYM 2K18 <br/>
+                                <strong>27<sup>th</sup> &amp; 28<sup>th</sup> April 2018 </strong></td>
                             </tr>
                         </table>
                     </li>
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+                                <td>Ventura 2K18 - Business Plan Contest <br/>
+                                <strong>11<sup>th</sup> May 2018 </strong></td>
+                            </tr>
+                        </table>
+                    </li>
+                    
                 </ul>
             </div>
         </div>
