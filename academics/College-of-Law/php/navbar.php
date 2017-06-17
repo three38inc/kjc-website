@@ -524,7 +524,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="<?php echo $ROOT; ?>/admission/admission.php" id="contact">Admission</a>
+                    <a  href="admission/index.php" id="contact">Admission</a>
                 </li>
 
                 <li class="hidden-lg">
