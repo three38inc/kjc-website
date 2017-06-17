@@ -149,7 +149,7 @@ win=window.open(mypage,myname,settings);}
   </tr></table>
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../one_year_pg_diploma/pg_diploma_programme.php"><u>Post Graduate<br /> Diploma (One Year)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/pg_diploma.php"><u>Post Graduate<br /> Diploma (One Year)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/post_graduate_diploma_one_year_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/pg_diploma_working_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
