@@ -1,6 +1,6 @@
 <br><br/>
 <center><h4 class="mainheading" style="background-position: bottom center;">
-    <span>&nbsp;Kristu Jayanti <strong> School of Management</strong></span>
+    <span style="color: #fff;">&nbsp;Kristu Jayanti <strong> School of Management</strong></span>
 </h4></center>
 <div class="row">
     <div class="col-lg-1 col-md-1 hidden-xs hidden-sm"></div>
