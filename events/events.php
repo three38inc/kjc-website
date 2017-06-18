@@ -1,4 +1,5 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html>
+<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?>
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +19,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
+    
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -212,30 +213,30 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-									
-									 <iframe src="right_events.php" style="border:none;" height="1000px" width="295px"></iframe> 
-                                    </div>
-									
-								</div>
+
+                                    <iframe src="right_events.php" style="border:none;" height="1000px" width="295px"></iframe>
+                                </div>
 
                             </div>
+
                         </div>
                     </div>
-
-                    <?php include ('../php/alerts.php');  ?>
-                    <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
-
-
-
-
                 </div>
-                <!--/st-content-inner-->
+
+                <?php include ('../php/alerts.php');  ?>
+                <?php include('../php/footer.php'); ?>
+                
+
+
+
+
             </div>
-            <!-- this is the wrapper for the content-->
+            <!--/st-content-inner-->
         </div>
-        <!--st-pusher-->
-  
+        <!-- this is the wrapper for the content-->
+    </div>
+    <!--st-pusher-->
+
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
@@ -255,7 +256,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
+    
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
@@ -274,45 +275,47 @@
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <script type="text/javascript">
-        $('#event-year').html((new Date()).getFullYear());
-        $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
-        $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+        
         var url = new URL(window.location.href);
         var mode = url.searchParams.get("mode");
-        if(mode=="openlink"){
-            getNews(url.searchParams.get("year"), url.searchParams.get("month"),mode,url.searchParams.get("url"));
-        }
-        else
-        {
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+        if (mode == "openlink") {
+            $('#event-year').html(url.searchParams.get("year"));
+            $('.event-navigator a:nth-child(' + (getMonth(url.searchParams.get("month")) + 1) + ')').addClass("nowMonth");
+            $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+            getNews(url.searchParams.get("year"), url.searchParams.get("month"), mode, url.searchParams.get("url"));
+        } else {
+            $('#event-year').html((new Date()).getFullYear());
+            $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
+            $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+            getNews($('#event-year').html(), $('.nowMonth').html(), "monthview", "blank");
         }
         $('.event-navigator a').on('click', function(e) {
             $('.event-navigator a').removeAttr("class");
             $(this).addClass("nowMonth");
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+            getNews($('#event-year').html(), $('.nowMonth').html(), "monthview", "blank");
         });
         $(".yearLeft").click(function() {
             var year = Number(document.getElementById('event-year').innerHTML);
             document.getElementById('event-year').innerHTML = year - 1;
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+            getNews($('#event-year').html(), $('.nowMonth').html(), "monthview", "blank");
         });
         $(".yearRight").click(function() {
             var year = Number(document.getElementById('event-year').innerHTML);
             document.getElementById('event-year').innerHTML = year + 1;
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+            getNews($('#event-year').html(), $('.nowMonth').html(), "monthview", "blank");
         });
-        $('body').on('click',".event-links",function(e){
+        $('body').on('click', ".event-links", function(e) {
             e.preventDefault();
-            var url=$(this).attr("href");
-            var year=$(this).data("year");
-            var month=$(this).data("month");
+            var url = $(this).attr("href");
+            var year = $(this).data("year");
+            var month = $(this).data("month");
             $('.event-navigator a').removeAttr("class");
-            $('.event-navigator a:contains("'+month+'")').addClass("nowMonth");
-            var mode="openlink";
-            getNews(year,month,mode,url);
+            $('.event-navigator a:contains("' + month + '")').addClass("nowMonth");
+            var mode = "openlink";
+            getNews(year, month, mode, url);
         });
 
-        function getNews(year, month,mode,url) {
+        function getNews(year, month, mode, url) {
             var dataString = "year=" + (year) + "&month=" + (month) + "&mode=" + (mode) + "&url=" + (url);
             $.ajax({
                 url: "loadEvent.php",
@@ -325,6 +328,51 @@
 
                 }
             });
+        }
+
+        function getMonth(month) {
+            var no;
+            switch (month) {
+                case 'january':
+                    no = 0;
+                    break;
+                case 'february':
+                    no = 1;
+                    break;
+                case 'march':
+                    no = 2;
+                    break;
+                case 'april':
+                    no=3;
+                    break;
+                case 'may':
+                    no=4;
+                    break;
+                case 'june':
+                    no=5;
+                    break;
+                case 'july':
+                    no=6;
+                    break;
+                case 'august':
+                    no = 7;
+                    break;
+                case 'september':
+                    no = 8;
+                    break;
+                case 'october':
+                    no=9;
+                    break;
+                case 'november':
+                    no=10;
+                    break;
+                case 'december':
+                    no=11;
+                    break;
+                default:
+                    no=0;
+            }
+            return no;
         }
 
     </script>
