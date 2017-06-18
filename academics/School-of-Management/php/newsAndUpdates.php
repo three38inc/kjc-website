@@ -119,7 +119,9 @@
 </style>
 <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:650px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+
         <span>&nbsp;New &amp;<strong> Events</strong></span>
+
         <ul class="pagination1 pull-right" style="margin: 0px;">
             <li>
                 <a href="#" class="prev" id="prev-high">
@@ -140,40 +142,50 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>17 July 2017:</b> Commencement of Trimester I</td>
+
                             </tr>
                         </table>
                     </li>
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>01 August 2017:</b> Commencement of Trimester IV</td>
+
                             </tr>
                         </table>
                     </li>
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>13, 14 & 15th Aug 2017:</b> Gramasamvedhitha</td>
+
                             </tr>
                         </table>
                     </li>
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>07 Sep 2017:</b> Management Development Programme </td>
+
                             </tr>
                         </table>
                     </li>
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/check-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>28 Sep 2017:</b> Intra Collegiate Management Fest - Talento 2K17 </td>
+
                             </tr>
                         </table>
                     </li>
@@ -181,8 +193,10 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/hourglass-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>24 &amp; 25 Nov 2017:</b> Inter Collegiate Management Fest - Synectics 2K17</td>
+
                             </tr>
                         </table>
                     </li>
@@ -190,8 +204,10 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/easel-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>29 &amp; 30 Nov 2017:</b> Faculty Development Programme </td>
+
                             </tr>
                         </table>
                     </li>
@@ -199,8 +215,10 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/gear-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>02 Feb 2018:</b> Panel Discussions  </td>
+
                             </tr>
                         </table>
                     </li>
@@ -208,8 +226,10 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/news-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>09 Feb 2018:</b> Abhigyan  2K18 - Management Through Theatre  </td>
+
                             </tr>
                         </table>
                     </li>
@@ -217,8 +237,10 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>21 Apr 2018:</b> Incognito 2K18 - Business Quiz Competition</td>
+
                             </tr>
                         </table>
                     </li>
@@ -226,6 +248,7 @@
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
+
                                 <td><img src="../../images/calendar-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>27 &amp; 28 Apr 2018:</b> International Conference  - KRISYM 2K18</td>
                             </tr>
@@ -243,6 +266,7 @@
 					
 					
 					
+
                     
                 </ul>
             </div>

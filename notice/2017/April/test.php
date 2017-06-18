@@ -1,0 +1,1 @@
+<div class='col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab'><div><b>The news is displayed here</b><br/></div></div>

@@ -205,10 +205,12 @@
                     <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav">&nbsp; My Favourites</a></li>
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Department Special</a></li>
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
+
 					 <li role="presentation"><a aria-controls="profile" role="button" data-filter=".ach">&nbsp; Achievements</a></li>
                     <li role="presentation"><a href="faculty.php" aria-controls="settings" role="button" data-filter=".fac">&nbsp; Faculty</a></li>
 				  <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp; Examination</a></li>
                     
+
                 </ul>
             </div>
 
@@ -217,6 +219,8 @@
                     <li role="presentation" class="active" style="margin: 0px 3%;"><a aria-controls="sample" role="button" style="padding: 5px 12px;color: #428643;" data-filter=".myFav"><i class="flaticon-kjc-favourites"></i></a></li>
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".spl"><i class="flaticon-kjc-special"></i></a></li>
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="messages" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".student"><i class="flaticon-kjc-life"></i></a></li>
+                    <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".ach"><i class="flaticon-kjc-miscellaneous"></i></a></li>
+                    <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".fac"><i class="flaticon-kjc-miscellaneous"></i></a></li>
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="profile" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".exam"><i class="flaticon-kjc-exam"></i></a></li>
                     
 
@@ -331,63 +335,80 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="intra_collegiate_fests.php">
                         <div class="accTabs color-1">
                             <h2><i class="flaticon-kjc-art c1"></i>Management Fests </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="B_quiz.php">
                         <div class="accTabs color-2">
                             <h2><i class="flaticon-kjc-sports c2"></i>B-Quiz </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="soft_skill_training.php">
                         <div class="accTabs color-3">
                             <h2><i class="flaticon-kjc-celebrations c3"></i>Skill Development </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="out_bound_training_programme.php">
                         <div class="accTabs color-4">
                             <h2><i class="flaticon-kjc-services c4"></i>Leadership Through Outbound Training </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="current_business_awareness.php">
                         <div class="accTabs color-5">
                             <h2><i class="flaticon-kjc-festivals c5"></i>Current Business Awareness Activities</h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
+
                         <a href="#">
                         <div class="accTabs color-6">
                             <h2><i class="flaticon-kjc-association c6"></i>Sports &amp; Cultural Celebrations</h2>
+
                         </div>
                         </a>
                     </div>
 					 
                     <div class=" col-lg-4 col-xs-12 spl">
+
                         <a href="industry_institute_interface.php">
                         <div class="accTabs color-1">
 							<h2><i class="flaticon-kjc-vichaarmanthan c1"></i>Industry Inst Interface (3i) </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
+
                         <a href="international_exposure.php">
                         <div class="accTabs color-2">
                             <h2><i class="flaticon-kjc-ccpd c2"></i>International Exposure </h2>
+
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 spl">
+
                         <a href="gramasamvedita.php">
                         <div class="accTabs color-3">
 							<h2><i class="flaticon-kjc-extension c3"></i>Rural Exposure </h2>
@@ -423,6 +444,7 @@
                         <a href="entrepreneurial_emphasis.php">
                         <div class="accTabs color-3">
 							<h2><i class="flaticon-kjc-extension c3"></i>Entrepreneurial Emphasis </h2>
+
                         </div>
                         </a>
                     </div>
@@ -442,10 +464,6 @@
                         </div>
                         </a>
                     </div>
-					
-                    
-
-                  
                 </div>
             </div>
         </div>
