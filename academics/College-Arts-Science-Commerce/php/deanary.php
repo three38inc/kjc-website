@@ -10,7 +10,7 @@
         </div>
         <h3>Faculty of Science</h3>
         <p>Faculty of Science is working at the cutting-edge of developments, providing an environment in which students can draw ..</p>
-        <a href="Faculty-Science/index.php">Know More</a>
+        <a href="Faculty-Sciences/index.php">Know More</a>
     </div>
 
     <div class="col-lg-4 deanary" id="falCom">

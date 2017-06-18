@@ -45,7 +45,7 @@
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="<?php echo $ROOT ; ?>/admission/admission.php" id="contact">Admission</a>
+                    <a  href="admission.php" id="contact">Admission</a>
                 </li>
                 
                 <li>

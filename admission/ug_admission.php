@@ -133,37 +133,37 @@ win=window.open(mypage,myname,settings);}
   </tr></table>
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom.php"><u>B.Com</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom.php"><u>B.Com</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom_tourism.php"><u>B.Com (Tourism)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom_tourism.php"><u>B.Com (Tourism)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_tourism_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_tourism_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom_professional.php"><u>B.Com (Professional)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom_professioal.php"><u>B.Com (Professional)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_professional_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_professional_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/commerce/bcom_integrated_bcom_acca.php"><u>B.Com with ACCA</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/bcom_integrated_bcom_acca.php"><u>B.Com with ACCA</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_acca_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bcom_acca_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/management/bbm.php"><u>BBA</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/bba.php"><u>BBA</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bbm_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/management/bba_cgma_integrated.php"><u>BBA <br />(Integrated with<br /> CGMA)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/management/bba_integrated.php"><u>BBA <br />(Integrated with<br /> CGMA)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bbm_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bba_integrated_cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
@@ -176,31 +176,31 @@ win=window.open(mypage,myname,settings);}
   
 <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/computerscience/bca.php"><u>BCA</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca.php"><u>BCA</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bca_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/computerscience/bsc_csme.php"><u>B.Sc (CSME)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bsc_csme.php"><u>B.Sc (CSME)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_csme_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/computerscience/bsc_csms.php"><u>B.Sc (CSMS)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bsc_csms.php"><u>B.Sc (CSMS)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_csms_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/bsc/bsc_biotechnology.php"><u>B.Sc (Biotechnology)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/bsc_bio.php"><u>B.Sc (Biotechnology)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/bsc/bsc_microbiology.php"><u>B.Sc (Microbiology)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/bsc_micro.php"><u>B.Sc (Microbiology)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_mb_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
@@ -212,31 +212,31 @@ win=window.open(mypage,myname,settings);}
   
  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_hep.php"><u>BA (HEP)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/humanities/ba_hep.php"><u>BA (HEP)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_hep_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_htj.php"><u>BA (HTJ)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba_htj.php"><u>BA (HTJ)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_htj_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_jpcs.php"><u>BA (JPCS)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba_jpcs.php"><u>BA (JPCS)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_jpcs_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
- <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_jpeng.php"><u>BA (JPEng)</u></a></b></p></td>
+ <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba_jpeng.php"><u>BA (JPEng)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_jpeng_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
    <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/ba/ba_jpoleng.php"><u>BA (JPolEng)</u></a></b></p></td>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/journalism/ba_jpoleng.php"><u>BA (JPolEng)</u></a></b></p></td>
   <td width="200"><p><a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
   <td width="200"><p><a href="pop_up_admission/ba_jpoleng_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>

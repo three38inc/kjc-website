@@ -123,51 +123,29 @@ win=window.open(mypage,myname,settings);}
                                     <img src="../../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										<span>&nbsp;<font size="5">Law Programme</font> <strong>Admission</strong></span>
+										<span>&nbsp;<font size="5">Guidelines </font> <strong> Login</strong></span>
                                     </h4>
-									
-									
-									<table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
-  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
-  <td width="600" bgcolor="#dce6f1"><p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click the link below to view the respective Details</b></p></td>
-  </tr></table>
-  
-  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed">
-  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BA-LLB/index.php"><u>B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/ba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-	   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BCom-LLB/index.php"><u>B.Com., LL.B. <br>(Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../BBA-LLB/index.php"><u>B.B.A., LL.B.<br> (Five Year Integrated)</u></a></b></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="../../../admission/pop_up_admission/bba_llb_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-	 
-  </table>
+
+						<div class="alert alert-dismissible alert-success">
+ 
+	
+                               <p><b> 1. </b>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome. <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p>
+ 
+ <p><b>2. </b> If the session expires if it remains idle for 10 minutes. Use the "Save" button towards the bottom of the E-form page to avoid session from getting expired.</p>
+ 
+<p><b>3.</b> Refer the User ID and Password shared through your email at the time of registration.</p>
+</div>
+				
+									<center><a href="http://www.tcsion.com/EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank" class="btn btn-primary btn-sm">CLCIK HERE TO PROCEED TO LOGIN PAGE </a></center>
 
 
-									<p align=justify>A key instrument to plan and drive the economic means that portray a globalized world is Legislative Law. This has gone under noteworthy weight to change its workings, foundations and elements. Legal education in India is at present experiencing a transformation phase. Law as a profession is going potential again in 21st century because of globalization and this has posed many challenges to legal education in India, but has also brought ample opportunities. The Indian lawful calling is perhaps the largest in the World.</p>
 
-									<p align=justify>The need for principled lawyers, and for the educational institutions to shape them - is especially pressing in India, whose fast economic growth is inseparably connected to its more unpredictable association in the worldwide market. One of the real obstacles the nation needs to overcome on its way to reasonable improvement is unequivocally that of the dearth of talented legitimate experts.</p>
 
-									<p align=justify>The legal education degrees and the curriculum offered at Kristu Jayanti College of Law envisions to facilitate India's need for legal advisors who are able not just at understanding the complexities of Law in this new universal situation, but also at designing novel approaches to change them to meet the regional peculiarities and the country's worldwide interests. Such experts are sure to play a pivotal role in India's venture to set up manageable, comprehensive advancement.</p>
-
-									<p align=justify>Potential legal advisors require legitimate instruction degrees to provide legal counsel. The training way ordinarily takes an aggregate of five to seven years to finish, including three years of undergraduate programme and two years of Legal Education. </p>
-									
+                          
 
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                           <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
@@ -227,13 +205,6 @@ Law Programme: Rs 300/- <br>
 									   <a href="#" class="list-group-item">
 										   <font size=2>LAW Counselling result held on 10<sup>th</sup> June 2017</font>
                                         </a>
-                                       
-                                 
-                                   
-
-                                
-                                    
-									
                                    
 
                                 </div>

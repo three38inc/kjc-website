@@ -86,7 +86,7 @@
     }
     
     .accTabs i {
-        color: #428641;
+/*        color: #428641;*/
         margin-right: 15px;
         transition: all ease-in-out .3s;
     }
@@ -97,7 +97,102 @@
     #accPillTab a:focus {
         text-decoration: none;
     }
+    .c1{
+    color: #10c45c;
+}
 
+.c2{
+    color: #24ccc0;
+}
+
+.c3{
+    color: #fc5f42;
+}
+
+.c4{
+    color: #45aef4;
+}
+
+.c5{
+    color: #ad33c6;
+}
+
+.c6{
+    color: #f8c331;
+}
+
+.c7{
+    color: #e1001a;
+}
+    .color-1{
+    border-right: 1px solid  #10c45c;
+}
+
+.color-1:hover{
+    background-color: #10c45c;
+    border-right: 5px solid  #0eb053;
+    color: #fff;
+}
+
+.color-2{
+    border-right: 1px solid  #24ccc0;
+}
+
+.color-2:hover{
+    background-color: #24ccc0;
+    border-right: 5px solid  #079d92;
+    color: #fff;
+}
+
+.color-3{
+    border-right: 1px solid  #fc5f42;
+}
+
+.color-3:hover{
+    background-color: #fc5f42;
+    border-right: 5px solid  #fd2a03;
+    color: #fff;
+}
+
+.color-4{
+    border-right: 1px solid  #45aef4;
+}
+
+.color-4:hover{
+    background-color: #45aef4;
+    border-right: 5px solid  #008be7;
+    color: #fff;
+}
+
+.color-5{
+    border-right: 1px solid  #ad33c6;
+}
+
+.color-5:hover{
+    background-color: #ad33c6;
+    border-right: 5px solid  #9000ae;
+    color: #fff;
+}
+
+.color-6{
+    border-right: 1px solid  #f8c331;
+}
+
+.color-6:hover{
+    background-color: #f8c331;
+    border-right: 5px solid  #e1a500;
+    color: #fff;
+}
+
+.color-7{
+    border-right: 1px solid  #e1001a;
+}
+
+.color-7:hover{
+    background-color: #e1001a;
+    border-right: 5px solid  #a1001a;
+    color: #fff;
+}
 </style>
 
 
@@ -110,10 +205,11 @@
                     <li role="presentation" class="active"><a aria-controls="sample" role="button" data-filter=".myFav">&nbsp; My Favourites</a></li>
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Department Special</a></li>
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
+
+					 <li role="presentation"><a aria-controls="profile" role="button" data-filter=".ach">&nbsp; Achievements</a></li>
+                    <li role="presentation"><a href="faculty.php" aria-controls="settings" role="button" data-filter=".fac">&nbsp; Faculty</a></li>
+				  <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp; Examination</a></li>
                     
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".ach">&nbsp; Achievements</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".fac">&nbsp; Faculty</a></li>
-                    <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp;Examinations</a></li>
 
                 </ul>
             </div>
@@ -138,227 +234,236 @@
                 <div class="tab-content" id="accPillTab">
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/home/academic-calendar.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-calendar"></i>Academic Calender</h2>
+                            <div class="accTabs color-1">
+                                <h2><i class="flaticon-kjc-calendar c1"></i>Academic Calender</h2>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/notice/notice.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-notice"></i>Circulars</h2>
+                            <div class="accTabs color-2">
+                                <h2><i class="flaticon-kjc-notice c2"></i>Notice</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/events/events.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-events"></i>Events</h2>
+                            <div class="accTabs color-3">
+                                <h2><i class="flaticon-kjc-events c3"></i>Events</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
                         <a href="https://www.tcsion.com/SelfServices/" target="_blank">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-cms"></i>TCS iON</h2>
+                            <div class="accTabs color-4">
+                                <h2><i class="flaticon-kjc-cms c4"></i>TCS iON</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
                         <a href="https://www.google.com/a/kristujayanti.com/ServiceLogin?service=mail&passive=true&rm=false&continue=http://mail.google.com/a/kristujayanti.com/&ltmpl=default&ltmplcache=2" target="_blank">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-mail"></i>Mail</h2>
+                            <div class="accTabs color-5">
+                                <h2><i class="flaticon-kjc-mail c5"></i>Mail</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
-                        <a href="<?php echo $ROOT ; ?>/home/contact-us.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-contact"></i>Support</h2>
-                            </div>
+                        <a href="<?php echo $ROOT ; ?>/placements/about_cecr.php">
+                        <div class="accTabs color-6">
+                            <h2><i class="flaticon-kjc-collaborations c6"></i>Placements</h2>
+                        </div>
+                        </a>
+                    </div>
+                    
+                    <div class=" col-lg-4 col-xs-12 myFav">
+                        <a href="<?php echo $ROOT ; ?>/gallery/index.php">
+                        <div class="accTabs color-7">
+                            <h2><i class="flaticon-kjc-gallery c7"></i>Gallery</h2>
+                        </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 myFav">
                         <a href="http://www.tcsion.com/PVC/" target="_blank">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-connect"></i>Campus Connect</h2>
+                            <div class="accTabs color-2">
+                                <h2><i class="flaticon-kjc-connect c2"></i>Campus Connect</h2>
                             </div>
                         </a>
                     </div>
+
                     <div class=" col-lg-4 col-xs-12 myFav">
                         <a href="http://events.kristujayanti.edu.in" target="_blank">
-                            <div class="accTabs">
-                                <h2><i class="fa fa-calendar-o"></i>Enroll for an Event</h2>
+                            <div class="accTabs color-1">
+                                <h2><i class="fa fa-calendar-o c1"></i>Enroll for an Event</h2>
                             </div>
                         </a>
                     </div>
+                    
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/semester_pattern_ug_pg.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-programme"></i>Programme Pattern</h2>
+                            <div class="accTabs color-3">
+                                <h2><i class="flaticon-kjc-programme c3"></i>Programme Pattern</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/examination_calendar.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-examcalendar"></i>Examination Calendar</h2>
+                            <div class="accTabs color-4">
+                                <h2><i class="flaticon-kjc-examcalendar c4"></i>Examination Calendar</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/assessment_norms.php">
 
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-regulations"></i>Assesment Regulations</h2>
+                            <div class="accTabs color-5">
+                                <h2><i class="flaticon-kjc-regulations c5"></i>Assesment Regulations</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/end_semester_trimester_examination_time_table.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-examtimetable"></i>Exam Timetable</h2>
+                            <div class="accTabs color-6">
+                                <h2><i class="flaticon-kjc-examtimetable c6"></i>Exam Timetable</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
                         <a href="<?php echo $ROOT ; ?>/examination/grievance_redressal.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-postexam"></i>POST-EXAM Procedure</h2>
+                        <div class="accTabs color-7">
+                            <h2><i class="flaticon-kjc-postexam c7"></i>POST-EXAM Procedure</h2>
                         </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/art_culture.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-art"></i>Management Fests</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/sports_games.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-sports"></i>B-Quiz</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/ethinic_day.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-celebrations"></i>Skill Development</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/public_ncc.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-services"></i>Leadership Through 
-								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outbound Training</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/inter_intra_festivals.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-festivals"></i>Current Business  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awareness Activities</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 student">
-                        <a href="<?php echo $ROOT ; ?>/studentlife/computer_academy.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-association"></i>Sports &amp; Cultural  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Celebrations</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/jayantian_special/vichaarmanthan.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-vichaarmanthan"></i>Industry Institution  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interface (3i)</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ccpd.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-ccpd"></i>Rural Exposure</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/jayantian_extension_services.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-extension"></i>Industrial Exposure</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/entrepreneurship_development.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-entrepreneurship"></i>Value Added Courses</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/language_learning_centre.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-language"></i>Theatre Fest
-								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Centre</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/nss.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-nss"></i>Entrepreneurial Emphasis</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-ncc"></i>Curriculum In Practice</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 ach">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-lifeskills"></i>All Karnataka Online  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Social Entrepreneurship &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Challenge</h2>
-                        </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 ach">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
-                            <div class="accTabs">
-                                <h2><i class="flaticon-kjc-entrepreneurship"></i>Management Fests</h2>
-                            </div>
-                        </a>
-                    </div>
 
-<!--
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/collaborations/collaborations.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-collaborations"></i>Collaborations</h2>
+                        <a href="intra_collegiate_fests.php">
+                        <div class="accTabs color-1">
+                            <h2><i class="flaticon-kjc-art c1"></i>Management Fests </h2>
+
                         </div>
                         </a>
                     </div>
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/iqac/iqac_functions.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-iqac"></i>IQAC</h2>
+                    <div class=" col-lg-4 col-xs-12 student">
+
+                        <a href="B_quiz.php">
+                        <div class="accTabs color-2">
+                            <h2><i class="flaticon-kjc-sports c2"></i>B-Quiz </h2>
+
                         </div>
                         </a>
                     </div>
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="<?php echo $ROOT ; ?>/gallery/index.php">
-                        <div class="accTabs">
-                            <h2><i class="flaticon-kjc-gallery"></i>Gallery</h2>
+                    <div class=" col-lg-4 col-xs-12 student">
+
+                        <a href="soft_skill_training.php">
+                        <div class="accTabs color-3">
+                            <h2><i class="flaticon-kjc-celebrations c3"></i>Skill Development </h2>
+
                         </div>
                         </a>
                     </div>
--->
+                    <div class=" col-lg-4 col-xs-12 student">
+
+                        <a href="out_bound_training_programme.php">
+                        <div class="accTabs color-4">
+                            <h2><i class="flaticon-kjc-services c4"></i>Leadership Through Outbound Training </h2>
+
+                        </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 student">
+
+                        <a href="current_business_awareness.php">
+                        <div class="accTabs color-5">
+                            <h2><i class="flaticon-kjc-festivals c5"></i>Current Business Awareness Activities</h2>
+
+                        </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 student">
+
+                        <a href="#">
+                        <div class="accTabs color-6">
+                            <h2><i class="flaticon-kjc-association c6"></i>Sports &amp; Cultural Celebrations</h2>
+
+                        </div>
+                        </a>
+                    </div>
+					 
+                    <div class=" col-lg-4 col-xs-12 spl">
+
+                        <a href="industry_institute_interface.php">
+                        <div class="accTabs color-1">
+							<h2><i class="flaticon-kjc-vichaarmanthan c1"></i>Industry Inst Interface (3i) </h2>
+
+                        </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 spl">
+
+                        <a href="international_exposure.php">
+                        <div class="accTabs color-2">
+                            <h2><i class="flaticon-kjc-ccpd c2"></i>International Exposure </h2>
+
+                        </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 spl">
+
+                        <a href="gramasamvedita.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Rural Exposure </h2>
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="industrial_exposure.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Industrial Exposure  </h2>
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="six_sigma_certification.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Value Added Courses  </h2>
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="theatre_fest.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Theatre Fest  </h2>
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="entrepreneurial_emphasis.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Entrepreneurial Emphasis </h2>
+
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 ach">
+                        <a href="social_enetrepreneurship_challenge.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>All Karnataka Online Social Entrepreneurship Challenge </h2>
+                        </div>
+                        </a>
+                    </div>
+					
+					 <div class=" col-lg-4 col-xs-12 ach">
+                        <a href="management_fests.php">
+                        <div class="accTabs color-3">
+							<h2><i class="flaticon-kjc-extension c3"></i>Management Fests </h2>
+                        </div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
