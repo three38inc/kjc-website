@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
     <head>
         <meta charset="UTF-8" />
@@ -64,7 +64,7 @@
                         <div class="container">
                             <!--        <div class="row">-->
                             <div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-                                <img class="img-responsive" src="http://lorempixel.com/1170/250/nature" alt="cover-img" />    
+                                <img class="img-responsive" src="../images/<?php echo $imgNum; ?>.jpg" alt="cover-img" />    
                             </div>
                             <div class="row">
                                 <div class="col-lg-9">

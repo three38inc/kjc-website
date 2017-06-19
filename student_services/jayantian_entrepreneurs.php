@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
     <head>
         <meta charset="UTF-8" />
@@ -114,7 +114,7 @@
                                 <div class="marginTopDiv">&nbsp;</div>
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
-                                        <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                         <br/>
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Jayantian <strong> Entrepreneurs</strong></span>
