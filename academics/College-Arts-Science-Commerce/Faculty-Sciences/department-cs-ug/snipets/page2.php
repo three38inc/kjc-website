@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Mini Gopalakrishnan.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Mini Gopalakrishnan
@@ -29,7 +29,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Liji.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Liji George
@@ -56,7 +56,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Aswin.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  R. Aswin Herbert Sathish
@@ -86,23 +86,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Vani.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Vani Chakraborty
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>B.E, M.C.A
+                    <span>Qualification </span> <br/>MCA ,MPhil, MEd
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Neural networks, Web mining, Embedded
-System
+                    <span>Areas of interest </span><br/> Artificial Intelligence, Intelligent Agents, Programming languages
                 </p>
                 <p>
-                    <span>Experience  </span><br/> 13 years
+                    <span>Experience  </span><br/> 14 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Papers presented or published </span><br/> 10
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -117,7 +116,7 @@ System
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Pratap.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>G.Prathap 
@@ -147,7 +146,7 @@ System
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ann Mary Jaison.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Ann Mary Joyson 

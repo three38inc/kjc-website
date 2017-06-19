@@ -120,7 +120,7 @@
 <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:650px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
 
-        <span>&nbsp;New &amp;<strong> Events</strong></span>
+        <span>&nbsp;News &amp;<strong> Events</strong></span>
 
         <ul class="pagination1 pull-right" style="margin: 0px;">
             <li>

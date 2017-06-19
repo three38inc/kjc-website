@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine-george.png"></div>
+                <div class="class-img"><img src="images/faculty/Fr Augustine.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Fr. Augustine George
@@ -27,7 +27,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Jude.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Calistus Jude AL
@@ -83,7 +83,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Sevuga Pandian.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> A. Sevuga Pandian
@@ -113,7 +113,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Nagendra.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Nagendra.S
@@ -143,7 +143,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Suni Ajaykaumar.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Suni Ajaykaumar

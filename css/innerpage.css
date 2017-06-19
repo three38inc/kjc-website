@@ -88,6 +88,7 @@ section a.a-link-arrow::after {
 .link-arrow a.a-link-arrow:hover {
     -webkit-transform: translateX(1em);
     transform: translateX(1em);
+    color:#2980b9;
 }
 
 .link-arrow a.a-link-arrow::after {

@@ -2,22 +2,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ranjitha.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Ranjitha.M
+                <h4>  Dr.Ranjitha M
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MCA, M.Phil,(P.hD)
+                    <span>Qualification </span> <br/> MCA,M.Phil,Ph.D
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Image Processing, Image Mining, Algorithms, Data Mining
+                    <span>Areas of interest </span><br/>  Image Processing,Image Mining, Algorithms
                 </p>
                 <p>
-                    <span>Experience </span><br/> 18 years
+                    <span>Experience </span><br/> 19 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/>17
+                    <span>Papers presented or published </span><br/>20
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -32,7 +32,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Saravana Kumar.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> S.Saravana Kumar

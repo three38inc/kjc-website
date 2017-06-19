@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+           <div class="class-img"><img src="images/faculty/Suresh K.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Suresh. K
@@ -11,13 +11,13 @@
                     <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D.
                 </p>
                 <p>
-                    <span>Specialization </span><br/>Human Genetics
+                    <span>Area of interest </span><br/>Cancer & Molecular Therapeutics
                 </p>
                  <p>
-                    <span> Years of experience </span><br/>02 Years
+                    <span> Years of experience </span><br/> 02 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Cancer &amp; Molecular Therapeutics
+                    <span>Papers presented or published </span><br/> 1 / 13
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -32,22 +32,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Sivagamasundari.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. U.Sivagamasundari 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc.,Ph.D. 
+                    <span>Qualification </span> <br/> M.Sc., Ph.D. 
                 </p>
                  <p>
-                    <span>Specialization </span> <br/>Plant Biotechnology 
+                    <span>Area of Interest  </span> <br/>Plant Microbial Biotechnology 
                 </p>
                  <p>
                     <span>Years of experience </span> <br/>04 Years 
                 </p>
                 <p>
-                    <span>Area of Research </span><br/>Microbiology, Biotechnology and Molecular Biology
+                    <span>Papers presented or published </span><br/> 8 / 7
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -62,23 +62,24 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Selvam Arjunan.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Selvam Arjunan 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D., Post Doc 
+                    <span>Qualification </span> <br/>PhD, Post Doc
                 </p>
                  <p>
-                    <span>Specialization </span> <br/>Proteomics and Molecular Biology 
+                    <span>Area of interest </span> <br/>Physiology and Virology
                 </p>
                  <p>
-                    <span>Years of experience </span> <br/>3.6 Years 
+                    <span>Years of experience </span> <br/>4.6 Years 
                 </p>
-                <p>
-                    <span>Area of Research </span><br/>Physiology
+				<p>
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Surendranath Reddy.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  C.Surendranath Reddy
@@ -16,6 +16,9 @@
                 <p>
                     <span>Teaching Experience </span><br/>16 years
                 </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 12
+                </p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -26,22 +29,27 @@
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4 ">
+	
+	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Vinodh.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Shilpa Rao C
+                <h4>  Vinod Joseph George 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MBA., HDSE
+                    <span>Qualification </span> <br/> BE, MBA, M.Phil 
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>  Human Resourse and Marketing
+                    <span>Areas of Interest</span><br/>General Management, Marketing, Strategic
+management, Entrepreneurship, HR 
                 </p>
-                 <p>
-                    <span>Teaching Experience </span><br/> 12 Years
+                <p>
+                    <span>Teaching Experience</span><br/> 13 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 13
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -50,6 +58,37 @@
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
+            </div>
+        </div>
+    </div>
+	
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Shilpa.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>Shilpa Rao. C
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  MBA
+                </p>
+                <p>
+                    <span>Areas of interest</span><br/>  Human Resource Management, Marketing ,Advertising 
+                </p>
+                 <p>
+                    <span>Teaching Experience </span><br/> 12 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 6
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul><br>
             </div>
         </div>
     </div>
@@ -83,7 +122,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ajai Abraham.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>   Ajai Abraham Thomas
@@ -98,33 +137,8 @@ Relations, Marketing Management, Principles of Management
                 <p>
                     <span>Teaching Experience</span><br/> 11 Years 
                 </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4>  Vinod Joseph George 
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> BE, MBA, M.Phil 
-                </p>
-                <p>
-                    <span>Areas of Interest</span><br/>General Management, Marketing, Strategic
-management, Entrepreneurship, HR 
-                </p>
-                <p>
-                    <span>Teaching Experience</span><br/> 13 Years
+				<p>
+                    <span>Papers presented or published </span><br/> 20
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -136,22 +150,26 @@ management, Entrepreneurship, HR
             </div>
         </div>
     </div>
+    
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Excelcy.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. A.J. Excelce
+                <h4>Dr.A.J.Excelce
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Com., MBA., PhD
+                    <span>Qualification </span> <br/> M.Com., MBA., PhD.,
                 </p> 
                 <p>
-                    <span>Areas of interest </span><br/> Accounting, Finance, and Marketing
+                    <span>Areas of interest </span><br/> Accounts, Taxation, Marketing and Finance
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  06 Years
+                    <span>Teaching Experience </span><br/>  6 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 8
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

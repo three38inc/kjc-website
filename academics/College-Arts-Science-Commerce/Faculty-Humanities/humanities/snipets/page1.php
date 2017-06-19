@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Stephen.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>   I. Stephen
@@ -30,7 +30,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Susan.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Ms. Susan Sanny
@@ -58,7 +58,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Reena Rani.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Reena Rani Justin
@@ -85,7 +85,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Jerin.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Jerrin Jose
@@ -113,7 +113,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Amita.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>   Dr. Amitha Santiago 
@@ -141,7 +141,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Arpita.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Arpita Ghosh 
@@ -170,7 +170,7 @@ UGC-NET (English)
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Evangeline.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Evangeline Richard
