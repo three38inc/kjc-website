@@ -38,13 +38,13 @@
                 <h4> Diana Susan Mary Ann D’Roza
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.C.A ,M.Tech
+                    <span>Qualification </span> <br/> MCA,M.Tech
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>  .NET,Database Management Systems,JAVA 
+                    <span>Areas of interest</span><br/> WebProgramming, .Net, Programming in JAVA
                 </p>
                  <p>
-                    <span>Experience </span><br/> 4 years 
+                    <span>Experience </span><br/> 5 years 
                 </p>
                 <p>
                     <span>Papers presented or published </span><br/> 1 
