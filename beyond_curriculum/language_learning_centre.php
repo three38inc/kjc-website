@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/IMG_0339.JPG" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Language  <strong> learning centre </strong></span></h4>
