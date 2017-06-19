@@ -55,7 +55,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/Fr_Lijo.png"></div>
+                <div class="class-img"><img src="images/faculty/Fr_Lijo.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Fr. Lijo P. Thomas
