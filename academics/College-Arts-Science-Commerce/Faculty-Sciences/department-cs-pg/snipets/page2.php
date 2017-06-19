@@ -2,20 +2,24 @@
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ambika.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Ambika P
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>MCA , Ph.D.(Computer Applications) 
+                    <span>Qualification </span> <br/>MCA., Ph.D., 
+                </p>
+				 <p>
+                    <span>Area of interest  </span><br/>Data Science and Analytics, Image Processing and Retrieval, AI and Neural Networks, Algorithms Analysis.
                 </p>
                  <p>
-                    <span> Experience </span><br/>9 Years(Teaching), 2Years(Industry)
+                    <span> Experience </span><br/> 9 Years
                 </p>
-                <p>
-                    <span>Area of Specialization </span><br/>Neural Networks, WebSemantic, Design and Analysis of Algorithms, Artificial Intelligence, Programming in C, C++, Web Technologies, XML and web services
+				<p>
+                    <span>Papers presented or published </span><br/> 11
                 </p>
+               
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -29,7 +33,7 @@
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Arunadevi.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. Aruna Devi K

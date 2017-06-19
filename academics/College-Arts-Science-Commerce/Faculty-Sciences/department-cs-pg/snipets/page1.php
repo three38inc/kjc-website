@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Fr Augustine.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Fr. Augustine George
@@ -33,7 +33,7 @@ Computer Networks, Data Mining
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/R Kumar.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. R. Kumar
@@ -63,7 +63,7 @@ Computer Networks, Data Mining
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Muruganantham.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. A.Muruganantham
@@ -84,14 +84,14 @@ Web Technologies, Middleware Technologies, Ecommerce
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Velmurugan.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. Velmurugan R 
@@ -149,7 +149,7 @@ Operations Research
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Bino.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. Bino Joseph
