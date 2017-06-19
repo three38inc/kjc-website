@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,13);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -79,7 +79,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-<img src="images/department-bg.jpg" class="img-responsive" style="margin-bottom:20px;" />
+<img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;BA JPEng<strong> (Journalism, Psychology, English Literature)</strong></span></h4>
                                 

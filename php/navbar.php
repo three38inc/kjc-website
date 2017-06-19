@@ -43,7 +43,7 @@
                         <ul>
                        <li><a href="<?php echo $ROOT; ?>/examination/introduction.php" title="Examination">Examination</a></li>
                        <li><a href="<?php echo $ROOT; ?>/placements/about_cecr.php" title="Placements">Placements</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/carrer/carrer.php" title="Our Carrers">Carrer</a></li>
+                       <li><a href="<?php echo $ROOT; ?>/career/career.php" title="Our Carrers">Carrer</a></li>
                        <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
                        <li><a href="<?php echo $ROOT; ?>/events/events.php" title="International">Recent Events</a></li>
                        <li><a href="<?php echo $ROOT; ?>/notice/notice.php" title="International">Notices &amp; Announcements</a></li>
