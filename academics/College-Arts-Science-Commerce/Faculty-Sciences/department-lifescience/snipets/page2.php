@@ -11,13 +11,13 @@
                     <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D.
                 </p>
                 <p>
-                    <span>Specialization </span><br/>Human Genetics
+                    <span>Area of interest </span><br/>Cancer & Molecular Therapeutics
                 </p>
                  <p>
-                    <span> Years of experience </span><br/>02 Years
+                    <span> Years of experience </span><br/> 02 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Cancer &amp; Molecular Therapeutics
+                    <span>Papers presented or published </span><br/> 1 / 13
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

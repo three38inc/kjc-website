@@ -212,12 +212,8 @@
                             </div>
                            <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-									
-									 <iframe src="../events/right_events.php" style="border:none;" height="1000px" width="295px"></iframe> 
-                                    </div>
-									
+									<?php include('../events/right_events.php');?>
 								</div>
-
                             </div>
                         </div>
                     </div>

@@ -119,7 +119,7 @@
 </style>
 <div class="news panel panel-default" style="background-color:white;margin-bottom:0;max-height:750px;">
     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-        <span>&nbsp;New &amp;<strong> Updates</strong></span>
+        <span>&nbsp;News &amp;<strong> Updates</strong></span>
         <ul class="pagination1 pull-right" style="margin: 0px;">
             <li>
                 <a href="#" class="prev" id="prev-high">

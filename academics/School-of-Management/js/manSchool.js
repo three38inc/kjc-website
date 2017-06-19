@@ -8,7 +8,7 @@ $(document).ready(function(){
     
 
     $('#pgdm').click(function(){
-        window.location.href= "mba.php";
+        window.location.href= "mba_pgdm_international_finance.php";
     });
     
     

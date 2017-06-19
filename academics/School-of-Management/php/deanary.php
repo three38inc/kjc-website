@@ -9,8 +9,8 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>PGDM &amp; MBA</h3>
-        <p>School of Management is designed for those, aspiring a vocation in management, creating opportunities to lift one’s career beyond expectations.</p>
-            <a href="BA-LLB/index.php">Read More</a>
+        <p>School of Management is designed for those, aspiring a vocation in management, creating opportunities to lift one’s career </p>
+            <a href="mba.php">Read More</a>
     </div>
     
     <div class="col-lg-5 col-md-5 deanary" id="pgdm">
@@ -18,8 +18,8 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>International PGDM &amp; MBA</h3>
-        <p>School of Management is designed for those, aspiring a vocation in management, creating opportunities to lift one’s career beyond expectations.</p>
-        <a href="#">Read More</a>
+        <p>MBA/PGDM International Finance enables the students to obtain ACCA  qualification along with MBA/PGDM programme.</p>
+        <a href="mba_pgdm_international_finance.php">Read More</a>
     </div>
     <div class="col-lg-1 col-md-1 hidden-xs hidden-sm"></div>
 </div>

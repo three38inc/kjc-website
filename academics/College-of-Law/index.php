@@ -100,21 +100,27 @@
                                 <div class="col-lg-9">
                                     <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                         <?php include ('php/welcome.php'); ?>
+                                        <div style="clear: both;"></div>
                                     </div>
-                                    
-                                    <div style="clear: both;"></div>
-                                </div>
-                                <div class="col-lg-3">
-                                    <div class="content-spl wow fadeIn" style="height: 469px; overflow-y:hidden;">
-                                        <?php include ('php/newsAndUpdates.php'); ?>
-                                    </div>
-                                </div>
-                                <div class="col-lg-9">
                                     <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 274px;">
                                         <?php include ('php/accordion-pill-tabs.php'); ?>
                                         <div style="clear: both;"></div>
                                     </div>
+                                    <div style="clear: both;"></div>
                                 </div>
+                                <div class="col-lg-3">
+                                    <div class="content-spl wow fadeIn" style="height: 315px; overflow-y:hidden;">
+                                        <?php include ('php/newsAndUpdates.php'); ?>
+                                    </div>
+                                </div>
+<!--
+                                <div class="col-lg-9">
+                                    <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 274px;">
+                                        <?php //include ('php/accordion-pill-tabs.php'); ?>
+                                        <div style="clear: both;"></div>
+                                    </div>
+                                </div>
+-->
                                 <div class="col-lg-3">
                                     <div class="col-lg-12">
                                         <div class="content-spl sideLinks color-1 wow fadeIn"  style="min-height: 50px;">

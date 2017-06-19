@@ -145,15 +145,19 @@ Technology/Industrial Microbiology
                 <h4>Dr. M. Sonia Angeline
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph. D 
+                    <span>Qualification </span> <br/>M. Sc., Ph. D in Biotechnology- Neuroscience
+                </p>
+				 <p>
+                    <span>Area of interest</span><br/>Biotechnology, Molecular Biology, Protein  Engineering,  Neuroscience
                 </p>
                  
                  <p>
-                    <span>Years of experience </span> <br/>5 years 
+                    <span>Years of experience </span> <br/>7 years 
                 </p>
-                <p>
-                    <span>Area of Research </span><br/> Neuroscience, Molecular Biology, Protein Expression
+				<p>
+                    <span>Papers presented or published </span><br/> 17 / 1
                 </p>
+               
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
