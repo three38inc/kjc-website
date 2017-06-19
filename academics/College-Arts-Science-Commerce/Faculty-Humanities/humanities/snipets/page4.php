@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Sreedar PD.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Sreedhar P.D
@@ -30,19 +30,22 @@
 	 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Nayas Pasha.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Mohamed Nayaz Pasha
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA Hindi, MA Kannada, B.Ed 
+                    <span>Qualification </span> <br/>  M A. B.Ed., M.A(kannada),( Ph.D.)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Hindi Literature
+                    <span>Areas of Interest </span><br/> Literature
                 </p>
                 <p>
-                    <span>Experience </span><br/>11 years 
+                    <span>Experience </span><br/>16 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 1
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -58,7 +61,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Vinod Baburao.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Vinod Meghsham

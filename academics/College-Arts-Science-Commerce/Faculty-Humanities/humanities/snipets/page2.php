@@ -2,19 +2,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ramya B Senthil.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Ms. Ramya . B
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA (History and Tourism), M. Phil, SLET 
+                    <span>Qualification </span> <br/>  MA (History) M.A( Tourism), M. Phil (History) SLET for Lectureship 
                 </p>
                 <p>
                     <span>Areas of Interest </span><br/> Modern History, Women Studies  and Tourism
                 </p>
                 <p>
                     <span>Experience </span><br/>17 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 4 / 19
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

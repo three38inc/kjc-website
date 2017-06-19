@@ -2,19 +2,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Sarvesh.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Sarvesha B.S.
+                <h4>Lt. Sarvesha B S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA , M.Ed, M.Phil 
+                    <span>Qualification </span> <br/> M.A., M.Ed., M.Phil. (Ph.D)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>Literature
+                    <span>Areas of Interest </span><br/>Kannada Literature, Research, Theatrical works, Writing and composing Kannada Bhavageethegalu. 
                 </p>
                 <p>
-                    <span>Experience </span><br/>10 years 
+                    <span>Experience </span><br/>13 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -30,7 +33,7 @@
 	 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Chandrasekhar.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Chandrashekar .N
