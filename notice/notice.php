@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
+    
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -223,7 +223,7 @@
                     </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
 
 
 			
@@ -254,7 +254,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
+    
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
@@ -273,17 +273,19 @@
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <script type="text/javascript">
-        $('#event-year').html((new Date()).getFullYear());
-        $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
-        $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+        
         var url = new URL(window.location.href);
         var mode = url.searchParams.get("mode");
-        if(mode=="openlink"){
-            getNews(url.searchParams.get("year"), url.searchParams.get("month"),mode,url.searchParams.get("url"));
-        }
-        else
-        {
-            getNews($('#event-year').html(), $('.nowMonth').html(),"monthview","blank");
+        if (mode == "openlink") {
+            $('#event-year').html(url.searchParams.get("year"));
+            $('.event-navigator a:nth-child(' + (getMonth(url.searchParams.get("month")) + 1) + ')').addClass("nowMonth");
+            $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+            getNews(url.searchParams.get("year"), url.searchParams.get("month"), mode, url.searchParams.get("url"));
+        } else {
+            $('#event-year').html((new Date()).getFullYear());
+            $('.event-navigator a:nth-child(' + ((new Date()).getMonth() + 1) + ')').addClass("nowMonth");
+            $('.presentMonth').html($('.nowMonth').html() + " " + $('#event-year').html());
+            getNews($('#event-year').html(), $('.nowMonth').html(), "monthview", "blank");
         }
         $('.event-navigator a').on('click', function(e) {
             $('.event-navigator a').removeAttr("class");
@@ -327,6 +329,51 @@
 
                 }
             });
+        }
+        
+        function getMonth(month) {
+            var no;
+            switch (month) {
+                case 'january':
+                    no = 0;
+                    break;
+                case 'february':
+                    no = 1;
+                    break;
+                case 'march':
+                    no = 2;
+                    break;
+                case 'april':
+                    no=3;
+                    break;
+                case 'may':
+                    no=4;
+                    break;
+                case 'june':
+                    no=5;
+                    break;
+                case 'july':
+                    no=6;
+                    break;
+                case 'august':
+                    no = 7;
+                    break;
+                case 'september':
+                    no = 8;
+                    break;
+                case 'october':
+                    no=9;
+                    break;
+                case 'november':
+                    no=10;
+                    break;
+                case 'december':
+                    no=11;
+                    break;
+                default:
+                    no=0;
+            }
+            return no;
         }
 
     </script>
