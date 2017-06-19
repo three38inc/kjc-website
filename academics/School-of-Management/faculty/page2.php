@@ -2,21 +2,19 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Aparna Pandey.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Ashok Kumar.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Dr. Aparna Pandey
+                <h4> Mini Gopalakrishnan
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc. (Cognitive Science), Ph.D. (Psychology) 
+                    <span>Qualification </span> <br/> MSc ,BE d.
                 </p>
                 <p>
-                    <span>Area of research </span><br/>  Cognitive Psychology, Psycholinguistics,
-Dr. Aparna joined the Psychology Department of Kristu Jayanti College during 2017 Academic year. Her research interest
-includes language processing taking behavioral and eye tracking as a tool.
+                    <span>Areas of interest </span><br/> Advanced Algebra.
                 </p>
-                 <p>
-                    <span>Experience </span><br/> 00 years
+                <p>
+                    <span>Experience </span><br/>17 years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -28,9 +26,7 @@ includes language processing taking behavioral and eye tracking as a tool.
             </div>
         </div>
     </div>
-   
 </div>
-
 
 
 

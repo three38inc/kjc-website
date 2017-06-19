@@ -87,6 +87,21 @@
                                     <span>&nbsp;Faculty <strong>Profile</strong></span>
 
                                 </h4>
+									  <div class="profile-page">
+                                    <div id="page">
+
+                                    </div>
+
+                                    <div class="row profile-pagination">
+                                        <ul class="pagination pagination-sm">
+                                            <li class="active"><a href="#" data-value="page1">1</a></li>
+                                            <li><a href="#" data-value="page2">2</a></li>
+                                            <li><a href="#" data-value="page3">3</a></li>
+                                            <li><a href="#" data-value="page4">4</a></li>
+                                            <li><a href="#" data-value="page5">5</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
                                 
 
 								</div></div>
@@ -221,7 +236,7 @@
             //below code is for retrieving corresponding pages #START
             var activePage = 'page1';
             $.ajax({
-                url: 'snipets/' + activePage + '.php',
+                url: 'faculty/' + activePage + '.php',
                 success: function(data) {
                     $('#page').html(data);
                 },
@@ -236,7 +251,7 @@
             $('.profile-pagination li a').click(function() {
                 var activePage = this.getAttribute('data-value');
                 $.ajax({
-                    url: 'snipets/' + activePage + '.php',
+                    url: 'faculty/' + activePage + '.php',
                     success: function(data) {
                         $('#page').html(data);
                     },
