@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Monica L.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Monica L
@@ -15,6 +15,9 @@
                 </p>
                 <p>
                     <span>Teaching Experience </span><br/> 02 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

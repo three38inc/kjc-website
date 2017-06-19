@@ -2,19 +2,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Ragavendra Babu.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Mr. Ragavendra Babu
+                <h4> Raghavendra Babu . J
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>   MBA, NET
+                    <span>Qualification </span> <br/>  MBA, Net, Mcom
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Financial management, corporate Laws, Portfolio management          
+                    <span>Areas of Interest </span><br/> Finance and Banking      
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>06 years
+                    <span>Teaching Experience </span><br/>12 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -29,7 +32,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Mathiarasan.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Mr. Mathiyarasan
@@ -49,14 +52,14 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Muthu Kumar.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr. V. Muthu Kumar
@@ -76,26 +79,29 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Preethi.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Mrs. Preethi S.J.G
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.A, M.Phil., PGDCA
+                    <span>Qualification </span> <br/> M A, M.Phil.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Development Economics & Indian Economy
+                    <span>Areas of interest </span><br/> Macro Economics & Indian Economy
                 </p>
                 <p>
-                    <span>Teaching Experience</span><br/> 07 years 
+                    <span>Teaching Experience</span><br/> 9 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 4 / 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -110,7 +116,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Monica.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Ms. Monica Mathew
@@ -119,10 +125,13 @@
                     <span>Qualification </span> <br/> M.com
                 </p>
                 <p>
-                    <span>Areas of Interest</span><br/>  Finance, Commodity Markets, Derivatives
+                    <span>Areas of Interest</span><br/>  Finance and HR
                 </p>
                 <p>
-                    <span>Teaching Experience</span><br/> 04 years
+                    <span>Teaching Experience</span><br/> 7 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -137,7 +146,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Surjith Singha.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Mr. Surjit Singha
