@@ -11,10 +11,13 @@
                     <span>Qualification </span> <br/> MSc ,BE d.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Advanced Algebra.
+                    <span>Areas of interest </span><br/> Mathematics
                 </p>
                 <p>
-                    <span>Experience </span><br/>17 years
+                    <span>Experience </span><br/>18 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

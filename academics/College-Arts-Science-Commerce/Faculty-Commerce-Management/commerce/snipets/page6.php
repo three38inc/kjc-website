@@ -5,16 +5,19 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> T Shenbagavalli
+                <h4> Amritha Ashok
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.Com, M.Phil.(com),MBA(Fin) (Ph.D.) 
+                    <span>Qualification </span> <br/> -
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Advanced Corporate & Cost Accounting, Advanced Financial Management 
+                    <span>Areas of Interest </span><br/>  -
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 06years
+                    <span>Teaching Experience </span><br/> -
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> -
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -33,7 +36,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Santhosh V
+                <h4> Chandrakala M
                 </h4>
                 <p>
                     <span>Qualification </span> <br/> - 
@@ -65,7 +68,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Annie Stephen
+                <h4> Swetha P A
                 </h4>
                 <p>
                     <span>Qualification </span> <br/> -
@@ -97,7 +100,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Jethina James
+                <h4> Dr. Arti Singh
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>  -
@@ -129,7 +132,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Dr. Prasanth Gupta
+                <h4> Dr. S. Christuraja
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>  -
@@ -160,7 +163,7 @@
                 <div class="class-img"><img src="images/fr_Augustine.png"></div>
             </div>
             <div class="item-content">
-                <h4> Maria Monica M
+                <h4> Dr. Renuga Devi S
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>  -

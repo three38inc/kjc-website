@@ -92,6 +92,7 @@
                                     <div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
                                             <li class="active"><a href="#" data-value="page1">1</a></li>
+											 <li class="active"><a href="#" data-value="page2">2</a></li>
                                            
                                         </ul>
                                     </div>

@@ -126,6 +126,8 @@
                                             <li><a href="#" data-value="page3">3</a></li>
 											<li><a href="#" data-value="page4">4</a></li>
 											<li><a href="#" data-value="page5">5</a></li>
+											<li><a href="#" data-value="page6">6</a></li>
+											<li><a href="#" data-value="page7">7</a></li>
 											
                                           
                                         </ul>

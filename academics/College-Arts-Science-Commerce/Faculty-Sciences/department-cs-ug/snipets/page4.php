@@ -100,17 +100,20 @@
                 <h4>  Dr. S.Nagarajan
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc.,M.Phil.,Ph.D
+                    <span>Qualification </span> <br/> M.Sc, M. Phill.,Ph.D
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Document Image Processing,Data Mining
+                    <span>Areas of interest </span><br/> Document Image Processing, Data Mining, Pattern Recognition
                 </p>
                 <p>
-                    <span>Experience  </span><br/> 14 years
+                    <span>Experience  </span><br/> 15 years
                 </p>
                 <p>
                     <span>Papers presented or published </span><br/>International Journal-03,
                     International Conference-04 National Conference-04
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 4 / 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

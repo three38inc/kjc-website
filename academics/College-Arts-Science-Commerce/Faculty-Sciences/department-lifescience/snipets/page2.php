@@ -100,7 +100,7 @@
                 <div class="class-img"><img src="images/faculty/Joseph.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. Joseph K S  
+                <h4>Dr. Joseph K. S.
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph.D.,
@@ -130,10 +130,10 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Selvam Arjunan.jpg"></div>
+                <div class="class-img"><img src="images/faculty/.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. PreethyChandran 
+                <h4>Dr. Preethy Chandran
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph.D.,
@@ -163,10 +163,10 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Selvam Arjunan.jpg"></div>
+                <div class="class-img"><img src="images/faculty/.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr.EstherShoba
+                <h4>Dr.  Esther Shoba R
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>B.Ed., Ph.D
