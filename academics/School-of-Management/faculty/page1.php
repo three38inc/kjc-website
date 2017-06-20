@@ -155,16 +155,16 @@
                 <h4> Dr. Joseph Charles Tamilmaran D
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc(statistics),M.Phil(Statistics),Pursuing P.hd
+                    <span>Qualification </span> <br/> BE, MBA, Ph.D
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Applied statistics
+                    <span>Areas of interest </span><br/> Marketing & Banking
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  17 years
+                    <span>Experience  </span><br/>  2.5 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Papers presented or published </span><br/> 6 / 1
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

@@ -118,7 +118,7 @@
 
 
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
+                                        
                                         Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph's Province of the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation in India. This congregation is the embodiment of the dream and vision of Saint Kuriakose Elias Chavara who was a nineteenth century educationist and social reformer in India. Kuriakose Chavara was born in 1805, in Kainakary, Kerala. In 1829 he was ordained as priest after his early schooling in the native village and priestly studKristu Jayanti College Founderies at Pallipuram seminary in Alapuzha.
                                     </p>
                                     <p align="justify">

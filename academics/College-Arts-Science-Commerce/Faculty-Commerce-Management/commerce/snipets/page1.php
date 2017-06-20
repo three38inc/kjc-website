@@ -8,13 +8,16 @@
                 <h4> Mr. VijayaKumar.R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.Com, M.Phil., MBA, (Ph.D), NET
+                    <span>Qualification </span> <br/> M.Com.,M.Phil., MBA., (P.hd) NET 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Businsess Taxation, Ethics and Corporate Governance 
+                    <span>Areas of Interest </span><br/> -Costing and Taxation ,Ethics and Human Values
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>15 years
+                    <span>Teaching Experience </span><br/>17years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 14
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -35,13 +38,15 @@
                 <h4>Mr. Lourdu Nathan.F
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.com, MBA, M.Phil 
+                    <span>Qualification </span> <br/> M.COM.MBA M.PHIL
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/> Accounting, Taxation Entrepreneurship Development 
-                </p>
+                    <span>Areas of interest</span><br/> Finance </p>
                  <p>
-                    <span>Teaching Experience </span><br/> 14 Years
+                    <span>Teaching Experience </span><br/> 17 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 8
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -49,7 +54,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br>
             </div>
         </div>
     </div>
@@ -79,7 +84,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br>
             </div>
         </div>
     </div>
@@ -146,13 +151,16 @@
                 <h4>Ms. Madhumalathi.R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Com, M.Phil
+                    <span>Qualification </span> <br/> M.Com, MPhil
                 </p> 
                 <p>
-                    <span>Areas of interest </span><br/> Accounting and Taxation
+                    <span>Areas of interest </span><br/> Accounting and Finance
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  15 Years
+                    <span>Teaching Experience </span><br/>  17 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 3 / 10
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

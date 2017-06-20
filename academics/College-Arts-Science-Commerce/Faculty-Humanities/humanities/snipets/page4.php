@@ -64,16 +64,19 @@
                 <div class="class-img"><img src="images/faculty/Vinod Baburao.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Vinod Meghsham
+                <h4>Vinod Baburao Meghsham
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.A, B.Ed , M.Phil
+                    <span>Qualification </span> <br/> M A. B.Ed., M.Phil., KSLET
                 </p>
                 <p>
                     <span>Areas of Interest </span><br/> Literature
                 </p>
                 <p>
-                    <span>Experience </span><br/>08 years 
+                    <span>Experience </span><br/>11 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 1
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

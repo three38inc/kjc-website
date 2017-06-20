@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,11); /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
@@ -74,76 +74,52 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                 
+                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										<span>&nbsp;<font size="5">B.A., LL.B.</font><strong>Course Details</strong></span>
+                                      <span>&nbsp;Our <strong>Management</strong></span>
                                     </h4>
+										<div class="inner-content about_minheight">
+											<p align="justify"> Kristu Jayanti College, Bangalore - Administration<br/><br/>				
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align:center;margin-top:40px;">
+												<img src="../../images/principal.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/> <span >  Fr. Josekutty P.D. - Principal
 
-                                    
-                                    <p align="justify">
-                                     The B.A., LL.B. is an integrated dual-degree course combination of Bachelor’s Degree programmein Arts along with a Bachelor’s Degree in law. Candidates admitted to this programme will be taught subjects in Arts during the first two years and from the third year the law subjects are integrated in the curriculum. Each academic year is divided into two semesters.The duration of the course shall be five academic years consisting of 10 semesters. Medium of Instruction is in English. Students have the option to write their exams either in English or Kannada.</p>
-
-									<p><b style="color: #cd6e08;font-weight: bold;">ATTENDANCE</b><br>
-                                        No student shall be considered to have followed a regular course of study unless he/she is certified by the Principal to have attended minimum 75% of the total number of classes conducted in each course at the end of the semester.</p>
-
-									<p><b style="color: #cd6e08;font-weight: bold;">Library</b><br>
-                                        The Library is the heart of the academic institution and plays a very important role in the life of each and every student. The Kristu Jayanti College of Law is having vast collections of law books, Journals, magazines, Central Acts and Rules, etc. At present, the library contains 54,768 books. The Library with facilities as reading room, Wi-Fi, Discussion Room will be kept open from 8.30 am to 7.00 pm on all working days and from 8.30 am to 1.00pm on Saturdays</p>
-
-									<!--<p><b style="color: #cd6e08;font-weight: bold;">Anti- Ragging Committee</b><br>
-                                        Ragging is strictly prohibited in the campus. Inconvenience in any manner to the students, especially the students by counterparts or a senior student is a punishable offence. An Anti-Ragging Committee is functional in the college which addresses issues related to ragging or any form of inconvenience in the campus and off campus. The names and phone numbers of the members of the anti-ragging committee are displayed on the college notice board.</p>-->
-
-									<p><b style="color: #cd6e08;font-weight: bold;">Moot Court Hall</b><br> 
-                                        A Moot Court helps in simulating the proceedings in a court with the appropriate ambience. The college is having well-furnished Moot Court Hall where all the students of LL.B. programme will be trained to participate in National and International Moot Courts.
-                                    </p>
-
-
+												</span>
+											</div>
+											<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align:center;margin-top:40px;">
+												<img src="../../images/fr_Augustine-george.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Augustine G. - Vice Principal</span> 
+											</div>
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
+												<img src="../../images/Fr_Lijo.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Lijo Thomas - Financial Administrator</span> 
+											</div>
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
+												<img src="../../images/fr._som.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span > Fr. Som Zacharia 
+Director, Library &amp; Information</span> 
+											</div>
+											<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="text-align:center;margin-top:40px;">
+												<img src="../../images/emmanual.png" alt="Kristu Jayanti College Founder" align="left" class="img-responsive" style="float:none;"> <br/><span >Fr. Emmanuel P.J. 
+Faculty, Department of Psychology</span> 
+											</div>
                                 </div>
-                            </div>
+								</div></div>
                             <div class="col-lg-3">
-                                <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Course <strong>B.A., LL.B.</strong></span>
-                                    </h4>
-                                  
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="structure.php">Course Structure</a></p>
-                                    </section>
-                                    
-                                    
-<!--
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="sylabus.php">Sylabus</a></p>
-                                    </section>
--->
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="entry.php">Entry Requirements</a></p>
-                                    </section>
-
-
-
-                                </div>
+                          
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Courses <strong>Offered</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BA-LLB/index.php">B.A., LL.B.</a></p>
+                                        <p><a class="a-link-arrow" href="BA-LLB/index.php">B.A., LL.B.</a></p>
                                     </section>
 									
 									 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BCom-LLB/index.php">B.Com LL.B.</a></p>
+                                        <p><a class="a-link-arrow" href="BCom-LLB/index.php">B.Com LL.B.</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../BBA-LLB/index.php">B.B.A., LL.B.</a></p>
+                                        <p><a class="a-link-arrow" href="BBA-LLB/index.php">B.B.A., LL.B.</a></p>
                                     </section>
 
                                    

@@ -12,14 +12,18 @@
                 <p>
                     <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
+				<p>
+                    <span>Specialization </span><br/> Environmental Biotechnology/Microbial Technology
+                </p>
                 
                  <p>
                     <span> Years of experience </span><br/>25 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Environmental Biotechnology/Microbial
-Technology/Industrial Microbiology
+                    <span> Area of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
                 </p>
+				
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -43,14 +47,17 @@ Technology/Industrial Microbiology
                 <h4>Dr. Calistus Jude AL
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D. 
+                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D.
                 </p>
-                 
+				<p>
+                    <span>Specialization </span><br/> Human Genetics
+                </p>
+                
                  <p>
-                    <span>Years of experience </span> <br/>19 years 
+                    <span> Years of experience </span><br/>19 Years
                 </p>
-                <p>
-                    <span>Area of Research </span><br/>Human Genetics, Genotoxicity studies
+                 <p>
+                    <span> Area of Research </span><br/>Cancer Genetics, Genotoxicity studies
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -58,7 +65,7 @@ Technology/Industrial Microbiology
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br>
+                </ul><br><br><br>
             </div>
         </div>
     </div>
@@ -75,18 +82,17 @@ Technology/Industrial Microbiology
                 <h4>Dr. Vijayanand.S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>MSc. M.Phil. NET. Ph.D.
+                    <span>Qualification </span> <br/>M.Sc., M.Phil. NET., Ph.D.
                 </p>
 				<p>
-                    <span>Area of interest</span><br/>Plant Biochemistry and Biotechnology
+                    <span>Specialization </span><br/> Biochemistry
                 </p>
                 
                  <p>
-                    <span>Years of experience </span> <br/>16 Years 
+                    <span> Years of experience </span><br/>16 Years
                 </p>
-                
-				<p>
-                    <span>Papers presented or published </span><br/> 10 / 9
+                 <p>
+                    <span> Area of Research </span><br/>Plant Biochemistry and Biotechnology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -94,7 +100,7 @@ Technology/Industrial Microbiology
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br>
+                </ul><br><br><br>
             </div>
         </div>
     </div>
@@ -110,18 +116,17 @@ Technology/Industrial Microbiology
                 <h4>Dr. Challaraj Emmanuel E.S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D., B.Ed.
-                </p>
-                 
-                 
-                <p>
-                    <span>Area of Research </span><br/>Diagnostic and Environmental Microbiology
+                    <span>Qualification </span> <br/>M.Sc., Ph.D
                 </p>
 				<p>
-                    <span>Years of experience </span> <br/>18 Years 
+                    <span>Specialization </span><br/> Microbiology
                 </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 19 / 16
+                
+                 <p>
+                    <span> Years of experience </span><br/>17 Years
+                </p>
+                 <p>
+                    <span> Area of Research </span><br/>Diagnostic and Environmental Microbiology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -145,17 +150,17 @@ Technology/Industrial Microbiology
                 <h4>Dr. M. Sonia Angeline
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M. Sc., Ph. D in Biotechnology- Neuroscience
-                </p>
-				 <p>
-                    <span>Area of interest</span><br/>Biotechnology, Molecular Biology, Protein  Engineering,  Neuroscience
-                </p>
-                 
-                 <p>
-                    <span>Years of experience </span> <br/>7 years 
+                    <span>Qualification </span> <br/>M.Sc., Ph. D
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 17 / 1
+                    <span>Specialization </span><br/> Biotechnology- Neuroscience
+                </p>
+                
+                 <p>
+                    <span> Years of experience </span><br/>5 Years
+                </p>
+                 <p>
+                    <span> Area of Research </span><br/>Neuroscience, Molecular Biology, Protein Expression	
                 </p>
                
                 <ul class="list-inline social-light ">
@@ -179,16 +184,18 @@ Technology/Industrial Microbiology
             <div class="item-content">
                 <h4>Priya M Tomy
                 </h4>
-                <p>
-                    <span>Qualification </span> <br/>M.Sc.,M.Phil 
+               <p>
+                    <span>Qualification </span> <br/>M.Sc.,M.Phil.
                 </p>
-                 
+				<p>
+                    <span>Specialization </span><br/> Biochemistry
+                </p>
+                
                  <p>
-                    <span>Years of experience </span> <br/>15 years 
+                    <span> Years of experience </span><br/>15 Years
                 </p>
-                <p>
-                    <span>Area of Research </span><br/>Extracellular matrix proteins,cellular and
-Immunopharmacology, animal cell culture
+                 <p>
+                    <span> Area of Research </span><br/>Extracellular matrix proteins, Immunopharmacology, Animal cell culture
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

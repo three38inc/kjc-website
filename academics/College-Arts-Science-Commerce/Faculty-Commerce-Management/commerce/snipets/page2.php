@@ -68,10 +68,13 @@
                     <span>Qualification </span> <br/> M.Com, M.Phil, MBA, Ph.D, UGC NET JRF
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> International Trade, Finance & Accounting and Taxation 
+                    <span>Areas of interest </span><br/> Accounting and Taxation
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  07 years
+                    <span>Teaching Experience </span><br/>  8 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 28 / 15
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

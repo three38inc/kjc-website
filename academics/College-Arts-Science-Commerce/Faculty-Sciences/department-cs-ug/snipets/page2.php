@@ -152,13 +152,16 @@
                 <h4>Ann Mary Joyson 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc (Mathematics), BEd, MPhil 
+                    <span>Qualification </span> <br/> MSc, B.Ed, M.Phil (Mathematics)
                 </p>
                 <p>
                     <span>Areas of interest </span><br/> Differential Calculus
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  12 years
+                    <span>Experience  </span><br/>  15 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

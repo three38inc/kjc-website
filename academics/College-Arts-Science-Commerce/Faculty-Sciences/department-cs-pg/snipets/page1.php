@@ -38,18 +38,20 @@ Computer Networks, Data Mining
             <div class="item-content">
                 <h4>Prof. R. Kumar
                 </h4>
-                 <p>
-                    <span>Designation </span> <br/> Head of the Department  
-                </p>
+                 
                 <p>
-                    <span>Qualification </span> <br/>M.Sc(CS)., M.Phil(CS), Pursuing Ph.D(CS) 
+                    <span>Qualification </span> <br/> M.Sc. M.Phil. (Ph, D)
+                </p>
+				 <p>
+                    <span>Area of interest </span><br/> Data Mining
                 </p>
                  <p>
-                    <span> Experience </span><br/>22 years
+                    <span> Experience </span><br/>24 years
                 </p>
-                <p>
-                    <span>Area of Specialization </span><br/> Relational Database Management Systems, Data Mining 
+				<p>
+                    <span>Papers presented or published </span><br/> 4
                 </p>
+               
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -69,15 +71,18 @@ Computer Networks, Data Mining
                 <h4>Prof. A.Muruganantham
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.phil(CS), Pursuing Ph.D(CS)
+                    <span>Qualification </span> <br/>M.Sc.,M.Phil (Computer Science)., Pursing Ph.D(CS)
+                </p>
+				<p>
+                    <span>Area of interest </span><br/> Web mining, Java Programming, Web Technologies, Software Architecture.
                 </p>
                  <p>
-                    <span> Experience </span><br/>19 years
+                    <span> Experience </span><br/>20 years
                 </p>
-                <p>
-                    <span>Area of Specialization </span><br/> Web mining, Java Programming,
-Web Technologies, Middleware Technologies, Ecommerce 
+				<p>
+                    <span>Papers presented or published </span><br/> 2
                 </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -97,16 +102,18 @@ Web Technologies, Middleware Technologies, Ecommerce
                 <h4>Prof. Velmurugan R 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Computer Science , Pursuing Ph.D 
+                    <span>Qualification </span> <br/> M.Sc.(CS), Pursuing Ph.D.
+                </p>
+				<p>
+                    <span>Area of interest </span><br/> Data mining, Web mining, Object Oriented Technologies, Software Engineering
                 </p>
                  <p>
-                    <span> Experience </span><br/>17 years
+                    <span> Experience </span><br/>18 years
                 </p>
-                <p>
-                    <span>Area of Specialization </span><br/>Software Engineering, Object Oriented
-Programming Concepts, UML Technologies, Simulation and 
-Modeling, Data Base Systems
+				<p>
+                    <span>Papers presented or published </span><br/> 3
                 </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

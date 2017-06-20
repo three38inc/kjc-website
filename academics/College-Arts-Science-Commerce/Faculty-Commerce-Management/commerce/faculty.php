@@ -284,7 +284,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+ 
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>

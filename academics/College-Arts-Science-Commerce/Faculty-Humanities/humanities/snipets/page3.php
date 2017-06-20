@@ -8,13 +8,16 @@
                 <h4>SJ. Michael
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA, PDPMIR 
+                    <span>Qualification </span> <br/>  MA,PDMIR,SLET [Ph.D.]
                 </p>
                 <p>
                     <span>Areas of Interest </span><br/> Administration and Social service
                 </p>
                 <p>
-                    <span>Experience </span><br/>24 years 
+                    <span>Experience </span><br/>28 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 30
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

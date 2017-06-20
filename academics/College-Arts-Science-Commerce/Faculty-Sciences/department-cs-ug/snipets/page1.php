@@ -155,7 +155,7 @@
                     <span>Areas of interest </span><br/> Applied statistics
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  17 years
+                    <span>Experience  </span><br/>  18 years
                 </p>
                 <p>
                     <span>Papers presented or published </span><br/> 3

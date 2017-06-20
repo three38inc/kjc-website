@@ -8,14 +8,16 @@
                 <h4>   I. Stephen
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MA English Literature, M.Phil in English &amp; 
-                    Comparitive Lierature
+                    <span>Qualification </span> <br/> MA M Phil
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  English Literature and Language
+                    <span>Areas of Interest </span><br/>  English Literature 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>19 years
+                    <span>Teaching Experience </span><br/>22 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -36,13 +38,16 @@
                 <h4>Ms. Susan Sanny
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.A. (English/Sociology), M Phil. (English), B. Ed,
+                    <span>Qualification </span> <br/>  B. Ed, M.A. (English) M.A. (Sociology), M Phil. (English)
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>   Language and Literature
+                    <span>Areas of interest</span><br/>   English Literature and Language
                 </p>
                  <p>
-                    <span>Teaching Experience </span><br/> 10 years
+                    <span>Teaching Experience </span><br/> 20 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 
                 <ul class="list-inline social-light ">
@@ -176,13 +181,16 @@ UGC-NET (English)
                 <h4> Evangeline Richard
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA English Literature
+                    <span>Qualification </span> <br/>  M.A  English Literature
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Literature & Language
+                    <span>Areas of Interest </span><br/> English Literature & Language
                 </p>
                 <p>
-                    <span>Experience </span><br/>01 Years 
+                    <span>Experience </span><br/>1 Years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

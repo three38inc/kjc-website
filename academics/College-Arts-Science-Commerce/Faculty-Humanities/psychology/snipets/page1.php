@@ -54,8 +54,18 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
             <div class="item-content">
                 <h4>    Dr. Rema.M.K
                 </h4>
+                 <p>
+                    <span>Qualification </span> <br/>M.A. PhD
+                </p>
                 <p>
-                    <span>Qualification </span> <br/> MA (Psy) PhD,Working in this organization since one year. She had worked as technical officer in Health Education Department NIMHANS ,also worked as assistant professor in Jain University Bangalore, Montford College and Bangalore University. 
+                    <span>Area of Interest </span><br/>Clinical and counseling Psychology
+				</p>
+                <p>
+                    <span>Experience </span><br/>   7 years
+                </p>
+				
+              <p>
+                    <span>Papers presented or published </span><br/> 9
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

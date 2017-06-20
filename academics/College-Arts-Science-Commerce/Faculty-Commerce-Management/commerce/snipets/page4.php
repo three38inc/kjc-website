@@ -38,13 +38,16 @@
                 <h4>Padmanagendra R 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.com, NET, JRF, KSET, CMA (Final)
+                    <span>Qualification </span> <br/> M.COM,NET/JRF,KSET,CMA(Final)
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/> Law, Finance ,Accounting Taxation
+                    <span>Areas of interest</span><br/> Accounting and Taxation
                 </p>
                  <p>
-                    <span>Teaching Experience </span><br/> 02 Years
+                    <span>Teaching Experience </span><br/> 3 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

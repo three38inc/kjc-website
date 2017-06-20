@@ -41,91 +41,91 @@
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/founder.php" ><h4>Founder</h4></a>
+                                            <a href="founder.php" ><h4>Founder</h4></a>
                                             <p>
                                                 Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/founder.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="founder.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/history.php"><h4>History</h4></a>
+                                            <a href="history.php"><h4>History</h4></a>
                                             <p>
                                                 The College bears a transcendent acclaim with an exuberant plethora of academic excellence and ethos, fulfilling the mission to provide standard opportunities for the global competencies.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/history.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="history.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									<div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/core_values.php"><h4>Core Values</h4></a>
+                                            <a href="core_values.php"><h4>Core Values</h4></a>
                                             <p>
                                                 The College is mounted on the four paramount pillars – Faith, Integrity, Dignity and Excellence to progress in the interminable journey of excellence.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/core_values.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="core_values.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									<div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/educational_philosophy.php"><h4>Educational Philosophy</h4></a>
+                                            <a href="educational_philosophy.php"><h4>Educational Philosophy</h4></a>
                                             <p>
                                                 Kristu Jayanti College engages students in a charismatic transformation and integrated learning process anchoring a unique blend of tradition and excellence.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/educational_philosophy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="educational_philosophy.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/milestones.php"><h4>Milestones</h4></a>
+                                            <a href="milestones.php"><h4>Milestones</h4></a>
                                             <p>
                                                 The College has accomplished a considerable number of commendable milestones within a short span of few years.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/milestones.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="milestones.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									<div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/message.php"><h4>Principal's Message</h4></a>
+                                            <a href="message.php"><h4>Principal's Message</h4></a>
                                             <p>
                                                 The academic fraternity is an active community of learners who pursue knowledge as an active and dynamic phenomenon with infinite and immense possibilities. 
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/message.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="message.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									  <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/management.php"><h4>Management</h4></a>
+                                            <a href="management.php"><h4>Management</h4></a>
                                             <p>
                                                 Kristu Jayanti College expands its horizons for the students to experience Intellectual excellence and a diversity of culture, transforming individuals to become exemplary leaders of tomorrows.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/management.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="management.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									<div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/profile.php"><h4>Profile</h4></a>
+                                            <a href="profile.php"><h4>Profile</h4></a>
                                             <p>
                                                 Kristu Jayanti College identifies and cultivates an aesthetic sense of purpose within every individual inspiring them to be responsible and independent.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/profile.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="profile.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/vision_mission_goals.php"><h4>Vision, Mission &amp; Goals</h4></a>
+                                            <a href="vision_mission_goals.php"><h4>Vision, Mission &amp; Goals</h4></a>
                                             <p>
                                                 Light & Prosperity: Redefining new beginnings and the endless possibilities in achieving global standards.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/vision_mission_goals.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="vision_mission_goals.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
@@ -133,11 +133,11 @@
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/about/autonomous.php"><h4>Autonomous</h4></a>
+                                            <a href="autonomous.php"><h4>Autonomous</h4></a>
                                             <p>
                                                 Kristu Jayanti College has been conferred the Academic Autonomy from the academic year 2013-2014 and continues to be an affiliated college of the Bangalore University.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/about/autonomous.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="autonomous.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
@@ -336,7 +336,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 				
 			<li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="<?php echo $ROOT ; ?>/home/index.php" id="home">Faculty</a>
+                    <a href="faculty.php" id="home">Faculty</a>
                 </li>	
 				
 				
@@ -355,13 +355,13 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
                                     </div>
                                     <div class="col-lg-5">
                                         <div class="menu-alt full">
-                                            <a href="<?php echo $ROOT; ?>/campus/academic_arena.php"><h4>Kristu Jayanti College</h4></a>
+                                            <a href="#"><h4>Kristu Jayanti College</h4></a>
                                             <p>
                                                 The institution's infrastructure is at pace with the changing needs of the student population. To be on par with the scientific and technological advancements, parallel expansion of infrastructure in the form of laboratories, library and other learning resources such as computers, e-resources and Wi-Fi facility are initiated.
                                                 <br><br>
                                                 Physical facilities have been expanded to create an ambience conducive for academic excellence and holistic development. Various departments and administrative sections are housed in the Main Block. The MBA and MCA programmes function in a separate block. The college has spacious class rooms, auditoria, laboratories, conference halls, panel rooms and sports facilities.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/academic_arena.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -370,31 +370,31 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
                                     <div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/library_info.php"><h4>Library</h4></a>
+                                            <a href="library_info.php"><h4>Library</h4></a>
                                             <p>
                                                 A gateway to a world of information and resourceful materials for the growth of the mind. 
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/library_info.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="library_info.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									 <div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/sports_games.php"><h4>Sports &amp; Games</h4></a>
+                                            <a href="sports_games.php"><h4>Sports &amp; Games</h4></a>
                                             <p>
                                                 The Department of Sports designs opportunities for potential sportspersons to run with a spirit of true sportsmanship.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/sports_games.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="sports_games.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 									
 									<div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/hostel.php"><h4>Gym</h4></a>
+                                            <a href="gym.php"><h4>Gym</h4></a>
                                             <p>
-                                                Well maintained Hostels for both boys and girls are arranged ensuring the safety of the wards.
+                                               We encourage students to practice healthy life style by engaging.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/hostel.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="gym.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
@@ -402,31 +402,31 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
                                     <div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/hostel.php"><h4>Hostel</h4></a>
+                                            <a href="hostel.php"><h4>Hostel</h4></a>
                                             <p>
                                                 Well maintained Hostels for both boys and girls are arranged ensuring the safety of the wards.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/hostel.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="hostel.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/cafeteria.php"><h4>Cafeteria</h4></a>
+                                            <a href="cafeteria.php"><h4>Cafeteria</h4></a>
                                             <p>
                                                 The college cafeteria provides a wide range of hygienic food at affordable prices.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/cafeteria.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="cafeteria.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-2">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/campus/atm.php"><h4>Health Care</h4></a>
+                                            <a href="health_care.php"><h4>Health Care</h4></a>
                                             <p>
                                                 Kristu Jayanti College of Law aims at providing holistic legal education .. 
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/campus/atm.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="health_care.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
@@ -467,41 +467,41 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/student_services/scholarship.php"><h4>Environment Club</h4></a>
+                                            <a href="environment_club.php"><h4>Environment Club</h4></a>
                                             <p>
-                                                Scholarship facilities are available under various schemes, imparting the importance of education.
+                                               Every person on the planet is vested with a supreme duty of protecting Mother Nature. 
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/student_services/scholarship.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="environment_club.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/student_services/health_care.php"><h4>Human Rights Club</h4></a>
+                                            <a href="human_rights_club.php"><h4>Human Rights Club</h4></a>
                                             <p>
-                                                The physical and mental well-being of the student and staff are of prime importance.
+                                              The Human Rights Club established in Kristu Jayanti College of Law seeks.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/student_services/health_care.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="human_rights_club.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/student_services/international_student_forum.php"><h4>NSS</h4></a>
+                                            <a href="nss.php"><h4>NSS</h4></a>
                                             <p>
-                                                The International Students Forum (ISF) was established to nurture the educational experience of the International students in the campus.
+                                               National Service Scheme aims at arousing social consciousness of the youth with an overall.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/student_services/international_student_forum.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="nss.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>NCC</h4></a>
+                                            <a href="ncc.php"><h4>NCC</h4></a>
                                             <p>
-                                                The college offers scrupulous coaching for the competitive examinations in association with ‘TIME’.
+                                               Special weapon training classes and rifle drill was conducted in our college campus.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="ncc.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
@@ -529,6 +529,6 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
     <div class="nav2 hide">
         <a href="#">Student Services</a>
         <a href="#">Campus</a>
-        <a href="<?php echo $ROOT ; ?>/admission/admission.php">Admissions</a>
+        <a href="admission/index.php">Admissions</a>
     </div>
 </div>

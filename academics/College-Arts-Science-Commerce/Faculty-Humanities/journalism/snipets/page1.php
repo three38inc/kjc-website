@@ -8,14 +8,16 @@
                 <h4>Dr. Gopakumar A.V
                 </h4>
 				<p>
-                 <span>Qualification </span> <br/> MA English Literature, M.Phil in English &amp; 
-                    Comparitive Lierature
+                 <span>Qualification </span> <br/> MCJ, MSc, UGC NET, PhD.
                 </p>
 				 <p>
-                    <span>Areas of Interest </span><br/>  English Literature and Language
+                    <span>Areas of Interest </span><br/> Advertising, Reporting & Film Studies
                 </p>
                 <p>
                     <span>Teaching Experience </span><br/>14 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 9
                 </p>
                 
                 
@@ -38,14 +40,16 @@
                 <h4>Abraham
                 </h4>
                 <p>
-                 <span>Qualification </span> <br/> MA English Literature, M.Phil in English &amp; 
-                    Comparitive Lierature
+                 <span>Qualification </span> <br/> M A in Journalism and Mass Communication 
                 </p>
 				 <p>
-                    <span>Areas of Interest </span><br/>  English Literature and Language
+                    <span>Areas of Interest </span><br/>  Reporting, Media Management, Media Laws and Ethics 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>14 years
+                    <span>Teaching Experience </span><br/>22 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 5
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
