@@ -132,28 +132,30 @@
                                             <a href="moot_court.php"><h4><i class="fa fa-link c2"></i>Moot Court</h4></a>
                                         </div>
                                     </div>
-                                   
-                                    </div>
-                                    <div class="col-lg-12">
+									<div class="col-lg-12">
                                         <div class="content-spl sideLinks color-4 wow fadeIn"  style="min-height: 50px;">
-                                            <a href="#"><h4><i class="fa fa-calendar-o c4"></i>Enroll For Events</h4></a>
+                                            <a href="http://events.kristujayanti.edu.in/login.php" target="_blank"><h4><i class="fa fa-calendar-o c4"></i>Enroll For Events</h4></a>
                                         </div>
                                     </div>
+                                   
+                                    </div>
+                                   
+								
                                     
                                 </div>
                                 <div class="clearfill"></div>
                             </div>
                         </div>
 							
-						<?php include ('../../php/alerts.php');  ?>
-						<?php include('../../php/footer.php'); ?>
+						<?php include ('php/alerts.php');  ?>
+						<?php include('php/footer.php'); ?>
 					</div>   
 
 
 
 				</div> <!--/st-content-inner--> 
 		  </div> <!--st-pusher--> 
-		</div> <!--st-container--> 
+		 <!--st-container--> 
 
 	<script src="../../js/cbpFWTabs.js"></script>
 	<script>

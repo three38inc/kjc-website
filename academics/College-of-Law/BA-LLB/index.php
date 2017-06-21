@@ -91,7 +91,7 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php include ('../php/navbar.php');  ?>
+            <?php include ('php/navbar.php');  ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
@@ -213,10 +213,9 @@
                     </div>
 
                     <!--						                                </div>-->
-                    <?php include ('../../../php/alerts.php');  ?>
+                   <?php include ('../../../php/alerts.php');  ?>
                     <?php include('../../../php/footer.php'); ?>
                     <?php include('../../../php/morphingSearch.php'); ?>
-                </div>
 
 
 
