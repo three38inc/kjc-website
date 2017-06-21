@@ -338,47 +338,32 @@
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
                             <div class="accTabs color-1">
-                                <h2><i class="flaticon-kjc-collaborations c1"></i>Workshops</h2>
+                                <h2><i class="flaticon-kjc-collaborations c1"></i>College</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
                             <div class="accTabs color-2">
-                                <h2><i class="flaticon-kjc-iqac c2"></i>National Youth Fest</h2>
+                                <h2><i class="flaticon-kjc-iqac c2"></i>Students</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
                             <div class="accTabs color-3">
-                                <h2><i class="flaticon-kjc-gallery c3"></i>Faculty Development</h2>
+                                <h2><i class="flaticon-kjc-gallery c3"></i>Faculty</h2>
+								
                             </div>
-                        </a>
+						</a>
+						
+						
                     </div>
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
-                            <div class="accTabs color-1">
-                                <h2><i class="flaticon-kjc-collaborations c1"></i>National Conferance</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
-                            <div class="accTabs color-2">
-                                <h2><i class="flaticon-kjc-iqac c2"></i>Inter Collegiate Fests</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
-                            <div class="accTabs color-3">
-                                <h2><i class="flaticon-kjc-gallery c3"></i>Books Published</h2>
-                            </div>
-                        </a>
-                    </div>
+                    
                 </div>
+				
             </div>
+			
         </div>
     </div>
 </div>
