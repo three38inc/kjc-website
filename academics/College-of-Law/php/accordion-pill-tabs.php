@@ -112,7 +112,7 @@
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Jayantian Special</a></li>
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
                     <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp;Examinations</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Achievements</a></li>
+                    <!--<li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Achievements</a></li>-->
 
                 </ul>
             </div>
