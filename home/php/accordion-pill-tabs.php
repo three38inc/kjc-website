@@ -336,21 +336,21 @@
                     </div>
 
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
+                        <a href="../achivements/college.php">
                             <div class="accTabs color-1">
                                 <h2><i class="flaticon-kjc-collaborations c1"></i>College</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
+                        <a href="../achivements/students.php">
                             <div class="accTabs color-2">
                                 <h2><i class="flaticon-kjc-iqac c2"></i>Students</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
-                        <a href="#<?php echo $ROOT ; ?>/misc/achievements.php">
+                        <a href="../achivements/faculty.php">
                             <div class="accTabs color-3">
                                 <h2><i class="flaticon-kjc-gallery c3"></i>Faculty</h2>
 								

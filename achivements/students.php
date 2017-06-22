@@ -276,15 +276,15 @@ Taekwondo – Arun Jose<br>
 
 
                                     <section class="link-arrow">
-                    <p><a class="a-link-arrow" href="appalachian_state_university.php">College Achievements </a></p>
+                    <p><a class="a-link-arrow" href="../achivements/college.php">College Achievements </a></p>
                                     </section>
 									
 									 <section class="link-arrow">
-                    <p><a class="a-link-arrow" href="appalachian_state_university.php" style="color: #2980b9;font-weight: bold;">Students Achievements </a></p>
+                    <p><a class="a-link-arrow" href="../achivements/students.php" style="color: #2980b9;font-weight: bold;">Students Achievements </a></p>
                                     </section>
 									
 									 <section class="link-arrow">
-                    <p><a class="a-link-arrow" href="appalachian_state_university.php">Faculty Achievements </a></p>
+                    <p><a class="a-link-arrow" href="../achivements/faculty.php">Faculty Achievements </a></p>
                                     </section>
 
 
