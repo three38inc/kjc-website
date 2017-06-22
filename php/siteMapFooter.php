@@ -5,7 +5,7 @@
 	<h5>ABOUT</h5>
 	<p class="pTagMapLinks hidden-xs"><a class="aTagMapLinks" href="../about/founder.php">Founder</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../about/history.php">History</a></p>
 	<!-- <p class="pTagMapLinks" ></p>-->
-	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/milestones.php">Milestones</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="../about/core_values.php">Core Values</a></p>
+	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/milestones.php">Milestones</a>&nbsp;|&nbsp;<a class="aTagMapLinks" href="<?php echo $ROOT;?>/about/core_values.php">Core Values</a></p>
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/vision_mission_goals.php">Vision, Missions &amp; Goals</a></p>
 	<!--<p class="pTagMapLinks" ></p>-->
 	<p class="pTagMapLinks hidden-xs" ><a class="aTagMapLinks" href="../about/educational_philosophy.php">Educational Philosophy</a></p>
