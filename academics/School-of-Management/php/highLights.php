@@ -154,7 +154,7 @@
         </li>
         <li>
             <img src="images/highlights/niranjan_khatri.jpg" class="img-responsive" />
-            <span class="date">12<sup>th</sup> september 2015</span>
+            <span class="date">12<sup>th</sup> August 2015</span>
             <div class="quote">
                 <a href="../../events/events.php?mode=openlink&year=2015&month=august&url=expert_lecture_series_niranjan.php">
                     <h4>EXPERT LECTURE SERIES<br/><small>The department of Management Studies (MBA and PGDM) organized 'Expert Lecture Series' on August 12, 2015.. .. </small></h4>

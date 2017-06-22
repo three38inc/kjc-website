@@ -419,7 +419,7 @@
 					 <div class=" col-lg-4 col-xs-12 spl">
                         <a href="industrial_exposure.php">
                         <div class="accTabs color-3">
-							<h2><i class="flaticon-kjc-extension c3"></i>Industrial Exposure  </h2>
+							<h2><i class="flaticon-kjc-vichaarmanthan c6"></i>Industrial Exposure  </h2>
                         </div>
                         </a>
                     </div>
@@ -427,7 +427,7 @@
 					 <div class=" col-lg-4 col-xs-12 spl">
                         <a href="six_sigma_certification.php">
                         <div class="accTabs color-3">
-							<h2><i class="flaticon-kjc-extension c3"></i>Value Added Courses  </h2>
+							<h2><i class="flaticon-kjc-ccpd c7"></i>Value Added Courses  </h2>
                         </div>
                         </a>
                     </div>
@@ -435,7 +435,7 @@
 					 <div class=" col-lg-4 col-xs-12 spl">
                         <a href="theatre_fest.php">
                         <div class="accTabs color-3">
-							<h2><i class="flaticon-kjc-extension c3"></i>Theatre Fest  </h2>
+							<h2><i class="flaticon-kjc-extension c1"></i>Theatre Fest  </h2>
                         </div>
                         </a>
                     </div>
@@ -443,7 +443,7 @@
 					 <div class=" col-lg-4 col-xs-12 spl">
                         <a href="entrepreneurial_emphasis.php">
                         <div class="accTabs color-3">
-							<h2><i class="flaticon-kjc-extension c3"></i>Entrepreneurial Emphasis </h2>
+							<h2><i class="flaticon-kjc-entrepreneurship c2"></i>Entrepreneurial Emphasis </h2>
 
                         </div>
                         </a>
