@@ -5,7 +5,7 @@
 RBI Reforms and Current Trends in Banking
 
 
-            <b class="panel-title pull-right">April 07<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">September 11<sup>th</sup> 2015</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">

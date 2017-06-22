@@ -279,7 +279,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <ul id="demo2" class="demo2">
-                    <li class="news-item">
+					
+					<!-- <li class="news-item">
 						<table cellpadding="4">
 							<tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -291,6 +292,28 @@
 								    Commencement of III Sem MA / MSc / MCom / M.Com. (FA)/ MSW / III &amp; V Sem MCA programmes
 								</p>
 								<a href="#" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+						</table>
+                    </li>-->
+					
+					
+                    <li class="news-item">
+						<table cellpadding="4">
+							<tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUN</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">23</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								    Certificate Exchange Ceremony with ICT Academy
+									Kristu Jayanti College, Bengaluru signs membership with ICT Academy
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=june&url=ceremony_ICT_academy.php" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>
@@ -309,10 +332,10 @@
 								<p style="margin-top: 2px; margin-bottom: 0px;">
 								    School of Management (MBA &amp; PGDM) III Trimester - Internship / Organizational Study
 								</p>
-								<a href="#" class="read-more">
+								<!--<a href="#" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
-								</a>
+								</a>-->
 								</td>
 							</tr>
                         </table>
@@ -328,10 +351,10 @@
 								<p style="margin-top: 2px; margin-bottom: 0px;">
 								    School of Management (MBA & PGDM) IIIrd Trimester International Industry Visit to Singapore and Malaysia
 								</p>
-								<a href="#" class="read-more">
+								<!--<a href="#" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
-								</a>
+								</a>-->
 								</td>
 							</tr>
                         </table>
@@ -347,10 +370,10 @@
 								<p style="margin-top: 2px; margin-bottom: 0px;">
 								   Inauguration of Academic Year - commencement of I sem Law programmes 
 								</p>
-								<a href="#" class="read-more">
+								<!--<a href="#" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
-								</a>
+								</a>-->
 								</td>
 							</tr>
                         </table>

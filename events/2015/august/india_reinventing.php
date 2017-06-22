@@ -4,7 +4,7 @@
   Panel Discussion [Make in India-Reinventing Skills] 
 
 
-            <b class="panel-title pull-right">April 07<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">August 01<sup>st</sup> 2015</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">

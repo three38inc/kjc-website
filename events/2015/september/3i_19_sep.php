@@ -2,7 +2,7 @@
 	<div class="panel panel-primary">
 		<div class="panel-heading">
    (3i) Industry Institute Interface Series 
-            <b class="panel-title pull-right">April 07<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">September 19<sup>th</sup> 2015</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
