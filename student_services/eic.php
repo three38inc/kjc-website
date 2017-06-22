@@ -319,7 +319,7 @@
                                                                             </ul>
 
 
-                                                                </li><br><br>
+                                                               <br><br>
                                                                     <strong>3. Workshop, Seminar and Guest Lectures</strong>
                                                                     <ul>
                                                                         <li>
@@ -523,7 +523,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>

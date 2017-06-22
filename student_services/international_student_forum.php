@@ -72,9 +72,9 @@
                                         <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                      
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-											<span>&nbsp;<strong>International Student Forum</strong></span>
+											<span>&nbsp;International<strong> Student Forum</strong></span>
 										</h4>
-										<hr />
+									
 										<div class="inner-content">
 											<p> 
 												There is an incremental growth in the number of International students. Students from Bangladesh, Iran, Ivory coast, Dar Es Salaam, Maldives, Nepal, Republic of Korea, , Sri Lanka, Tanzania, Tibet, Bhutan, Chad, Thailand , Congo, Nigerian, Cameroon, Saudi Arabia, , and Yemen are studying in the Institution. Programmes offered at present are available to all International students as and when they seek admission in the institution, subject to the guidelines of University and AICTE. To nurture the educational experience of the International students in the campus, International Students Forum (ISF) was established. The Forum offers the following support services:<br/>
@@ -107,8 +107,7 @@
 												<li>In case of supplementary papers to be appeared, please take prior permission from the office with the necessary documents (marks card copies) etc</li>
 
 											</ul>
-<!--											<br /><br /><br /><br /><br /><br /><br />-->
-											</p>
+								
 									</div>
 								</div>
 							</div>
@@ -116,7 +115,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
@@ -180,6 +179,7 @@
 </div>
 <!--st-pusher-->
 <!--        </div> st-container -->
+		<script>
 	(function() {
 
 		[].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {

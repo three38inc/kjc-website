@@ -72,9 +72,9 @@
                                         <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                      
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-											<span>&nbsp;<strong>Health Care</strong></span>
+											<span>&nbsp;Health<strong> Care</strong></span>
 										</h4>
-										<hr />
+										
 										<div class="inner-content">
 											<p> 
 												The physical and mental well-being of the student and staff are given prime importance. Various measures are undertaken to ensure their care and welfare.<br /><br />
@@ -99,7 +99,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>

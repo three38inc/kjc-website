@@ -72,9 +72,9 @@
                                         <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                      
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-											<span>&nbsp;<strong>Grievance Redressal</strong></span>
+											<span>&nbsp;Grievance<strong> Redressal</strong></span>
 										</h4>
-										<hr />
+										
 										<div class="inner-content">
 											<p> The <strong>Grievance Redressal Cell </strong>was constituted in July, 2006 with five members to probe into the student grievances. It redresses the grievances at individual and class level and grievances of common interest. The Cell maintains a conducive and unprejudiced educational environment. Complaints dropped in the 'Suggestion Box' by students and parents and oral complaints are also redressed. All complaints are scrutinized by the management and the grievance redressal cell.</p>
 <p><b>The complaint management mechanism is carried out in three levels in the institution:</b><br>
@@ -92,7 +92,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>
