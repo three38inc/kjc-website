@@ -11,8 +11,7 @@
                     <span>Qualification </span> <br/>  MA Psychology and Counseling (USA)
                 </p>
                 <p>
-                    <span>Area of research </span><br/> Counseling Psychology
-Fr. Emmanuel joined the Psychology Department of Kristu Jayanti College during 2015 Academic year, after completing his study and work in USA for 9 years. Apart from assisting the Undergraduates and Graduates in academics, he is also interested and specialized in counseling.
+                    <span>Area of research </span><br/>Counseling Psychology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -33,8 +32,17 @@ Fr. Emmanuel joined the Psychology Department of Kristu Jayanti College during 2
                 <h4> Dr. Molly Joy
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA (Psychology), MEd, MA (English Literature), PGD Human Resource Management, PhD Psychology
-Other credentials include - trained counsellor, hypnotherapist, career counsellor, Life skill and soft skill trainer and Hypnotherapy trainer. 
+                    <span>Qualification </span> <br/> MA (Psychology), MEd, MA (English), PGD Human Resource Management, PhD Psychology.
+                </p>
+				<p>
+                    <span>Area of Interest </span><br/> Research, Counselling, Psychotherapy.
+				</p>
+                <p>
+                    <span>Experience </span><br/>   24 years
+                </p>
+				
+              <p>
+                    <span>Papers presented or published </span><br/> 9
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -86,7 +94,17 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                 <h4>  Ms. Smitha AG 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc, MPhil (PhD),Academician since 9 years Specialized in Clinical Psychology is actively engaged in teaching Psychology at PG and UG level, counseling adolescents and also passionate about adolescent psychology. Her research interest includes addiction and positive effect.
+                    <span>Qualification </span> <br/> Ph. D. (Psychology) (Submitted)
+                </p>
+				<p>
+                    <span>Area of Interest </span><br/> Addiction among adolescents, Positive Psychology
+				</p>
+                <p>
+                    <span>Experience </span><br/>   11 years
+                </p>
+				
+              <p>
+                    <span>Papers presented or published </span><br/> 5
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -139,13 +157,16 @@ Other credentials include - trained counsellor, hypnotherapist, career counsello
                 <h4> Arun Jacob
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> Msc, M.phil, 
+                    <span>Qualification </span> <br/> MPhil in Clinical Psychology
                 </p>
                 <p>
-                    <span>Area of research </span><br/>Creative Drama, Parenting Styles 
+                    <span>Area of research </span><br/> Adolescents, Family- Parenting styles, Creative Drama, Psychopathology, and Psychotherapy.
                 </p>
                 <p>
-                    <span>Experience </span><br/>   2 years
+                    <span>Experience </span><br/> 4 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 1
                 </p>
               
                 <ul class="list-inline social-light ">

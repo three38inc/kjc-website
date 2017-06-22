@@ -99,16 +99,16 @@
                 <h4>  Cecil Donald A
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc., (Ph.D.), SET
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> -
+                    <span>Areas of interest </span><br/> Cloud Computing, Network Security
                 </p>
                 <p>
-                    <span>Experience </span><br/>   -
+                    <span>Experience </span><br/>   7 Months
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/>  -
+                    <span>Papers presented or published </span><br/>  14
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -130,16 +130,16 @@
                 <h4>  Suresh K
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -  
+                    <span>Qualification </span> <br/>  B. Sc, M. C. A, M. Phil & PHD(pursuing) 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> -
+                    <span>Areas of interest </span><br/> Data Mining, Database & operating System 
                 </p>
                 <p>
-                    <span>Experience </span><br/>  -
+                    <span>Experience </span><br/>  5 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/>  -
+                    <span>Papers presented or published </span><br/>  12
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -161,16 +161,16 @@
                 <h4>  Dr. Aparna  R R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc.IT,Mphil,Ph.D
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> -
+                    <span>Areas of interest </span><br/> Image Processig, Pattern Recoginition,OCR
                 </p>
                 <p>
-                    <span>Experience </span><br/>   -
+                    <span>Experience </span><br/>   5 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 4 / 10
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

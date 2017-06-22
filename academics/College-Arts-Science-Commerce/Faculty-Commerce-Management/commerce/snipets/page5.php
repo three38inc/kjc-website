@@ -36,13 +36,13 @@
                 <h4> Santhosh V
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> - 
+                    <span>Qualification </span> <br/> M.com, PGDBA, (Ph. D). 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  -
+                    <span>Areas of Interest </span><br/>  Accounting & Taxation
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> -
+                    <span>Teaching Experience </span><br/> 6 years
                 </p>
 				<p>
                     <span>Papers presented or published </span><br/> -
@@ -68,16 +68,16 @@
                 <h4> Annie Stephen
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> CA,MBA,(PHD)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  -
+                    <span>Areas of Interest </span><br/>  Commerce and Management 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> -
+                    <span>Teaching Experience </span><br/> 6 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -163,16 +163,16 @@
                 <h4> Maria Monica M
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  M.Com (Accounting and Taxation)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  -
+                    <span>Areas of Interest </span><br/>  Accounting Taxation Crypto Currency
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> -
+                    <span>Teaching Experience </span><br/> 2 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

@@ -64,13 +64,15 @@
 						<div class="container">
 							<!--        <div class="row">-->
 							<div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-								<img class="img-responsive" src="../images/<?php echo $imgNum; ?>.jpg" alt="cover-img" />    
+								 
 							</div>
-							<div class="row">
-								<div class="col-lg-9">
-									<div class="content-left myWelcome wow fadeIn">
-										<h4 >
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
+						 <div class="row">
+                                <div class="marginTopDiv">&nbsp;</div>
+                                <div class="col-lg-9">
+                                    <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
+                                        <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                     
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
 											<span>&nbsp;<strong>Bank Loan</strong></span>
 										</h4>
 										<hr />

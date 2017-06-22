@@ -110,12 +110,12 @@
                             <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                             </div>
-                            <div class="row">
+                           <div class="row">
                                 <div class="marginTopDiv">&nbsp;</div>
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                         <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                       
+                                     
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;About <strong> Luminary</strong></span>
                                         </h4>

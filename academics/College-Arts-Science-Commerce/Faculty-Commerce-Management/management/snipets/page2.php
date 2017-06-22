@@ -92,16 +92,16 @@
                 <h4>   Dr. V.G. Jisha
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.Com., M.Phil., PhD.,
+                    <span>Qualification </span> <br/>  M.Com., M.Phil., MBA., PGDCA., Ph.D
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Corporate Accounting, Financial Accounting,Income Tax, Economics
+                    <span>Areas of interest </span><br/> Accounting, Marketing
                 </p>
                 <p>
-                    <span>Teaching Experience</span><br/> 12 Years 
+                    <span>Teaching Experience</span><br/> 11 Years 
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 21
+                    <span>Papers presented or published </span><br/> 22
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
