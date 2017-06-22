@@ -103,8 +103,7 @@
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
                 <div class="panel-heading" role="tab" id="heading1">
                     <h4 class="panel-title">
-
-                       June 20<sup>th</sup>
+                    June 20<sup>th</sup>
                         <i class="fa fa-caret-right pull-right "></i>
                     </h4>
                 </div>
