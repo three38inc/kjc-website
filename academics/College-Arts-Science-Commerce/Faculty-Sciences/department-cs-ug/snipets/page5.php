@@ -93,7 +93,7 @@
 	 <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/-.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Cecil Donald.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Cecil Donald A
@@ -155,7 +155,7 @@
 	 <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Dr. Aparna R R.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Dr. Aparna  R R
