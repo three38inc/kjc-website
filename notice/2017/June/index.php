@@ -2,8 +2,43 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		
 		
+		  <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                <div class="panel-heading" role="tab" id="heading4">
+                    <h4 class="panel-title">
+
+                      June 23<sup>rd</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+
+                </div>
+            </a>
+            <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+                <div class="panel-body">
+                   
+   <p><b>For all UG & PG classes</b><br>
+
+			  Students are requested not to park Two-wheelers on the road by the side of the walls near the Transformer.</p>
+
+		  <p><b>For all UG classes</b><br>
+
+    The Department of Hindi of our college in collaboration with the Dakshina Bharat Hindi Prachar Sabha, MADRAS (an institution of National importance declared by the parliament by Act No. 14 of 1964) is conducting Hindi examinations for students who had taken Hindi as second language in their Pre-University classes. These examinations are approved by the Government of India.<br>
+
+			  Benefits: Passing all the four semester examinations conducted by the above will fetch an additional approved Praveen Degree in Hindi equivalent to BA. Special classes will be conducted by the Dept. of Hindi. After Praveen, candidates are eligible to apply for B.Ed or MA (Hindi). Interested candidates do contact Prof. Nayaz Pasha, Dept. of Hindi latest by 10/07/2017, Staff Room No. 9.</p>
+
+
+		  <p><b>For I year UG classes</b><br>
+
+			  Centre for Social Activities (CSA) is a wing of Jayantian Extension Services. Students enrolling for CSA will be eligible for extension credits. Interested students can submit duly filled enrollment form on or before 27th June, 2017 to Staff coordinator Mr. Manjunath S (Staff Room No. 5, 2nd Floor). Forms are available at stationery store at cafeteria.</p>
+                </div>
+            </div>
+        </div>
+		
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
 		   <div class="panel panel-default">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse3">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
                 <div class="panel-heading" role="tab" id="heading3">
                     <h4 class="panel-title">
 
