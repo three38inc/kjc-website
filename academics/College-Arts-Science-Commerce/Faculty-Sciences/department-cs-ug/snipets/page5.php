@@ -68,16 +68,16 @@
                 <h4>  Gopika S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> B.Tech , M.E(CSE)  
+                    <span>Qualification </span> <br/> B.Tech (IT), M.E(CSE) , (Ph.D).
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Image Processing
+                    <span>Areas of interest </span><br/> Image processing , Data Structures,  Computer Architecture, Networking
                 </p>
                 <p>
-                    <span>Experience </span><br/>   10 years
+                    <span>Experience </span><br/>   11 years , 5 Months
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/>  3
+                    <span>Papers presented or published </span><br/> 15
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
