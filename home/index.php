@@ -175,7 +175,7 @@
                                                     Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_1/stories/story_main.php" target="_blank" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
