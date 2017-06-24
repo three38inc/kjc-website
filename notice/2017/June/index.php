@@ -1,6 +1,43 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		
+			  <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                <div class="panel-heading" role="tab" id="heading5">
+                    <h4 class="panel-title">
+
+                      June 24<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+
+                </div>
+            </a>
+            <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+                <div class="panel-body">
+                   
+    <p><b>For all UG & PG classes</b><br>
+			  Jayantian Language Center offers a certificate programme in English. Interested students are requested to register at the Reception Counter (UG Block).</p>
+
+		  <p>Our college is organizing a certificate programme on Art of Painting by a renowned artist Mr.Thomas. It is 45 hours programme. Interested students are requested to register their names at the Reception Counter (UG Block).</p>
+
+		  <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes</b><br>
+			  Students who were absent on the re-opening day of this academic year 2017-18 without permission, have to report at the reception and pay the late fee with a letter of permission from the class animator / HOD showing the number of days of absenteeism.</p>
+
+		  <p><b>For all UG classes</b><br>
+			  The Department of Hindi of our college in collaboration with the Dakshina Bharat Hindi PracharSabha,MADRAS (an institution of National importance declared by the parliament by Act No. 14 of 1964) is conducting Hindi examinations for students who had taken Hindi as second language in their Pre-University classes. These examinations are approved by the Government of India.</p>
+
+		  <p><b>Benefits:</b> Passing all the four semester examinations conducted by the above will fetch an additional approved Praveen Degree in Hindi equivalent to BA. Special classes will be conducted by the Dept. of Hindi. After Praveen, candidates are eligible to apply for B.Ed or MA (Hindi). Interested candidates do contact Prof. Nayaz Pasha, Dept. of Hindi by latest on 10/07/2017, Staff Room No. 9.</p>
+
+		  <p><b>For I year UG classes</b><br>
+			  Centre for Social Activities (CSA) is a wing of Jayantian Extension Services. Students enrolling for CSA will be eligible for extension credits. Interested students can submit duly filled enrollment form on or before 27th June, 2017 to Staff coordinator Mr. Manjunath S (Staff Room No. 5, 2nd Floor). Forms are available at stationery store at cafeteria.</p>
+                </div>
+            </div>
+        </div>
+		
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+		
 		
 		  <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
