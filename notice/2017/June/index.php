@@ -1,6 +1,44 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		
+				  <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                <div class="panel-heading" role="tab" id="heading6">
+                    <h4 class="panel-title">
+
+                      June 27<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+
+                </div>
+            </a>
+            <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+                <div class="panel-body">
+                   
+     <p><b>For all UG & PG classes</b><br>
+
+			  Jayantian Language Center offers a certificate programme in English. Interested students are requested to register at the Reception Counter (Main Block).</p>
+
+		  <p> Our college is organizing a certificate programme on Art of Painting by a renowned artist Mr. Thomas. It is 45 hours programme. Interested students are requested to register their names at the Reception Counter (Main Block).</p>
+
+		  <p>Let us join together to keep our Campus clean and green. Students are requested to take special care to keep our parking place neat and tidy always. Please do not throw anything on the floor. Deposit all waste paper/materials in the dust bins provided at different places in the campus. Please switch off the lights and fans in the class rooms when you leave the class rooms, and turn off water taps properly after use.</p>
+
+		  <p><b>For UG I Semester classes only</b><br>
+
+			  Students (Boys/Girls) who are interested to join NCC for this academic year 2017-18 can collect the application form from the Reception Counter (Main Block) and submit the duly filled application form at the reception counter. Today (27/06/2017) is the last date for submission of applications. For further details contact Lt. Sarvesh, NCC Officer in Staff Room No. 10 – PG Block (Interview will be conducted on 28th & 29th of June 2017 at NCC Room, III Floor, Main Block).</p>
+
+		  <p>Centre for Social Activities (CSA) is a wing of Jayantian Extension Services. Students enrolling for CSA will be eligible for extension credits. Interested students are requested to submit duly filled enrollment form today (27/06/2017) itself to Staff coordinator Mr. Manjunath S (Staff Room No. 5, 2nd Floor, Main Block). Forms are available at stationery store at cafeteria.</p>
+
+		  <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes</b><br>
+			  Students who did not report to the college on the re-opening day should get a letter of permission from the class animator / HOD showing the number of days of absenteeism. Such students should register their names at the reception by paying Rs. 500/- per day of absenteeism and submit the duly filled leave letter form on or before 29/06/2017.</p>
+                </div>
+            </div>
+        </div>
+		
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+		
 			  <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
                 <div class="panel-heading" role="tab" id="heading5">
