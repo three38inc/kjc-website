@@ -1,4 +1,5 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html>
+<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?>
 <html lang="en" class="no-js">
 
 <head>
@@ -34,7 +35,52 @@
     <script src="../../js/respond.js"></script>
     <script src="../../js/custom.js"></script>
     <script src="../../js/fakeLoader.js"></script>
+    <style>
+        .card-img img {
+            width: 80%;
+            padding-bottom: 15px;
+        }
+        
+        .card-img2 img {
+            width: 80%;
+            height: auto;
+            margin: 50px 0;
+        }
+        
+        .card-mba {
+            background: #fff;
+            padding: 10px;
+            text-align: center;
+            padding-top: 50px;
+            overflow: hidden;
+            min-height: 400px;
+        }
+        
+        .cardBg{
+            background-color: #34495e;
+            color: #fff;
+        }
+        
+        .card-block{
+            width: 80%;
+            margin: 0 auto;
+        }
+        
+        .card-block p{
+            text-align: center;
+        }
+        .card-subtitle{
+            font-size: 14px;
+            margin-top: 0px;
+        }
+        .card-title{
+            
+    margin-bottom: 0;
+    font-size: 1.6em;
+    font-weight: bold;
+        }
 
+    </style>
 </head>
 
 <body>
@@ -65,7 +111,7 @@
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../../php/offCanvasMenu.php'); ?>
+        <?php //include('../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -97,7 +143,58 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 card-mba cardBg">
+                                <div class="card-img2">
+                                    <img src="images/mba/father-600x600.jpg" class="card-img-top">
+                                </div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Vice Principal's Corner</h4>
+                                    <h5 class="card-subtitle">Excellence We Strive</h5>
+                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
+    border-color: #fff;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 3px 15px;">MORE</a></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 card-mba">
+                                <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Vice Principal's Corner</h4>
+                                    <h5 class="card-subtitle">Excellence We Strive</h5>
+                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 card-mba cardBg">
+                                <div class="card-img2">
+                                    <img src="images/mba/father-600x600.jpg" class="card-img-top">
+                                </div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Vice Principal's Corner</h4>
+                                    <h5 class="card-subtitle">Excellence We Strive</h5>
+                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
+    border-color: #fff;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 3px 15px;">MORE</a></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 card-mba">
+                                <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Vice Principal's Corner</h4>
+                                    <h5 class="card-subtitle">Excellence We Strive</h5>
+                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-9">
@@ -163,8 +260,8 @@
     <script src="../../js/sly.js"></script>
     <script src="../../js/customSly.js"></script>
     <script src="../../js/wow.min.js"></script>
-    
-     <script src="../../js/owl.carousel.min.js" type="text/javascript"></script>
+
+    <script src="../../js/owl.carousel.min.js" type="text/javascript"></script>
     <script src="../../js/scripts.js"></script>
     <script src="js/manSchool.js"></script>
 
@@ -174,12 +271,11 @@
                 pageLanguage: 'en'
             }, 'google_translate_element');
         }
-        
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script>
-        $(document).ready(function(){
+        $(document).ready(function() {
             $('#frameHighLights').owlCarousel({
                 items: 1,
                 loop: true,
@@ -208,6 +304,7 @@
                 }
             });
         });
+
     </script>
 </body>
 
