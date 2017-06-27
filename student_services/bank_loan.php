@@ -64,16 +64,18 @@
 						<div class="container">
 							<!--        <div class="row">-->
 							<div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-								<img class="img-responsive" src="../images/<?php echo $imgNum; ?>.jpg" alt="cover-img" />    
+								 
 							</div>
-							<div class="row">
-								<div class="col-lg-9">
-									<div class="content-left myWelcome wow fadeIn">
-										<h4 >
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Bank Loan</strong></span>
+						 <div class="row">
+                                <div class="marginTopDiv">&nbsp;</div>
+                                <div class="col-lg-9">
+                                    <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
+                                        <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                     
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+											<span>&nbsp;Bank<strong> Loan</strong></span>
 										</h4>
-										<hr />
+								
 										<div class="inner-content">
 											<p> 
 												Students who are looking for bank loan have to complete the following process to get the required documents from the office. It is the responsibility of the students to collect details of the bank and their procedure to sanction loans.<br /><br />
@@ -82,8 +84,8 @@
 												<li>Request letter from the students with the Bank address.</li>												<li>Submit all the original marks cards for the qualifying examination</li>
 												<li>Students should fulfill the all the admission formalities including first year fees.</li>
 											</ul>
-											<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-											</p>
+											
+											
 									</div>
 								</div>
 							</div>
@@ -91,7 +93,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student<strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>

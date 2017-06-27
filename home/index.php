@@ -175,7 +175,7 @@
                                                     Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_1/stories/story_main.php" target="_blank" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -217,7 +217,7 @@
                                                     Video room of kristu jayanti Produces magnificiant videos which explains ....
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -249,7 +249,7 @@
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
                                                         Click Here</a>
 -->
-                                                    <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
+                                                    <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
 
 
                                             </div>

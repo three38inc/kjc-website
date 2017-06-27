@@ -8,15 +8,17 @@
                 <h4> Dr. Aparna Pandey
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc. (Cognitive Science), Ph.D. (Psychology) 
+                    <span>Qualification </span> <br/> MSc. Cognitive Sciences, Ph. D. (Psychology)
                 </p>
                 <p>
-                    <span>Area of research </span><br/>  Cognitive Psychology, Psycholinguistics,
-Dr. Aparna joined the Psychology Department of Kristu Jayanti College during 2017 Academic year. Her research interest
-includes language processing taking behavioral and eye tracking as a tool.
+                    <span>Area of research </span><br/> Cognitive Science, Neuro Science, Neuro Psychology
                 </p>
                  <p>
-                    <span>Experience </span><br/> 00 years
+                    <span>Experience </span><br/> 4 years
+                </p>
+				
+              <p>
+                    <span>Papers presented or published </span><br/> 9 / 6
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -39,17 +41,17 @@ includes language processing taking behavioral and eye tracking as a tool.
                 </h4>
                 <p>
                   <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc. Applied Psychology (Clinical), PG Diploma in Industrial psychology Ph.D. Psychology (To be submitted), NET 
                 </p>
                 <p>
-                    <span>Area of Interest </span><br/> -
+                    <span>Area of Interest </span><br/> Emerging Adults, Risk Behavior, Mental Health, Youth Development
 				</p>
                 <p>
-                    <span>Experience </span><br/>   -
+                    <span>Experience </span><br/>  4 years
                 </p>
 				
               <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 6
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -57,7 +59,7 @@ includes language processing taking behavioral and eye tracking as a tool.
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br>
+                </ul>
             </div>
         </div>
     </div>
@@ -71,17 +73,17 @@ includes language processing taking behavioral and eye tracking as a tool.
                 <h4> Navya M Patel
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc., B.Ed.
                 </p>
                 <p>
-                    <span>Area of Interest </span><br/> -
+                    <span>Area of Interest </span><br/> Adolescent Counselling
 				</p>
                 <p>
-                    <span>Experience </span><br/>  -
+                    <span>Experience </span><br/> 6 years
                 </p>
 				
               <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -104,17 +106,17 @@ includes language processing taking behavioral and eye tracking as a tool.
                 <h4> Vigraanth Bapu K.G.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc. Psychology (Clinical), Diploma in Hypnotherapy, MPhil in Clinical Psychology, NET
                 </p>
                 <p>
-                    <span>Area of Interest </span><br/> -
+                    <span>Area of Interest </span><br/> Child and Adolescent Clinical Psychology, Emotional Regulation Strategies, Neuropsychology, Assessments, Psychotherapy, Career Counselling 
 				</p>
                 <p>
-                    <span>Experience </span><br/>  -
+                    <span>Experience </span><br/>  4 years
                 </p>
 				
               <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -168,17 +170,17 @@ includes language processing taking behavioral and eye tracking as a tool.
                 <h4> Vimala M
                 </h4>
                <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> M.Sc., MPhil, B.Ed.
                 </p>
                 <p>
-                    <span>Area of Interest </span><br/> -
+                    <span>Area of Interest </span><br/> Child and Adolescent Psychology
 				</p>
                 <p>
-                    <span>Experience </span><br/>  -
+                    <span>Experience </span><br/>  12 years
                 </p>
 				
               <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 1
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

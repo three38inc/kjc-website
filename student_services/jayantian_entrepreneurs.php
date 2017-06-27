@@ -115,11 +115,11 @@
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
                                         <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                        <br/>
+                                     
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span>&nbsp;Jayantian <strong> Entrepreneurs</strong></span>
                                         </h4>
-                                        <br />
+                                      
 
                                         <p align="justify"> Jayantian Entrepreneurs' Club is an association of Jayantian Entrepreneurs dedicated to promote the spirit of entrepreneurship among the students of Kristu Jayanti College. It was formally established in December 06, 2014 under the flagship of Luminary E-Cell of Kristu Jayanti College.
                                             <br />
@@ -150,7 +150,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong>Services </strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>

@@ -52,28 +52,29 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 		<div class="container-fluid">
 			<div class="row">
-				<?php include ('../php/navbar.php');  ?>
-			</div>
-		</div>
-		<div id="st-container" class="st-container">
-			<?php include('../php/offCanvasMenu.php'); ?>
-			<!-- content push wrapper -->
-			<div class="st-pusher">	
-				<div class="st-content"><!-- this is the wrapper for the content -->
-					<div class="st-content-inner">
-						<div class="container">
-							<!--        <div class="row">-->
-							<div class="row" style="margin-top: 80px; padding-left: 10px; padding-right: 10px;">
-								<img class="img-responsive" src="../images/<?php echo $imgNum; ?>.jpg" alt="cover-img" />    
-							</div>
-							<div class="row">
-								<div class="col-lg-9">
-									<div class="content-left myWelcome wow fadeIn">
-										<h4 >
-											<i class="fa fa-bookmark" style="color:#2980b9"></i>
-											<span>&nbsp;<strong>Grievance Redressal</strong></span>
+			  <?php include ('../php/navbar.php');  ?>
+            </div>
+        </div>
+        <div id="st-container" class="st-container">
+            <?php include('../php/offCanvasMenu.php'); ?>
+            <!-- content push wrapper -->
+            <div class="st-pusher">	
+                <div class="st-content"><!-- this is the wrapper for the content -->
+                    <div class="st-content-inner">
+                        <div class="container">
+                            <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
+
+                            </div>
+                            <div class="row">
+                                <div class="marginTopDiv">&nbsp;</div>
+                                <div class="col-lg-9">
+                                    <div class="content-left myWelcome wow fadeIn" style="min-height:1050px">
+                                        <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                     
+                                        <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+											<span>&nbsp;Grievance<strong> Redressal</strong></span>
 										</h4>
-										<hr />
+										
 										<div class="inner-content">
 											<p> The <strong>Grievance Redressal Cell </strong>was constituted in July, 2006 with five members to probe into the student grievances. It redresses the grievances at individual and class level and grievances of common interest. The Cell maintains a conducive and unprejudiced educational environment. Complaints dropped in the 'Suggestion Box' by students and parents and oral complaints are also redressed. All complaints are scrutinized by the management and the grievance redressal cell.</p>
 <p><b>The complaint management mechanism is carried out in three levels in the institution:</b><br>
@@ -91,7 +92,7 @@
                         <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                             <h4 style="margin-left:10px;" class="mainheading">
                                 <i class="fa fa-bookmark"></i>
-                                <span>&nbsp;Student<strong>Services</strong></span>
+                                <span>&nbsp;Student <strong> Services</strong></span>
                             </h4>
                             <section class="link-arrow">
                                 <p><a class="a-link-arrow" href="https://kristujayanti.directverify.in/myeasydocs_directverify/directverify/dv_trn_verification.aspx">Online Document Verification</a></p>

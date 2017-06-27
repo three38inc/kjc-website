@@ -12,7 +12,8 @@
             <img src="../highlights/2017/tree_plantation_drive.jpg" class="img-responsive"/>
             <span class="date">04<sup>th</sup> June 2017</span>
             <div class="quote">
-                <a href="../highlights/tree_plantation_drive.php"><h4>Tree Plantation Drive<br/><small>
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=vinimay.php">
+              <h4>Tree Plantation Drive<br/><small>
                   Centre for Social Activities and BBMP Horamavu ward jointly organized Tree Plantation Drive on 4th June 2017..</small></h4></a>
             </div>
         </li>

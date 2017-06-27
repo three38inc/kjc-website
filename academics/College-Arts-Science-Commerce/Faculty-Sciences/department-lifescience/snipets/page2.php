@@ -8,14 +8,14 @@
                 <h4>Dr. Suresh. K
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>KM.Sc., M.Phil., Ph.D.
+                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D.
                 </p>
 				<p>
-                    <span>Specialization </span><br/> Human Genetics
+                    <span>Specialization </span><br/> Cancer & Molecular Therapeutics
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>2 Years
+                    <span> Years of experience </span><br/> 2 Years
                 </p>
                  <p>
                     <span> Area of Research </span><br/>Cancer & Molecular Therapeutics	

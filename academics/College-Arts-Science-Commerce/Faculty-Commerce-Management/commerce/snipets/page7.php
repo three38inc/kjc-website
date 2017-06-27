@@ -8,16 +8,16 @@
                 <h4> Swetha Manoharan
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> MBA, UGC NET
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  -
+                    <span>Areas of Interest </span><br/>  Marketing, Human Resource Management
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> -
+                    <span>Teaching Experience </span><br/> 3 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 5
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

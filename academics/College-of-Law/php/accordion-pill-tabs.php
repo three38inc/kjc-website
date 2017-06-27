@@ -112,7 +112,7 @@
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".spl">&nbsp; Jayantian Special</a></li>
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
                     <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp;Examinations</a></li>
-                    <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Achievements</a></li>
+                    <!--<li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Achievements</a></li>-->
 
                 </ul>
             </div>
@@ -196,22 +196,16 @@
                             </div>
                         </a>
                     </div>
+                  
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/semester_pattern_ug_pg.php">
-                            <div class="accTabs color-2">
-                                <h2><i class="flaticon-kjc-programme c2"></i>Programme Pattern</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/examination_calendar.php">
+                        <a href="examination_calendar.php">
                             <div class="accTabs color-3">
                                 <h2><i class="flaticon-kjc-examcalendar c3"></i>Examination Calendar</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/assessment_norms.php">
+                        <a href="assesment_regulations.php">
 
                             <div class="accTabs color-4">
                                 <h2><i class="flaticon-kjc-regulations c4"></i>Assesment Regulations</h2>
@@ -219,19 +213,13 @@
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/end_semester_trimester_examination_time_table.php">
+                        <a href="examination_timetable.php">
                             <div class="accTabs color-5">
                                 <h2><i class="flaticon-kjc-examtimetable c5"></i>Exam Timetable</h2>
                             </div>
                         </a>
                     </div>
-                    <div class=" col-lg-4 col-xs-12 exam">
-                        <a href="<?php echo $ROOT ; ?>/examination/grievance_redressal.php">
-                            <div class="accTabs color-6">
-                                <h2><i class="flaticon-kjc-postexam c6"></i>POST-EXAM Procedure</h2>
-                            </div>
-                        </a>
-                    </div>
+                  
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/art_culture.php">
                             <div class="accTabs color-7">
@@ -281,42 +269,9 @@
                             </div>
                         </a>
                     </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ccpd.php">
-                            <div class="accTabs color-7">
-                                <h2><i class="flaticon-kjc-ccpd c7"></i>Centre for Continuing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professional Education</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/jayantian_extension_services.php">
-                            <div class="accTabs color-1">
-                                <h2><i class="flaticon-kjc-extension c1"></i>Extension Services</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/entrepreneurship_development.php">
-                            <div class="accTabs color-2">
-                                <h2><i class="flaticon-kjc-entrepreneurship c2"></i>Entrepreneurship</h2>
-                            </div>
-                        </a>
-                    </div>
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/nss.php">
-                            <div class="accTabs color-4">
-                                <h2><i class="flaticon-kjc-nss c4"></i>National Service Scheme</h2>
-                            </div>
-                        </a>
-                    </div>
                     
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
-                            <div class="accTabs color-5">
-                                <h2><i class="flaticon-kjc-ncc c5"></i>National Cadet Corps</h2>
-                            </div>
-                        </a>
-                    </div>
+                   
+                   
                     
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">

@@ -152,14 +152,16 @@
                 <h4>Dr. Arpita Ghosh 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> Ph.D (Banaras Hindu University) MA English Literature (Banaras Hindu University),
-UGC-NET (English)
+                    <span>Qualification </span> <br/> PhD, NET
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>Language and Literature
+                    <span>Areas of interest </span><br/> British Literature; Indian Writing in English; Feminist Literary Theory; Women Studies/Writing
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 2 Years
+                    <span>Teaching Experience </span><br/> 3 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 5 / 8
                 </p>
                 
                 <ul class="list-inline social-light ">
@@ -212,16 +214,16 @@ UGC-NET (English)
                 <h4> Dr. Thomas Palayoor
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  MA; Ph D
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> British and American Drama Shakespeare, Postcolonial Literature
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 30 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -367,16 +369,16 @@ UGC-NET (English)
                 <h4> Vidyavathi  R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  MA, M.Phil, (PhD)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/>  Indian English literature, non verbal communication
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 9 yrs and 8 months
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -429,16 +431,16 @@ UGC-NET (English)
                 <h4> Sachin Mundakkal
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  Bachelor of philosophy, BA English, MA English
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Eco Literature, Phonetics,Cultural Studies,Children's Literature,Drama and Theater and Film Studies
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 2 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

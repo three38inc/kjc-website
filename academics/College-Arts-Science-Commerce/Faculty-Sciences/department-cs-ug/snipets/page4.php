@@ -97,7 +97,7 @@
                 <div class="class-img"><img src="images/faculty/Nagarajan.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>  Dr. S.Nagarajan
+                <h4>  Dr. S. Nagarajan
                 </h4>
                 <p>
                     <span>Qualification </span> <br/> M.Sc, M. Phill.,Ph.D

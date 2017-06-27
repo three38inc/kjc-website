@@ -136,7 +136,8 @@
                     <span>Areas of interest </span><br/> Corporate Law, Banking Law & Practice, International Business Law, Law of Contract,  Intellectual Property Law and Tax Law.               
                 </p>
                 <p>
-                    <span>Teaching Experience</span><br/> - Years 
+                    <span> Experience</span><br/> 12 years experience in the field of Accounting and Legal Compliance in Corporate Sector from U.A.E, Vietnam and India.
+				
                 </p>
 				<p>
                     <span>Papers presented or published </span><br/> Nil
