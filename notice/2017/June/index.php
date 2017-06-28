@@ -1,6 +1,53 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		
+		  <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                <div class="panel-heading" role="tab" id="heading7">
+                    <h4 class="panel-title">
+
+                      June 28<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+
+                </div>
+            </a>
+            <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+                <div class="panel-body">
+                   
+      <p><b>For all UG & PG classes</b><br>
+			  The college is planning to start a 'Debating Society' to facilitate the student debaters of the college to enhance their debating skills. Interested students are hereby directed to attend a meeting on Thursday, 29th June, 2017 at the Mini Auditorium I (2nd floor - Main block) at 3.45 p.m.</p>
+
+		  <p>Jayantian Language Center offers a certificate programme in English. Interested students are requested to register at the Reception Counter (Main Block).</p>
+
+<p>Our college is organizing a certificate programme on Art of Painting by a renowned artist Mr. Thomas. It is 45 hours programme. Interested students are requested to register their names at the Reception Counter (Main Block).
+	For UG I Semester classes only</p>
+
+		  <p>National Service Scheme (NSS) is a wing of Jayantian Extension Services and Unit of Bangalore University. Students enrolling for NSS will be eligible for extension credits. Interested students are requested to submit duly filled enrollment on or before July 01, 2017 to Staff coordinator Dr. Sreedhar P.D. (Staff Room No. IX, 4th Floor, Main Block). Forms are available at stationery store at cafeteria.</p>
+
+		  <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes (except MBA/PGDM)</b><br>
+
+Tuition /Admission Fee<br>
+Defaulters of tuition/admission fee can pay the same with late fee of Rs. 200/-  <br>
+On July 03, 04, & 05, 2017. <br>
+
+Venue: Counter No. 2 (UG Office)<br>
+			  Time:   12.45 p.m. to 1.40 p.m.</p>
+
+<p>Students who have transferred tuition/admission fee directly to the college account(online payment mode) for this academic year are requested to collect the fee receipt from Counter No. 2 (UG Office) by showing valid transaction details on July 03, 2017.<br>
+
+	Time: 3.00 p.m. to 4.00 p.m. </p>
+
+		  <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes</b><br>
+			  Students who did not report to the college on the re-opening day should get a letter of permission from the class animator / HOD showing the number of days of absenteeism. Such students should register their names at the reception by paying Rs. 500/- per day of absenteeism and submit the duly filled leave letter form on or before 29/06/2017.</p>
+                </div>
+            </div>
+        </div>
+		
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+		
 				  <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
                 <div class="panel-heading" role="tab" id="heading6">
