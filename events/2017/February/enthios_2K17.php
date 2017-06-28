@@ -1,7 +1,7 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
 	<div class="panel panel-primary">
 		<div class="panel-heading">
-       Guest Lecture On The Role Of Molecular Cytogenetics In The Diagnosis Of Cancer 
+      "Enthios 2K17"
             <b class="panel-title pull-right">February 21<sup>st</sup> - 22<sup>nd</sup>  2017</b>
             <div style="clear:both"></div>
         </div>
