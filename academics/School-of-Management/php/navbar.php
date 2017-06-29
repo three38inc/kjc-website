@@ -28,24 +28,24 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="index.php" id="home">MBA/PGDM</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/mba.php" id="home">MBA/PGDM</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="curriculum.php" id="home">Curriculum</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/curriculum.php" id="home">Curriculum</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="training.php" id="home">Training</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/training.php" id="home">Training</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="activities.php" id="home">Activities</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/activities.php" id="home">Activities</a>
                 </li>
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a  href="admission.php" id="contact">Admission</a>
+                    <a  href="<?php echo $ROOT ; ?>/academics/School-of-Management/admission.php" id="contact">Admission</a>
                 </li>
                 
                 <li>

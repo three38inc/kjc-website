@@ -57,7 +57,7 @@ Jobith M Basheer</td>
 	   <tr>
       <td>IT QUIZ</td>
       <td>Jijo Joseph<br>
-Abijith Benny/td>
+Abijith Benny</td>
       <td>2nd Prize</td>
       </tr>
 	  <tr>
