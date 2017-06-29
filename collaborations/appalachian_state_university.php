@@ -198,7 +198,7 @@ Telephone: 828-262-2000 (switchboard)<br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

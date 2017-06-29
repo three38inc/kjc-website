@@ -112,7 +112,7 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Why Kristu Jayanti College ?</strong></span>
+                                        <span>&nbsp; Why Kristu Jayanti <strong> College ?</strong></span>
                                     </h4>
                                     
                                   
@@ -343,7 +343,7 @@ Law Programmes: Rs 300/-  <br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

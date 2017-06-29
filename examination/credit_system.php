@@ -260,7 +260,7 @@ The individual semester/trimester marks card will have the marks, grade, total c
                </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

@@ -225,7 +225,7 @@ University Examination Time Table of May/June 2016 <a href="pdf/2016/ug_universi
                    </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

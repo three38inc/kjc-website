@@ -206,7 +206,7 @@ The campus recruitment season starts during the month of October. Recruiters can
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

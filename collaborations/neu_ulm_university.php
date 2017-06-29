@@ -246,7 +246,7 @@ Business studies for doctors (MBA) (part-time)<br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

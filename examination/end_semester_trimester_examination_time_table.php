@@ -289,7 +289,7 @@ B Com (Tourism) VI Semester End Semester Practical Examination <a href="pdf/2017
                    </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

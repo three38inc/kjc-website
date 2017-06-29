@@ -215,7 +215,7 @@ Global Competitive environment today requires resilient individuals who are dyna
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

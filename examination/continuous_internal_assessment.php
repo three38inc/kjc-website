@@ -377,7 +377,7 @@ If attendance is in the range 85% - 89% assign 3 marks out of 5<br>
                     </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

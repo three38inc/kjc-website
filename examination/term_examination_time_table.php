@@ -266,7 +266,7 @@ PG Second/Fourth Semester - Mid Term Examination March 2017<br>
               					                                </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

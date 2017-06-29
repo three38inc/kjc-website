@@ -228,7 +228,7 @@ The Presidential Address was delivered by Rev.Fr. Augustine George, Vice Princip
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

@@ -431,7 +431,7 @@
                         nav: false
                     },
                     1000: {
-                        items: 4,
+                        items: 3,
                         nav: true,
                         loop: false
                     }

@@ -217,7 +217,7 @@ b) Master of Science (M.Sc.) IT Management and Information Systems<br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

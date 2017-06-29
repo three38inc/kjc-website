@@ -264,7 +264,7 @@ Other Visitors to the Library may use it provided he gets permission from the Di
                     <!--                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

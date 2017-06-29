@@ -224,7 +224,7 @@ Identity Card of the institution where the scribe is undergoing education<br>
                   </div>
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

@@ -19,7 +19,7 @@
             <a href="http://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-youtube"></i></a>
             <a href="https://twitter.com/kristujayanti99" target="_blank"><i class="fa fa-twitter"></i></a>
             <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-linkedin"></i></a>
-            <a href="#" class="link">contact us<i class="fa fa-phone"></i></a>
+            <a href="contact-us.php" class="link">contact us<i class="fa fa-phone"></i></a>
             <a class="hide" id="search">search<i class="fa fa-search"></i></a>
         </div>
 
@@ -27,7 +27,7 @@
             <ul class="nav navbar-nav navbar-right" style="clear:right;">
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="index.php" id="home">MBA/PGDM</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/mba.php" id="home">MBA/PGDM</a>
                 </li>
                 
 <!--
@@ -513,21 +513,27 @@ Cafetaria
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="index.php" id="home">ADMISSION</a>
+
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/curriculum.php" id="home">Curriculum</a>
+
                 </li>
 -->
                 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="curriculum.php" id="home">ABOUT US</a>
+
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/training.php" id="home">Training</a>
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="training.php" id="home">Training</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/activities.php" id="home">Activities</a>
+
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="activities.php" id="home">Activities</a>
+
+                    <a  href="<?php echo $ROOT ; ?>/academics/School-of-Management/admission.php" id="contact">Admission</a>
+
                 </li>
 
                 <li>

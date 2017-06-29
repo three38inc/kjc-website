@@ -114,7 +114,7 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;National Cadet <strong> Corps </strong></span></h4>
 									
-									<center><img src="images/ncc.jpg"></center>
+								
 									
 									<p><b><u>STRENGTH OF THE COMPANY (2 ALPHA)</u></b><br>
 										<b>*</b> CURRENT STRENGTH: 108 CADETS<br>
@@ -257,7 +257,7 @@ LT.SHUSHANTO DAS</p>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

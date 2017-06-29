@@ -253,7 +253,7 @@ following links and attach the copy of the same.</li>
             <!--                                </div>-->
             <?php include ('../php/alerts.php');  ?>
             <?php include('../php/footer.php'); ?>
-            <?php include('../php/morphingSearch.php'); ?>
+            
         </div>
 
 

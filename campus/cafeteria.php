@@ -182,7 +182,7 @@ The college cafeteria is the pulse of the campus. It is a spacious area that pro
                     <!--                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 
