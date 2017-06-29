@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";$imgNum=mt_rand(1,4);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -9,30 +9,31 @@
     <!--<meta name="description" content="Sidebar Transitions: Transition effects for off-canvas views" />
 <meta name="keywords" content="transition, off-canvas, navigation, effect, 3d, css3, smooth" />-->
     <meta name="author" content="Three38 inc" />
-    <link rel="shortcut icon" href="../../../../images/icon.png">
+    <link rel="shortcut icon" href="../../images/icon.png">
     <!-- Bootstrap css -->
-    <link href="../../../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--additional css-->
-    <link rel="stylesheet" type="text/css" href="../../../../css/component.css" />
-    <link rel="stylesheet" href="../../../../css/font-awesome.css">
-    <link rel="stylesheet" href="../../../../css/font-awesome.min.css">
-    <link rel="stylesheet" href="../../../../css/roundIcons.css">
-    <link rel="stylesheet" href="../../../../css/hoverEffect.css">
-    <link rel="stylesheet" href="../../../../css/morphing.css">
-    <link rel="stylesheet" href="../../../../css/navTabs.css">
-    <link rel="stylesheet" href="../../../../css/animate.css">
-    <link rel="stylesheet" href="../../../../css/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="../../css/component.css" />
+    <link rel="stylesheet" href="../../css/font-awesome.css">
+    <link rel="stylesheet" href="../../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../../css/roundIcons.css">
+    <link rel="stylesheet" href="../../css/hoverEffect.css">
+    <link rel="stylesheet" href="../../css/morphing.css">
+    <link rel="stylesheet" href="../../css/navTabs.css">
+    <link rel="stylesheet" href="../../css/animate.css">
+    <link rel="stylesheet" href="../../css/fakeLoader.css">
+    <link href="../../css/owl.carousel.min.css" rel="stylesheet" />
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
-    <link href="../../../../css/custom.css" rel="stylesheet">
-    <link href="../../../../css/innerpage.css" rel="stylesheet">
+    <link href="../../css/custom.css" rel="stylesheet">
+    <link href="../../css/innerpage.css" rel="stylesheet">
+    <link href="css/manSchool.css" rel="stylesheet">
     <!-- javascript -->
-    <script src="../../../../js/jquery-1.11.0.min.js"></script>
-    <script src="../../../../bootstrap/js/bootstrap.min.js"></script>
-    <script src="../../../../js/respond.js"></script>
-    <script src="../../../../js/custom.js"></script>
-    <script src="../../../../js/fakeLoader.js"></script>
-	
+    <script src="../../js/jquery-1.11.0.min.js"></script>
+    <script src="../../bootstrap/js/bootstrap.min.js"></script>
+    <script src="../../js/respond.js"></script>
+    <script src="../../js/custom.js"></script>
+    <script src="../../js/fakeLoader.js"></script>
 	<script language="javascript" type="text/javascript">
 var win=null;
 function NewWindow(mypage,myname,w,h,scroll,pos){
@@ -43,6 +44,7 @@ settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scr
 win=window.open(mypage,myname,settings);}
 
 </script>
+
 </head>
 
 <body>
@@ -69,11 +71,11 @@ win=window.open(mypage,myname,settings);}
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php require ("php/navbar.php"); ?>
+            <?php include ('php/navbar.php');  ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include("../../../../php/offCanvasMenu.php"); ?>
+        <?php include('../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -84,8 +86,7 @@ win=window.open(mypage,myname,settings);}
 
                         </div>
 
-
-                   <div class="row">
+  <div class="row">
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:1060px;">
@@ -135,8 +136,6 @@ win=window.open(mypage,myname,settings);}
                                     </form>
   
 
-								
-							
 
 
 								</div></div>
@@ -144,7 +143,7 @@ win=window.open(mypage,myname,settings);}
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                      <span>&nbsp;How to <strong>Reach us</strong></span>
+                                    <span>&nbsp;How to <strong>Reach us</strong></span>
                                     </h4>
                                     <div class="well">
                                         <p><b><u> Mailing Address</u></b><br>
@@ -203,14 +202,14 @@ win=window.open(mypage,myname,settings);}
                                     </div>                        </div>
 	 </div></div></div>
 
-                    <?php include ('../../../../php/alerts.php');  ?>
-                    <?php include('../../../../php/footer.php'); ?>
-                    <?php include('../../../../php/morphingSearch.php'); ?>
+                    <?php include ('../../php/alerts.php');  ?>
+                    <?php include('../../php/footer.php'); ?>
+                    <?php include('../../php/morphingSearch.php'); ?>
                 </div>
 
 
 
-            </div>
+				</div>
             <!--/st-content-inner-->
         </div>
         <!-- this is the wrapper for the content-->
@@ -230,18 +229,20 @@ win=window.open(mypage,myname,settings);}
         })();
 
     </script>
-   <script src="../../../../js/modernizr.custom.js"></script>
-    <script src="../../../../js/spin.min.js"></script>
-    <script src="../../../../js/mySpin.js"></script>
-    <script src="../../../../js/swipeview.js"></script>
-    <script src="../../../../js/jquery.bootstrap.newsbox.min.js"></script>
-    <script src="../../../../js/classie.js"></script>
-    <script src="../../../../js/morphingSearch.js"></script>
-    <script src="../../../../js/sidebarEffects.js"></script>
-    <script src="../../../../js/transit.js"></script>
-    <script src="../../../../js/sly.js"></script>
-    <script src="../../../../js/customSly.js"></script>
-    <script src="../../../../js/wow.min.js"></script>
+     <script src="../../js/modernizr.custom.js"></script>
+    <script src="../../js/spin.min.js"></script>
+    <script src="../../js/mySpin.js"></script>
+    <script src="../../js/swipeview.js"></script>
+    <script src="../../js/jquery.bootstrap.newsbox.min.js"></script>
+    <script src="../../js/classie.js"></script>
+    <script src="../../js/morphingSearch.js"></script>
+    <script src="../../js/sidebarEffects.js"></script>
+    <script src="../../js/transit.js"></script>
+    <script src="../../js/sly.js"></script>
+    <script src="../../js/customSly.js"></script>
+    <script src="../../js/wow.min.js"></script>
+    <!--    <script src="js/res-navtabs.js"></script>-->
+    <script src="../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({

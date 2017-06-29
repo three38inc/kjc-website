@@ -20,7 +20,7 @@
             <a href="http://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-youtube"></i></a>
             <a href="https://twitter.com/kristujayanti99" target="_blank"><i class="fa fa-twitter"></i></a>
             <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-linkedin"></i></a>
-            <a href="#" class="link">contact us<i class="fa fa-phone"></i></a>
+            <a href="contact-us.php" class="link">contact us<i class="fa fa-phone"></i></a>
             <a class="hide" id="search">search<i class="fa fa-search"></i></a>
         </div>
 
