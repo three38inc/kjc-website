@@ -29,8 +29,7 @@
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
                     <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/mba.php" id="home">MBA/PGDM</a>
                 </li>
-                
-<!--
+                <?php if(isset($_GET["navigation"])){?>
                 <li class="dropdown yamm-fw">
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT US</a>
@@ -59,7 +58,7 @@
                                                 <h4>Management</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/about/management.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -70,7 +69,7 @@
                                                 <h4>Our Journey</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/about/our_journey.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -81,7 +80,7 @@
                                                 <h4>Vision &amp; Mission</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/about/vision_mission.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -92,7 +91,7 @@
                                                 <h4>Values</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/about/values.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -103,7 +102,7 @@
                                                 <h4>Faculty</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/faculty.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -114,7 +113,7 @@
                                                 <h4>B-School Rankings</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/about/b-school-rankings.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -152,7 +151,7 @@
                                                 <h4>Programmes</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/programmes.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -163,7 +162,7 @@
                                                 <h4>Curriculum</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/curriculum.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -174,7 +173,7 @@
                                                 <h4>Training</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/training.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -185,7 +184,7 @@
                                                 <h4>Value Added Courses</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/value-added-courses.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -196,7 +195,7 @@
                                                 <h4>Academic Linkages</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/academic-linkages.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -207,7 +206,7 @@
                                                 <h4>MDP</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/academics/mdp.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -247,7 +246,7 @@
                                                 <h4>International Exposure</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/international_exposure.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -258,7 +257,7 @@
                                                 <h4>International Conference</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/international_conferance.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -269,7 +268,7 @@
                                                 <h4>International Lecture Series</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/international_lecture_series.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -280,7 +279,7 @@
                                                 <h4>Rural Outreach</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/rural-outreach.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -291,7 +290,7 @@
                                                 <h4>Experiential Learning</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/experiential-learning.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -302,7 +301,7 @@
                                                 <h4>Management Fests</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/activites/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -360,7 +359,7 @@ Cafetaria
                                                 <h4>Library</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/campus/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -371,7 +370,7 @@ Cafetaria
                                                 <h4>Wifi Connectivity</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/campus/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -382,7 +381,7 @@ Cafetaria
                                                 <h4>Hostels</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/campus/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -392,7 +391,7 @@ Cafetaria
                                                 <h4>Play Ground</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/campus/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -402,7 +401,7 @@ Cafetaria
                                                 <h4>ATM</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/campus/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -442,7 +441,7 @@ Cafetaria
                                                 <h4>Placement Profile 2017</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -453,7 +452,7 @@ Cafetaria
                                                 <h4>Placement Report 2016</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -464,7 +463,7 @@ Cafetaria
                                                 <h4>Placement Process</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -475,7 +474,7 @@ Cafetaria
                                                 <h4>Training &amp; Development</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -486,7 +485,7 @@ Cafetaria
                                                 <h4>Industry Institute Interface (3i)</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -497,7 +496,7 @@ Cafetaria
                                                 <h4>Industry Sposored Projects</h4>
                                             </a>
                                             <p>
-                                                Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Province of the Carmelites of Mary Immaculate (CMI).
+                                                Dummy content and need to replace
                                             </p>
                                             <a href="#<?php echo $ROOT; ?>/academics/School-of-Management/corporate-relations/#" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
@@ -517,8 +516,7 @@ Cafetaria
                     <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/curriculum.php" id="home">Curriculum</a>
 
                 </li>
--->
-                
+  <?php }else{?>              
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
 
@@ -545,7 +543,7 @@ Cafetaria
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
                     <a href="pdf/mandatory_2015_mba.pdf" target="_blank" id="contact">Mandatory Annexure</a>
                 </li>
-
+<?php }?>
                
 
 
