@@ -10,7 +10,8 @@
     <link rel="shortcut icon" href="assets/images/favicon_1.ico">
     <!-- App Title -->
     <title>KJC ALERT</title>
-
+    
+    <link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/core.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/components.css" rel="stylesheet" type="text/css" />
@@ -18,6 +19,7 @@
     <link href="assets/css/pages.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/menu.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/responsive.css" rel="stylesheet" type="text/css" />
+    
 
     <!-- HTML5 Shiv and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -121,8 +123,7 @@
         </div>
         <!-- end container -->
     </div>
-    <!-- end wrapper -->
-
+    <?php include('snippets/create-label-modal.php');?>
 
 
     <!-- jQuery  -->
@@ -140,6 +141,8 @@
     <!-- App core js -->
     <script src="assets/js/jquery.core.js"></script>
     <script src="assets/js/jquery.app.js"></script>
+    
+    <script src="assets/js/custom.js"></script>
 
 </body>
 
