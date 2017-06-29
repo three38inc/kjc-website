@@ -143,7 +143,7 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;Admission <strong> 2017</strong></span>
                                     </h4>
 
 
@@ -173,9 +173,9 @@
                                         </div>
                                         <div class="panel-body">
 											 
-											<p><b>Admissions to all UG Programmes are Open</b></p>
+											<!--<p><b>Admissions to all UG Programmes are Open</b></p>
 											<p>* Online Application Forms are available in our website (Hard copies are not available).<br>
-												* Applicants can either apply online on their own or apply from college campus</p>
+												* Applicants can either apply online on their own or apply from college campus</p>-->
 											
 											
 											 <div class="well well-sm">
