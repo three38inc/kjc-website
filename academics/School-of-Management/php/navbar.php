@@ -534,10 +534,7 @@ Cafetaria
 
                 </li>
 
-                <li>
-                    <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="admission.php" id="contact">Admission</a>
-                </li>
+                
 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
