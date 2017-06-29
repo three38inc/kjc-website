@@ -301,12 +301,12 @@
                     </li>-->
 					
 					
-                    <li class="news-item">
+                    <!--<li class="news-item">
 						<table cellpadding="4">
 							<tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUN</p>
-                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">23</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">30</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
@@ -320,7 +320,28 @@
 								</td>
 							</tr>
 						</table>
+                    </li>-->
+					
+					<li class="news-item">
+						<table cellpadding="4">
+							<tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUN</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 7px 0;">30</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								   Department of Psychology Proprium Series Seminar on Psychology Today 
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=june&url=psychology_proprium_series.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+						</table>
                     </li>
+					
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
@@ -340,6 +361,47 @@
 							</tr>
                         </table>
                     </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">3</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								   Women Empowerment Cell of our College organizing Guest Lecture on "How to deal with your teenage life"
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=guest_lecture_women_empo.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">17-22</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								  KALAJYOTHI - Intracollegiate Literary, Cultural & Gospel Festival
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=kalajyothi_2017.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+					
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
