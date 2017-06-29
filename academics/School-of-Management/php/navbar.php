@@ -29,7 +29,7 @@
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
                     <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/mba.php" id="home">MBA/PGDM</a>
                 </li>
-                <?php if(isset($_GET["navigation"])){?>
+                <?php if(isset($_GET["new-data"])){?>
                 <li class="dropdown yamm-fw">
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">ABOUT US</a>
@@ -510,13 +510,14 @@ Cafetaria
                         </li>
                     </ul>
                 </li>
+                <?php }else{?> 
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
 
                     <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/curriculum.php" id="home">Curriculum</a>
 
                 </li>
-  <?php }else{?>              
+               
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
 
