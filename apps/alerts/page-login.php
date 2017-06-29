@@ -1,19 +1,25 @@
 <?php 
+    session_start();
     require('snippets/connect.php');
+    if(isset($_SESSION["logged-user"]))
+        header("Location: index.php");
     if(isset($_POST['log-in']))
     { 
         $user=$_POST["username"];
         $pass=$_POST["password"];
-        isset($_POST["checkbox-signin"])?$remember="yes":$remember="no";
-        echo $user."-".$pass."-".$remember;
+        //isset($_POST["checkbox-signin"])?$remember="yes":$remember="no";
+        
         /* Select queries return a resultset */
-        if ($result = $mysqli->query("SELECT * FROM `login` WHERE `user`= '".$user."' and `pass`= '".$pass."' LIMIT 1")) {
+        if ($result = $link->query("SELECT * FROM `login` WHERE `user`= '".$user."' and `pass`= '".$pass."' LIMIT 1")) {
             if($result->num_rows){
+                
                 $_SESSION["logged-user"]=$user;
-                $_SESSION["preserve-session"]=$remember;
+                //$_SESSION["preserve-session"]=$remember;
+                header("Location: index.php");
             }
             else{
-                
+
+                $notification1="true";
             }
             /* free result set */
             $result->close();
@@ -21,8 +27,9 @@
     }
     else
     { 
-        
-    } 
+       $error="undefined"; 
+    }
+    $link->close();
 ?>
 <!DOCTYPE html>
 <html>
@@ -54,6 +61,7 @@
         <![endif]-->
 
     <script src="assets/js/modernizr.min.js"></script>
+    
 
 </head>
 
@@ -83,6 +91,7 @@
                         </div>
                     </div>
 
+<!--
                     <div class="form-group ">
                         <div class="col-xs-12">
                             <div class="checkbox checkbox-primary">
@@ -94,6 +103,7 @@
 
                         </div>
                     </div>
+-->
 
                     <div class="form-group text-center m-t-40">
                         <div class="col-xs-12">
@@ -104,7 +114,7 @@
                     <div class="form-group m-t-30 m-b-0">
                         <div class="col-sm-12">
                             <a href="page-recoverpw.html" class="text-dark"><i class="fa fa-lock m-r-5"></i> Forgot your password?</a>
-                            <a class="btn btn-default waves-effect waves-light" href="javascript:;" onclick="$.Notification.notify('custom','top right','Sample Notification', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae orci ut dolor scelerisque aliquam.')">Right</a>
+                            
                         </div>
                     </div>
                 </form>
@@ -142,6 +152,13 @@
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
+    <?php 
+    
+        if($notification1=="true"){
+            echo "<script>(function() {
+            $.Notification.autoHideNotify('error', 'top right', 'Wrong Login Credentials...','The Username or Password is Invalid.');})();</script>";
+        }
+    ?>
 </body>
 
 
