@@ -91,7 +91,7 @@
                         </div>
                         <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                             <div class="col-lg-4 space">
-                                <a href="../academics/School-of-Management/">
+                                <a href="../academics/School-of-Management/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span></h4>
@@ -104,7 +104,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="../academics/College-Arts-Science-Commerce/">
+                                <a href="../academics/College-Arts-Science-Commerce/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts, Science &amp; Commerce</strong></span>
@@ -118,7 +118,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="../academics/College-of-Law/">
+                                <a href="../academics/College-of-Law/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Law</strong></span>

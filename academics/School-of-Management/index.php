@@ -36,6 +36,9 @@
     <script src="../../js/custom.js"></script>
     <script src="../../js/fakeLoader.js"></script>
     <style>
+        
+
+        
         .card-img img {
             width: 80%;
             padding-bottom: 15px;
@@ -53,31 +56,36 @@
             text-align: center;
             padding-top: 50px;
             overflow: hidden;
-            min-height: 400px;
+            min-height: 583px;
+            box-shadow: 0 1px 2px #ccc;
         }
-        
-        .cardBg{
+        .card-mba:hover{
+            box-shadow: 0px 4px 5px 1px #ccc;
+            cursor: pointer
+        }
+        .cardBg {
             background-color: #34495e;
             color: #fff;
         }
         
-        .card-block{
+        .card-block {
             width: 80%;
             margin: 0 auto;
         }
         
-        .card-block p{
+        .card-block p {
             text-align: center;
         }
-        .card-subtitle{
+        
+        .card-subtitle {
             font-size: 14px;
             margin-top: 0px;
         }
-        .card-title{
-            
-    margin-bottom: 0;
-    font-size: 1.6em;
-    font-weight: bold;
+        
+        .card-title {
+            margin-bottom: 0;
+            font-size: 1.6em;
+            font-weight: bold;
         }
 
     </style>
@@ -150,9 +158,9 @@
                                     <img src="images/mba/father-600x600.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Vice Principal's Corner</h4>
-                                    <h5 class="card-subtitle">Excellence We Strive</h5>
-                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <h4 class="card-title">Experiential Learning</h4>
+                                    <h5 class="card-subtitle">Building critical skills</h5>
+                                    <p class="card-text">Experiential Learning is focused on building critical skills through an outbound leadership training programme......</p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
@@ -163,9 +171,10 @@
                             <div class="col-lg-3 card-mba">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Vice Principal's Corner</h4>
-                                    <h5 class="card-subtitle">Excellence We Strive</h5>
-                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <h4 class="card-title">Learning Management Thro’ Theatre</h4>
+                                    <h5 class="card-subtitle">Collaborative form of fine art</h5>
+                                    <p class="card-text">Theatre uses live performers, typically actors or actresses, to present the experience of a real or imagined .....
+                                    </p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
                             </div>
@@ -174,9 +183,9 @@
                                     <img src="images/mba/father-600x600.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Vice Principal's Corner</h4>
-                                    <h5 class="card-subtitle">Excellence We Strive</h5>
-                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <h4 class="card-title">Group Learning</h4>
+                                    <h5 class="card-subtitle">intellectually engaged community</h5>
+                                    <p class="card-text">Kristu Jayanti School of Management offers a platform for the student community to learn as a group in an interactive environment .....</p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
@@ -187,9 +196,9 @@
                             <div class="col-lg-3 card-mba">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Vice Principal's Corner</h4>
-                                    <h5 class="card-subtitle">Excellence We Strive</h5>
-                                    <p class="card-text">Learning at Kristu Jayanti School of Management happens at four levels. Attitude, Skills, Knowledge and .....</p>
+                                    <h4 class="card-title">Employability Enhancements</h4>
+                                    <h5 class="card-subtitle">Impacts The relevant areas</h5>
+                                    <p class="card-text">Holistic development of the students also includes enhancing their Employability .....</p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
                             </div>
