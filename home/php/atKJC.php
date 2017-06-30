@@ -2,24 +2,36 @@
                                                    background-repeat: no-repeat;
                                                    background-position: 0px bottom;
                                                    padding-bottom: 7px;"><i class="fa fa-bookmark" style="color:#2980b9;"></i>
-    <span style="font-size: 20px;"><span style="font-size:1.2em;">A</span>t<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
+<span style="font-size: 20px;"><span style="font-size:1.2em;">A</span>t<strong style="color:#2980b9;font-size: 24px;"> Kristu Jayanti College</strong></span>
 </h4>
 <div id="atKJCCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 1%;">
     
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="../images/pic1.jpg" class="img-responsive"/>
+            <img src="../images/events-banner/kristu-jayanti-college-ranking.jpg" class="img-responsive"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
         <div class="item">
-            <img src="../images/pic2.jpg"/>
+            <img src="../images/events-banner/kristu-jayanti-college-isro-visit.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
+		 <div class="item">
+            <img src="../images/events-banner/kristu-jayanti-college-gst.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+		
+		
+		
+		
+		
     </div>
+	
     
     <!-- Left and right controls -->
       <a class="left carousel-control owl-prev" href="#atKJCCarousel" role="button" data-slide="prev">

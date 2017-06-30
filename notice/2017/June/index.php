@@ -1,6 +1,44 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 		
+		 <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                <div class="panel-heading" role="tab" id="heading9">
+                    <h4 class="panel-title">
+
+                      June 30<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+
+                </div>
+            </a>
+            <div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
+                <div class="panel-body">
+                   
+					<p> There will be CSA orientation programme for all CSA volunteers on Saturday, 1st July 2017 at 1.30 p.m. in Main Auditorium, Main Block, First Floor. All CSA volunteers are requested to attend the same.</p>
+
+					<p><b>For all UG & PG classes</b><br>
+						<b>Clean Campus</b>
+
+						Please do not throw any food items or bottles in the college ground. Deposit all waste paper/materials in the dust bins provided at different places in the campus. Let us join together to keep our Campus clean and green. Students are requested to take special care to keep our parking place neat and tidy always.</p>
+
+					<p>The Literary and Cultural Association (LCA) of the college is organizing a “Certificate Course in Guitar”. The training sessions are scheduled to start from 6th July 2017. The duration of the certificate course will be 40 sessions spanning two semesters. Class timings will be from 4.30 p.m. to 5.00 p.m. on Tuesdays and Thursdays. The fee for the course is Rs. 500/- per month. Interested students may register their names at the Reception Counter (Main Block) by paying the fees. For further details, the students are requested to contact Dr. Emmanuel D (Dept. of Social Work) Staff Room No. IX, Fourth Floor – Main Block.</p>
+
+					<p>There will be a meeting of all students who have registered for Art of Painting certificate programme today (30/06/2017) at 12.50 p.m. in Room No. 307, Third Floor, Main Block.</p>
+
+					<p><b>UG I Semester classes</b><br>
+      Students who have not collected the College ID card should collect the same today (30/06/2017) itself.<br>
+
+						<b>Venue:</b>  Computer Lab (Main Block – III floor)<br>
+						<b>Time:</b> 11.00 a.m. to 4.30 p.m. </p>
+                </div>
+            </div>
+        </div>
+		
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+		
 		
 		  <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
