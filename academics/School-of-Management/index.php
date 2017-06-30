@@ -154,6 +154,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-3 card-mba cardBg">
+                                <a href="experiential-learning.php" style="text-decoration:none;color:#FFF;">
                                 <div class="card-img2">
                                     <img src="images/mba/father-600x600.jpg" class="card-img-top">
                                 </div>
@@ -161,14 +162,16 @@
                                     <h4 class="card-title">Experiential Learning</h4>
                                     <h5 class="card-subtitle">Building critical skills</h5>
                                     <p class="card-text">Experiential Learning is focused on building critical skills through an outbound leadership training programme......</p>
-                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
+                                    <div class="card-btn"><a href="experiential-learning.php" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
     font-weight: bold;
     padding: 3px 15px;">MORE</a></div>
                                 </div>
+                                    </a>
                             </div>
                             <div class="col-lg-3 card-mba">
+                                <a href="learning-management-thro-theatre.php" style="text-decoration:none;color:#000;">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
                                     <h4 class="card-title">Learning Management Thro’ Theatre</h4>
@@ -177,8 +180,10 @@
                                     </p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
+                                </a>
                             </div>
                             <div class="col-lg-3 card-mba cardBg">
+                                <a href="interactive-group-learning.php" style="text-decoration:none;color:#FFF;">
                                 <div class="card-img2">
                                     <img src="images/mba/father-600x600.jpg" class="card-img-top">
                                 </div>
@@ -192,8 +197,10 @@
     font-weight: bold;
     padding: 3px 15px;">MORE</a></div>
                                 </div>
+                                </a>
                             </div>
                             <div class="col-lg-3 card-mba">
+                                <a href="employability-enhancement-programmes.php" style="text-decoration:none;color:#000;">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
                                     <h4 class="card-title">Employability Enhancements</h4>
@@ -201,6 +208,7 @@
                                     <p class="card-text">Holistic development of the students also includes enhancing their Employability .....</p>
                                     <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
+                                </a>
                             </div>
                         </div>
                     </div>

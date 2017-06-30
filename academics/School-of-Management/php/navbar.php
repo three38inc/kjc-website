@@ -27,7 +27,7 @@
             <ul class="nav navbar-nav navbar-right" style="clear:right;">
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/mba.php" id="home">MBA/PGDM</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/School-of-Management/" id="home">MBA/PGDM</a>
                 </li>
                 <?php if(isset($_GET["newdata"])){?>
                 <li class="dropdown yamm-fw">
