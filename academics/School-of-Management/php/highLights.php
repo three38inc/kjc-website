@@ -44,6 +44,7 @@
                 </a>
             </div>
         </li>
+<!--
         <li>
             <img src="images/highlights/knowledge_exchange_programme.jpg" class="img-responsive" />
             <span class="date">30<sup>th</sup> september 2015</span>
@@ -71,6 +72,7 @@
                 </a>
             </div>
         </li>
+-->
         <li>
             <img src="images/highlights/vinimay_leadership.jpg" class="img-responsive" />
             <span class="date">19<sup>th</sup> april 2015</span>
