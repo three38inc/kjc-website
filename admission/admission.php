@@ -86,6 +86,7 @@
 </head>
 
 <body>
+<!--
     <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
@@ -98,6 +99,7 @@
         })();
 
     </script>
+-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -202,15 +204,15 @@
                                                             <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                             <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                                 <font size=2>Click here for Admission process</font> </a><br>
-																Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
-																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a></p></div></div>
+																<!--Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
+																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a>--></p></div></div>
 											
 											<div class="well well-sm">
                                                 <center>LAW PROGRAMMES COUNSELLING</center>
                                             </div>
 											
 								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 30<sup>th</sup> June, 2017</b> </font>
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b> </font>
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />

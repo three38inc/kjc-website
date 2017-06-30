@@ -38,6 +38,7 @@
 </head>
 
 <body>
+<!--
     <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
@@ -50,6 +51,7 @@
         })();
 
     </script>
+-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({

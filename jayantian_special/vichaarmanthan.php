@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
+    
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -61,6 +61,11 @@
             background: transparent;
             box-shadow: none;
         }
+		.v-image{
+			    width: 100%;
+			height: auto;
+    padding: 10px;
+		}
 
     </style>
 </head>
@@ -116,60 +121,110 @@
 									<p align=justify>Vichaarmanthan - is an interactive program organized by the Kristu Jayanti College, where students are exposed to Indian and Global visionaries. Vichaarmanthan literally means churning of ideas , and exactly this happens through the fruitful discussions. This interactive series with Indian and Global visionaries has brought many institutional heads to our campus like, Lok Ayukta, IIM Directors, and IIT Directors.</p>
 
 									<p align=justify>The objective behind this creative forum is to maintain a regular interaction with the industry as well as academia and to discuss the upcoming trends in various disciplines. In Vichaarmanthan, every session is specifically tailored to our students requirement, and is thought provoking, interactive and challenging which will positively impact their well being.</p>
+									<div class="row">
+										<div class="col-lg-4 col-md-12">
+											<a href="kiran_kumar.php"><img src="images/kirankumar.jpg" height="140"  title="A S Kiran Kumar" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="vishwanathan.php"><img src="images/vishwanathan.jpg" height="140"  title="Shri. N. S. Vishwanathan" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="cnr_rao.php"><img src="images/cnr_rao.jpg" height="140"  title="Bharat Ratna Prof. C N R Rao" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="deepali_pant.php"><img src="images/deepali.jpg" height="140"  title="Ms. Deepali Pant Joshi" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="rathan_kelkar.php"><img src="images/rathankelkar.jpg" height="140"  title="Dr Rathan Kelkar" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="kiran_kumar.php"><img src="images/kirankumar.jpg" height="140"  title="A S Kiran Kumar" class="v-image"></a>
+										</div>
+										
+										
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="govinda_rao.php"><img src="images/govindarao.jpg" height="140"  title="Dr.M.Govinda Raor" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="ranganath.php"><img src="images/ranganath.jpg" height="140"  title="S.V.Ranganath" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="sadagopan.php"><img src="images/sadagopan.jpg" height="140"  title="S. Sadagopan" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="nadirshaw_k_dhondy.php"><img src="images/nadirshaw_k_dhondy.jpg" height="140"  title="Nadirshaw K.Dhondy" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="santosh_hegde.php"><img src="images/santosh_hedge.jpg" height="140"  title="N. Santosh Hegde" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="teesta_setalvad.php"><img src="images/teesta_setalvad.jpg" height="140"  title="Padmashri Teesta Setalvad" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="vidyashankar.php"><img src="images/vidyashankar.jpg" height="140"  title="M. N. Vidyashankar" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="don_mcavinchey.php"><img src="images/american_gandhi.png" height="140"  title="Mr.Don McAvinchey" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="debashis_chatterjee.php"><img src="images/debashis_chatterjee.jpg" height="140"  title="Debashis Chatterjee" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="kasturirangan.php"><img src="images/kasturirangan.jpg" height="140"  title="Dr. K. Kasturirangan" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="vs_laxman.php"><img src="images/vs_laxman.jpg" height="140"  title="Padmashree V. V. S. Laxman" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="#"><img src="images/nellaiappan.jpg" height="140"  title="Dr. Nellaiappan" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="pawan_agrawal.php"><img src="images/pawan_agrawal.jpg" height="140"  title="Dr. Pawan Agrawal" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="chakrabarty.php"><img src="images/chakrabarty.jpg" height="140"  title="Dr. K.C.Chakrabarty" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="kris_gopalakrishnan.php"><img src="images/gopalakrishnan.jpg" height="140"  title="Kris Gopalakrishnan" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="rangarajan.php"><img src="images/rangarajan.jpg" height="140"  title="Dr. C. Rangarajan" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="madhavan_nair.php"><img src="images/madhavan_nair.jpg" height="140"  title="Dr. G. Madhavan Nair" class="v-image"></a>
+										</div>
+										<div class="col-lg-4 col-md-12">
+											<a href="ashok_soota.php"><img src="images/ashok_soota.jpg" height="140"  title="Ashok Soota" class="v-image"></a>
+										</div>
+									</div>
+									<div class="row">
+										
+										
+										<div class="col-lg-4 col-md-12">
+										<a href="abdul_kalam.php"><img src="images/abdul_kalam.jpg" height="140"  title="Dr. A.P.J. Abdul Kalam" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="ms_ananth.php"><img src="images/ananth.jpg" height="140"  title="M.S. Ananth" class="v-image"></a>
+										</div>
+										
+										<div class="col-lg-4 col-md-12">
+											<a href="santosh_hegde_14_october_2010.php"><img src="images/santosh_hegde.jpg" height="140"  title="N. Santosh Hegde" class="v-image"></a>
+										</div>
+										
+									</div>
 									
 									
-									<table class="table table-bordered">
-  <thead>
-	  <tr>
-      <td></td>
-		  <td><a href="kiran_kumar.php"><img src="images/kirankumar.jpg" height="140" width="230" title="A S Kiran Kumar"></a></td>
-		  <td><a href="vishwanathan.php"><img src="images/vishwanathan.jpg" height="140" width="230" title="Shri. N. S. Vishwanathan"></a></td>
-      </tr>
-	   <tr>
-		   <td><a href="cnr_rao.php"><img src="images/cnr_rao.jpg" height="140" width="230" title="Bharat Ratna Prof. C N R Rao"></a></td>
-		   <td><a href="deepali_pant.php"><img src="images/deepali.jpg" height="140" width="230" title="Ms. Deepali Pant Joshi"></a></td>
-		   <td><a href="rathan_kelkar.php"><img src="images/rathankelkar.jpg" height="140" width="230" title="Dr Rathan Kelkar"></a></td>
-      </tr>
-	   <tr>
-		   <td><a href="govinda_rao.php"><img src="images/govindarao.jpg" height="140" width="230" title="Dr.M.Govinda Rao"></a></td>
-		   <td><a href="ranganath.php"><img src="images/ranganath.jpg" height="140" width="230" title="S.V.Ranganath"></a></td>
-		   <td><a href="sadagopan.php"><img src="images/sadagopan.jpg" height="140" width="230" title="S. Sadagopan"></a></td>
-      </tr>
-	  <tr>
-		  <td><a href="nadirshaw_k_dhondy.php"><img src="images/nadirshaw_k_dhondy.jpg" height="140" width="230" title="Nadirshaw K.Dhondy"></a></td>
-		  <td><a href="santosh_hegde.php"><img src="images/santosh_hedge.jpg" height="140" width="230" title="N. Santosh Hegde"></a></td>
-		  <td><a href="teesta_setalvad.php"><img src="images/teesta_setalvad.jpg" height="140" width="230" title="Padmashri Teesta Setalvad"></a></td>
-      </tr>
-	  <tr>
-		  <td><a href="vidyashankar.php"><img src="images/vidyashankar.jpg" height="140" width="230" title="M. N. Vidyashankar"></a></td>
-		  <td><a href="don_mcavinchey.php"><img src="images/american_gandhi.png" height="140" width="230" title="Mr.Don McAvinchey"></a></td>
-		  <td><a href="debashis_chatterjee.php"><img src="images/debashis_chatterjee.jpg" height="140" width="230" title="Debashis Chatterjee"></a></td>
-      </tr>
-	  <tr>
-		  <td><a href="kasturirangan.php"><img src="images/kasturirangan.jpg" height="140" width="230" title="Dr. K. Kasturirangan"></a></td>
-		  <td><a href="vs_laxman.php"><img src="images/vs_laxman.jpg" height="140" width="230" title="Padmashree V. V. S. Laxman"></a></td>
-		  <td><a href="#"><img src="images/nellaiappan.jpg" height="140" width="230" title="Dr. Nellaiappan"></a></td>
-      </tr>
-	   <tr>
-		   <td><a href="pawan_agrawal.php"><img src="images/pawan_agrawal.jpg" height="140" width="230" title="Dr. Pawan Agrawal"></a></td>
-		   <td><a href="chakrabarty.php"><img src="images/chakrabarty.jpg" height="140" width="230" title="Dr. K.C.Chakrabarty"></a></td>
-		   <td><a href="kris_gopalakrishnan.php"><img src="images/gopalakrishnan.jpg" height="140" width="230" title="Kris Gopalakrishnan"></a></td>
-      </tr>
-    <tr>
-		<td><a href="rangarajan.php"><img src="images/rangarajan.jpg" height="140" width="230" title="Dr. C. Rangarajan"></a></td>
-		<td><a href="madhavan_nair.php"><img src="images/madhavan_nair.jpg" height="140" width="230" title="Dr. G. Madhavan Nair"></a></td>
-		<td><a href="ashok_soota.php"><img src="images/ashok_soota.jpg" height="140" width="230" title="Ashok Soota"></a></td>
-      </tr>
-  </thead>
-  <tbody>
-    <tr>
-		<td><a href="abdul_kalam.php"><img src="images/abdul_kalam.jpg" height="140" width="230" title="Dr. A.P.J. Abdul Kalam"></a></td>
-		<td><a href="ms_ananth.php"><img src="images/ananth.jpg" height="140" width="230" title="M.S. Ananth"></a></td>
-		<td><a href="santosh_hegde_14_october_2010.php"><img src="images/santosh_hegde.jpg" height="140" width="230" title="N. Santosh Hegde"></a></td>
-      
-    </tr>
-										</tbody></table>
-									
+		  
+
+										
 									
 									
 									
@@ -274,7 +329,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
+    
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
