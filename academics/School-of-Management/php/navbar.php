@@ -4,7 +4,7 @@
         <div class="navbar-header">
 
             <div class="navbar-brand">
-                <a href="<?php echo $ROOT ; ?>/home/index.php"><img class="img-responsive" src="<?php echo $ROOT ; ?>/images/kjcFlag.png" id='imgLink'/></a>
+                <a href="<?php echo $ROOT ; ?>/home/index.php"><img class="img-responsive" src="<?php echo $ROOT ; ?>/images/management-Flag.png" id='imgLink'/></a>
             </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar">
                 <span class="icon-bar"></span>
