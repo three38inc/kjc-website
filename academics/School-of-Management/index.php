@@ -178,20 +178,20 @@
                                     <h5 class="card-subtitle">Collaborative form of fine art</h5>
                                     <p class="card-text">Theatre uses live performers, typically actors or actresses, to present the experience of a real or imagined .....
                                     </p>
-                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                    <div class="card-btn"><a href="learning-management-thro-theatre.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
                                 </a>
                             </div>
                             <div class="col-lg-3 card-mba cardBg">
                                 <a href="interactive-group-learning.php" style="text-decoration:none;color:#FFF;">
                                 <div class="card-img2">
-                                    <img src="images/mba/father-600x600.jpg" class="card-img-top">
+                                    <img src="images/mba/3i4-600x400.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
                                     <h4 class="card-title">Group Learning</h4>
                                     <h5 class="card-subtitle">intellectually engaged community</h5>
                                     <p class="card-text">Kristu Jayanti School of Management offers a platform for the student community to learn as a group in an interactive environment .....</p>
-                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="background: #fff;
+                                    <div class="card-btn"><a href="interactive-group-learning.php" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
     font-weight: bold;
@@ -201,12 +201,12 @@
                             </div>
                             <div class="col-lg-3 card-mba">
                                 <a href="employability-enhancement-programmes.php" style="text-decoration:none;color:#000;">
-                                <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
+                                <div class="card-img"><img src="images/mba/student-600x900.jpg" class="card-img-top"></div>
                                 <div class="card-block">
                                     <h4 class="card-title">Employability Enhancements</h4>
                                     <h5 class="card-subtitle">Impacts The relevant areas</h5>
                                     <p class="card-text">Holistic development of the students also includes enhancing their Employability .....</p>
-                                    <div class="card-btn"><a href="https://mobirise.com" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                    <div class="card-btn"><a href="employability-enhancement-programmes.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
                                 </a>
                             </div>
