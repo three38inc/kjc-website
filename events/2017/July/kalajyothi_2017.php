@@ -2,7 +2,7 @@
 	<div class="panel panel-primary">
 		<div class="panel-heading">
    KALAJYOTHI - Intracollegiate Literary, Cultural &amp; Gospel Festival 
-            <b class="panel-title pull-right">June 4<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">July 17<sup>th</sup> - 22<sup>nd</sup> 2017</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">

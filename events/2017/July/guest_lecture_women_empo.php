@@ -2,7 +2,7 @@
 	<div class="panel panel-primary">
 		<div class="panel-heading">
    Guest Lecture on "How to deal with your teenage life" 
-            <b class="panel-title pull-right">June 4<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">July 03<sup>rd</sup> 2017</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
