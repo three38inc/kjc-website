@@ -79,10 +79,7 @@
     background-position: right top;
   background-image: url('images/carousel/3.jpg');
 }
-.back__bg-4,
-.front__bg-4 {
-  background-image: url('images/carousel/4.jpg');
-}
+
 
 .back__bg.hidden {
   display: none;

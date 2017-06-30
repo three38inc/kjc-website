@@ -184,7 +184,7 @@
                             </tr>
                         </table>
                     </li>
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/university.png" width="50" height="50" class="img-circle" /></td>
@@ -192,39 +192,39 @@
 </td>
                             </tr>
                         </table>
-                    </li>
-                    <li class="news-item">
+                    </li>-->
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 17th 2017</strong> Graduation Day (UG)</td>
                             </tr>
                         </table>
-                    </li>
-                    <li class="news-item">
+                    </li>-->
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 19th 2017</strong>Commencement of III & V Sem UG Programmes</td>
                             </tr>
                         </table>
-                    </li>
-                    <li class="news-item">
+                    </li>-->
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/clipboard.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 20th 2017</strong>Commencement of III Sem MA / MSc / MCom / M.Com. (FA)/ MSW / III & V Sem MCA programmes</td>
                             </tr>
                         </table>
-                    </li>
-                   <li class="news-item">
+                    </li>-->
+                  <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/check.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>June 24th 2017</strong> Graduation Day (PG)</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

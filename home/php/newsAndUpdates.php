@@ -195,7 +195,7 @@
                   
                    
                   
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/exam.png" width="50" height="50" class="img-circle" /></td>
@@ -203,18 +203,19 @@
 </td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                     
                    
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/graduates.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 24th 2017</strong> Graduation Day (PG)</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
+					
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
