@@ -84,7 +84,7 @@
         
         .card-title {
             margin-bottom: 0;
-            font-size: 1.6em;
+            font-size: 1.4em;
             font-weight: bold;
         }
 
