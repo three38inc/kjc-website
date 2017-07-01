@@ -300,7 +300,7 @@
 
                                         <div style="clear:both;"></div>
                                         <p style="text-align:center; font-size: 1.2em;position:relative;">
-                                            Admission to all UG &amp; PG Programmes for academic year 2017 are open.
+                                            Admission to LAW  &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
                                             <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>

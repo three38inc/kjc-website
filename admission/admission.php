@@ -185,13 +185,13 @@
                                                     </div>
 											
 											
-											<div class="panel panel-default">
+	<!--<div class="panel panel-default">
   <div class="panel-body">
    <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
    <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
 	   <b>Selected applicants will be intimated through email and sms. </b></font>
 </div>
-</div>
+</div>-->
 											
 											<div class="panel panel-default">
   <div class="panel-body">
@@ -227,7 +227,7 @@
                                             <div class="well well-sm">
                                                 <center>PG COUNSELLING</center>
                                             </div>
-                                            <p><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font><br />
+                                            <p><font color="#FF0000" size="2"><u>PGDM Programme: </u> </font><br />
                                                <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b>
                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                 <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
@@ -238,7 +238,7 @@
 
 
                                                 <p><font color="#FF0000" size="2"><u>PG Programmes: </u> </font><br />
-                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 01<sup>st</sup> July, 2017</b></font>
+                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></font>
                                                     <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                     <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
                                                     </font><br />
