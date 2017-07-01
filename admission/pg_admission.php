@@ -124,7 +124,7 @@ win=window.open(mypage,myname,settings);}
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;PG<strong> Admission</strong></span>
                                     </h4>
- <p><b><font color="#FF0000"><u>PG Programme:</u></font></b> <font color="#">
+     <p><b><font color="#FF0000"><u>PG Programme:</u></font></b> <font color="#">
 	 Counselling result held on <b>01<sup>st</sup> July, 2017</b> </font> <a href="pg_counselling_result_july_01_2017.php">(View result)</a><br> <b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></p>
 									
      <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">

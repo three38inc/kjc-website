@@ -128,8 +128,8 @@ win=window.open(mypage,myname,settings);}
                                         <span>&nbsp;MCA<strong> Admission</strong></span>
                                     </h4>
                                     
-                                 <!--<p><b><font color="#FF0000"><u>MCA Programme:</u></font></b> <font color="#">
-                                     Next Counselling will be held on <b>01<sup>st</sup> July, 2017</b> </font></p>-->
+                              <p><b><font color="#FF0000"><u>MCA Programme:</u></font></b> <font color="#">
+                                     Next Counselling will be held on <b>10<sup>th</sup> July, 2017</b> </font></p>
                                     
  <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
