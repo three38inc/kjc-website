@@ -125,9 +125,7 @@ win=window.open(mypage,myname,settings);}
                                         <span>&nbsp;MBA/PGDM<strong> Admission</strong></span>
                                     </h4>
                                     
-                                    <!--<p><b><font color="#FF0000"><u>MBA/PGDM: </u></font></b> Counselling result held on <b>18<sup>th</sup> March, 2017</b>
-                                        <a href="mba_pgdm_counselling_result_march_18_2017.php"><b><font size=2>[View Result]</font></b>
- </a><br /> Next Counselling will be held on <b>05<sup>th</sup> May, 2017</b></p>-->
+									<p><b><font color="#FF0000"><u>PGDM Programme</u>:</font></b> <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b></p><br>
                                     
                                     
   <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
