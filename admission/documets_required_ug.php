@@ -147,6 +147,13 @@ b. Residential Permit from the Commissi<br>oner of Police Bengaluru
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
                                     </section>
@@ -226,14 +233,7 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
+ 
                                    
 
                                 </div>

@@ -141,6 +141,16 @@
             <div class="col-xs-12">
                 <ul class="demo1">
 					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>PG Programmes:</b> Counselling result held on <b>01<sup>st</sup> July, 2017.</b>
+                                    <a href="../admission/pg_counselling_result_july_01_2017.php">(View result)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
 					 <li class="news-item">
                         <table cellpadding="4">
                             <tr>
