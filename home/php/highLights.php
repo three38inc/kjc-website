@@ -9,6 +9,26 @@
     <ul id="frameHighLights" class="owl-carousel">
 		
 		<li>
+            <img src="../highlights/2017/kristu-jayanti-college-workshop-personal-branding.jpg" class="img-responsive"/>
+            <span class="date">30<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=workshop-personal-branding.php">
+              <h4>Workshop on Personal Branding and Employability<br/><small>
+               “Employability is the ability to enthrall employers with undisputable capabilities to optimize personal development and growth” - Terence Chiew..</small></h4></a>
+            </div>
+        </li>
+		
+		<li>
+            <img src="../highlights/2017/kristu-jayanti-college-orientation-visit-stjohns-national-academy.jpg" class="img-responsive"/>
+            <span class="date">27<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=orientation-visit-stjohns-national-academy.php">
+              <h4>Orientation Visit to St. John’s National Academy of Health Sciences<br/><small>
+                The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students..</small></h4></a>
+            </div>
+        </li>
+		
+		<li>
             <img src="../highlights/2017/tree_plantation_drive.jpg" class="img-responsive"/>
             <span class="date">04<sup>th</sup> June 2017</span>
             <div class="quote">

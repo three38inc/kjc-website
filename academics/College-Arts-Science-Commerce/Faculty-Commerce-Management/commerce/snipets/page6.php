@@ -33,7 +33,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/chandrakala.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Chandrakala M
@@ -97,7 +97,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/arti singh.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr. Arti Singh
@@ -128,7 +128,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/christuraj.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr. S. Christuraja

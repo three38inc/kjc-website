@@ -30,7 +30,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/santhosh v.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Santhosh V
@@ -62,7 +62,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/anni stephen.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Annie Stephen
@@ -94,7 +94,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Jethina.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Jethina James
@@ -157,7 +157,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/Maria monica.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Maria Monica M

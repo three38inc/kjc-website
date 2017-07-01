@@ -239,7 +239,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/belga berk.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Belga Marriya Berk
@@ -270,7 +270,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/paulami.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Paulami Guha Biswas
@@ -332,7 +332,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/alna.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Alna Mariya Isac
@@ -363,7 +363,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/vidyathi r.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Vidyavathi  R
@@ -394,7 +394,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/krishna prabha.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr.  Krishna Prabha
@@ -425,7 +425,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/sachin munda.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Sachin Mundakkal
