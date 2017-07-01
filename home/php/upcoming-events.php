@@ -391,6 +391,26 @@
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
+								Department of Computer Science[PG] and IEEE Student Branch organizing the programme on Industry Institute Interface(3i)
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=ieee-student-branch.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">01</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
 								Department of Computer Science (UG) Guest Lecture on "Space Technology" 
 								</p>
 								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=space_technology.php" class="read-more">
@@ -434,6 +454,26 @@
 								  KALAJYOTHI - Intracollegiate Literary, Cultural & Gospel Festival
 								</p>
 								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=kalajyothi_2017.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">20-21</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								 Department of Computer Science[PG] organizing Two day National Level Workshop on "Data Science & Analytics"
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=data-science-analytics.php" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>

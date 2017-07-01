@@ -1,22 +1,22 @@
 
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 event-tab">
 	<div class="panel panel-primary">
-		<div class="panel-heading"> Gate 2017 - PwC recruitment 
-            <b class="panel-title pull-right">02<sup>nd</sup> 2017 </b>
+		<div class="panel-heading">  Internship / Organizational Study
+            <b class="panel-title pull-right">01<sup>st</sup> - 31<sup>st</sup> 2017 </b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
-		Gate 2017 & UdyogVichaar for BCom by PwC recruitment 
+		School of Management (MBA &amp; PGDM) III Trimester - Internship / Organizational Study
 		</div>
 	</div>
 	
 	<div class="panel panel-primary">
-		<div class="panel-heading">Second Saturday - Working Day 
-            <b class="panel-title pull-right">08<sup>th</sup> 2017 </b>
+		<div class="panel-heading">FDP on Goods and Services Tax 
+            <b class="panel-title pull-right">01<sup>st</sup> 2017 </b>
             <div style="clear:both"></div>
         </div>
         <div class="panel-body">
-			Second Saturday - Working Day 
+			Faculty of Commerce and Management FDP on Goods and Services Tax (GST) <a class="event-links" data-year="2017" data-month="July" href="fdp_gst.php">Read More</a>
 		</div>
 	</div>
 	
@@ -28,22 +28,24 @@
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 event-tab">
 	<div class="panel panel-primary">
 		<div class="panel-heading">
-         Gate 2017 - Indigo Airline 
-            <b class="panel-title pull-right">05<sup>th</sup> 2017 </b>
+      Guest Lecture on "Space Technology" 
+            <b class="panel-title pull-right">01<sup>st</sup> 2017 </b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body"> 
-			Gate 2017 & UdyogVichaar for All Graduates by Indigo Airline 
+			Department of Computer Science (UG) Guest Lecture on "Space Technology"  <a class="event-links" data-year="2017" data-month="July" href="space_technology.php">Read More</a>
 		</div>
 	</div>
+	
+	
     <div class="panel panel-primary">
 		<div class="panel-heading">
-       Easter holidays 
-            <b class="panel-title pull-right">25<sup>th</sup> 2017 </b>
+      Women Empowerment Cell 
+            <b class="panel-title pull-right">03 <sup>rd</sup> 2017 </b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
-		Easter holidays 
+		 Women Empowerment Cell of our College organizing Guest Lecture on "How to deal with your teenage life" <a class="event-links" data-year="2017" data-month="July" href="guest_lecture_women_empo.php">Read More</a>
 		</div>
 	</div>
 	
@@ -56,25 +58,16 @@
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 event-tab">
 	<div class="panel panel-primary">
 		<div class="panel-heading">
-        (PGDM & MBA) MDP
-            <b class="panel-title pull-right">07<sup>th</sup> </b>
+         KALAJYOTHI
+            <b class="panel-title pull-right">07<sup>th</sup> - 22<sup>nd</sup> </b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
-		School of Management (PGDM & MBA) MDP on Corporate Leadership in Emerging Markets <a class="event-links" data-year="2017" data-month="April" href="mdp.php">Read More</a>
+		 KALAJYOTHI - Intracollegiate Literary, Cultural & Gospel Festival <a class="event-links" data-year="2017" data-month="July" href="kalajyothi_2017.php">Read More</a>
 		</div>
 	</div>
 	
-    <div class="panel panel-primary">
-		<div class="panel-heading">
-        KRISYM
-            <b class="panel-title pull-right">28<sup>th</sup> - 29<sup>th</sup> 2017 </b>
-            <div style="clear:both"></div>
-        </div>
-		<div class="panel-body">
-		KRISYM - 10th International Conference Business Excellence through Technological Interventions <a class="event-links" data-year="2017" data-month="April" href="mdp.php">Read More</a>
-		</div>
-	</div>
+    
 	
 	
 	

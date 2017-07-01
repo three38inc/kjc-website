@@ -145,7 +145,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>30<sup>th</sup> June, 2017.</b>
+								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>10<sup>th</sup> July, 2017.</b>
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
