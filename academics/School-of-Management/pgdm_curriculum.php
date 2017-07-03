@@ -95,6 +95,8 @@ The Course is a two year full-time programme in six trimesters approved by All I
 								<p align=justify>The core programme focuses on thorough grounding in the fundamentals of every discipline in management and the development of a common foundation of business knowledge and management theory. The core programme consists of 21 courses.</p>
 								<p align=justify>Following the first year programme, students undertake internships for a period of four to five weeks. The internship projects are evaluated and graded and is a requirement for completing the course successfully.</p>
 								<p align=justify>The second year has some core courses and mainly elective courses besides final project. The elective courses which are offered in the second year of the programme allow students to choose a group of courses that interest them and develop proficiency in the areas of their choice. Elective courses will be developed and updated from time to time. A student will have to take all the 15 elective courses in a stream to qualify for a specialization in that area. A student, however, can choose electives to have a broad knowledge on the subjects depending on the courses offered in the specialization scheme.</p>
+									
+									<center><a href="pdf/PGDM-Curriculum-2017-19.pdf" target="_blank" class="btn btn-primary btn-sm">MBA Curriculum 2017-19</a></center>
 
 
 								</div></div>

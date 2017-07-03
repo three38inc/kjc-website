@@ -36,7 +36,7 @@
                 <h4>Dr. Aloysius Edward J</h4>
                
                 <p>
-                 <span>Qualification </span> <br/> MBA, M.Phil, M.Com. PGDCA, Ph.D., Dean and Professor
+                 <span>Qualification </span> <br/> MBA, M.Phil, M.Com. PGDCA, Ph.D., <br>Dean and Professor
                 </p>
                 <p>
                     <span>Teaching &amp; Research Experience</span><br/>  15 years 
@@ -64,7 +64,7 @@
                 </h4>
                 
                 <p>
-                    <span>Qualification </span> <br/>BE(Hons)MBA MSc(IT) UGC-NET,PhD(Mgt)
+                    <span>Qualification </span> <br/> BE(Hons)MBA MSc(IT) UGC-NET,PhD(Mgt) Professor and HOD
                 </p>
 				 <p>
                     <span>Areas of interest </span><br/>Marketing and IT
@@ -125,7 +125,7 @@
                 <h4>Mr. Sen B. Mathews
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> B.E. , MSc(IT)
+                    <span>Qualification </span> <br/> MBA PGDPM-IR
                 </p>
                 <p>
                     <span>Areas of interest </span><br/> Electronics

@@ -8,7 +8,7 @@
                 <h4>  Dr. Ashokkumar J
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc ,BE d.
+                    <span>Qualification </span> <br/> MBA PhD NET(JRF)
                 </p>
                 <p>
                     <span>Areas of interest </span><br/> Advanced Algebra.

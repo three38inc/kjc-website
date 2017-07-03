@@ -447,6 +447,26 @@
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">3-7</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								  Department of Management (BBA) is organising an expert session on Fundamentals of Management Accounting for students of BBA with CIMA batch
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=expert-session-fundamentals-Management.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
                                 <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">17-22</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
