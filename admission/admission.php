@@ -303,7 +303,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 								<a href="admission_guidelines.php" class="list-group-item">
 										   <font size=2>Click here to Apply online</font>
                                         </a>
-										<a href="admission_guidelines.php" class="list-group-item">
+										<a href="#" class="list-group-item">
 											<font size=2><u>Application Fee</u></font><br>
 												<font size="2">UG course: Rs 250/- <br>
 PG course: Rs 500/- <br>
@@ -361,10 +361,10 @@ Law Programmes: Rs 300/- <br>
    <div class="list-group">
 											<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
 									  
-									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+									   <a href="documets_required_ug.php" class="list-group-item">
 										   <font size=2>UG Applicants</font>
                                         </a>
-	    <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+	    <a href="documets_required_pg.php" class="list-group-item">
 										   <font size=2>PG Applicants</font>
                                         </a>
                                        </div>

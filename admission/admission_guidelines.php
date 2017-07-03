@@ -115,9 +115,9 @@
                                         <span>&nbsp;Instructions to <strong> Apply online </strong></span>
                                     </h4>
 
-                                  
+                             
 									
-							<div class="alert alert-info">
+							<div class="alert alert-info height-10px">
   
 										
 								<p><b>Step 1 (Registration and Application fee payment):</b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.</p></div>		
