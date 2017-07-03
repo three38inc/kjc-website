@@ -88,13 +88,13 @@
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">•	IEEE Student Branch (STB18221)</b><br>
 									Kristu Jayanti College - IEEE Student Branch aims to be an active technical community that provides knowledge, foster technical and professional development. It also aims in inculcating social awareness among the student community. Currently IEEE student branch have 12 student members and we are lookimg formward to add many more students as members to this professional body </p>
 
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Who we are?</b><br>
+								<p align=justify><b>Who we are?</b><br>
 									We are a combined association of faculty members along with the enthusiastic students of our department, Kristu Jayanti College, Bangalore. We strive for creating technology for the people and people for technology.</p>
 
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">What we do?</b><br>
+								<p align=justify><b>What we do?</b><br>
 									We at Kristu Jayanti believe in building technology for people and people for technology. The branch activities offer numerous educational, technical, and professional opportunities through various events.</p>
 
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">What have we done?</b><br>
+								<p align=justify><b>What have we done?</b><br>
 									Workshops in popular areas, distinguished lectures and student competitions are few regular events which student branch pursue with the highest order of energy and enthusiasm to fulfil expected outcome. National and international level workshops and conferences are some of the achieved milestones. </p>
 
 								<p align=justify>The department has academic linkage with IEEE Bangalore Chapter (R10) and conducts various activities like IEEE International Conference, workshops and seminars etc. current academic year the following activities were conducted.</p>
@@ -127,9 +127,11 @@
     </tbody>
 </table>
 
-<p>•	EMC2 Academic Alliance – Department has academic alliance with EMC2 and Cloud Infrastructure Service course is included as a part of curriculum.<br>
-•	CSI Student Branch – Under the banner of CSI various technical activities were conducted.<br>
-	•	IIT Mumbai – Department collaborated with IIT Mumbai to conduct various hands-on training on FOSS (Free and Open Source Software) like C, Java, python and PHP for MCA Students and certificates gained by students adds value to their curriculum vitae.</p>
+									 <p><b style="color: #cd6e08;font-weight: bold;"> • EMC2 Academic Alliance </b><br>
+	Department has academic alliance with EMC2 and Cloud Infrastructure Service course is included as a part of curriculum.<br>
+									 <p><b style="color: #cd6e08;font-weight: bold;"> • CSI Student Branch </b><br>
+										 Under the banner of CSI various technical activities were conducted.<br>
+									 <p><b style="color: #cd6e08;font-weight: bold;">• IIT Mumbai </b><br> Department collaborated with IIT Mumbai to conduct various hands-on training on FOSS (Free and Open Source Software) like C, Java, python and PHP for MCA Students and certificates gained by students adds value to their curriculum vitae.</p>
 
 
 								</div></div>

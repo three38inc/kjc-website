@@ -292,7 +292,7 @@
 														<h5 class="panel-title">
 															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
 
-															Software Development Cell:
+															Software Development Cell
 															</a>
 														</h5>
 													</div>
@@ -321,7 +321,7 @@ o	Upgraded hardware and software resources required for development.<br>
 														<h5 class="panel-title">
 															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
 
-														Computer Literacy Program:
+														Computer Literacy Program
 															</a>
 														</h5>
 													</div>

@@ -91,48 +91,48 @@
  
   <tbody>
     <tr>
-      <th scope="row">I</th>
+      <th scope="row"><center>I</center></th>
       <td>Web Designing</td>
       </tr>
 	   <tr>
-      <th scope="row">II</th>
+      <th scope="row"><center>II</center></th>
       <td>VB .Net and C#</td>
       </tr>
 	   <tr>
-      <th scope="row">III</th>
+      <th scope="row"><center>III</center></th>
       <td>ASP.NET</td>
       </tr>
 	   <tr>
-      <th scope="row">IV</th>
+      <th scope="row"><center>IV</center></th>
       <td>J2EE</td>
       </tr>
 	   <tr>
-      <th scope="row">V</th>
+      <th scope="row"><center>V</center></th>
       <td>Recent Technology - Open Source </td>
       </tr>
 									</tbody></table>
 								
-								<p><b>he following Value Added Courses will be conducted for the academic year 2014 - 2017.</b></p>
+								<p><b>The following Value Added Courses will be conducted for the academic year 2014 - 2017.</b></p>
 <table class="table table-bordered">
 <tbody>
     <tr>
-      <th scope="row">I</th>
+      <th scope="row"><center>I</center></th>
       <td>Web Designing</td>
       </tr>
 	   <tr>
-      <th scope="row">II</th>
+      <th scope="row"><center>II</center></th>
       <td>Soft skills</td>
       </tr>
 	   <tr>
-      <th scope="row">III</th>
+      <th scope="row"><center>III</center></th>
       <td>.NET</td>
       </tr>
 	   <tr>
-      <th scope="row">IV</th>
+      <th scope="row"><center>IV</center></th>
       <td>J2EE</td>
       </tr>
 	   <tr>
-      <th scope="row">V</th>
+      <th scope="row"><center>V</center></th>
       <td>DBA</td>
       </tr>
 									</tbody></table>

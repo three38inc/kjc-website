@@ -82,7 +82,185 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Software Development  <strong> Cell  </strong></span></h4>
-								
+								<p><b style="color: #cd6e08;font-weight: bold;">Context:</b><br>
+																The Software Development Cell formed by the department caters the automation of various system oriented applications both for the college and outside agencies. It is initiated in the year 2013-2014.</p>
+															<p><b style="color: #cd6e08;font-weight: bold;">Objective:</b><br>
+																To hone software development skills determine by quality standards w.r.t. industrial expectations. It prepares them to meet the challenges faced by today’s IT professional by exposing them to wide array of cutting-edge technologies during the course of development and also to enhance entrepreneur skills.  </p>
+															<p><b style="color: #cd6e08;font-weight: bold;">Practices:</b><br>
+																Under the guide ship of Department faculty coordinator interested students are identified and projects related to the college internal applications and external agencies are developed. Periodical meetings are conducted to sort out the findings with this regard and also to aid in organized development.</p>
+															<p><b style="color: #cd6e08;font-weight: bold;">Constraints:</b><br>
+																Lack of skillful students much to the expectations of the challenges prevailing in development trends.</p>
+															<p><b style="color: #cd6e08;font-weight: bold;">Resource required:</b><br>
+o	Upgraded hardware and software resources required for development.<br>
+																o	Appropriate time duration</p>
+									 
+									  <p><b>Software Development Cell (2016-2017)</b></p>
+									 
+									 <p><b>Execution:</b><br>
+																<b>Following are the list of projects deployed under this cell.</b><br>
+																
+																
+																<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Type </th>
+      <th>Project Title </th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>In-house Projects</td>
+      <td>Examination Result Management System</td>
+      </tr>
+	  <tr>
+      <th scope="row">2</th>
+      <td>In-house Projects</td>
+      <td>Website for KRISYM 2017</td>
+      </tr>
+	  <tr>
+      <th scope="row">3</th>
+      <td>In-house Projects</td>
+      <td>Website for IEEE ICCTAC 2017</td>
+      </tr>
+	  <tr>
+      <th scope="row">4</th>
+      <td>In-house Projects</td>
+      <td>Website and Mobile App for Shells 2017</td>
+      </tr>
+	  <tr>
+      <th scope="row">5</th>
+      <td>External  Projects</td>
+      <td>Maintenance of BM School Website</td>
+      </tr>
+	  <tr>
+      <th scope="row">6</th>
+      <td>External  Projects</td>
+      <td>BM School administration automation</td>
+      </tr>
+ </tbody>
+</table>
+															<p><b>2.	Computer Literacy Programme</b><br>
+																Details of Computer Literacy Programme for this year department are given below. </p>
+	
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Date</th>
+      <th>Place</th>
+      <th>Beneficiaries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>05.08.2016 and 06.08.2016</td>
+      <td>Alambady Village, Malur Taluk, Kolar District</td>
+      <td>Students of 1st to 5th and 9th & 10th class</td>
+    </tr>
+    </tbody>
+</table>
+									 <p><b>Software Development Cell (2015-2016)</b></p>
+									 <b>Following are the list of projects deployed under this cell.</b><br>
+																
+																
+																<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Type </th>
+      <th>Project Title </th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>In-house Projects</td>
+      <td>Document Management System</td>
+      </tr>
+	  <tr>
+      <th scope="row">2</th>
+      <td>In-house Projects</td>
+      <td>Evaluation System for Examination Department</td>
+      </tr>
+	  <tr>
+      <th scope="row">3</th>
+      <td>In-house Projects</td>
+      <td>Document Management System</td>
+      </tr>
+	  <tr>
+      <th scope="row">4</th>
+      <td>In-house Projects</td>
+      <td>Website for KRISYM 2016</td>
+      </tr>
+	  <tr>
+      <th scope="row">5</th>
+      <td>In-house Projects</td>
+      <td>Website for IEEE ICCTAC 2016</td>
+      </tr>
+	  <tr>
+      <th scope="row">6</th>
+      <td>In-house Projects</td>
+      <td>Website and Mobile App for Shells 2016</td>
+      </tr>
+	  <tr>
+      <th scope="row">7</th>
+      <td>External  Projects</td>
+      <td>External  Projects	Maintenance of BM School Website</td>
+      </tr>
+	  <tr>
+      <th scope="row">8</th>
+      <td>External  Projects</td>
+      <td>BM School administration automation</td>
+      </tr>
+    </tbody>
+</table>
+															<p><b>2.	Computer Literacy Programme</b><br>
+																Details of Computer Literacy Programme for this year department are given below. </p>
+	
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Date</th>
+      <th>Place</th>
+      <th>Beneficiaries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>20.08.2015 – 21.08.2015</td>
+      <td>Sri. Siddaganga High School, Purushanahalli, Doddabalapur (D.T)</td>
+      <td>Students of 9th and 10th class</td>
+    </tr>
+    </tbody>
+</table>
+
+															<p><b>3.	Language Enhancement Programme</b><br>
+																Details of Language Enhancement Programme for the year 2015-2016 are given below.</p>
+															<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>S.No</th>
+      <th>Date</th>
+      <th>Duration</th>
+      <th>Beneficiaries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>06.10.2015-18.12.2015</td>
+      <td>40 Hours</td>
+      <td>8 Students from I MCA Batch 2015-2016.</td>
+    </tr>
+    </tbody>
+</table>
 								
 
 								</div></div>
