@@ -13,6 +13,13 @@
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
+		
+		<div class="item">
+			 <a href="http://kalajyothi.kristujayanti.edu.in/" target="_blank"><img src="../images/events-banner/kristu-jayanti-college-kalajyothi2017.jpg"/></a>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
 		 <!--<div class="item">
 			 <a href="http://gst.ictacademy.in/" target="_blank"><img src="../images/events-banner/kristu-jayanti-college-gst.jpg"/></a>
             <div class="carousel-caption">
@@ -34,7 +41,7 @@
         </div>
 		
 		<div class="item">
-			 <a href="http://gst.ictacademy.in/" target="_blank"><img src="../images/events-banner/kristu-jayanti-college-data-science-anylastics.jpg"/></a>
+			<img src="../images/events-banner/kristu-jayanti-college-data-science-anylastics.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>

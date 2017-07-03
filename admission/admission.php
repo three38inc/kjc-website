@@ -171,7 +171,7 @@
 
                                     <div class="panel panel-info">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">Admission Drive in Bengaluru</h3>
+                                            <h3 class="panel-title">Admission Counselling</h3>
                                         </div>
                                         <div class="panel-body">
 											 
@@ -303,10 +303,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 
                                         <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
                                     </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section>
+                                    
                                     <section class="link-arrow">
 
                                         <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
@@ -318,6 +315,10 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
                                     <section class="link-arrow">
 
                                         <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
+                                    </section>
+									<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
 
@@ -342,14 +343,14 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 
                                     <div class="well">
                                         <p>
-                                            <font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font>
+											<font size=2 color='#5cafee'><b>New users can click the link below to get online application form and the instructions to fill the application form</b></font>
                                         </p>
                                         <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
                                     </div>
 
                                     <div class="well">
                                         <p>
-                                            <font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font>
+											<font size=2 color='#5cafee'><b>Registered user can click the link below to view / update the details</b></font>
                                         </p>
                                         <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center>
                                     </div>
