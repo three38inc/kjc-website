@@ -109,44 +109,60 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                   <!-- <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />-->
                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Application Form <strong>Instructions</strong></span>
+                                        <span>&nbsp;Instructions to <strong> Apply online </strong></span>
                                     </h4>
 
-                                  <p>Kindly use Mozilla Firefox or Google Chrome as your browser for applying online<br />
-Following steps are involved in submitting application form online</p>
+                                  
 									
-									<div class="alert alert-info">
+							<div class="alert alert-info">
   
 										
-	<p><b>Step 1 (Registration and Application fee payment):</b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.<br /><br />
-
-<b> Step 2 (Complete the detailed E-Form):</b> <br />Use the user ID & password from the email to complete the E-Form.</p>
-
-<p><b> Step 3 (Submit the hard copy of application form in college office):</b><br />
-<b>(Not applicable for online fee paid applicants)</b><br />
-
-Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p>
+								<p><b>Step 1 (Registration and Application fee payment):</b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.</p></div>		
+									
+									
+		<div class="alert alert-info">
+  
+		<p><b> Step 2 (Complete the detailed E-Form):</b> <br />Use the user ID & password from the email to complete the E-Form.</p>
 
 </div>
+								
+															
+		<div class="alert alert-info">
+  
+		 <p><b> Step 3 (Submit the hard copy of application form in college office):</b><br />
+<b>(Not applicable for online fee paid applicants)</b><br />
+Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p></div>
 									
 									
-        
+									
+									
+									<table border="0" class="table table-hover">
+									<tr>
+										<td width="400"> <center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">NEW USERS CLICK HERE TO REGISTER</a></center></td>
+										<td width="400"><center><a href="admission_guidelines_login.php" target="_blank" class="btn btn-primary btn-sm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REGISTERED USERS CLICK HERE &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </a></center></td>
+										</tr></table>
+    
       
-         <p><u><font color="#FF0000">Note: Your admission process will be initiated only after completing the above steps.</font></u><br />
-        Shortlisted Applicants will be notified via email about the counselling schedules one week before the date of counselling.</p>
+        <!-- <p><u><font color="#FF0000">Note: Your admission process will be initiated only after completing the above steps.</font></u><br />
+        Shortlisted Applicants will be notified via email about the counselling schedules one week before the date of counselling.</p>-->
 									
 									<div class="well well-sm">
- <p>(for further issues or clarifications on online application form)<br />
+ <p>Contact Us for further assistance / clarifications<br />
 	 Mob No: <b>9449451111</b><br />
 	 E-mail: <b>admission@kristujayanti.com</b></p>
  <p><b><u>Note:</u> You can also apply from the college campus</b></p>
+										
+										
 </div>
+									
+									
+									
 
 
-										<center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO REGISTER FOR APPLICATION FORM</a></center>
+									
  
  <!--<p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
  
@@ -209,92 +225,63 @@ If the page displays the following error message "An error seems to have occurre
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
 									<div class="list-group">
+										<a href="#" class="list-group-item active"><font size="3"> Application Fee</font></a>
+									  
+								
+										<a href="admission_guidelines.php" class="list-group-item">
+											
+												<font size="2">UG Programme: Rs 250/- <br>
+PG Programme: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/- <br>
+1 year PG Diploma Programme (Working Executives): Rs 250/-</font>
+                                        </a>
+                                       </div>
+									
+										<div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp Fee Structure</font> </a><br>
+									  
+							<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
+                                    </section>
+                                    
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
+                                    </section>
+									<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
+                                    </section>
+                                       </div>
+									
+									
+									
+									
+									
+									
+									<div class="list-group">
                                   <a href="#" class="list-group-item active">Counselling Results</a>
 									  
 									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
 										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
                                         </a>
                                        </div>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
-                                    </section>
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                   </section>
-                                     <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-              <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-          <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-                                    
-                                    
-                              <div class="well">
- <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
-                                  <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-</div>
-                                    
-                                     <div class="well">
- <p><font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font></p>
-                                 <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center> 
-</div>
-                                    
-                      
-                        <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-  </div>
-  <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
-2. online payment<br>
-        3. Payment through demand draft<br></font>
-  </div>
-                            <div class="panel panel-default">
-  <div class="panel-body">
-<font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                       
-  </div>
-</div>   
- </div>
-                                 
- 
+									
                                    
 
                                 </div>

@@ -8,17 +8,17 @@
                 <h4>Dr. Suresh. K
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D.
+                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Cancer & Molecular Therapeutics
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 2 Years
+                    <span> Years of experience </span><br/> 6 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Cancer & Molecular Therapeutics	
+                    <span> Areas of Research </span><br/>Cancer & Molecular Therapeutics	
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -39,7 +39,7 @@
                 <h4>Dr. U.Sivagamasundari 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc.,Ph.D.
+                    <span>Qualification </span> <br/>M.Sc.,Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biotechnology
@@ -49,7 +49,7 @@
                     <span> Years of experience </span><br/>4 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Plant Microbial Biotechnology	
+                    <span> Areas of Research </span><br/>Plant Microbial Biotechnology	
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -80,7 +80,7 @@
                     <span> Years of experience </span><br/>3.6 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Physiology	
+                    <span> Areas of Research </span><br/>Physiology	
                 </p>
                 
                 <ul class="list-inline social-light ">
@@ -103,7 +103,7 @@
                 <h4>Dr. Joseph K. S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D.,
+                    <span>Qualification </span> <br/>M.Sc., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Molecular Biology & Plant Biotechnology
@@ -113,7 +113,7 @@
                     <span> Years of experience </span><br/>-
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Plant Tissue culture & Molecular Biology	
+                    <span> Areas of Research </span><br/> Plant Tissue culture & Molecular Biology	
                 </p>
                 
                 <ul class="list-inline social-light ">
@@ -136,7 +136,7 @@
                 <h4>Dr. Preethy Chandran
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D.,
+                    <span>Qualification </span> <br/>M.Sc., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Environmental Microbiology
@@ -146,7 +146,7 @@
                     <span> Years of experience </span><br/> 6 years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Bioremediation and Degradation		
+                    <span> Areas of Research </span><br/> Bioremediation and Degradation		
                 </p>
                 
                 <ul class="list-inline social-light ">
@@ -179,7 +179,7 @@
                     <span> Years of experience </span><br/> 12 years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Cloning and Expression	
+                    <span> Areas of Research </span><br/> Cloning and Expression	
                 </p>
                 
                 <ul class="list-inline social-light ">

@@ -96,7 +96,7 @@
                                 <a href="../academics/School-of-Management/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span></h4>
+                                            <span><span style="font-size:1.2em;">S</span>chool of <strong> Management</strong></span></h4>
                                         <p style="text-align:justify;margin:5px; font-size:15px;">
                                         <br>
                                             

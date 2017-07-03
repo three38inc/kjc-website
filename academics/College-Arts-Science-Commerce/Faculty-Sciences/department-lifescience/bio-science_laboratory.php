@@ -115,9 +115,9 @@
                                         <span>&nbsp;Bio-Science <strong>Laboratory</strong></span>
                                     </h4>
 
-                                      <p>The Department of Life Sciences is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerated centrifuge Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are a special feature of the lab. These instruments and facilities such as plant tissue culture lab, microbial culture, etc., help the students in performing experiments and minor projects in the field of Plant Tissue Culture, Microbiology, rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.</p>
+                                      <p>The Department of Life Sciences is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerated centrifuge, Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are special feature of the lab. These instruments and facilities such as microbial culture, etc., help the students in performing experiments and minor projects in the field of Plant biotechnology, Microbiology, rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.</p>
 									
-									<center><img src="images/bio_lab.jpg"></center>
+									<center><img src="../images/bio_lab.jpg"></center>
             
 
                                 </div>

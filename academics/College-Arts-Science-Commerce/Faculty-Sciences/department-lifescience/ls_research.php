@@ -116,7 +116,7 @@
                                     </h4>
                                  
                                       
-									<p align=justify>The Department of Life Sciences  has been endowed the status of a Research Centre in Biotechnology of Bangalore University during January 2011. A state-of-the-art research complex is set up in the college to facilitate research and to carry out major research projects and to pursue Ph.D. The facility features laboratories with full scale research in Plant Tissue Culture, Animal Cell Culture, Microbiology and Phytochemistry. Central Instrumentation' facility is a special feature of the Research complex. Collaborative projects have been carried out by the department in association with industries / research labs. Post graduate students of the department are involved in minor research projects and are efficiently guided by the faculty</p>
+									<p align=justify>The Department of Life Sciences  has been endowed the status of a Research Centre in Biotechnology of Bangalore University during January 2011. A state-of-the-art research complex is set up in the college to facilitate research and to carry out major research projects and to pursue Ph.D. The facility features laboratories with full scale research in Plant Tissue Culture, Animal Cell Culture, Microbiology and Phytochemistry. Central Instrumentation facility is a special feature of the Research complex. Collaborative projects have been carried out by the department in association with industries / research labs. Post graduate students of the department are involved in minor research projects and are efficiently guided by the faculty.</p>
 
                                     
                                     

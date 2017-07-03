@@ -62,7 +62,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/gopikas.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Gopika S
@@ -124,7 +124,7 @@
 	 <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/-.jpg"></div>
+                <div class="class-img"><img src="images/faculty/suresh-k.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Suresh K

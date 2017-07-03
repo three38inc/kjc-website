@@ -126,28 +126,18 @@
                                         <span>&nbsp;<strong>Commerce</strong></span>
                                     </h4>
 
-                               
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities.
-                                    </p>
-                                    <p align="justify">
-                                        The Faculty members are committed to nurturing an environment for proper growth of intellectual insight on business aspects. The need of the current business for acquiring skills and competence is thoroughly stressed upon in the formation of the syllabus.
-                                    </p>
-                                    <p align="justify">
-                                        The different plethoras of avenues that the Department has inside her, simply invites students to test their aptitude. The department also lays emphasis on the Moral, Social and Patriotic growth of students. The impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally.
-                                       
-                                    </p>
-                                     <br/>
+									<p align=justify>The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities. </p>
+									<p align=justify>The Faculty members are committed to nurture an environment for proper growth of intellectual insights on commerce & business aspects. During the formation of the syllabus, focus was given on the current trend of the industries and required skills and competences to be acquired by the students.</p>
+									<p align=justify>The plethora’s of avenues that the department provides gives a platform to the students to enhance their aptitude and attitude. The department emphasizes on the Moral, Social and Patriotic growth of students. The influence & the impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally. </p>
+
                                     <p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-                                    <ul>
-                                        <li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li><br/>
-                                        <li>1st Best Emerging College in the Year 2013 and 2014 in India</li><br/>
-                                        <li>It was ranked as 16th Best and 3rd Best Commerce college in India and Bangalore city as per India Today - Neilson Survey.
-                                        </li><br/>
-                                        <li>Currently, it's Second best emerging Commerce college in the Country. As far as the Department is concerned, the journey is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty.
-                                        </li><br/>
-                                    </ul>
+									<ul><li>One of the Top 10 Best College in Bangalore city in 2010, 2011, 2012, 2013</li>
+										<li>1st Best Emerging College in the Year 2013 and 2014 in India as per India Today – Nielsen Survey.</li>
+										<li>It was ranked as 16th Best and 3rd Best Commerce College in India and Bengaluru city as per India Today - Nielsen Survey 2015.</li>
+										<li>In the year 2016, it was rated as the Second Best Emerging Commerce College in the India as per India Today – Nielsen Survey 2016.</li>
+										<li>Currently at the National Level Commerce Department is ranked in 9th position and 3rd position in Bengaluru city as per India Today – Nielsen Survey 2017.</li>
+										<li>The department is in a journey which is still unfinished and the path ahead is exhilarating, and it yearns to achieve more, by keeping up with the Jayantian Vision and the blessing of the Almighty. </li></ul>
+
                                                                  
                                    
 

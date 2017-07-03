@@ -116,7 +116,7 @@
 
 									<p align=justify>Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.</p>
 									
-									<p align=justify>After a B.Sc. in Biotechnology there are various opportunities for students in India, where a student can opt for higher studies for improving skills and up gradation of degree or a student can go for jobs in the biotechnology companies, research institutes, Pharma companies, universities and colleges.</p>
+									<p align=justify>After a B.Sc. in Biotechnology there are various opportunities for students in India, where a student can opt for higher studies for improving skills and up-gradation of degree or a student can go for jobs in the biotechnology companies, research institutes, Pharma companies, universities and colleges.</p>
 									<p align=justify>There is a big scope for graduates in sales dept of biotechnology companies making devices and machines for research, these organizations' contract graduates for their showcasing and deals. </p>
 									<p align=justify>There is scope for graduates to work as Lab technicians In research institutes making observation, analyzing data and result interpretation.</p>
 

@@ -149,9 +149,23 @@
                                     </h4>
 
 
-									<p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Prov ince of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd,3rd,4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore.</p>
-									<p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
+									<p align=justify>The college looks forward to achieve and promote inclusivity, integration and heterogeneity in their student community. We believe in the right of every individual to receive good quality higher education. Ours is an equal opportunity institution where there is no discrimination on the basis of race, religion, national origin, gender, marital status, age or physical disability.</p>
 
+									<p align=justify>The primary criteria in assessing applicants will be based on their academic performance. This is mainly done by considering their performance in their qualifying examinations and applicants’ performance during the in house screening rounds which is designed accordingly for the programmes.</p>
+
+ 
+
+									<p><b>All aspiring applicants are expected to follow the below procedures to proceed with admissions for desired programmes</b><br>
+
+1.       Submit the online applications<br>
+
+2.       Attend the Interview / Counseling as per the schedules intimated through call letters send via email<br>
+
+3.       Shortlisted applicants after interview can proceed with the remaining admission formalities<br>
+
+										The eligibility criteria and fee structure for the programmes offered are made available in the website.</p>
+
+								
                                     <!--<div class="panel panel-info">
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Admission Drive in Jaipur</h3>
@@ -171,7 +185,7 @@
 
                                     <div class="panel panel-info">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">Admission Counselling</h3>
+                                            <h2 class="panel-title">Counselling / Interview Schedules</h2>
                                         </div>
                                         <div class="panel-body">
 											 
@@ -282,21 +296,29 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									
 									<div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
+										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
 									  
-									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
-										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+								<a href="admission_guidelines.php" class="list-group-item">
+										   <font size=2>Click here to Apply online</font>
+                                        </a>
+										<a href="admission_guidelines.php" class="list-group-item">
+											<font size=2><u>Application Fee</u></font><br>
+												<font size="2">UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/- <br>
+1 year PG Diploma Programme (Working Executives): Rs 250/-</font>
                                         </a>
                                        </div>
 									
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php" style="color: #2980b9;font-weight: bold;">Admission 2017</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                    </section>
-                                    <section class="link-arrow">
+										<div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp Fee Structure</font> </a><br>
+									  
+							<section class="link-arrow">
                                         <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
                                     </section>
                                     <section class="link-arrow">
@@ -320,65 +342,33 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 
                                         <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
                                     </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-
-
-                                    <div class="well">
-                                        <p>
-											<font size=2 color='#5cafee'><b>New users can click the link below to get online application form and the instructions to fill the application form</b></font>
-                                        </p>
-                                        <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-                                    </div>
-
-                                    <div class="well">
-                                        <p>
-											<font size=2 color='#5cafee'><b>Registered user can click the link below to view / update the details</b></font>
-                                        </p>
-                                        <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center>
-                                    </div>
-
-
-                                    <div class="panel panel-primary">
-                                        <div class="panel-heading">
-                                            <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-                                        </div>
-                                        <div class="panel-body">
-                                            <font size=2>1. Fee payment in College office<br> 2. online payment<br> 3. Payment through demand draft<br></font>
-                                        </div>
-                                        <div class="panel panel-default">
-                                            <div class="panel-body">
-                                               <font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                                               
-
-                                            </div>
-                                        </div>
-                                    </div>
-
+                                       </div>
+									
+									
+									
+									
+									
+									
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
+									
+                                  
+   <div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>UG Applicants</font>
+                                        </a>
+	    <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Applicants</font>
+                                        </a>
+                                       </div>
+                                  
                                   
 
 

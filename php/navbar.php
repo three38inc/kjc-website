@@ -234,7 +234,7 @@
                       <ul>
                        <li><a href="<?php echo $ROOT; ?>/examination/introduction.php" title="Examination">Examination</a></li>
                        <li><a href="<?php echo $ROOT; ?>/placements/about_cecr.php" title="Placements">Placements</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/carrer/carrer.php" title="Our Carrers">Carrer</a></li>
+                       <li><a href="<?php echo $ROOT; ?>/carrer/carrer.php" title="Our Carrers">Career</a></li>
                        <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
                        <li><a href="<?php echo $ROOT; ?>/events/events.php" title="International">Recent Events</a></li>
                        <li><a href="<?php echo $ROOT; ?>/notice/notice.php" title="International">Notices &amp; Announcements</a></li>
@@ -249,7 +249,7 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Center for Research</h4></a>
+                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Centre for Research</h4></a>
                       <p>
                       The Centre for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
                       </p>
@@ -309,7 +309,7 @@
 
                   <div class="col-lg-3 col-lg-offset-3">
                     <div class="menu-alt">
-                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Center in Biotechnology</h4></a>
+                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Centre in Biotechnology</h4></a>
                       <p>
                         The Department has been endowed the status of a Research Centre in Biotechnology providing a guiding framework for the research programmes.
                       </p>

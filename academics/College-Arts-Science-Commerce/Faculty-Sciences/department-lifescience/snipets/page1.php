@@ -10,7 +10,7 @@
                 <h4>Dr. Elcey C. Daniel
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D.
+                    <span>Qualification </span> <br/>M.Sc., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Environmental Biotechnology/Microbial Technology
@@ -20,7 +20,7 @@
                     <span> Years of experience </span><br/>25 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
+                    <span> Areas of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
                 </p>
 				
 				
@@ -47,7 +47,7 @@
                 <h4>Dr. Calistus Jude AL
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D.
+                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Human Genetics
@@ -57,7 +57,7 @@
                     <span> Years of experience </span><br/>19 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Cancer Genetics, Genotoxicity studies
+                    <span> Areas of Research </span><br/>Cancer Genetics, Genotoxicity studies
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -82,7 +82,7 @@
                 <h4>Dr. Vijayanand.S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil. NET., Ph.D.
+                    <span>Qualification </span> <br/>M.Sc., M.Phil. NET., Ph.D
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biochemistry
@@ -92,7 +92,7 @@
                     <span> Years of experience </span><br/>16 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Plant Biochemistry and Biotechnology
+                    <span> Areas of Research </span><br/>Plant Biochemistry and Biotechnology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -126,7 +126,7 @@
                     <span> Years of experience </span><br/>17 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Diagnostic and Environmental Microbiology
+                    <span> Areas of Research </span><br/>Diagnostic and Environmental Microbiology
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -160,7 +160,7 @@
                     <span> Years of experience </span><br/>5 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Neuroscience, Molecular Biology, Protein Expression	
+                    <span> Areas of Research </span><br/>Neuroscience, Molecular Biology, Protein Expression	
                 </p>
                
                 <ul class="list-inline social-light ">
@@ -195,7 +195,7 @@
                     <span> Years of experience </span><br/>15 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Extracellular matrix proteins, Immunopharmacology, Animal cell culture
+                    <span> Areas of Research </span><br/>Extracellular matrix proteins, Immunopharmacology, Animal cell culture
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

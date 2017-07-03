@@ -112,7 +112,7 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;B.Sc., <strong> Biotechnology, Biochemistry, Genetics </strong></span></h4>
+                                        <span>&nbsp;B.Sc., <strong> Biotechnology, Biochemistry, Genetics (BBG)</strong></span></h4>
 									
 									
 									<p><b>Course Duration: 3 Years / Six Semesters</b></p>
@@ -123,14 +123,14 @@
 
 									<p align=justify>Students are showing tremendous interest in Biotechnology, the reason behind emerges from the fact that the technical and procedural application of Biotechnology touches a vast array of disciplines. This opens up a lot of job portals for students who are seeking a stable and exciting  career in their life.</p>
 									
-<p>The course introduces the students to detailed study of biological molecules, Cell Biology, Genetics, Microbiology, Biophysics, Molecular Biology, Recombinant DNA Technology, Genetic Engineering, Environmental Biotechnology, Animal Biotechnology, Immunology, Industrial Biotechnology and Plant Biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.</p>
+<p>The course introduces the students to detailed study of Cell Biology, Genetics, Microbiology, Biophysics, Molecular Biology, Recombinant DNA Technology, Genetic Engineering, Environmental Biotechnology, Animal Biotechnology, Immunology, Industrial Biotechnology and Plant Biotechnology and makes a student a biotechnologist who can pursue further and contribute to this field in the area of one's interest.</p>
 									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Biochemistry</b><br>
 										Biochemistry deals with understanding living organisms in chemical terms. Areas illuminated by bio- chemical knowledge have broadened enormously. The profound impact of biochemistry on medicine, agriculture, pharmaceutical and food science and many other fields is increasing rapidly. The relevance of Biochemistry to society has become more apparent.</p>
 									
 									<p align=justify>This course incorporates fundamental and exciting developments of Biochemistry as detailed insight into different branches of chemistry like organic, inorganic and physical chemistry and their application in understanding life.</p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Genetics</b><br>
-										B.Sc. Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.</p>
+										Genetics has higher prospects in the field of research and development. It also deals with conserving and utilizing the plants, gene bank management, in vitro conservation, in situ conservation including genetic resource and animal breeding.</p>
 									<p align=justify>A sound knowledge of genetics is essential for an understanding of all other fields of biology particularly cytology, embryology, molecular biology, physiology, etc. Genetics is a subject that unifies biology and serves as its 'core'.</p>
 									<p align=justify>The college recognizes the importance of this subject and offers the course structured in a way that the students get a chance to explore the theoretical and practical aspects of the subject in depth.</p>
 

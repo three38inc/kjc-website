@@ -9,7 +9,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty of Science</h3>
-        <p>Faculty of Science offers MCA,BCA,Bsc CSME,Bsc CSMS,Bsc BioTechnology,Bsc BioTechnology ..</p>
+        <p>Faculty of Science offers MCA,BCA,Bsc CSME,Bsc CSMS,Bsc BioTechnology, Microbiology ..</p>
         <a href="Faculty-Sciences/index.php">Know More</a>
     </div>
 

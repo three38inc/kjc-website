@@ -120,7 +120,7 @@
 									<p align=justify>Kristu Jayanti College activities and other initiatives are carried in various newspapers. This section showcases news and other write ups carried across media platforms.  </p>
 
 
-
+                  <a href="pdf/2017/kristu-itc-academy.pdf" target="_blank" class="btn btn-primary btn-sm">Kristu Jayanti College signed the Membership with ICT Academy</a>
 
 
 
