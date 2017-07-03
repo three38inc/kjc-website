@@ -197,14 +197,14 @@
                    
                    
                   
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/clipboard.png" width="50" height="50" class="img-circle" /></td>
                                 <td>3rd Trim MBA/PGDM 2016-18 batch CBCS Course Registration  <a href="http://kristujayanti.edu.in/CBCS/choice_based_credit_mba.php" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                   
                    
                   

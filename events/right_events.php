@@ -24,6 +24,33 @@
 </style>
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
+	
+	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="space_technology.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 01 </span></td>
+                <td class="event-dates">
+                  <p>Department of Computer Science (UG) Guest Lecture on "Space Technology" </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="ieee-student-branch.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 01</span></td>
+                <td class="event-dates">
+                  <p>Department of Computer Science[PG] and IEEE Student Branch organizing the programme on Industry Institute Interface(3i)</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	
+	
+	
+	
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="April" href="test.php">
         <table cellpadding="4">
             <tr>
