@@ -13,7 +13,11 @@
 
 			<p align=justify>Kalajyothi is the annual intracollegiate Literary, Cultural and Gospel festival of the college. It is organized to provide an opportunity for students to showcase their talent in various competitions held under the categories of literary, fine arts, theatre, music and dance. Some of the events are conducted under secular and gospel categories. This academic year, Kalajyothi will be held from 17th to 22nd July, 2017. </p>
 			
-			<center><a href="../pdf/2017/kalajyothi_event_guidelines_17.pdf" target="_blank" class="btn btn-primary btn-sm">Click here for Events and Rules of Kalajyothi 2017</a></center>
+			<center><a href="../pdf/2017/kalajyothi_event_guidelines_17.pdf" target="_blank" class="btn btn-primary btn-sm">Click here for Events and Rules of Kalajyothi 2017</a></center><br>
+			
+			<center><a href="http://kalajyothi.kristujayanti.edu.in/" target="_blank" class="btn btn-primary btn-sm">Click here for Registration </a></center>
+			
+			
 			
 			<!--<center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1390413994370802" target="_blank" class="btn btn-primary btn-sm">PHOTO GALLERY</a></center>-->
 			
