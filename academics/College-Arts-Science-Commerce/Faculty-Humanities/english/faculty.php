@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,13);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,6);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -32,6 +32,7 @@
     <script src="../../../../js/respond.js"></script>
     <script src="../../../../js/custom.js"></script>
     <script src="../../../../js/fakeLoader.js"></script>
+
 
 </head>
 
@@ -78,54 +79,87 @@
 
                         <div class="row">
                             <div class="col-lg-9">
-								 <div class="content-left myWelcome wow fadeIn">
+								<div class="content-left myWelcome wow fadeIn">
+									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;<strong>Journalism</strong></span></h4>
-                                <p align=justify><b>Overview</b><br>
-The department of Journalism and Mass Communication at Kristu Jayanti College, Bangalore, offers four triple major undergraduate programs and a master’s degree program, MA Journalism and Mass Communication. Since its inception in 2002, it is one of the most dynamic departments in the campus, which stresses a balance between the theoretical and practical aspects of journalism and mass communication. Along with the classroom lectures, the various activities of the department have received much recognition among the students. The alumni of the department work in diverse media verticals. And has bagged several states, national and international awards in their profession and brought glory to the department. The current students actively participate in various national level fests and 
-                                    These activity oriented pedagogical practices enables the students to be competitive in the technology and creativity driven media industry.</p>
-                                <p><b>Our Pedagogy -Synergizing Journalism Programs with Practical Components to equip learners to sharpen their skills in a wide range like:</b><br>
+                                    <span>&nbsp;Faculty <strong>Profile</strong></span>
 
-                                    <li> Competencies of general knowledge and intellectual ability</li>
-                                    <li> Professional techniques of research, writing (and other forms of presentation), editing, design, and production</li>
-                                    <li> Professional understandings, including ethics</li>
-                                    <li> Knowledge of journalism's role in society, including journalism's history, the organization of the news media, and laws related to journalism practice</li>
-                                    <li> Knowledge of best practices in various other platforms like: Print, Electronic media, Beat reporting, Content development, Advertising, PR, Corporate communication and New media</li>
-                                <p align=justify><b>The various courses offered by the department are</b><br>
-                                    <b>MA Journalism and Mass Communication</b><br>
-                                    The MA - Journalism & Mass Communication is a two year post graduate program which fosters intense and rigorous media training through sessions like, newsletter preparations, advertising campaigns, television and film production, campaigns for social causes, experiential learning programs (field work), new media and radio program productions</p>
-                                <p align=justify><b>BA Triple Major</b><br>
-The course is part of the four BA triple major combinations and consists of eight subjects' titles stretching all the semesters. The major papers include introduction to mass communication, print journalism, radio and new media, reporting, editing, advertising and PR, and television and cinema.</p>
-    <p> The students of both UG and PG undergo an internship program for a prescribed period in an organization of their choice.</p>
+                                </h4>
+									
 
-                                
-                               
+                                    <div class="row profile-pagination">
+                                        <ul class="pagination pagination-sm">
+                                            <li class="active"><a href="#" data-value="page1">1</a></li>
+                                            <li><a href="#" data-value="page2">2</a></li>
+											<li><a href="#" data-value="page3">3</a></li>
+											 
+                                        </ul>
+                                    </div>
+                                </div>
 
 								</div></div>
-                            <div class="col-lg-3" style="margin-top:1em;">
+                               <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Programs Offered </strong></span>
+                                        <span>&nbsp;Our  <strong>Domains</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="english.php">English </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="kannada.php">Kannada </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpeng.php">BA JPEng</a></p>
+                                        <p><a class="a-link-arrow" href="hindi.php">Hindi </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPsEng</a></p>
+                                        <p><a class="a-link-arrow" href="history.php">History </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>
+                                        <p><a class="a-link-arrow" href="political_science.php">Political Science</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/journalism.php">Journalism</a></p>
                                     </section> </div>
                                 
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <div class="content-right wow fadeIn">
+                                        <h4 style="margin-left:10px;" class="mainheading">
+                                            <i class="fa fa-bookmark"></i>
+                                            <span> Programs <strong>Offered</strong></span>
+                                        </h4>
+                                        
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ba_hep.php">BA HEP</a></p>
+                                    </section>
+
+
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
+                                    </section>
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
+                                    </section>
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
+                                    </section>
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                    </section>
+                                        
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
+                                    </section>
+                                        
+                                     </div></div>
+                                     
+                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
@@ -139,45 +173,22 @@ The course is part of the four BA triple major combinations and consists of eigh
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="infrastructure.php">Infrastructure</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="students_publications.php">Students Publications</a></p>
+                                        <p><a class="a-link-arrow" href="activities.php" style="color: #2980b9;font-weight: bold;">Activities</a></p>
                                     </section>
                                         
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_tv.php">KJC TV</a></p>
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
                                     </section>
                                         
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_radio.php">KJC Radio</a></p>
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="club_association.php">Club and Association</a></p>
                                     </section>
                                         
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vac.php">VAC</a></p>
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
                                     </section>
                                         
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
-                                    </section>
-                                        
-                                      <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
-                                    </section>
-                                        
-                                        
-                                    </div>
+                                         </div>
                                 
                                 
 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
@@ -197,8 +208,8 @@ The course is part of the four BA triple major combinations and consists of eigh
 
                             </div>
                         </div>
-                        </div></div>
-
+                    </div>
+                    </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
@@ -226,7 +237,7 @@ The course is part of the four BA triple major combinations and consists of eigh
         })();
 
     </script>
-   <script src="../../../../js/modernizr.custom.js"></script>
+     <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>
@@ -238,8 +249,6 @@ The course is part of the four BA triple major combinations and consists of eigh
     <script src="../../../../js/sly.js"></script>
     <script src="../../../../js/customSly.js"></script>
     <script src="../../../../js/wow.min.js"></script>
-    <!--    <script src="js/res-navtabs.js"></script>-->
-    <script src="../../../../js/scripts.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({

@@ -81,7 +81,8 @@
 								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;<strong>Journalism</strong></span></h4>
+                                    <span>&nbsp;<strong>English</strong></span></h4>
+									 
                                 <p align=justify><b>Overview</b><br>
 The department of Journalism and Mass Communication at Kristu Jayanti College, Bangalore, offers four triple major undergraduate programs and a master’s degree program, MA Journalism and Mass Communication. Since its inception in 2002, it is one of the most dynamic departments in the campus, which stresses a balance between the theoretical and practical aspects of journalism and mass communication. Along with the classroom lectures, the various activities of the department have received much recognition among the students. The alumni of the department work in diverse media verticals. And has bagged several states, national and international awards in their profession and brought glory to the department. The current students actively participate in various national level fests and 
                                     These activity oriented pedagogical practices enables the students to be competitive in the technology and creativity driven media industry.</p>
@@ -110,20 +111,16 @@ The course is part of the four BA triple major combinations and consists of eigh
                                         <span>&nbsp; <strong>Programs Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_htj.php">BA HTJ</a></p>
+                                        <p><a class="a-link-arrow" href="ba_htj.php">MA English Literature</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpcs.php">BA JPCS</a></p>
+                                        <p><a class="a-link-arrow" href="ba_jpcs.php">BA JPNG</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpeng.php">BA JPEng</a></p>
+                                        <p><a class="a-link-arrow" href="ba_jpeng.php">BA JPsEng</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPsEng</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>
-                                    </section> </div>
+                                    
+                                     </div>
                                 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">

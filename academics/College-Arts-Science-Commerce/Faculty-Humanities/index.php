@@ -116,12 +116,18 @@
                                         </h4>
 
                                    
-										<p align=justify><b>About the Department - Synergy of Eight Disciplines</b><br>
-											The department of humanities was established in the year 2002. It has diverse subjects like Journalism, English Literature, Computer Science, History and Political Science apart from languages. The Department has an inter-disciplinary approach to teaching-learning methods that cater to students from multicultural background. It provides a nurturing ground for students who are creative, resourceful and dynamic. The objective of the discipline is to ensure holistic development of every student towards academic and co-curricular excellence. This is made possible by providing a value enabled professional teaching system for an overall development. Moreover, the Department has a history of producing outstanding results since its inception.</p>
+										<p>The Faculty of Humanities is responsible for teaching and research within a broad range of subjects in the Humanities: <b>Social Work, Psychology, Mass Communication, Literature and Languages, History, Culture and Political Science.</b> Furthermore, we aim to develop existing programmes of study with an interdisciplinary focus to understand the cognitive, historical, cultural, artistic, and social aspects of human life.</p>
 
-										<p align=justify>The department offers triple major courses comprising of JPCS, JPEng, HTJ, HEP, JPsEng specializing in subjects like English, Journalism, Psychology, History, Political Science, and Computer Science in the undergraduate level and also offers postgraduates programs in English Literature and Journalism. To equip students with additional inputs with regard to their subjects, the department has initiated various practical skills like counselling, soft skills and remedial grammar classes. Apart from the academics, the department has nurtured and motivated the students to take part in various other sports and co-curricular activities. The overall championship of the department in various college Fests across the country substantiate this fact.</p>
+										<p><b>The Faculty of Humanities strives to:</b><br>
+										<p>1. Create conducive academic environment for lifelong learning.</p>
+										<p>2.      Develop critical, logical, emotional and analytical skills for the well-being of an individual.</p>
+										<p>3.      Develop historical and political consciousness through learning.</p>
+										<p>4.      Nurture esthetic and technological skills through the curriculum.</p>
+										<p>5.      Social, cultural, psychological and ethical sensitization of an individual through education.</p>
+										<p>6.      Refine individuals’ ways of expressions through different communicative modes.</p>
+										<p>7.      Maintain and improve excellent academic achievements in the field of teaching and research</p>
+										<p>8.      Enrich students with the good values offered through our novel and holistic curricula </p>
 
-										<p><b>The success rate of the department for past two years was 91.11% and 84.62% respectively.</b></p>
                                        
 
                                     </div>
@@ -149,6 +155,10 @@
 
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="socialwork/social_work.php">Department of Social Work</a></p>
+                                        </section>
+										
+										<section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="english/english.php">Department of English</a></p>
                                         </section>
 
                                     </div>

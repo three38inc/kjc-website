@@ -1,147 +1,24 @@
 <div class="row">
-    <!--<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> T Shenbagavalli
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  M.Com, M.Phil.(com),MBA(Fin) (Ph.D.) 
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Advanced Corporate & Cost Accounting, Advanced Financial Management 
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 06years
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>-->
-	
+   
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/santhosh v.jpg"></div>
+                <div class="class-img"><img src="images/faculty/vidyathi r.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Santhosh V
+                <h4> Vidyavathi  R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.com, PGDBA, (Ph. D). 
+                    <span>Qualification </span> <br/>  M.A(English), M.Phil(English), (PhD English)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Accounting & Taxation
+                    <span>Areas of Interest </span><br/>  Indian English literature, Cultural studies and Non Verbal Communication
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 6 years
+                    <span>Experience </span><br/> 9 years and 8 months
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/anni stephen.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Annie Stephen
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> CA,MBA,(PHD)
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Commerce and Management 
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 6 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 4
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Jethina.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Jethina James
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> NET, MSc ECONOMICS
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Economics, Commerce
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> Nil
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> Nil
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Prasanth-Gupta.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. Prasanth Gupta
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  -
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  -
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> -
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 14
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -157,22 +34,22 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Maria monica.jpg"></div>
+                <div class="class-img"><img src="images/faculty/krishna prabha.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Maria Monica M
+                <h4> Dr. V.P. Krishna  Prabha
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  M.Com (Accounting and Taxation)
+                    <span>Qualification </span> <br/>  M.A., Ph. D., BEC.
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Accounting Taxation Crypto Currency
+                    <span>Areas of Interest </span><br/> Culture Studies, Women’s Writing Across Cultures & Postcolonial studies
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 2 years
+                    <span>Experience </span><br/> 32 Years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Papers presented or published </span><br/> 9 / 5
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -184,22 +61,23 @@
             </div>
         </div>
     </div>
-	 <div class="member-item col-md-4 ">
+	
+	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Amrutha.jpg"></div>
+                <div class="class-img"><img src="images/faculty/sachin munda.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Amritha Ashok
+                <h4> Sachin Mundakkal
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> Master of Commerce 
+                    <span>Qualification </span> <br/>  Bachelor of Philosophy, MA in English Literature.
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Auditing, Finance, Insurance and Human Resource 
+                    <span>Areas of Interest </span><br/> Eco Literature, Cultural Studies, Comparative Literature and Women Studies.
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 1.5 years
+                    <span>Experience </span><br/> 2 years
                 </p>
 				<p>
                     <span>Papers presented or published </span><br/> 2
@@ -214,7 +92,95 @@
             </div>
         </div>
     </div>
-    
+	
+	<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Chithra.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Chithra P
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  MA English Literature & M Phil
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> Phonetics, Linguistics & Modern English 
+                </p>
+                <p>
+                    <span>Experience </span><br/> 5 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 2
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	
+	<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Sruthi.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Sruthi B Guptha
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> Intersectional studies, gender studies, Post colonial Studies, Cultural Studies and Travel Literature
+                </p>
+               
+				<p>
+                    <span>Papers presented or published </span><br/> 06
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	
+	<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Aujo.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Aujo Philip
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA English , MPhil. , (PhD)
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> American Literature
+                </p>
+                
+				<p>
+                    <span>Papers presented or published </span><br/> 02
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 
 

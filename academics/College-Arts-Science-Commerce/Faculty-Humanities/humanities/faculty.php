@@ -88,7 +88,7 @@
                                 </h4>
 									<div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">English</a></li>
+                                           
                                             <li><a href="#" data-value="page2">History</a></li>
 											 <li><a href="#" data-value="page3">Political Science </a></li>
 											 <li><a href="#" data-value="page4">Hindi </a></li>
@@ -103,7 +103,7 @@
 
                                     <div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">English</a></li>
+                                          
                                             <li><a href="#" data-value="page2">History</a></li>
 											 <li><a href="#" data-value="page3">Political Science </a></li>
 											 <li><a href="#" data-value="page4">Hindi </a></li>
@@ -276,7 +276,7 @@
     <script>
         $("document").ready(function() {
             //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
+            var activePage = 'page2';
             $.ajax({
                 url: 'snipets/' + activePage + '.php',
                 success: function(data) {
