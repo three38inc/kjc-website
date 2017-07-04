@@ -112,7 +112,7 @@
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
+                        <!--<div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
@@ -121,50 +121,39 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Fests</strong></span>
+                                        <span>&nbsp; Department <strong> Fests</strong></span>
                                     </h4>
 
-                                    <br/>
+                                  
                                     <p align="justify">
-                                        The Department conducts Excelsior an intra-Collegiate Fest and Adroit a National Level Inter-Collegiate Fest (UG Department) and Impulse an intra-Collegiate Fest and Commercia National Level Inter-Collegiate Fest (PG Department)
+										The Department conducts Excelsior an intra-Collegiate Fest and Adroit a National Level Inter-Collegiate Fest (UG Department) and Impulse an intra-Collegiate Fest and Commercia National Level Inter-Collegiate Fest (PG Department) </p>
 
-                                    </p>
+                                   
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Excelsior:</b> The Department of Commerce organises "Excelsior" an Intra- collegiate fest is conducted during the odd semester every year. Excelsior has been a milestone in the way to the student's overall growth. It has also made their path to success by imbibing in the students. the quality of managing the given resources. Every year final year students unite in a combined and synergized effort to organize this fest. Not only does it allow the first and second year students to explore their creative and business sensibilities but it also provides a platform to exhibit textbook managerial practices in a more realistic and personal environment thus strengthening and confirming their understanding of core concepts.
+										<b style="color: #cd6e08;font-weight: bold;">Excelsior (Intra- collegiate UG fest): </b> The Department of Commerce organizes "Excelsior" an Intra- collegiate fest is conducted during the odd semester every year. Excelsior has been a milestone in the way to the student's overall growth. It has also made their path to success by imbibing in the students the quality of managing the given resources. Every year final year students unite in a combined and synergized effort to organize this fest. Not only does it allow the first and second year students to explore their creative and business sensibilities but it also provides a platform to exhibit textbook managerial practices in a more realistic and personal environment thus strengthening and confirming their understanding of core concepts. </p>
 
-                                    </p>
+                                
 
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;"> Adroit:</b> It is a National level Inter-collegiate Fest and has always been synonymous with great academics, intellect and high IQ's since the past 10 years. This event not only provides a platform for students to compete with each other but, promotes talent and explores new ideas among them. The event promises a multitude of activities and rewards for the talented. Thus, Adroit gives future business leaders a break-through from class rooms into the dynamic and even competitive corporate world through a variety of business related calendar of events, testing their skills, knowledge, expertise, as well as their attitude.
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">Adroit (Inter - collegiate UG fest): </b> It is a National level Inter-collegiate Fest and has always been synonymous with great academics, intellect and high IQ's since the past 10 years. This event not only provides a platform for students to compete with each other but, promotes talent and explores new ideas among them. The event promises a multitude of activities and rewards for the talented. Thus, Adroit gives future business leaders a break-through from class rooms into the dynamic and even competitive corporate world through a variety of business related calendar of events, testing their skills, knowledge, expertise, as well as their attitude. </p>
+                                  
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Impulse- Intra collegiate PG fest:</b> Impulse, an intra-collegiate fest conducted by the Department of Commerce-Post graduate studies. The objective of this fest is to provide hands on experience in order to participate in any inter-collegiate fest conducted at various colleges. The key events of this fest includes Best Manager, Business Quiz, Business Plan, Mock Stock, Human Resource Management, Balance Sheet Reading and Financial analysis etc., Final year students host this event for first year students to face the realities of corporate arena.
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">Impulse – (Intra collegiate PG fest): </b> Impulse, an intra-collegiate fest conducted by the Department of Commerce-Post graduate studies. The objective of this fest is to provide hands on experience in order to participate in any inter-collegiate fest conducted at various colleges. The key events of this fest includes Best Manager, Business Quiz, Business Plan, Mock Stock, Human Resource Management, Balance Sheet Reading and Financial analysis etc., Final year students host this event for first year students to face the realities of corporate arena. </p>
+                                
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Commercia - Inter collegiate PG fest :</b> fest The Department of Commerce-Post Graduate Studies of Kristu Jayanti conducts Commercia-A National level inter-collegiate commerce which provides a platform for all its participants to exhibit their talents in the various commerce oriented events. COMMERCIA provides an environment for collaborating ideas which will be fuelled by innovation and enthusiasm. The fest provides platform to imbibe team work, creative learning, critical thinking and exposure to realities of business world. The key events of this fest includes Best manager, Business quiz, Business plan, Mock stock, Human resource management, Balance sheet reading and Financial analysis etc., Department of Commerce-PG will be the host and other colleges across the country will take part in this mega corporate carnival.
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">Commercia - Inter collegiate PG fest :</b> The Department of Commerce-Post Graduate Studies of Kristu Jayanti conducts Commercia-A National level inter-collegiate commerce fest which provides a platform for all its participants to exhibit their talents in the various commerce oriented events. COMMERCIA provides an environment for collaborating ideas which will be fueled by innovation and enthusiasm. The fest provides platform to imbibe team work, creative learning, critical thinking and exposure to realities of business world. The key events of this fest includes Best manager, Business quiz, Business plan, Mock stock, Human resource management, Balance sheet reading and Financial analysis etc., Department of Commerce-PG will be the host and other colleges across the country will take part in this mega corporate carnival. </p>
+                                   
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Jai Hind:</b> It is the Department's initiative to hold an event in honour of the Martyrs who laid their life for our country. It instils patriotism in each departmental student. The event includes a quiz programme, skits, tableau, mime and songs that extols the true Indian spirit.
-                                    </p>
-                                    <p align="justify">
-                                        The overall objectives of this fest is to enhance analytical and decision making skills of the students.
-                                    </p>
-                                    <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Yaan:</b> Department (Tourism Course) organizes 'YAAN' an Intra College Tourism Fest in connection with the World Tourism day Celebrations. Various activities like Food festival, Tourism Exhibition, Kite festival (christened as Drachen) as well as Traditional Cultural Programmes are conducted by the students.
-                                    </p>
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+										<b style="color: #cd6e08;font-weight: bold;">Jai Hind:</b> It is the Department's initiative to hold an event in honour of the Martyrs who laid their life for our country. It instils patriotism in each departmental student. The event includes a quiz programme, skits, tableau, mime and songs that extol the true Indian spirit. </p>
+									<p>The overall objective of this fest is to enhance analytical and decision making skills of the students. </p>
 
-                                    </div>
+                          
                                     <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
-
+										<b style="color: #cd6e08;font-weight: bold;">Yaan:</b>Department (Tourism Course) organizes 'YAAN' an Intra College Tourism Fest in connection with the World Tourism day Celebrations. Various activities like Food festival, Tourism Exhibition, Kite festival (christened as Drachen) as well as Traditional Cultural Programmes are conducted by the students.</p> 
+                                  
+                               
 
                                 </div>
                             </div>

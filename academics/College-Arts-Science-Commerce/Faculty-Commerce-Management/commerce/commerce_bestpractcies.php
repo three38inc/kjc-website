@@ -121,30 +121,28 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                       <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Best Practices </strong></span>
+                                        <span>&nbsp; Best <strong> Practices </strong></span>
                                     </h4>
 
-                                    <br/>
                                     <p align="justify">
-                                        The Department of Commerce conducts various departmental co-curricular activities to stand with the vision of exploring new horizons together with collective wisdom.
-                                    </p>
+										The Department of Commerce conducts various departmental co-curricular activities to stand with the vision of exploring new horizons together with collective wisdom. </p>
+                              
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">1.Business Lab:</b> The idea behind commerce lab is to inculcate knowledge and need-based work skills so that the graduates of the college find themselves prepared for employment and self-employment avenues as and when required. In order to accomplish this task we have incorporated practical aspects of the subject so the students may involve in experiential learning which is vital in present business world.
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">1.Business Lab:</b> The idea behind commerce lab is to inculcate knowledge and need-based work skills so that the graduates of the college find themselves prepared for employment and self-employment avenues as and when required. In order to accomplish this task we have incorporated practical aspects of the subject so the students may involve in experiential learning which is vital in present business world. </p>
+                                    
                                     <p><strong>The following is the snap shot of some of the programmes offered by commerce lab:</strong></p>
                                     <ul>
                                         <li>Mission Connect: College Campus to Corporate Campus</li>
                                         <li>Knowledge screen-Learning from leaders</li>
                                         <li>Specimens and forms</li>
-                                        <li>Proforma of key business documents</li>
+										<li>Proforma of key business documents</li></ul>
 
 
-                                    </ul>
-                                    <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">2. Investor's club:</b> The Club envisages the dream of bringing the finance avenue closer to students by having the below given programmes.
-                                    </p>
+                                    
+									<p align="justify">The Club envisages the dream of bringing the finance avenue closer to students by having the below given programmes. </p>
+                                    
 
                                     <ul>
                                         <li>Mock Trading Sessions for all commerce students</li>
@@ -152,59 +150,53 @@
                                         <li>Discussions on share market trends with Club members</li>
                                         <li>Screening of stock trading shows</li>
                                         <li>Stock trading competition in association with ICICI Direct</li>
-                                        <li>Sessions on investment literacy for non commerce students</li>
+										<li>Sessions on investment literacy for non commerce students</li></ul>
 
 
-                                    </ul>
+                                    
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">3. Beyond Ourselves:</b> an initiative by the Department in enhancing the knowledge and upgrading the teachers to the new developments in industry, so as to lead the students in a competency based education.
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">3. Beyond Ourselves:</b> an initiative by the Department in enhancing the knowledge and upgrading the teachers to the new developments in industry, so as to lead the students in a competency based education. </p>
+									
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">4. PIF-Professional Interface Forum:</b> Professional Interface Forum is an exclusive platform for B.Com Professional course students, pursuing their B.Com degree with professional course, either CA or CS. This forum is set up to enable students to remain in continuous touch with the industry and professional bodies through interaction with the corporate world at frequent intervals so that they can imbibe corporate culture and norms followed there. The objective of PIF is to enlighten our student with ideas and views on challenges faced by CA and CS professionals
-                                    </p>
+										<b style="color: #cd6e08;font-weight: bold;">4. PIF-Professional Interface Forum:</b> Professional Interface Forum is an exclusive platform for B.Com Professional course students, pursuing their B.Com degree with professional course, either CA or CS. This forum is set up to enable students to remain in continuous touch with the industry and professional bodies through interaction with the corporate world at frequent intervals so that they can imbibe corporate culture and norms followed there. The objective of PIF is to enlighten our student with ideas and views on challenges faced by CA and CS professionals </p>
+									
                                     <p align="justify">
 										<b style="color: #cd6e08;font-weight: bold;">5. Quiz Club:</b>
-                                    </p>
-                                    <p align="justify">
-                                    The Quiz Club takes pride in being one of the most proactive and popular clubs among the students. The club is dedicated to prepare and host quality quizzes for the student population on the campus.<br/> Following is a glimpse of what the Club does:
+										The Quiz Club takes pride in being one of the most proactive and popular clubs among the students. The club is dedicated to prepare and host quality quizzes for the student population on the campus.</p>
+									<p><b>Following is a glimpse of what the Club does: </b></p>
 
-                                    </p>
                                     <ul>
                                         <li>Preparation of Quiz Calendar</li>
                                         <li>To conduct a quiz test </li>
                                         <li>Intra class Biz Quiz competition in Odd semesters</li>
                                         <li>Inter class General Quiz in Even Semesters</li>
                                         <li>Supply of course based quizzes to teachers on request</li>
-                                        <li>Preparing and hosting quality quizzes for Intra and Inter collegiate fest</li>
-                                    </ul>
+										<li>Preparing and hosting quality quizzes for Intra and Inter collegiate fest</li></ul>
+                           
                                     <p align="justify">
-                                        <strong>6. Vanijya Darpan: </strong>A business skills exhibition- The purpose of the exhibition is to link what students learn in the classroom with how it is applied in the real world. It provides an avenue for students to showcase their skills and creativity. Students are divided into Groups, and have to present a model on various business areas.
-                                    </p>
+										<strong>6. Vanijya Darpan: </strong>A business skills exhibition- The purpose of the exhibition is to link what students learn in the classroom with how it is applied in the real world. It provides an avenue for students to showcase their skills and creativity. Students are divided into Groups, and have to present a model on various business areas. </p>
+									
                                     <p align="justify">
-                                        <strong>7. Samshodhan (Research Forum): </strong>To motivate the research culture among the post graduate commerce students of Kristu Jayanti College an initiation was taken to start a research forum. It is monitored by the Co-ordinator of M.Com Programme and Research methodology subject teacher. The forum aims To motivate and equip the students to undertake research, to help the students to publish the research papers in reputed journals, to improve the art of writing research report and thereby helping the members to identify research problems, have a weekly discussion on research topics, discussions on the prepared questionnaires and interview schedules, discussions on application of statistical tools and debate on published research papers.
-                                    </p>
+										<strong>7. Samshodhan (Research Forum): </strong>To motivate the research culture among the post graduate commerce students of Kristu Jayanti College an initiation was taken to start a research forum. It is monitored by the Co-ordinator of Commerce (PG) Programme and Research methodology subject teacher. The forum aims To motivate and equip the students to undertake research, to help the students to publish the research papers in reputed journals, to improve the art of writing research report and thereby helping the members to identify research problems, have a weekly discussion on research topics, discussions on the prepared questionnaires and interview schedules, discussions on application of statistical tools and debate on published research papers. </p>
+									
                                     <p align="justify">
-                                        <strong>8. Gurukul-giving wings to students: </strong>It is an in house Seminar which is aimed at promoting Paper presentation and publication as a part of the curriculum. It is conducted for every semester.
-                                    </p>
+										<strong>8. Gurukul-giving wings to students: </strong>It is an in house Seminar which is aimed at promoting Paper presentation and publication as a part of the curriculum. It is conducted for every semester. </p>
+									
                                     <p align="justify">
-                                        <strong>9. Teaching Assignment (For Aspiring Students):</strong>Post Graduate Commerce Students are given a chance to experience the real world of teaching. The practice has produced bountiful teachers from this College.
-                                    </p>
+										<strong>9. Teaching Assignment (For Aspiring Students):</strong>Post Graduate Commerce Students are given a chance to experience the real world of teaching. The practice has produced bountiful teachers from this College. </p>
+									
                                     <p align="justify">
-                                        <strong>10. Mentoring Establishing a Mentor : </strong>Mentee relationship is the need of the hour, looking at the current social turbulence that we see around us. The Department is aware that a student's character also gets developed, once he is a part of this Institution. Keeping both the things in mind, the Management, Teachers and the College Counsellor do take proactive steps to instill and grow values that moulds a person into a better asset to the society.
-                                    </p>
+										<strong>10. Mentoring Establishing a Mentor : </strong>Mentee relationship is the need of the hour, looking at the current social turbulence that we see around us. The Department is aware that a student's character also gets developed, once he is a part of this Institution. Keeping both the things in mind, the Management, Teachers and the College Counsellor do take proactive steps to instill and grow values that mould a person into a better asset to the society. </p>
+									
+									 <p align="justify">
+										 <strong>11. Mercando Club: </strong> Students will be trained and exposed to various elements of marketing under the banner of Mercando; activities related to the marketing will be conducted and incorporated in the various fest and events of the department to enhance the skills of the students who are pursuing B.Com at Kristu Jayanti College.
+										 Mercando Club started in the academic year 2017-18 for the first time in the history of Kristu Jayanti College, in-order to empower every students of our college with additional inputs specially focused in marketing.</p>
+									<p align=justify>Marcando Club is known for various activities like Promotion, Sales, Entrepreneurship, Brand Building activity, Social Marketing, Product Development, Online Sales, Personal selling and other related aspects and recent trends of the marketing.</p>
+									<p align=justify>The department of commerce of Kristu Jayanti believes that our students should not only become subject matter expert in the domain of finance and accounts but also have to imbibe and enhance their skills in multi domain field of commerce.</p>
 
 
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 
-                                    </div>
-                                    <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
-
+                               
 
                                 </div>
                             </div>

@@ -121,17 +121,21 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com <strong>(FA with CGMA) </strong></span>
                                     </h4>
-
-									<p align=justify>Master of Commerce - Financial Analysis (FA) with CGMA Programme is to impart to the students, professional education and training in various aspects of business and its environment and provide them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
-
-									<p align=justify>The programme enables the students to obtain Chartered Global Management Accountant qualification which is the joint venture between AICPA (American Institute of Chartered Public Accountants), USA and CIMA (Chartered Institute of Management Accountants), UK.</p>
-
-									<p align=justify>The M.Com FA with CGMA programme is eligible for gaining 11 paper exemptions out of 16 towards the CGMA Qualification and the student has to write only 5 papers to qualify for the CGMA. It also gives an opportunity to gain qualifications like, Advanced Diploma in Management Accounting & Certificate in IFRS along with the CGMA Qualification.</p>
 									
+									<p><b style="color: #cd6e08;font-weight: bold;">Course Outline</b></p>
+
+									<p align=justify>Master of Commerce – Financial Analysis (FA) with CGMA Programme is to impart to the students, professional education and training in various aspects of business and its environment and provide them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
+
+									<ul><li>M.Com FA with CGMA is eligible for gaining 11 papers exemptions out of 16 Papers.</li>
+										<li>To equip students to build their professional qualification</li>
+										<li>To impart experiential learning to provide practical exposure on the subjects</li></ul>
+
+									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility for Admission</b><br>
+										Candidates who have completed graduate programme in commerce or management from any university which is approved and recognized by UGC or its equivalent and has secured not less than 50% of the marks in the aggregate ( In the case of SC/ST/Cat I students and blind students the minimum percentage of marks required shall be less than by 5 %) are eligible for admission into this Programme. </p>
 									
 									<center><p><a href="curriculum/mcom_fa_cgma.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com FA with CGMA </a></p></center>
 

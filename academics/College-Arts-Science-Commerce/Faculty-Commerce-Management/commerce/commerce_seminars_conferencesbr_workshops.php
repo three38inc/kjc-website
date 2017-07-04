@@ -121,12 +121,11 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Achievements </strong></span>
+                                        <span>&nbsp; Seminars Conferences <strong> and Workshops  </strong></span>
                                     </h4>
 
-                                    <br/>
                                     <p align="justify">
                                         <strong>Seminars and Conferences </strong><br><br>
                                     </p>

@@ -121,17 +121,17 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com <strong> (Financial Analysis) </strong></span>
                                     </h4>
 
                                   
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;"> 1. Objective</b><br>
-										The broad objectives of M.Com (Financial Analysis) programme is to impart students' with professional education and training in various aspects of business and its environment. It also provides them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
+										The broad objective of the Master of Commerce – Financial Analysis (FA) course is to impart the Students with professional education and training in various aspects of business and its environment and provide them with opportunities to develop managerial and analytical skills in order to meet the challenges of business at the national and global level.</p>
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">2. Eligibility for Admission</b><br>
-										A candidate who has passed the B.Com/B.B.M/BBA/BBS Degree examination of Bangalore University or of any other University recognized as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat-I students and blind students the minimum percentage of marks required shall be less by 5%.</p>
+										A candidate who has passed the B.Com/B.B.M/BBA/BBS Degree examination of Bangalore University or of any other University recognized as equivalent thereto and has secured not less than 50% of the marks in the aggregate shall be eligible for admission to the course. In the case of SC/ST/Cat-I students and blind students the minimum percentage of marks required shall be less by 5% are eligible for admission into this Programme. </p>
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">3.Internship Training</b><br>
 										Each student will select one business unit - a manufacturing or service organization for his or her training after the second semester. The student will study the organizational structure, financial position, information systems, customer profile, profile of competitors and the like, besides studying the marketing, HR and operations practices and submit a report in the beginning of third semester which will be evaluated for 50 marks. The marks is added to the total marks of the second semester.</p>

@@ -121,19 +121,16 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>B.com </strong></span>
+                                        <span>&nbsp; B.com<strong> Programme </strong></span>
                                     </h4>
 
-                                    <br/>
+									<p>A three year degree program spread over six semesters affiliated to Bangalore University. </p>
+									<p align=justify>Commerce and industry are the pillars of any developing economy. The objective of this course is to make the student familiar with the different angles relating to accounting, finance, banking business, organizational behavior and economy. Through this programme a student gains a comprehensive view of the functioning of an organization and also cultivates good communication skills.</p>
+
                                     <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                        It is a three year degree program spread over six semesters affiliated to Bangalore University. The degree is designed to provide the student with a wide range of business skills more than just business management. The students are exposed to general business principles, quantitative analysis and organizational behaviour. The curriculum thus focuses both on academic subjects, such as statistics or economics, as well as practical business subjects, such as accountancy, law, management, marketing, finance, etc.
-                                    </p>
-                                    <br/>
-                                    <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Electives: </b>
+								<b style="color: #cd6e08;font-weight: bold;">Electives: </b>
 
                                     </p>
                                     <ol>

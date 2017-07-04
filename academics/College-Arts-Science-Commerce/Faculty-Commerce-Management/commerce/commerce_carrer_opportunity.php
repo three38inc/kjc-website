@@ -121,37 +121,14 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Career Opportunities </strong></span>
+                                        <span>&nbsp; Career <strong> Opportunities </strong></span>
                                     </h4>
-
-                                    <br/>
-                                    <p align="justify">
-                                        Commerce is a very popular subject in India these days. Indian economy is growing at a rapid pace and since Services sector constitutes the largest chunk of India's GDP.
-                                    </p>
-                                    <p align="justify">
-                                        There are ample career opportunities for Commerce graduates as the discipline is one of the three fundamental academic streams, the other two being humanities and science. While pursuing a course in the field of commerce, one acquires the knowledge of business or trade, nature and fluctuations in market, basics of economics, fiscal policies, industrial policies etc. The concept of commerce consists of a wide range of interdisciplinary branches including Accountancy, Business Administration, E-Commerce, Finance, Economics and Marketing. Since the Indian economy is one of the fastest growing economies among the third world countries, the need for talented professionals, who can contribute towards the growth of the economy, is increasing. To serve the purpose, many commerce colleges in India are imparting quality education. A commerce aspirant can pursue such a course, which is related to the organizations that deal with finance and commerce.
-                                    </p>
-                                    <p align="justify">
-                                        After finishing the course, students can pursue higher education by obtaining an MBA or M.Com or M.Com (FA) or MIB Degree.
-                                    </p>
-                                    <p align="justify">
-                                        He or she can opt for Government Jobs or Multinational Company Jobs, that need fresh Commerce Graduates. There are even firms which need accountants to run their business.
-                                    </p>
-
-
-
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-
-                                    </div>
-                                    <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
+									<p align=justify>Commerce is one of the most popular fields of study across the globe, with the rapid growth of the Indian economy a commerce graduate is never in dearth of employment.</p>
+									<p align=justify>The discipline of commerce consists of a wide range of inter-disciplinary branches including Accountancy, Business Administration, E-Commerce, Finance, Economics and Marketing.</p>
+									<p align=justify>This ensures that commerce education churns out talented professionals who can contribute to the growth of the Indian economy. A commerce graduate can opt for Governmental Jobs/ Jobs in MNC or any firm who needs a qualified commerce professional.</p>
+									<p align=justify>After completing the course, students can pursue higher education also by enrolling for MBA or M.Com or M.Com (FA) or MIB Programme. </p>
 
 
                                 </div>

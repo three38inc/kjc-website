@@ -121,19 +121,26 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                               
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;M.Com<strong> (Master of Commerce) </strong></span>
                                     </h4>
 
-                                  
-									<p align=justify> It is a four semester (two academic years) P.G. Program. The main objective of this programme is to equip the students with necessary conceptual, business and analytical skills required for handling the Business Operations. The course helps graduates after B.Com or BBA to develop in-depth knowledge in areas like accounting, finance, marketing and management etc. The course is mainly intended for students who are currently in the entry level and are looking for further expansion of knowledge in their career through research will get an added advantage with this course. In M.Com, students are given an option to specialize in any of the two majors.</p>
+									<p align=justify>It is a four semester (two academic years) P.G. Program affiliated to Bangalore University. The main objective of this programme is to equip the students with necessary conceptual, business and analytical skills required for handling the Business Operations. The course helps graduates after B.Com or BBA to develop in-depth knowledge in areas like accounting, finance, marketing and management etc. The course is mainly intended for students who are currently in the entry level and are looking for further expansion of knowledge in their career through research will get an added advantage with this course. In M.Com, students are given an option to specialize in any of the two majors.</p>
+									
+									<p><b style="color: #cd6e08;font-weight: bold;">Course Outline</b><br>
+The programme is designed to achieve the following objectives. <br>
+									<ul><li>To develop teaching impetus among students to make them qualified for teaching profession</li>
+										<li>To equip students to build their professional qualification</li>
+										<li>To impart experiential learning </li>
+										<li>To develop social and ethical values among students and liberate them to become citizens of the nation </li></ul>
 
-<p><b>* Finance<br>
+									<p><b style="color: #cd6e08;font-weight: bold;">Specialization</b><br>
+<b>* Finance<br>
 or<br>
-	* Accounting and Taxation</b>
+	* Accounting and Taxation</b></p>
 
-									<p><b>Eligibility:</b> A bachelor's degree in Commerce or BBA of a recognized University with a minimum of 50% marks.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility for Admission</b> Candidates who have completed graduate programme in commerce or management from any university which is approved and recognized by UGC or its equivalent and has secured not less than 50% of the marks in the aggregate (In the case of SC/ST/Cat I students and blind students the minimum percentage of marks required shall be less than by 5 %) are eligible for admission into this Programme. </p>
 									
 									<center><p><a href="curriculum/mcom_2015-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2015-17  </a></p></center>
 									

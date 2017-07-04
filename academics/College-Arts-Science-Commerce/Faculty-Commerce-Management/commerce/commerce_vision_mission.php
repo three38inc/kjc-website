@@ -121,40 +121,30 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Vision, Mission and Goals</strong></span>
+                                        <span>&nbsp;Vision, Mission <strong> and Goals</strong></span>
                                     </h4>
 
-                                    <br/>
+                                
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Vision: </b><br/> To transform students into national assets by imbibing business skills, integrity, ethical uprightness and a real holistic development.
+										<b style="color: #cd6e08;font-weight: bold;">Department Vision </b><br/>Commitment to pursue excellence in commerce education, while equipping students with knowledge and skills in commerce stream, inculcate values, identify hidden talents, provide opportunities for students to realize their full potential and thus shape them into national assets, and to pursue a real holistic development, integrity, moral and ethical uprightness.</p>
 
-                                    </p>
+                                   
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Mission: </b><br/> Department of Commerce is dedicated to excellence in performance and committed to provide quality education, opportunities and services to meet the needs of business, and also contribute for the society’s wellbeing, nation's development and to meet global competencies.
+										<b style="color: #cd6e08;font-weight: bold;">Department Mission </b><br/> “Department of commerce is dedicated to excellence in performance and committed to provide quality education opportunities and services that meet the needs of business and also contribute for the society’s wellbeing, national development and to meet global competencies”. </p>
 
-                                    </p>
+                               
 
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">Goals:</b><br/>
+										<b style="color: #cd6e08;font-weight: bold;">Department goals</b><br/>
                                     </p>
-                                    <ol>
-                                        <li>To provide an in-depth understanding of the dynamic business environment.</li>
-                                        <li>Make every student an agent of change by making them socially responsible.</li>
-                                        <li>Facilitate learning of commerce education by incorporating the current trends and to impart skills to enhance the employability.</li>
-                                    </ol>
-                                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+									<ul><li>Impart education of the highest standard through value based holistic teaching and learning by integrating traditional and innovative practices in the multinational environment. </li>
+										<li>Inculcate a strong belief in hard work and core values of gender equality, humility and ecology in order to make them socially responsible citizens.</li>
+										<li>Equip students with the skills needed to adapt better to the changing global scenario and gain access to multiple career opportunities.</li>
+										<li>To attain self-reliance through balance of freedom and discipline within the body, mind and spirit.</li>
 
-                                    </div>
-                                    <p align="justify">
-
-
-                                    </p>
-                                    <br/>
-                                    <p><strong> </strong>
-                                    </p>
-
+									</ul>
 
                                 </div>
                             </div>
