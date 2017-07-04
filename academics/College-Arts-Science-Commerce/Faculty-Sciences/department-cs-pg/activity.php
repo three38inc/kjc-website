@@ -79,124 +79,26 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-									 <img src="images/<?php echo $imgNum;?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+									  <img src="images/<?php echo $imgNum;?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Academic <strong> Calendar </strong></span></h4>
-								
-								<table border="0" class="table table-bordered table-hover">
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Month</strong></p></td>
-    <td width="48" valign="top"><p align="center"><strong>Date</strong></p></td>
-    <td width="50" valign="top"><p align="center"><strong>Year</strong></p></td>
-    <td width="50" valign="top"><p align="center"><strong>Day</strong></p></td>
-    <td width="535" valign="top"><p align="center"><strong>Activity</strong></p></td>
-  </tr>
-  <tr>
-    <td width="745" colspan="5" valign="top"><p align="center"><strong>ODD SEMESTER</strong></p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">06</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Thu</p></td>
-    <td width="535" valign="top"><p>Workshop on &ldquo;Networking &amp; Network Security&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">07</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>Workshop on &ldquo;Networking &amp; Network Security&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">13</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Thu</p></td>
-    <td width="535" valign="top"><p>FDP on &ldquo;Data Science &amp; Analytics&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">14</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>FDP on &ldquo;Data Science &amp; Analytics&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">28</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>Rural Exposure Programme – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
-    <td width="48" valign="top"><p align="center">29</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Sat</p></td>
-    <td width="535" valign="top"><p>Rural Exposure Programme – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Aug</strong></p></td>
-    <td width="48" valign="top"><p align="center">31</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Thu</p></td>
-    <td width="535" valign="top"><p>One Day National Level Students Symposium – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Sep</strong></p></td>
-    <td width="48" valign="top"><p align="center">27</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Wed</p></td>
-    <td width="535" valign="top"><p>Intra-collegiate Fest – Manoeuvre – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="745" colspan="5" valign="top"><p align="center"><strong>EVEN SEMESTER</strong></p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Dec</strong></p></td>
-    <td width="48" valign="top"><p align="center">15</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>National Workshop on &ldquo;Roof Computing&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Dec</strong></p></td>
-    <td width="48" valign="top"><p align="center">16</p></td>
-    <td width="50" valign="top"><p align="center">2017</p></td>
-    <td width="50" valign="top"><p align="center">Sat</p></td>
-    <td width="535" valign="top"><p>National Workshop on &ldquo;Roof Computing&rdquo; – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Feb</strong></p></td>
-    <td width="48" valign="top"><p align="center">1</p></td>
-    <td width="50" valign="top"><p align="center">2018</p></td>
-    <td width="50" valign="top"><p align="center">Thu</p></td>
-    <td width="535" valign="top"><p>International Conference ICCTAC &rsquo;18 – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Feb</strong></p></td>
-    <td width="48" valign="top"><p align="center">2</p></td>
-    <td width="50" valign="top"><p align="center">2018</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>International Conference ICCTAC &rsquo;18 – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Mar</strong></p></td>
-    <td width="48" valign="top"><p align="center">1</p></td>
-    <td width="50" valign="top"><p align="center">2018</p></td>
-    <td width="50" valign="top"><p align="center">Thu</p></td>
-    <td width="535" valign="top"><p>Intercollegiate Fest – Shells 2K18 – Dept. of Computer Science (PG)</p></td>
-  </tr>
-  <tr>
-    <td width="62" valign="top"><p align="center"><strong>Mar</strong></p></td>
-    <td width="48" valign="top"><p align="center">2</p></td>
-    <td width="50" valign="top"><p align="center">2018</p></td>
-    <td width="50" valign="top"><p align="center">Fri</p></td>
-    <td width="535" valign="top"><p>Intercollegiate Fest – Shells 2K18 – Dept. of Computer Science (PG)</p></td>
-  </tr>
-</table>
+                                    <span>&nbsp; Activity <strong> </strong></span></h4>
+									 
+									 
+									 <p align=justify>The Computer Science (PG) is vibrant with a lot of activities for the students as well as the faculty members. A series of co-curricular and extracurricular activities designed to train the students and prepare them for integration with the organization and their responsibilities. Activities of the department aid educational related processes and procedures planned to stimulate learning through real time experience. Various activities undertaken by the Department are as follows:</p>
+									 
+									 <p><b><a href="national_conference.php">National Conference</a></b></p>
+<p><b><a href="international_conference.php">International Conference</a></b></p>
+<p><b><a href="orientation_program.php">Orientation Program</a></b></p>
+<p><b><a href="aptitude_enhancement_program.php">Aptitude Enhancement Program</a></b></p>
+<p><b><a href="technical_communities.php">Technical Communities</a></b></p>
+<p><b><a href="club_activity.php">Club Activity</a></b></p>
+<p><b><a href="it_fests.php">IT Fests</a></b></p>
+<p><b><a href="celebrations.php">Celebrations</a></b></p>
+
+									 
+									 
+							
 
 
 								</div></div>
@@ -207,7 +109,7 @@
                                         <span>&nbsp;<strong>Activities</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="national_conference.php">National Conference</a></p>
+                                        <p><a class="a-link-arrow" href="national_conference.php" style="color: #2980b9;font-weight: bold;">National Conference</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="international_conference.php">International Conference</a></p>
@@ -270,7 +172,7 @@
                                     </section>
 										
 										 <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_calendar.php" style="color: #2980b9;font-weight: bold;">Academic Calendar</a></p>
+                                        <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
                                     </section>
 										
 										 <section class="link-arrow">
@@ -337,7 +239,7 @@
         })();
 
     </script>
-    <script src="../../../../js/modernizr.custom.js"></script>
+   <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>

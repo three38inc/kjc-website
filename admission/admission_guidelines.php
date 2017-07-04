@@ -114,10 +114,14 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Instructions to <strong> Apply online </strong></span>
                                     </h4>
+									
+									
+									<img src="images/guidlens-steps.jpg"><br><br>
+									
 
                              
 									
-							<div class="alert alert-info height-10px">
+							<!--<div class="alert alert-info height-10px">
   
 										
 								<p><b>Step 1 (Registration and Application fee payment):</b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.</p></div>		
@@ -134,7 +138,7 @@
   
 		 <p><b> Step 3 (Submit the hard copy of application form in college office):</b><br />
 <b>(Not applicable for online fee paid applicants)</b><br />
-Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p></div>
+Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p></div>-->
 									
 									
 									
@@ -213,7 +217,7 @@ system clock? <a href="http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=w
 <p><b>Error Message</b><br />
 If the page displays the following error message "An error seems to have occurred please try after sometime"</p>
 
-<p>This may be due to browser compatibility issues. Mozilla Firefox is preferred as the internet browser for applying. If not installed you may download the same browser from the following link click here </p> <PROVIDE THE LINK> </p>
+<p>This may be due to browser compatibility issues. Mozilla Firefox is preferred as the internet browser for applying. If not installed you may download the same browser from the following link click here </p> <PROVIDE THE LINK>
 
 
                                 </div>
@@ -228,7 +232,7 @@ If the page displays the following error message "An error seems to have occurre
 										<a href="#" class="list-group-item active"><font size="3"> Application Fee</font></a>
 									  
 								
-										<a href="admission_guidelines.php" class="list-group-item">
+										<a href="#" class="list-group-item">
 											
 												<font size="2">UG Programme: Rs 250/- <br>
 PG Programme: Rs 500/- <br>

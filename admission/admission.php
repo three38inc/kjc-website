@@ -358,11 +358,11 @@ Law Programmes: Rs 300/- <br>
                                        </div>
 									
                                   
-   <div class="list-group">
-											<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
+                        <div class="list-group">
+						<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
 									  
-									   <a href="documets_required_ug.php" class="list-group-item">
-										   <font size=2>UG Applicants</font>
+						<a href="documets_required_ug.php" class="list-group-item">
+							<font size=2>UG Applicants</font>
                                         </a>
 	    <a href="documets_required_pg.php" class="list-group-item">
 										   <font size=2>PG Applicants</font>

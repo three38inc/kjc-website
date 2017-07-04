@@ -2,6 +2,59 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
 		
+		 <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                <div class="panel-heading" role="tab" id="heading3">
+                    <h4 class="panel-title">
+                    July 04<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+                <div class="panel-body">
+                    
+					<p><b>For all UG & PG classes (except MBA/PGDM)</b><br>
+
+						<b>Entrepreneurship and Innovation Centre (EIC)</b><br>
+
+    The EIC nurtures the entrepreneurial skills and directs the students to become job providers. To become an EIC member, the interested students can register their names and details with the following faculty members.<br>
+
+    1. Prof. Mathiyarasan.M (Staff Room.3), First Floor, Main Block - B.Com students<br>
+    2. Prof. Deepika.S.R.(Staff Room.5) Second Floor, Main Block -  BBA students<br>
+    3. Prof. Amjad Khan (Electronics Lab) First Floor, Main Block - Computer Science    students<br>
+    4. Dr. Preethi Chandran (Staff Room. 9) Fourth Floor - Life Science and Humanities<br>
+    5. Prof. Swetha.P.A (Staff Room. 11, Ground Floor, PG Block)<br>
+						<b>The last date for registration is 10th July 2017.</b></p>
+
+
+					<p><b>For II & III Year UG, II Year PG and II/III Year MCA classes (except MBA/PGDM)</b><br>
+
+						<b>Tuition /Admission Fee</b><br>
+						Students who have paid the Tuition/Admission Fee through DD at the South Indian Bank Counter in the college campus can collect the Fee receipt today (04/07/2017) between 10.00 a.m. and 4.00 p.m. in the Main Auditorium. Students who have paid their Tuition/Admission Fee by cash/card at the South Indian Bank Counter in the college campus can collect the fee receipt tomorrow (05/07/2017) between 10.00 a.m. and 4.00 p.m. in the Main Auditorium.</p>
+
+  <p> Defaulters of tuition/admission fee can pay the same with late fee of Rs. 200/- today (04/07/2017) and tomorrow (05/07/2017).<br>
+
+	  <b>Venue:</b> Counter No. 2 (UG Office)<br>
+	  <b>Time:</b>   12.45 p.m. to 1.40 p.m.<br>
+
+    Students who have transferred tuition/admission fee directly to the college account (online payment mode) for this academic year are requested to collect the fee receipt from Counter No. 2 (UG Office) on the same day itself by showing valid transaction details.<br>
+
+	  <b>Time:</b> 3.00 p.m. to 4.00 p.m.</p>
+
+
+					<p><b>For all UG & PG classes</b><br>
+Today (04/07/2017) there will be selection trials for students who wish to join the college Women Throwball team. Students are requested to come in proper sports kit.<br>
+
+						<b>Time:</b> 4.15 p.m.<br>
+						<b>Venue:</b> College Ground</p>
+ 
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+		
 		
 		 <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
@@ -12,7 +65,7 @@
                     </h4>
                 </div>
             </a>
-            <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+            <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                 <div class="panel-body">
                     
 					<p><b>For all UG & PG classes</b><br>

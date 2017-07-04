@@ -422,7 +422,7 @@
                         </table>
                     </li>-->
 					
-					<li class="news-item">
+					<!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -440,7 +440,7 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
 					
 					<li class="news-item">
                         <table cellpadding="4">

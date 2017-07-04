@@ -40,7 +40,7 @@
                 </li>
                 <li>
                     <span class="brick hidden-md hidden-sm hidden-xs">&nbsp;</span>
-                    <a href="<?php echo $ROOT ; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/national_conference.php" id="home">Activities</a>
+                    <a href="<?php echo $ROOT ; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/activity.php" id="home">Activities</a>
                 </li>
 
                 <li>

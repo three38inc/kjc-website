@@ -47,6 +47,9 @@
                 <p>
                     <span>Experience </span><br/>06 years 
                 </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 05
+                </p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -67,13 +70,13 @@
                 <h4>Venkateshappa P
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  M.A Bed. NET, KSET, (PhD)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Kannada Literature and Research on Ancient Inscriptions
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 9 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
