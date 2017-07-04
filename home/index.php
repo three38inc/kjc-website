@@ -100,7 +100,7 @@
                                         <p style="text-align:justify;margin:5px; font-size:15px;">
                                         <br>
                                             
-                                            <strong>The school of Management offers two years Management Programme MBA &amp; PGDM.</strong>
+                                            <strong>The School of Management offers two years Management Programme MBA &amp; PGDM.</strong>
                                         </p>
                                     </div>
                                 </a>

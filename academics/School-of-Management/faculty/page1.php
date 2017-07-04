@@ -2,7 +2,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Fr Augustine.jpg"></div>
+                <div class="class-img"><img src="images/faculty/fr-principal.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Fr. Josekutty P.D
@@ -119,7 +119,7 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Nagendra.jpg"></div>
+                <div class="class-img"><img src="images/faculty/mathew.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Mr. Sen B. Mathews
