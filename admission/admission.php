@@ -142,7 +142,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/banner01.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Admission <strong> 2017</strong></span>
@@ -299,19 +299,28 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 									
 									<div class="list-group">
 										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
+										
 									  
-								<a href="admission_guidelines.php" class="list-group-item">
-										   <font size=2>Click here to Apply online</font>
-                                        </a>
-										<a href="#" class="list-group-item">
-											<font size=2><u>Application Fee</u></font><br>
-												<font size="2">UG course: Rs 250/- <br>
+								    <a href="admission_guidelines.php" class="list-group-item">
+									<font size=2><b>Click here to Apply online</b></font><br>
+									<font size=2><u>Application Fee</u></font><br>
+									<font size="2">UG course: Rs 250/- <br>
 PG course: Rs 500/- <br>
 MCA Programme: Rs 500/- <br>
 MBA Programme: Rs 900/- <br>
 PGDM Programme: Rs 900/- <br>
 Law Programmes: Rs 300/- <br>
 1 year PG Diploma Programme (Working Executives): Rs 250/-</font>
+                                        </a>
+										
+										
+										
+										
+										<a href="admission.php" class="list-group-item">
+										   <font size=2>Admission 2017</font>
+                                        </a>
+										<a href="admission_enquiry.php" class="list-group-item">
+										   <font size=2>Admission Enquiry</font>
                                         </a>
                                        </div>
 									
@@ -341,6 +350,10 @@ Law Programmes: Rs 300/- <br>
 									<section class="link-arrow">
 
                                         <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
+                                    </section>
+											<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
                                     </section>
                                        </div>
 									

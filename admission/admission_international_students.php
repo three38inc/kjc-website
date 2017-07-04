@@ -109,7 +109,7 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/banner04.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Admission International<strong> Students</strong></span>
@@ -164,6 +164,71 @@ Association of Indian Universities, AIU House, 16 Comrade Indrajit Gupta Marg (K
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+												<div class="list-group">
+										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
+										
+									  
+								    <a href="admission_guidelines.php" class="list-group-item">
+									<font size=2><b>Click here to Apply online</b></font><br>
+									<font size=2><u>Application Fee</u></font><br>
+									<font size="2">UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
+MCA Programme: Rs 500/- <br>
+MBA Programme: Rs 900/- <br>
+PGDM Programme: Rs 900/- <br>
+Law Programmes: Rs 300/- <br>
+1 year PG Diploma Programme (Working Executives): Rs 250/-</font>
+                                        </a>
+										
+										
+										
+										
+										<a href="admission.php" class="list-group-item">
+										   <font size=2>Admission 2017</font>
+                                        </a>
+										<a href="admission_enquiry.php" class="list-group-item">
+										   <font size=2>Admission Enquiry</font>
+                                        </a>
+                                       </div>
+									
+										<div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp Fee Structure</font> </a><br>
+									  
+							<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
+                                    </section>
+                                    
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
+                                    </section>
+									<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
+                                    </section>
+											<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                    </section>
+                                       </div>
+									
+									
+									
+									
+									
+									
 									<div class="list-group">
                                   <a href="#" class="list-group-item active">Counselling Results</a>
 									  
@@ -171,85 +236,18 @@ Association of Indian Universities, AIU House, 16 Comrade Indrajit Gupta Marg (K
 										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
                                         </a>
                                        </div>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
-                                    </section>
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                   </section>
-                                     <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                    <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-              <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-          <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section><section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php" style="color: #2980b9;font-weight: bold;">Admission International Students</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-                                    
-                                    
-                              <div class="well">
- <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
-                                  <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-</div>
-                                    
-                                     <div class="well">
- <p><font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font></p>
-                                 <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center> 
-</div>
-                                    
-                      
-                        <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-  </div>
-  <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
-2. online payment<br>
-        3. Payment through demand draft<br></font>
-  </div>
-                            <div class="panel panel-default">
-  <div class="panel-body">
-<font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                       
-  </div>
-</div>   
- </div>
-                                 
+									
+                                  
+                        <div class="list-group">
+						<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
+									  
+						<a href="documets_required_ug.php" class="list-group-item">
+							<font size=2>UG Applicants</font>
+                                        </a>
+	    <a href="documets_required_pg.php" class="list-group-item">
+										   <font size=2>PG Applicants</font>
+                                        </a>
+                                       </div>
  
                                    
 

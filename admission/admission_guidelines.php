@@ -146,12 +146,14 @@ Admission process will be initiated only after receiving the original DD/copy of
 									<table border="0" class="table table-hover">
 									<tr>
 										<td width="400"> <center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">NEW USERS CLICK HERE TO REGISTER</a></center></td>
-										<td width="400"><center><a href="admission_guidelines_login.php" target="_blank" class="btn btn-primary btn-sm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REGISTERED USERS CLICK HERE &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </a></center></td>
+										<td width="400"><center><a href="https://www3.digialm.com//EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank" class="btn btn-primary btn-sm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REGISTERED USERS CLICK HERE &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </a></center></td>
 										</tr></table>
     
       
         <!-- <p><u><font color="#FF0000">Note: Your admission process will be initiated only after completing the above steps.</font></u><br />
         Shortlisted Applicants will be notified via email about the counselling schedules one week before the date of counselling.</p>-->
+									
+									
 									
 									<div class="well well-sm">
  <p>Contact Us for further assistance / clarifications<br />
@@ -228,19 +230,30 @@ If the page displays the following error message "An error seems to have occurre
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
-									<div class="list-group">
-										<a href="#" class="list-group-item active"><font size="3"> Application Fee</font></a>
+													<div class="list-group">
+										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
+										
 									  
-								
-										<a href="#" class="list-group-item">
-											
-												<font size="2">UG Programme: Rs 250/- <br>
-PG Programme: Rs 500/- <br>
+								    <a href="admission_guidelines.php" class="list-group-item">
+									<font size=2><b>Click here to Apply online</b></font><br>
+									<font size=2><u>Application Fee</u></font><br>
+									<font size="2">UG course: Rs 250/- <br>
+PG course: Rs 500/- <br>
 MCA Programme: Rs 500/- <br>
 MBA Programme: Rs 900/- <br>
 PGDM Programme: Rs 900/- <br>
 Law Programmes: Rs 300/- <br>
 1 year PG Diploma Programme (Working Executives): Rs 250/-</font>
+                                        </a>
+										
+										
+										
+										
+										<a href="admission.php" class="list-group-item">
+										   <font size=2>Admission 2017</font>
+                                        </a>
+										<a href="admission_enquiry.php" class="list-group-item">
+										   <font size=2>Admission Enquiry</font>
                                         </a>
                                        </div>
 									
@@ -271,6 +284,10 @@ Law Programmes: Rs 300/- <br>
 
                                         <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
                                     </section>
+											<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                    </section>
                                        </div>
 									
 									
@@ -283,6 +300,18 @@ Law Programmes: Rs 300/- <br>
 									  
 									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
 										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
+									
+                                  
+                        <div class="list-group">
+						<a href="#" class="list-group-item active"><font size="3">Documents Required</font> <br> <font size="2">For Interview &amp; Admission</font> </a>
+									  
+						<a href="documets_required_ug.php" class="list-group-item">
+							<font size=2>UG Applicants</font>
+                                        </a>
+	    <a href="documets_required_pg.php" class="list-group-item">
+										   <font size=2>PG Applicants</font>
                                         </a>
                                        </div>
 									
