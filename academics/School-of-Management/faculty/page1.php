@@ -149,7 +149,7 @@
     <div class="member-item col-md-4">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Suni Ajaykaumar.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Joseph-Charles.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr. Joseph Charles Tamilmaran D

@@ -161,7 +161,7 @@
                     <span>Areas of interest </span><br/> Finance, HRM, Marketing, OB, Retail Management, Banking and Insurance, Soft Skills, Business Communication, Social Marketing
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  00 Years
+                    <span>Teaching Experience </span><br/>  05 Years
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

@@ -17,7 +17,7 @@
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
-        <h3>Faculty Of Commerce</h3>
+        <h3>Faculty Of Commerce  </h3>
         <p>Faculty of Commerce offers Mcom,Bcom,Bcom Professional,BBA,Bcom Tourism ..</p>
         <a href="Faculty-Commerce-Management/index.php">Know More</a>
     </div>
