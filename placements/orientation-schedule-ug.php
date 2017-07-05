@@ -110,28 +110,118 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                  
+                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Placements</strong></span>
-                                    </h4>
-
-                                 
-                     <p align="justify"><font color="#006699">
-						 <b style="color: #cd6e08;font-weight: bold;">Centre for Employability and Corporate Relations (CECR)</b><br>
-
-<b>Greetings</b></font><br>
-
-									<p align=justify>Global Competitive environment today requires resilient individuals who are dynamic in their approach, humble in their attitude, proactive in their thought and committed in their purpose. Right since its inception, Kristu Jayanti College has endeavored to inculcate a mental quality infrastructure in each student. Based on the four pillars of education - Knowledge, Skills, Values and Attitude, the Jayantian Education system is geared towards holistic change.</p>
+										   <span>&nbsp; Orientation Schedule <strong> (UG)</strong></span>
+									 </h4>
 									
-									<p align=justify>Our College has been reaccredited with an A grade, the highest grade in the new methodology awarded to higher education institutions in India, an acknowledgement of our commitment to impart quality education with special emphasis on access, equity and social responsibility. The College is rated as the one of the Best Colleges in India and occupies the 3rd,4th,5th positions in Commerce, Arts & Science Colleges among the top Colleges in Bangalore by India Today - Neilsen survey 2010 , 2011 , 2012 , 2013, 2014 , 2015,2016. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd, 3rd, 4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore. The recognition of academic excellence of our college by various surveys is a reiteration of our quality enhancement and sustenance.</p>
-									
-									<p align=justify>Effectiveness of education is proved by the Job Placements offered to the students. During the previous year more than 52 corporate organizations visited our campus to recruit prospective employees from various streams of study at Post Graduate and Graduate Levels. The holistic educational curriculum and training to imbibe organizing ability, communication skills and team spirit have made the students enterprising to meet the demands of modern business.</p>
-									<p align=justify>The overwhelming feedback from our recruiters regarding the performance of the earlier batches is an assurance of their trust in the quality of our pedagogy.</p>
-									<p>It would be an honour to have your esteemed organization participate in our placement programme.</p>
-									<p>We welcome you to our campus for GATE 2017-18.</p>
-
-
-
+								<table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="63"><p align="center"><strong>SL.NO</strong></p></td>
+    <td width="64" nowrap="nowrap"><p align="center"><strong>COURSE</strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>SECTION(S)</strong></p></td>
+    <td width="64" nowrap="nowrap"><p align="center"><strong>DATE</strong></p></td>
+    <td width="111" nowrap="nowrap"><p align="center"><strong>TIME</strong></p></td>
+    <td width="156" nowrap="nowrap"><p align="center"><strong>VENUE</strong></p></td>
+  </tr>
+  <tr>
+    <td width="63" nowrap="nowrap" rowspan="7"><p align="center"><strong>1</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="7"><p align="center"><strong>B.COM</strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>A</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="7"><p align="center"><strong>20.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="7"><p><strong>1:45-3:30 PM</strong></p></td>
+    <td width="156" rowspan="7"><p><strong>MAIN AUDI,                      UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>B</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>C</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>D</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>P</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>T</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>ACCA</strong></p></td>
+  </tr>
+  <tr>
+    <td width="63" nowrap="nowrap" rowspan="4"><p align="center"><strong>2</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="4"><p align="center"><strong>BBA </strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>A</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="4"><p align="center"><strong>12.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="4"><p><strong>11 AM  -12:30 PM</strong></p></td>
+    <td width="156" rowspan="4"><p><strong>MAIN AUDI,                              UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>B</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>C</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>D</strong></p></td>
+  </tr>
+  <tr>
+    <td width="63" nowrap="nowrap" rowspan="5"><p align="center"><strong>3</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="5"><p align="center"><strong>BA</strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>HEP</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="5"><p align="center"><strong>24.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="5"><p><strong>9 - 10:30 AM</strong></p></td>
+    <td width="156" rowspan="5"><p><strong>MINI AUDI-1,                           UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>HTJ</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>JPCS</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>JPSENG</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>JPENG</strong></p></td>
+  </tr>
+  <tr>
+    <td width="63" nowrap="nowrap" rowspan="3"><p align="center"><strong>4</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="3"><p align="center"><strong>BCA</strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>A</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="3"><p align="center"><strong>12.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="3"><p><strong>2:35-4:30 PM</strong></p></td>
+    <td width="156" rowspan="3"><p><strong>MAIN AUDI,                            UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>B</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>C</strong></p></td>
+  </tr>
+  <tr>
+    <td width="63" nowrap="nowrap" rowspan="4"><p align="center"><strong>5</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="4"><p align="center"><strong>B.SC</strong></p></td>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>CSME</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="2"><p align="center"><strong>12.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="2"><p><strong>2:35-4:30 PM</strong></p></td>
+    <td width="156" rowspan="2"><p><strong>MAIN AUDI,                            UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>CSMS</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap"><p align="center"><strong>BT</strong></p></td>
+    <td width="64" nowrap="nowrap" rowspan="2"><p align="center"><strong>24.7.17</strong></p></td>
+    <td width="111" nowrap="nowrap" rowspan="2"><p><strong>2:35-4:30 PM</strong></p></td>
+    <td width="156" rowspan="2"><p><strong>ROOM NO:308,                  UG BLOCK</strong></p></td>
+  </tr>
+  <tr>
+    <td width="87" nowrap="nowrap" valign="bottom"><p align="center">MB</p></td>
+  </tr>
+</table>
 
                                 </div>
                             </div>
@@ -142,7 +232,7 @@
                                         <span>&nbsp;Learn <strong>Placements</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="about_cecr.php" style="color: #2980b9;font-weight: bold;">Introduction</a></p>
+                                        <p><a class="a-link-arrow" href="about_cecr.php">Introduction</a></p>
                                     </section>
                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="../pdf/2017/placements/2016_17_student_placed.pdf" target="_blank">Student Placed 2016-17</a></p>
@@ -157,7 +247,7 @@
                                         <p><a class="a-link-arrow" href="placement_process.php">Placement Process</a></p>
                                     </section><section class="link-arrow">
                                     
-              <p><a class="a-link-arrow" href="orientation_training.php">Placement Orientation & Training Programme</a></p>
+              <p><a class="a-link-arrow" href="orientation_training.php" style="color: #2980b9;font-weight: bold;">Placement Orientation & Training Programme</a></p>
                                     </section><section class="link-arrow">
                                     
           <p><a class="a-link-arrow" href="industry_institute_interfac.php">Industry Institute Interface(3iCell)</a></p>

@@ -160,7 +160,7 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-lifescience/Lifescintro.php">Department of Life Science</a></p>
+                                            <p><a class="a-link-arrow" href="department-lifescience/Lifescintro.php">Department of Life Sciences</a></p>
                                         </section>
 
                                     </div>

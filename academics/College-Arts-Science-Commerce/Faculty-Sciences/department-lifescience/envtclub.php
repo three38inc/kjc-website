@@ -128,12 +128,12 @@
 									<p>Kristu Jayanti College is comitted to work locally to improve social, economical and environmental well being of our community which will leave us with a greener Earth. The environment club instigates a sense of responsibility for the environment and a personal comittement to protect and preserve the environment among youth.</p>
 									
 									<p><b style="color: #cd6e08;font-weight: bold;">Activities performed under Environment Club</b></p>
-									<ul><li>-Environment awareness.</li>
-										<li>- Green audit</li>
-										<li>- Energy Audit</li>
-										<li>- Identification of Plants (Campus Flora)</li>
-										<li>- Waste management</li>
-										<li>- Soil amelioration</li>
+									<ul><li>Environment awareness.</li>
+										<li>Green audit</li>
+										<li>Energy Audit</li>
+										<li>Identification of Plants (Campus Flora)</li>
+										<li> Waste management</li>
+										<li>Soil amelioration</li>
 									</ul>
 									
 									<center><img src="images/environmental_club.jpg"></center>

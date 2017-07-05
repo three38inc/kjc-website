@@ -10,7 +10,7 @@
                 <h4>Dr. Elcey C. Daniel
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Environmental Biotechnology/Microbial Technology
@@ -22,6 +22,7 @@
                  <p>
                     <span> Areas of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
                 </p>
+				
 				
 				
                 <ul class="list-inline social-light ">
@@ -47,7 +48,7 @@
                 <h4>Dr. Calistus Jude AL
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., M.Phil., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Human Genetics
@@ -82,7 +83,7 @@
                 <h4>Dr. Vijayanand.S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., M.Phil. NET., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., M.Phil. NET., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biochemistry
@@ -116,7 +117,7 @@
                 <h4>Dr. Challaraj Emmanuel E.S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., Ph.D., B.Ed.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Microbiology
@@ -150,7 +151,7 @@
                 <h4>Dr. M. Sonia Angeline
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph. D
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biotechnology- Neuroscience

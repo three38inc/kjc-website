@@ -8,7 +8,7 @@
                 <h4>Dr. Suresh. K
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D
+                    <span>Qualification </span> <br/> M.Sc., M.Phil., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Cancer & Molecular Therapeutics
@@ -39,7 +39,7 @@
                 <h4>Dr. U. Sivagamasundari 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc.,Ph.D
+                    <span>Qualification </span> <br/>M.Sc.,Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biotechnology
@@ -103,7 +103,7 @@
                 <h4>Dr. Joseph K. S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Molecular Biology & Plant Biotechnology
@@ -136,7 +136,7 @@
                 <h4>Dr. Preethy Chandran
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Environmental Microbiology
@@ -169,7 +169,7 @@
                 <h4>Dr.  Esther Shoba R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>B.Ed., Ph.D
+                    <span>Qualification </span> <br/>B.Ed., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biotechnology
