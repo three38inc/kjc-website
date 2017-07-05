@@ -147,20 +147,31 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/law.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> PG Programme:</b> Next Counselling will be held on 1<sup>st</sup> July, 2017. 
+                                <td><b> PG Programme:</b> Next Counselling will be held on 10<sup>th</sup> July, 2017. 
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
+					
+				<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 06th 2017</strong>    Department of Computer Science[PG] organizing Two day Workshop on "Networking and Network Security"  for V Semester MCA students   <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=networking-network-security.php">(Read More)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
                   
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>July 01st 2017</strong>  Department of Computer Science[PG] and IEEE Student Branch organizing the programme on Industry Institute Interface(3i).  <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=ieee-student-branch.php">(Read More)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
+					
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
