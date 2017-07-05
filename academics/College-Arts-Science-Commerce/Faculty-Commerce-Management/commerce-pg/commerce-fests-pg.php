@@ -123,27 +123,22 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; Department  <strong> Fests </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<p><b style="color: #cd6e08;font-weight: bold;">IMPULSE</b><br>
+										Impulse is an annual intra-collegiate fest of the PG Commerce Department, hosted by the final year students for first years. The Fest features diverse events like Finance, Business plan, Marketing, Human Resource management, Business quiz, Mock Stock and Best Manager. These events encourage students not only to learn to manage things on their own but also supplement their professional development in understanding the subjects involved with better clarity.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">COMMERCIA</b><br>
+										The Department of Commerce-Post Graduate Studies of Kristu Jayanti conducts Commercia-A National level inter-collegiate commerce fest which provides a platform for all its participants to exhibit their talents in the various commerce oriented events. COMMERCIA provides an environment for collaborating ideas which will be fuelled by innovation and enthusiasm. The fest provides platform to imbibe team work, creative learning, critical thinking and exposure to realities of business world. The key events of this fest includes Best manager, Business quiz, Business plan, Mock stock, Human resource management, Balance sheet reading and Financial analysis etc., Department of Commerce-PG will be the host and other colleges across the country will take part in this mega corporate carnival.</p>
+									<p>The overall objectives of this fest is to enhance analytical and decision making skills of the students.</p>
 
-                                    </div>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+                                                                 
+                                   
+
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +172,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +215,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +300,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

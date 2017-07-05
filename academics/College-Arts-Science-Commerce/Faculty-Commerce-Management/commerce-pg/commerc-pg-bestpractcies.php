@@ -123,27 +123,44 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; Best <strong> Practcies </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<p><b style="color: #cd6e08;font-weight: bold;">Samshodhan – A students’ Research Report Contest</b></p>
 
-                                    </div>
+									<p align=juastify><b>Objectives of the Samshodhan</b><br>
+									<ul><li>To introduce and enhance the research culture in post graduate studies</li>
+										<li>To enable to student to realize the importance of commerce related research report</li>
+<p>Students in post graduate level are below the par in research skill. Hence there must be an adequate encouragement for research activities at Post graduate level at the early stage of their post graduate studies. So that students could complete their project report in schedule time during final year of their studies with adequate knowledge in the  areas of research.The students of second semester M.Com,M.Com(FA), are encouraged to select topic on paper presentation during their research methodology course, with guidance by a course teacher and students are encouraged to present their research design as part of preliminary stage of the contest which will be held in the first week of second month in the semester and this preliminary stage contest will be judged by any faculty members from commerce and management  department other than the course teacher and suggestions for changes, feedback will be discussed in the department meeting and suggest measures for it. Final round will be conducted during last week of the second semester, where students will be given opportunity to present their research work on the stage and will be judged by group of judges from the Post graduate department commerce and management.</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+										<li>Students could be able to select the project title in the final semester of Post Graduate studies and also students have confidence and clarity in selecting their areas of studies for research report as part of their syllabus.  </li>
+										<li>The students could be able use statistical tools for their research study and accomplish their project report.</li></ul>
+
+									<p><b style="color: #cd6e08;font-weight: bold;">Paper Presentations and Publications</b><br>
+
+										<b style="color: #cd6e08;font-weight: bold;">Objectives </b><br>
+•	To introduce and enhance the research culture in post graduate studies<br>
+•	To enable to student to have research exposure by participating in National and International conference in other colleges </p>
+
+									<p align=justify>The students of Final year and First year M.Com and M.Com(FA) will be encouraged to select topic on paper presentation and publication,with guidance by a  teachers and students are encouraged to present their paper internally before presenting externally and any modification required will be made by the students with the guidance of teachers. The Students of Final year MCom And MCom(FA) have presented more than 200 papers in various National and International conferences conducted by different institutions and universities. </p>
+
+
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">C.A.R Series (Communication, Aptitude and Research Series)</b><br>
+										The department of commerce (PG) has for the first time initiated a unique blend of knowledge enhancing session for the students this semester which is called as the C.A.R Series. The main objective of the session is to build confidence in the students , improve their logical reasoning and quench their knowledge thirst. The students are engaged throughout the week twice during the 2nd hour of the week day. Every student is given the chance to conduct these sessions.</p>
+									
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">I. Communication:</b> Being able to communicate effectively is the most important of all life skills. Communication is simply the act of transferring information from one place to another, whether this be vocally (using voice), written (using printed or digital media such as books, magazines, websites or emails), visually (using logos, maps, charts or graphs) or non-verbally (using body language, gestures and the tone and pitch of voice). Some of the communication skills one should possess are: Listening. Being a good listener is one of the best ways to be a good communicator. ...Nonverbal Communication. Your body language, eye contact, hand gestures, and tone all color the message you are trying to convey. ...Clarity and Concision. ...Friendliness. ...Confidence. ...Empathy. ..Open-Mindedness. ...Respect.</p>
+									<p>The communication club activity is conducted on Monday and Thursday of the very week.</p>
+
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">II. Aptitude:</b> Skills are the expertise or talent to do a job or task. Job skills allow you to do a particular job and life skills are what are needed for everyday life. Acquired or natural ability (usually measurable with aptitude tests), for learning and proficiency in a specific area or discipline. Aptitude is expressed in interest, and is reflected in current performance which is expected to improve over time with training.</p>
+									<p>During this hour, the class of M.com 1st Semester is engaged in doing the problems in the class. Students go through various problems and works on it. This happens twice every week, Tuesday and Friday .All the students are supposed to be engaged in the class during the hours and we strictly adhere to it. It’s an activity where in students learn a lot about how to analyze various problems by doing various problems that includes logical reasoning, mathematical problems, quantitative aptitude.</p>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">III Research:</b>  Research is basically an attitude of inquiry and an attempt to elicit facts.  During this hour, the class of M.com 1st Semester is engaged in doing research in the library. Students read through various journals of their interests and write a report on it. This happens twice every week, Wednesday and Saturday .All the students are supposed to be engaged in research activity during the hours and we strictly adhere to it. It’s an activity where in students learn a lot about how to analyze various aspects by reading various journals provided from the library by focusing only on Commerce  and Management topics.</p>
+									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Rural Exposure</b><br>
+										The Department of Commerce (PG) is organising the two days rural exposure programme to the final year M.Com and M.Com FA students.  The rural visits aim at making students aware of the rural realities. It gives an opportunity for students to witness and interact with different stakeholders regarding rural issues, urban developmental issues, educational support programmes, Child Nutrition and Health Care, land development activities, waste management etc. </p>
+
+
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +194,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +237,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +322,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

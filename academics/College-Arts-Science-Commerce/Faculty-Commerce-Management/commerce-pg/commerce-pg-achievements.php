@@ -123,27 +123,37 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; Department  <strong> Achievements </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<p><b style="color: #cd6e08;font-weight: bold;">College Ranking</b><br>
+										India Today has been doing an annual survey from the last two decades for the Best Colleges Survey in various disciplines in India. INDIA TODAY partnered with The Nielsen Company and conducted the survey to determine the best undergraduate colleges in India in six disciplines namely Arts, Science ,Commerce, Engineering, Medical and Law. </p>
+									<ul><li>The Department of Commerce of Kristu Jayanti College has striven tirelessly in pursuit of excellence in commerce education and it is rated as one of top ten commerce colleges in Bangalore by India Today - Nielsen Survey consecutively for three years in a row i.e., 2010, 2011 & 2012. </li>
+										<li>The Department of Commerce was rated as the No.1 emerging Commerce College in India by India Today - Nielsen Survey for 2013 and 2014.</li>
+										<li>In 2015, the department achieved 16th rank in India and 3rd rank in Bengaluru as per India Today – Nielsen Survey 2015.</li>
+										<li>In the year 2016, it was rated as the Second Best Emerging Commerce College in India as per India Today – Nielsen Survey 2016.</li>
+										<li>At Present, Commerce department is rated as 9th Best Commerce College at National Level and 3rd Best Commerce College in Bengaluru City as per India Today –Nielsen Survey 2017</li></ul>
+									
+									<p><b style="color: #cd6e08;font-weight: bold;">Best Paper Awards by students</b><br>
+										
+										1. <b>Mr Bijin and Mr Shashi From IV Sem MCom got a Best Presentation Award in</b> International Conference on Emerging Trends in Marketing,St. Johns college, Tirunelveli, TamilNadu , for the paper titled A Study on the attitude of customer towards online shopping and retail shopping in Bangalore with special reference to K Narayanapura.<br>
+										Published in Intercontinental Journal of Marketing research review</p>
 
-                                    </div>
+									<p>2. <b>Mr Tittu Thomas and Mr Bijin</b> from IV Sem MCom got a best Paper ward with cash prize of 5000 and 3000 for the paper AStudy on the effect of selected online banking services and A Study on the impact of Business Process reengineering in Banks among small scale industries with special reference to Bangalore</p>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+									<p>3. <b>Mr Tittu Thomas</b> has won First price for the paper A study on impact of online banking service provided by commercial banks and payment banks were to currency demonetization scenario in Bengaluru city in Christ University</p>
+
+									<p>4. <b>Bijin Philip & Shashi</b> has won first place in Jain University on 25/2/17 for the paper A study on the impact on determination in real estate sector</p>
+
+									<p>5. <b>Fijo and Clince</b> had won II Place inJain university on 27/2/17 for the paper A study on the tax paying attitude of Govt Primary Teachers</p>
+
+
+                                                                 
+                                   
+
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +187,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +230,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +315,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

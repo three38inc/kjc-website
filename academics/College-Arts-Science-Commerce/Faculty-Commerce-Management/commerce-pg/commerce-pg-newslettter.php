@@ -123,27 +123,17 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; News <strong> Letter </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<center><a href="../pdf/commmerce-pg-newsletter.pdf" target="_blank" class="btn btn-primary btn-sm">Commerce Cafe</a></center>
 
-                                    </div>
+                                                                 
+                                   
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +167,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +210,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +295,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

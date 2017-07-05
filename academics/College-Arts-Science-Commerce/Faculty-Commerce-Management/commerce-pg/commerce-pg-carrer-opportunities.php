@@ -123,27 +123,20 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; Carrer  <strong> Opportunities </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<p align=justify>Commerce is one of the most popular fields of study across the globe, with the rapid growth of the Indian economy a commerce graduate is never in dearth of employment.</p>
+									<p align=justify>The discipline of commerce consists of a wide range of inter-disciplinary branches including Accountancy, Business Administration, E-Commerce, Finance, Economics and Marketing.</p>
+									<p align=justify>This ensures that commerce education churns out talented professionals who can contribute to the growth of the Indian economy. A commerce graduate can opt for Governmental Jobs/ Jobs in MNC or any firm who needs a qualified commerce professional.</p>
+									<p>After completing the course, students can pursue higher education also by enrolling for M.Phil or PhD Progrmmes</p>
 
-                                    </div>
+                                                                 
+                                   
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +170,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +213,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +298,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

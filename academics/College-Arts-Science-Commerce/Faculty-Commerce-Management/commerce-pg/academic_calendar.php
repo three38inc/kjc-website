@@ -123,27 +123,72 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                       <span>&nbsp;Faculty <strong> Profile </strong></span>
+                                        <span>&nbsp; Academic <strong> Calendar </strong></span>
                                     </h4>
 
-							 <div class="profile-page">
-                                    <div id="page">
+									<table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="47" valign="top"><p align="center"><strong>S.No</strong></p></td>
+    <td width="198" valign="top"><p align="center"><strong>Date    of the Event</strong></p></td>
+    <td width="198" valign="top"><p align="center"><strong>Nature    of the Event </strong></p></td>
+    <td width="284" valign="top"><p align="center"><strong>Title</strong></p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">1</p></td>
+    <td width="198" valign="top"><p>11th &amp;12th    July 2017</p></td>
+    <td width="198" valign="top"><p>Workshop</p></td>
+    <td width="284" valign="top"><p>Research Paper    Writing</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">2</p></td>
+    <td width="198" valign="top"><p>21st July</p></td>
+    <td width="198" valign="top"><p>Fresher&rsquo;s Day</p></td>
+    <td width="284" valign="top"><p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">3</p></td>
+    <td width="198" valign="top"><p>1st    September 2017</p></td>
+    <td width="198" valign="top"><p>Intra Collegiate Fest</p></td>
+    <td width="284" valign="top"><p>Impulse 2017</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">4</p></td>
+    <td width="198" valign="top"><p>21st &amp;    22nd Sep 2017</p></td>
+    <td width="198" valign="top"><p>International    Conference</p></td>
+    <td width="284" valign="top"><p>Emerging Trends in    Global Accounting and Finance</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">5</p></td>
+    <td width="198" valign="top"><p>7th &amp;    8th Dec 2017</p></td>
+    <td width="198" valign="top"><p>Rural Exposure</p></td>
+    <td width="284" valign="top"><p>Gramsamvedhitha </p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">6</p></td>
+    <td width="198" valign="top"><p>12th Jan    2018</p></td>
+    <td width="198" valign="top"><p>Workshop</p></td>
+    <td width="284" valign="top"><p>Economic Value    Addition</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">7</p></td>
+    <td width="198" valign="top"><p>22nd and    23rd February 2018</p></td>
+    <td width="198" valign="top"><p>Intercollegiate Fest</p></td>
+    <td width="284" valign="top"><p>Commercia 2018</p></td>
+  </tr>
+  <tr>
+    <td width="47" valign="top"><p align="center">&nbsp;</p></td>
+    <td width="198" valign="top"><p>&nbsp;</p></td>
+    <td width="198" valign="top"><p>&nbsp;</p></td>
+    <td width="284" valign="top"><p>&nbsp;</p></td>
+  </tr>
+</table>
 
-                                    </div>
+                                                                 
+                                   
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
-											
-											
-                                          
-                                        </ul>
-                                    </div>
+
                                 </div>
-								</div>
                             </div>
-							
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
@@ -177,7 +222,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                   <section class="link-arrow">
+                                    <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
@@ -220,6 +265,8 @@
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
+                                   
+                                   
                                 </div>
 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
@@ -303,39 +350,7 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script>
-        $("document").ready(function() {
-            //below code is for retrieving corresponding pages #START
-            var activePage = 'page1';
-            $.ajax({
-                url: 'snipets/' + activePage + '.php',
-                success: function(data) {
-                    $('#page').html(data);
-                },
-                error: function(data) {
-                    alert('failed to load data');
-                }
-            });
-            $('.profile-pagination li a').click(function() {
-                $(this).parent().siblings().removeClass('active');
-                $(this).parent().addClass('active');
-            });
-            $('.profile-pagination li a').click(function() {
-                var activePage = this.getAttribute('data-value');
-                $.ajax({
-                    url: 'snipets/' + activePage + '.php',
-                    success: function(data) {
-                        $('#page').html(data);
-                    },
-                    error: function(data) {
-                        alert('failed to load data');
-                    }
-                });
-            });
-            //above code is for retrieving corresponding pages #END
-        });
 
-    </script>
 </body>
 
 </html>

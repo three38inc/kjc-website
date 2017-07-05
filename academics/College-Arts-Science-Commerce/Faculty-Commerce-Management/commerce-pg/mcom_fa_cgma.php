@@ -176,28 +176,28 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our  <strong>Activities</strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_vision_mission.php"> Vision, Mission &amp; Goals   </a></p>
+                                 <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vision_mission.php"> Mission and vision  </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_fests.php"> Fests </a></p>
+                                        <p><a class="a-link-arrow" href="commerce-fests-pg.php"> Fests </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_value_added_courses.php"> Value Added Program &amp;  Certificate courses  </a></p>
+                                        <p><a class="a-link-arrow" href="commerce-pg-achievements.php"> Achievements  </a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_bestpractcies.php"> Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="commerc-pg-bestpractcies.php">Best Practices</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_carrer_opportunity.php"> Career Opportunity</a></p>
+                                        <p><a class="a-link-arrow" href="commerce-pg-carrer-opportunities.php"> Career Opportunities</a></p>
                                     </section>
 
 
@@ -214,16 +214,10 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_achievements.php"> Achievements </a></p>
+                                        <p><a class="a-link-arrow" href="commerce-pg-conferences-workshops.php"> Conferences and Workshops </a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_seminars_conferencesbr_workshops.php"> Seminars Conferences and Workshops </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news_letter.php"> News Letter </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="commerce_other_departmrntal_activities.php"> Other departmental activities </a></p>
+                                        <p><a class="a-link-arrow" href="commerce-pg-newslettter.php"> News Letter</a></p>
                                     </section>
                                 </div>
 
