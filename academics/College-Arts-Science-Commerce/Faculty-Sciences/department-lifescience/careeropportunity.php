@@ -117,8 +117,8 @@
 									<p align=justify>Biotechnology being a research oriented science course has great scope in India as well as abroad. There are many applications of biotechnology such as developing drugs and vaccines. The career opportunity for a bio technologist ranges from careers in academics to industry and others.</p>
 									
 									<p align=justify>After a B.Sc. in Biotechnology there are various opportunities for students in India, where a student can opt for higher studies for improving skills and up-gradation of degree or a student can go for jobs in the biotechnology companies, research institutes, Pharma companies, universities and colleges.</p>
-									<p align=justify>There is a big scope for graduates in sales dept of biotechnology companies making devices and machines for research, these organizations' contract graduates for their showcasing and deals. </p>
-									<p align=justify>There is scope for graduates to work as Lab technicians In research institutes making observation, analyzing data and result interpretation.</p>
+									<p align=justify>There is a big scope for graduates in sales dept of biotechnology companies making devices and machines for research, these organizations contract graduates for their showcasing and deals. </p>
+									<p align=justify>There is scope for graduates to work as Lab technicians in research institutes and industries for handeling sophisticated instruments and generating data.</p>
 
 									
 									<p align=justify>A graduate in Biotechnology can become a technical assistant, research associate, while a post-graduate or a PhD. holder can be a research scientist or can join a teaching fraternity. Bio technologists can join as a freelance journalist, scientific reporter or in the field of management.</p>
@@ -135,7 +135,7 @@
                                       <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -210,8 +210,8 @@
                                         <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
                                     </section>
                                         
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                  <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -219,7 +219,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

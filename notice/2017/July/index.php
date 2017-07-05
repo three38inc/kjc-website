@@ -2,6 +2,65 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
 		
+		
+		 <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                <div class="panel-heading" role="tab" id="heading4">
+                    <h4 class="panel-title">
+                    July 05<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+                <div class="panel-body">
+                    
+					<p><b>For all UG classes</b><br>    The tentative schedule of Kalajyothi - the annual intracollegiate Literary, Cultural and Gospel Fest is put up on the notice board and the college website. Registrations for Kalajyothi is open and can be done online by clicking on the link 'Kalajyothi' on the home page of the college website (www.kristujayanti.edu.in). Registrations close by 4.00 p.m. on 12th July, 2017. Students are hereby encouraged to register and participate in as many events possible.  </p>
+
+					<p><b>Civil Service Coaching</b><br>
+ Kristu Jayanti IAS Academy is organizing coaching for Civil Service Prelims Examinations. Interested students can collect the application form from the Main Block reception counter, for more details and the submission of the duly filled application kindly contact anyone of the following faculty members on or before 10th July, 2017.<br>
+
+    1.      Dr. Gopakumar AV, Dean Faculty of Humanities (Deans Office)<br>
+    2.      Prof. Praveen Abraham,  Faculty, Department of Journalism (Staff Room No: 9, Fourth  Floor)<br>
+						3.      Prof. Alna Mariya Isac, Department of English (Staff Room No: 6, Fourth  Floor)</p>
+
+
+					<p><b>For all UG & PG classes (except MBA/PGDM)</b><br>
+
+						The Literary and Cultural Association (LCA) of the college is organizing a “Certificate Course in Guitar”. The training sessions are scheduled to start from tomorrow, 6th July 2017. The duration of the certificate course will be 40 sessions spanning two semesters. Class timings will be from 4.30 p.m. to 5.30 p.m. on Tuesdays and Thursdays. The fee for the course is Rs. 500/- per month. Interested students may register their names at the Reception Counter (Main Block) by paying the fees. For further details, students may contact Dr. Emmanuel D (Dept. of Social Work) Staff Room No. IX, Fourth Floor – Main Block.</p>
+
+					<p>Jayantian Language Center offers a certificate programme in English. Registered/Interested students are requested to pay the fee of Rs. 1000/- in the Reception Counter (Main Block) on or before 7th July 2017.</p>
+
+ 
+
+					<p>Our college is organizing a certificate programme on Art of Painting by a renowned artist Mr. Thomas. It is a 45 hours programme. Registered/Interested students are requested to pay the fee of Rs. 1250/- in the Reception Counter (Main Block) on or before 7th July 2017.</p>
+
+					<p><b>Entrepreneurship and Innovation Centre (EIC)</b><br>
+
+    The EIC nurtures the entrepreneurial skills and directs the students to become job providers. To become an EIC member, the interested students can register their names and details with the following faculty members.<br>
+
+    1. Prof. Mathiyarasan.M (Staff Room.3), First Floor, Main Block - B.Com students<br>
+    2. Prof. Deepika.S.R. (Staff Room.5) Second Floor, Main Block - BBA students<br>
+    3. Prof. Amjad Khan (Electronics Lab) First Floor, Main Block - Computer Science    students<br>
+    4. Dr. Preethi Chandran (Staff Room. 9) Fourth Floor - Life Science and Humanities<br>
+    5. Prof. Swetha.P.A (Staff Room. 11, Ground Floor, PG Block)<br>
+						The last date for registration is 10th July 2017.</p>
+
+
+					<p><b>For II & III Year UG, II Year PG and II/III Year MCA classes (except MBA/PGDM)</b><br>
+
+    Defaulters of tuition/admission fee can pay the same with late fee of Rs. 200/- today (05/07/2017).<br>
+
+    Venue: Counter No. 2 (UG Office)<br>
+						Time:   12.45 p.m. to 1.40 p.m.</p>
+ 
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+		
 		 <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
                 <div class="panel-heading" role="tab" id="heading3">

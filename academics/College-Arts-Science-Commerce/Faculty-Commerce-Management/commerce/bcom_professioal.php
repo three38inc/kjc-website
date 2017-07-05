@@ -170,26 +170,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
+                                   
 
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

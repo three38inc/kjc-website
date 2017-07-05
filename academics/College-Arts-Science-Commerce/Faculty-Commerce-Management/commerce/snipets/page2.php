@@ -1,34 +1,5 @@
 <div class="row">
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Ragavendra Babu.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Raghavendra Babu . J
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  MBA, Net, Mcom
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/> Finance and Banking      
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/>12 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 2
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
+   
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
@@ -52,70 +23,11 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Muthu Kumar.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. V. Muthu Kumar
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M.Com, M.Phil, MBA, Ph.D, UGC NET JRF
-                </p>
-                <p>
-                    <span>Areas of interest </span><br/> Accounting and Taxation
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/>  8 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 28 / 15
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br>
-            </div>
-        </div>
-    </div>
-    <div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Preethi.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4>  Mrs. Preethi S.J.G
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M A, M.Phil.
-                </p>
-                <p>
-                    <span>Areas of interest </span><br/> Macro Economics & Indian Economy
-                </p>
-                <p>
-                    <span>Teaching Experience</span><br/> 9 years 
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 4 / 3
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
             </div>
         </div>
     </div>
+   
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
@@ -169,7 +81,95 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul><br>
+            </div>
+        </div>
+    </div>
+	
+	 <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Nitty Antony.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Ms. Nitty Antony
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  M.Com, Masters Diploma in Business Administration, UGC-NET
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> Taxation, Corporate Accounting, Financial Accounting
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>5 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 3
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Chitra.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>Dr. V. Chitra
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>   M.Com., M.Phil., Ph.D (Commerce)
+                </p>
+                <p>
+                    <span>Areas of interest</span><br/> HR, Finance and Marketing
+                </p>
+                 <p>
+                    <span>Teaching Experience </span><br/> 03 Years
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Reena.r.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>  Ms. Reena.R
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  MBA (Ph.D)
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/>  HR
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>  9 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 3 / 7
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul><br><br>
             </div>
         </div>
     </div>

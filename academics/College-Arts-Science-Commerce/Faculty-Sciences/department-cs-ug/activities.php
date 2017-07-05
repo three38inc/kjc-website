@@ -87,14 +87,14 @@
                                
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingOne">
+                                                <div class="panel-heading" role="tab" id="heading17">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse17" aria-expanded="true" aria-controls="collapse17">
                                                           March 2017:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                                                <div id="collapse17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading17">
                                                     <div class="panel-body">
                                                         <p><b> VMware Open Badge Days</b><br>
                                                             <li>March 1st 2017 – Online examination on Data Center Virtualization in Computer Lab II and Computer Lab III </li>
@@ -108,14 +108,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingTwo">
+                                                <div class="panel-heading" role="tab" id="heading16">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse16" aria-expanded="true" aria-controls="collapse16">
                                                           December 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                                                <div id="collapse16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading16">
                                                     <div class="panel-body">
                                                         <li>Guest Lecture on “Software Testing” for the VI semester BCA and B.Sc.(CSMS/CSME) students by Ms.Selvi , Freelancer in software testing on December 3rd 2016.</li>
 
@@ -125,14 +125,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingThree">
+                                                <div class="panel-heading" role="tab" id="heading15">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse15" aria-expanded="true" aria-controls="collapse15">
                                                         August 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                                                <div id="collapse15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading15">
                                                     <div class="panel-body">
                                                         <il>Industrial visit to ISRO Satellite Centre (ISAC) on 1st August, 2016 for the students of V semester BCA.</il>
                                                         <li>Visit to Thirumuga Ashram MS Palaya, Jalahalli by III semester B.Sc. (CSMS/CSME) students as part of the social outreach programme on 16th August 2016</li>
@@ -143,14 +143,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFour">
+                                                <div class="panel-heading" role="tab" id="heading14">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse14" aria-expanded="true" aria-controls="collapse14">
                                                         July 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                                                <div id="collapse14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading14">
                                                     <div class="panel-body">
                                                         <il>Industrial visit to IISC on 29th July 2016 for the 3rd and 5th semester BCA students to visit the Supercomputer Education and Research Centre (SERC), which is the country's leading computing centre.</il>
                                                         <li>Certification course on Information Storage Management (EMC2) for the V semester BCA students to start on 19th July 2016.</li>
@@ -164,14 +164,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFive">
+                                                <div class="panel-heading" role="tab" id="heading13">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse13" aria-expanded="true" aria-controls="collapse13">
                                                         March 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+                                                <div id="collapse13" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading13">
                                                     <div class="panel-body">
                                                         <li>Farewell Programme for VI Semester BCA and BSc (CSMS/CSME) students on 28th March 2016 in Main Auditorium by the I year and II year BCA and BSc (CSMS/CSME) students</li>
 
@@ -179,14 +179,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingSix">
+                                                <div class="panel-heading" role="tab" id="heading12">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse12" aria-expanded="true" aria-controls="collapse12">
                                                        February 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+                                                <div id="collapse12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading12">
                                                     <div class="panel-body">
                                                         <li>The students of II Semester BSc (CSMS/CSME) & BCA will have a Session on " Networking Technologies” on 13th February 2016 by Mr. Pavan Kumar k, System Executive ,CTS, Bangalore from 11 AM to 1 PM in Mini Auditorium II.</li>
 
@@ -194,14 +194,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingSeven">
+                                                <div class="panel-heading" role="tab" id="heading11">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="true" aria-controls="collapse11">
                                                        January 2016:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+                                                <div id="collapse11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading11">
                                                     <div class="panel-body">
                                                         <p>The students of II Semester BSc (CSMS/CSME) & BCA will have a Session on "Overview of Cloud Computing” on 27th January 2016 by Mr.Hemanth Manoranjan, Alumni, Former Employee of HP from 11 AM to 1 PM in Main Auditorium. </p>
 
@@ -209,14 +209,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingEigth">
+                                                <div class="panel-heading" role="tab" id="heading10">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEigth" aria-expanded="true" aria-controls="collapseEigth">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="true" aria-controls="collapse10">
                                                        December 2015:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseEigth" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEigth">
+                                                <div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
                                                     <div class="panel-body">
                                                         <li>The students of II Sem BCA & B.Sc(CSMS/CSME) will have a Session on "Application of Mathematics in Computing Field" on 5th December 2015 from 10 AM to 1 PM in Amphi Theater.</li>
                                                 <p><b>Resource Persons:</b><br>
@@ -231,14 +231,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingNine">
+                                                <div class="panel-heading" role="tab" id="heading9">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="true" aria-controls="collapse9">
                                                       September 2015:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+                                                <div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
                                                     <div class="panel-body">
                                                         <li>Guest talk on “Virtualization, Cloud and IT Security” for III BCA and BSc (CSMS/CSME) students by Mr. Mohan Jagannath,Technology solutions Consultant, HP Global Soft, Bangalore on 19th September 2015 in Main auditorium from 11 AM-12.30 PM.</li>
                                                         <li>3rd and 4th September 2015: Workshop on "Hardware and Networking" for I semester BCA and BSc (CSMS/CSME) students by Mr. R.JANARTHANAN ,IT Certification Professional (Microsoft and Juniper Networks), Coimbatore, Tamilnadu.</li>
@@ -256,12 +256,12 @@
                                             <div class="panel panel-default">
                                                 <div class="panel-heading" role="tab" id="headingTen">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="true" aria-controls="collapseTen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="true" aria-controls="collapse8">
                                                    August 2015:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen">
+                                                <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
                                                     <div class="panel-body">
                                                         <li> Vimochanna"-Independence Day Celebration for UG Computer Science Students on August 17,2015 </li>
                                                         <li>Prelims of Synchronize 2015 - August 20th 2015 to 31st August, 2015 </li>
@@ -274,14 +274,14 @@
                                  
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingEleven">
+                                                <div class="panel-heading" role="tab" id="heading7">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
                                                    July 2015:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEleven">
+                                                <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
                                                     <div class="panel-body">
                                                         <li>Guest talk on TOEFL and GRE by Mr. Alan Polson, Alumni, Kristu Jayanti College for V BCA & BSC(CSMS,CSME) students in Amphitheatre from 11 AM - 1 PM on 4th July 2015. </li>
 
@@ -291,14 +291,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingTwelve">
+                                                <div class="panel-heading" role="tab" id="heading6">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="true" aria-controls="collapseTwelve">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
                                                   June 2015:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseTwelve" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwelve">
+                                                <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
                                                     <div class="panel-body">
                                                         <li>V BCA & BSc (CSMS/CSME) - Guest Talk on "Life in Corporate & Corporate culture" Chief Guest - Mr. Manzoor, Senior Field Officer, Unisys, Bangalore on June 6th 2015.Venue - Amphitheater Time: 11 AM - 1PM</li>
 
@@ -308,14 +308,14 @@
                                 
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingThirteen">
+                                                <div class="panel-heading" role="tab" id="heading5">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="true" aria-controls="collapseThirteen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
                                                  December 2014:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThirteen">
+                                                <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
                                                     <div class="panel-body">
                                                         <li> A session on "Doing a Galaxia Project" by Prof. Bino Joseph for IV Sem B.Sc. & BCA Students in Mini Audi II from 10 AM to 1 PM on 6th December 2014. </li>
 
@@ -325,14 +325,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFourteen">
+                                                <div class="panel-heading" role="tab" id="heading4">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="true" aria-controls="collapseFourteen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
                                                 November 2014:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFourteen">
+                                                <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
                                                     <div class="panel-body">
                                                         <li>	A session on "Mathematical Foundations in Computing" by Prof. Diana Susan Mary Ann D'Roza for II Sem B.Sc(CSMS/CSME) & BCA Students in Mini Audi II from 11 AM to 12 PM on 28th November 2014</li>
                                                         <li>A session on "How to do a Galaxia Project" by Prof. Amjad Hassan Khan MK for II Sem B.Sc (CSMS/CSME) & BCA Students in Mini Audi II from 12 PM to 1 PM on 28th November 2014 </li>
@@ -345,14 +345,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingFifteen">
+                                                <div class="panel-heading" role="tab" id="heading3">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="true" aria-controls="collapseFifteen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
                                                 August 2014:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseFifteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFifteen">
+                                                <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
                                                     <div class="panel-body">
                                                         <li>Synchronize Events Prelims from 11th August 2014 to 19th August 2014 3.30 PM to 5.30 PM.</li>
                                                         <li>Workshop on "Hardware & Networking" by R.Janarthanan, IT Certification & Career Consultant for III Semester BSc. Computer Science & BCA students on 30th August 2014 from 9:00 AM to 12:00 PM. </li>
@@ -367,14 +367,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingSixteen">
+                                                <div class="panel-heading" role="tab" id="heading2">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="true" aria-controls="collapseSixteen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
                                               July 2014:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseSixteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSixteen">
+                                                <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                                                     <div class="panel-body">
                                                         <li>Animation Refreshing Course - III BCA & B.Sc(CSMS/CSME) ,V BCA & B.Sc (CSMS/CSME from [30/06/2014 - 04/06/2014 & 07/07/2014]</li>
                                                         <li>	CSA Orientation Program for I BCA & B.Sc. (CSMS/CSME) 02/07/2014</li>
@@ -390,14 +390,14 @@
                                 
                                  <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="headingSeventeen">
+                                                <div class="panel-heading" role="tab" id="heading1">
                                                     <h5 class="panel-title">
-                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="true" aria-controls="collapseSeventeen">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
                                               June 2014:
                                                         </a>
                                                     </h5>
                                                 </div>
-                                                <div id="collapseSeventeen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeventeen">
+                                                <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
                                                     <div class="panel-body">
                                                         <li>VAC Course on PL/SQL for III Semester BCA from June 25th, 2014 onwards.</li>
                                                         <li>VAC Course on MS-EXEL for III B.Sc. (CSMS/CSME) from June 26th , 2014 onwards.</li>

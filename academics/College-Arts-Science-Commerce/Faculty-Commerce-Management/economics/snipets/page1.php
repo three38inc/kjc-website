@@ -1,22 +1,137 @@
 <div class="row">
-   
-	
-	<div class="member-item col-md-4 ">
+    <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/chandrakala.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Neeta.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Chandrakala M
+                <h4> Ms. Neeta Dwivedi
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M Com, MBA, PGDIB, (PhD) 
+                    <span>Qualification </span> <br/>  M.A (Economics), M.Phil, M.B.A, PGDCA, (Ph.D)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Accounts, Taxation, Finance,Human Resource, Marketing
+                    <span>Areas of interest </span><br/>  Managerial Economics, Entrepreneurship, Human Resources
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 6 years
+                    <span>Teaching Experience</span><br/> 18 Years 
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+     <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Preethi.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>  Mrs. Preethi S.J.G
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> M A, M.Phil.
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/> Macro Economics & Indian Economy
+                </p>
+                <p>
+                    <span>Teaching Experience</span><br/> 9 years 
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 4 / 3
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Geetanjali Diwani.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>Ms. Geetanjali Diwani 
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  MA (Economics), B.Ed. , (Ph.D)
+                </p> 
+                <p>
+                    <span>Areas of interest </span><br/> Public Policy, Higher Education
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>  7 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 8 / 3
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="member-item col-md-4">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/vindoha.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4>Dr. K. Vinodha Devi
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/>  M.A., M.Phil., Ph.D. in Economics
+                </p> 
+                <p>
+                    <span>Areas of interest </span><br/>  Micro Economics, Development Economics and Public Finance
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>  8 Years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 6
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+   <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Jethina.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Jethina James
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> NET, MSc ECONOMICS
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/>  Economics, Commerce
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/> Nil
                 </p>
 				<p>
                     <span>Papers presented or published </span><br/> Nil
@@ -30,164 +145,6 @@
                 </ul>
             </div>
         </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> Swetha P A
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> M.COM, M.Phil, ( Ph.D)
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/> Finance, Investment Science & Accounting
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 10 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 7 / 3
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br>
-            </div>
-        </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/arti singh.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. Arti Singh
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  Ph.D, M.com, M.T.M, M.B.A
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Marketing, Finance 
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 10 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 23 / 16
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br>
-            </div>
-        </div>
-    </div>
-	
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/christuraj.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. S. Christuraja
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  M.Com., B.Ed., M.Phil., MBA., Ph.D.,
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Research Activities
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 16 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 10 / 5
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
-            </div>
-            <div class="item-content">
-                <h4> Dr. Renuga Devi S
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/>  M.Com., MBA. M.Phil., Ph.D., PGDCA 
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Financial Management
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 28 Years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 12 / 16
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-	
-	<div class="member-item col-md-4 ">
-        <div class="member-item-inner">
-            <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/swetha manoha.jpg"></div>
-            </div>
-            <div class="item-content">
-                <h4> Swetha Manoharan
-                </h4>
-                <p>
-                    <span>Qualification </span> <br/> MBA, UGC NET
-                </p>
-                <p>
-                    <span>Areas of Interest </span><br/>  Marketing, Human Resource Management
-                </p>
-                <p>
-                    <span>Teaching Experience </span><br/> 3 years
-                </p>
-				<p>
-                    <span>Papers presented or published </span><br/> 5
-                </p>
-                <ul class="list-inline social-light ">
-                    <li>
-                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
-                    </li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
     
 </div>
 

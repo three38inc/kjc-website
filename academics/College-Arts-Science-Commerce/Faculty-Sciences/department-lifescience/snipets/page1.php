@@ -17,7 +17,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>25 Years
+                    <span> Years of experience </span><br/>30 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
@@ -89,7 +89,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>16 Years
+                    <span> Years of experience </span><br/>17 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Plant Biochemistry and Biotechnology
@@ -123,7 +123,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>17 Years
+                    <span> Years of experience </span><br/>18 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Diagnostic and Environmental Microbiology
@@ -157,7 +157,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>5 Years
+                    <span> Years of experience </span><br/>7 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Neuroscience, Molecular Biology, Protein Expression	
@@ -192,7 +192,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>15 Years
+                    <span> Years of experience </span><br/>17 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Extracellular matrix proteins, Immunopharmacology, Animal cell culture

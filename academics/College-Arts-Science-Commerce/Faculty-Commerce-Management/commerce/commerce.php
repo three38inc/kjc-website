@@ -126,7 +126,7 @@
                                         <span>&nbsp; Department of <strong> Commerce</strong></span>
                                     </h4>
 
-									<p align=justify>The Department of Commerce was started in the year 2000. It is the largest department with over 1,337 students and still growing. The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities. </p>
+									<p align=justify>The Department of Commerce was started in the year 2000.  The department not only concentrates on the academic excellence of its students but also nurtures their co-curricular activities. </p>
 									<p align=justify>The Faculty members are committed to nurture an environment for proper growth of intellectual insights on commerce & business aspects. During the formation of the syllabus, focus was given on the current trend of the industries and required skills and competences to be acquired by the students.</p>
 									<p align=justify>The plethora’s of avenues that the department provides gives a platform to the students to enhance their aptitude and attitude. The department emphasizes on the Moral, Social and Patriotic growth of students. The influence & the impact that the Department creates is felt in the greater altitudes that the alumni have achieved both nationally and internationally. </p>
 
@@ -171,27 +171,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
-
+                                   
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">

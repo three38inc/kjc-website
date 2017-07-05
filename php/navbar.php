@@ -238,6 +238,7 @@
                        <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
                        <li><a href="<?php echo $ROOT; ?>/events/events.php" title="International">Recent Events</a></li>
                        <li><a href="<?php echo $ROOT; ?>/notice/notice.php" title="International">Notices &amp; Announcements</a></li>
+						   <li><a href="<?php echo $ROOT; ?>/skydream/index.html" target="_blank">Research Grant</a></li>
 <!--
                        <li><a href="#" title="Beyond Curriculum">Beyond Curriculum</a></li>
                        <li><a href="#" title="Achivements">Achivements</a></li>

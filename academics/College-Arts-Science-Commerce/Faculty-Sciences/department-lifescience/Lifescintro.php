@@ -206,7 +206,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -214,7 +214,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

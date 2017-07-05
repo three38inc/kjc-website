@@ -174,7 +174,7 @@
                                 <a href="learning-management-thro-theatre.php" style="text-decoration:none;color:#000;">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Learning Management Thro’ Theatre</h4>
+                                    <h4 class="card-title">Activity base learning</h4>
                                     <h5 class="card-subtitle">Collaborative form of fine art</h5>
                                     <p class="card-text">Theatre uses live performers, typically actors or actresses, to present the experience of a real or imagined .....
                                     </p>
@@ -188,9 +188,9 @@
                                     <img src="images/mba/3i4-600x400.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Group Learning</h4>
-                                    <h5 class="card-subtitle">intellectually engaged community</h5>
-                                    <p class="card-text">Kristu Jayanti School of Management offers a platform for the student community to learn as a group in an interactive environment .....</p>
+                                    <h4 class="card-title">International internship and Exposure</h4>
+                                    <!--<h5 class="card-subtitle">intellectually engaged community</h5>-->
+                                    <p class="card-text">Kristu Jayanti School of Management offers unique for budding managers to widen their horizons through International internship.....</p>
                                     <div class="card-btn"><a href="interactive-group-learning.php" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
@@ -203,7 +203,7 @@
                                 <a href="employability-enhancement-programmes.php" style="text-decoration:none;color:#000;">
                                 <div class="card-img"><img src="images/mba/student-600x900.jpg" class="card-img-top"></div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Employability Enhancements</h4>
+                                    <h4 class="card-title">Placements and Employability Initiatives</h4>
                                     <h5 class="card-subtitle">Impacts The relevant areas</h5>
                                     <p class="card-text">Holistic development of the students also includes enhancing their Employability .....</p>
                                     <div class="card-btn"><a href="employability-enhancement-programmes.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>

@@ -15,7 +15,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 6 Years
+                    <span> Years of experience </span><br/> 11 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Cancer & Molecular Therapeutics	
@@ -36,7 +36,7 @@
                 <div class="class-img"><img src="images/faculty/Sivagamasundari.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. U.Sivagamasundari 
+                <h4>Dr. U. Sivagamasundari 
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc.,Ph.D
@@ -77,7 +77,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>3.6 Years
+                    <span> Years of experience </span><br/>17 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Physiology	
@@ -110,7 +110,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>-
+                    <span> Years of experience </span><br/> 5 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/> Plant Tissue culture & Molecular Biology	
@@ -176,7 +176,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 12 years
+                    <span> Years of experience </span><br/> 14 years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/> Cloning and Expression	
