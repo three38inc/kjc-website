@@ -8,12 +8,24 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
 		
+		
+		
 		<li>
             <img src="../highlights/2017/kristu-jayanti-college-space-technology-isro.jpg" class="img-responsive"/>
             <span class="date">01<sup>st</sup> July 2017</span>
             <div class="quote">
 				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=space_technology.php">
               <h4>Department of Computer Science Guest lecture on Space Technology <br/><small>
+              The guest lecture on SPACE TECHNOLOGY organized for I and III sem BCA, B.Sc. students on 01.07.17 in Main Auditorium at 11.00 Am.. </small></h4></a>
+            </div>
+        </li>
+		
+		<li>
+            <img src="../highlights/2017/kristu-jayanti-college-ict-academy.jpg" class="img-responsive"/>
+            <span class="date">23<sup>rd</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=ict-academy.php">
+              <h4>Kristu Jayanti College, Bengaluru signs membership with ICT Academy  <br/><small>
               The guest lecture on SPACE TECHNOLOGY organized for I and III sem BCA, B.Sc. students on 01.07.17 in Main Auditorium at 11.00 Am.. </small></h4></a>
             </div>
         </li>

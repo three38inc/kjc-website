@@ -82,22 +82,20 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;<strong>Journalism</strong></span></h4>
-                                <p align=justify><b>Overview</b><br>
-The department of Journalism and Mass Communication at Kristu Jayanti College, Bangalore, offers four triple major undergraduate programs and a master’s degree program, MA Journalism and Mass Communication. Since its inception in 2002, it is one of the most dynamic departments in the campus, which stresses a balance between the theoretical and practical aspects of journalism and mass communication. Along with the classroom lectures, the various activities of the department have received much recognition among the students. The alumni of the department work in diverse media verticals. And has bagged several states, national and international awards in their profession and brought glory to the department. The current students actively participate in various national level fests and 
-                                    These activity oriented pedagogical practices enables the students to be competitive in the technology and creativity driven media industry.</p>
-                                <p><b>Our Pedagogy -Synergizing Journalism Programs with Practical Components to equip learners to sharpen their skills in a wide range like:</b><br>
+									 
+									 <p align=jsutify><b>Programme overview</b><br>
+ Department of Journalism & Mass Communication strive for excellence in media education, training and research through a curriculum which synergize theoretical and practical components, and is delivered through multidisciplinary approach.  Our dedicated academicians along with media experts, professionals and researchers with global competencies train students in both media content and form to succeed in today’s challenging media scenario. Moreover, our interdisciplinary curriculum and flexible classrooms will create a real media experience with creative media productions, critical analysis, and entrepreneurialism.  <br>
+ 
+									 <p align=justify><b>Course objectives</b><br>
+ 
+										 The prescribed curriculum focuses on identifying the journalism competencies required to equip learners to sharpen their skills in a wide range like: Competencies of general knowledge and intellectual ability; Professional techniques of research, writing (and other forms of presentation), editing, design, and production; The ability to use the tools of journalism and to adapt to new technologies and innovative practices; Professional understandings, including ethics;  Knowledge of journalism’s role in society, the organization and management of the news media, and laws circumscribing journalism practice; and Knowledge of best practices and specializations in journalism.</p>
+ 
+									 <p align=justify><b>Eligibility for Admission</b><br>
+										 a. Journalism Candidates: Candidates who have passed the bachelor’s degree with 50 percent of marks in the aggregate of all the examinations of the degree in the optional subjects of Journalism shall be eligible for admission.</p>
+ 
+<p align=justify>b. Non-Journalism Graduates: Candidates who have passed the bachelor’s degree examination of
+	Bangalore University or any other University recognized as equivalent to 50 percent of marks in the aggregate of all the subjects including the languages are eligible for admission. </p>
 
-                                    <li> Competencies of general knowledge and intellectual ability</li>
-                                    <li> Professional techniques of research, writing (and other forms of presentation), editing, design, and production</li>
-                                    <li> Professional understandings, including ethics</li>
-                                    <li> Knowledge of journalism's role in society, including journalism's history, the organization of the news media, and laws related to journalism practice</li>
-                                    <li> Knowledge of best practices in various other platforms like: Print, Electronic media, Beat reporting, Content development, Advertising, PR, Corporate communication and New media</li>
-                                <p align=justify><b>The various courses offered by the department are</b><br>
-                                    <b>MA Journalism and Mass Communication</b><br>
-                                    The MA - Journalism & Mass Communication is a two year post graduate program which fosters intense and rigorous media training through sessions like, newsletter preparations, advertising campaigns, television and film production, campaigns for social causes, experiential learning programs (field work), new media and radio program productions</p>
-                                <p align=justify><b>BA Triple Major</b><br>
-The course is part of the four BA triple major combinations and consists of eight subjects' titles stretching all the semesters. The major papers include introduction to mass communication, print journalism, radio and new media, reporting, editing, advertising and PR, and television and cinema.</p>
-    <p> The students of both UG and PG undergo an internship program for a prescribed period in an organization of their choice.</p>
 
                                 
                                

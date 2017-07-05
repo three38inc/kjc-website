@@ -163,7 +163,7 @@
 												</table>
 											
 											 <p align="justify">
-												During the year 2014 â€“ 2015, fifteen research proposals have been submitted to the UGC for minor research grant under section 12B. During the year 2015-2016, twenty one research proposals have been submitted to SWRO, UGC for minor research grant.
+												During the year 2014 - 2015, fifteen research proposals have been submitted to the UGC for minor research grant under section 12B. During the year 2015-2016, twenty one research proposals have been submitted to SWRO, UGC for minor research grant.
 												
 											</p>
 										

@@ -84,6 +84,63 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;  <strong> Activities </strong></span></h4>
+									
+									<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading19">
+                                                    <h5 class="panel-title">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse19" aria-expanded="true" aria-controls="collapse19">
+                                                          July 2017:
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading19">
+                                                    <div class="panel-body">
+														<p><b>Guest Lectureon Space Technology </b><br>
+															<b>Classes Attended & Number of beneficiaries:</b><br>
+															I SEM BCA, I SEM B.Sc, III SEM BCA,III SEM B.Sc - 650 students</p>
+
+<p>Name and details of the Resource Person:<br>
+	<b>SHRI.SRINIVAS HL, SCIENTIST, ISRO SATELLITE CENTER, BANGALORE.</b><br>
+
+	Objective: To impart knowledge on different types of satellites, purpose of satellites, life term of satellites, life inside the satellites, cost of the satellite and techniques to reduce the space jam.</p>
+
+<p align=justify>The guest lecture on SPACE TECHNOLOGY organized for I and III sem BCA, B.Sc. students on 01.07.17 in Main Auditorium at 11.00 Am. The speaker was Srinivas HL, Scientist from ISRO satellite center, Bangalore. He started his lecture with launched satellites such as Aryabhatta, Chandrayan, IRM and its purposes. Speaker played video on how scientists spending their life and doing their daily routines inside the satellite. The components used for covering satellites are explained with videos. He uncovered the reasons for launching Indian satellite from Sriharikota and for using American components for constructing Indian satellites. The details such as the cost of making Indian satellites are 400 crore, American satellites are 1800 core, Life term and Quality of American satellite’s components are provided to the students. The session ends with questionnaire. Speaker clarified students’ queries like role of computer graduate students in space, how to get in to space technology related courses, how obsolete satellites are destroyed, how space jam is avoided, about international space committee and International space stations.</p> 
+
+
+                               </div>
+                              </div>
+                            </div></div>
+									
+									
+									<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading18">
+                                                    <h5 class="panel-title">
+                                                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse18" aria-expanded="true" aria-controls="collapse18">
+                                                          June 2017:
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading18">
+                                                    <div class="panel-body">
+                                                    <p><b>Focus on making the Arts and Science students Industry Ready stands crucial for the holistic development of students passing out of college.</b><br />
+As a first step to it, Kristu Jayanti College (Autonomous), Bengaluru signs membership with ICT Academy<br />
+Bengaluru<br />
+														<b>23rd  June 2017</b><br />
+Of late with the growing importance for the Arts and Science colleges across India, majority of the students are enrolled in the Arts and Science Colleges. It has also been stated that the maximum number of Ph.D has been enrolled from the Science streams.</p>
+<p>As per the All India Survey on Higher education report by Ministry of Human Resource Development, GOI, it is stated that </p>
+<p>"At Undergraduate level the highest number (40%) of students is enrolled in Arts/Humanities/Social Sciences courses followed by Science (16%), Engineering and Technology (15.6%) and Commerce (14.1%). At Ph.D. level, maximum number of students is enrolled in Science stream followed by Engineering and Technology."</p>
+<p>Realizing this various arts and science colleges gives a special focus on training the students in various industry relevant skill development courses. Kristu Jayanti College (Autonomous), Bengaluru has signed the Membership with ICT Academy on June 23, 2017. The membership is signed to benefit Faculty Members and Students through various initiatives of ICT Academy which includes Faculty Development, Student Skill Development, Industry-Institute Collaboration, Research etc.</p>
+<p>Kristu Jayanti College (Autonomous), Bengaluru is the first Arts & Science College in the State of Karnataka to sign the membership with ICT Academy.</p>
+														<p>The Certificate of Membership was exchanged between <b>Fr. Jose Kutty P.D the Principal of the institution and Mr. Suresh Babu, Regional Head - Karnataka & Telangana, ICT Academy.</b> Speaking on the occasion, <b>Mr. Suresh Babu</b> said, "ICT Academy the non-profit organization is happy to sign its first arts & science college membership in the state of Karnataka. We are committed to provide full support to the faculty and students of the college by providing world class training and delivering courses directly from the global corporate house. We strive to bring down the skill gap by being a bridge between academia and corporate, and this occasion is the first step towards that." Mr. Vishnu Prasad, State Head - Karnataka, ICT Academy was also present on the occasion.</p>
+
+
+
+                               </div>
+                              </div>
+                            </div></div>
+									
                                
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                             <div class="panel panel-default">
