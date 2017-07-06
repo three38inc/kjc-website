@@ -1,6 +1,37 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
+		
+		 <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                <div class="panel-heading" role="tab" id="heading5">
+                    <h4 class="panel-title">
+                    July 06<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+                <div class="panel-body">
+                    
+					<p><b>For all UG & PG classes</b><br>
+						There will be a prayer meeting in the CMI Ashram Chapel today (06/07/2017) at 3.40 p.m.</p>
+
+					<p>Tomorrow (07/07/2017) being First Friday of the month, there will be Holy Mass at 12.00 noon in the Main Auditorium. Rev. Fr. Gerald, Alumnus of our College (BA 2005 – 08 batch) who was ordained a priest in May 2017 will be celebrating the Holy Mass.</p>
+
+					<p><b>For all UG Classes</b><br>
+						The Literary and Cultural Association (LCA) of the college is organizing a “Certificate Course in Guitar”. The training sessions are scheduled to start from today, 6th July 2017. Class timings will be from 4.30 p.m. to 5.30 p.m. on Tuesdays and Thursdays. The fee for the course is Rs. 500/- per month. Interested students may register their names at the Reception Counter (Main Block) by paying the fees.</p>
+
+					<p>An audition for students interested in joining the college choir is scheduled on Tuesday, 11th July, 3.45 p.m. onwards at the Mini Auditorium I (2nd Floor – Main Block). Students who play musical instruments can also take part in the audition. Please note: Successful completion of the choir training and Guitar Certificate course will fetch three extension credits for a student.</p>
+
+					<p>The National Service Scheme (NSS) is organizing a ‘Road Safety Awareness’ programme tomorrow, 7th July 2017 at 11.30 a.m. in the Mini Auditorium I – 2nd floor, Main Block.  All NSS volunteers should attend.</p>
+ 
+                </div>
+            </div>
+        </div>
+		
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
 		
 		
 		 <div class="panel panel-default">
