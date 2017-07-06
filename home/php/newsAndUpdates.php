@@ -145,9 +145,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>PG Programmes:</b> Counselling result held on <b>01<sup>st</sup> July, 2017.</b>
-                                    <a href="../admission/pg_counselling_result_july_01_2017.php">(View result)</a><br>
-								Next Counselling will be held on 10<sup>th</sup> July, 2017 <a href="../admission/admission.php">(Apply online)</a>
+								<td><b>PG Programmes:</b> Next Counselling will be held on 10<sup>th</sup> July, 2017 <a href="../admission/admission.php">(Apply online)</a>
 								</td>
                             </tr>
                         </table>
@@ -170,6 +168,16 @@
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                     <a href="../admission/admission.php">(Apply online)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/broucher.png" width="50" height="50" class="img-circle" /></td>
+								<td><b> Centre for NET / SET Training</b>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=NET-SET-Training.php" class="read-more">(More details)</a></td>
                             </tr>
                         </table>
                     </li>
