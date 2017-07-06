@@ -143,9 +143,9 @@
                                             <p><a class="a-link-arrow" href="management/management.php">Department of Management</a></p>
                                         </section>
 										
-										<!--<section class="link-arrow">
+										<section class="link-arrow">
                                             <p><a class="a-link-arrow" href="economics/economics.php">Department of Economics</a></p>
-                                        </section>-->
+                                        </section>
 
                                     </div>
                                     <div class="row" style="margin-left:2px; margin-right: 2px;">

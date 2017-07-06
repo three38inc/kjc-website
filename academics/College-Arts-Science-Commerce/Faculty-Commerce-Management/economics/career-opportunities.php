@@ -123,10 +123,13 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Department of <strong> Economics</strong></span>
+                                        <span>&nbsp; Career  <strong> Opportunities</strong></span>
                                     </h4>
 
-									<p align=justify>Department of Economics provides wide opportunities to students to enhance their knowledge in the ways as to how societies, governments, businesses, households, and individuals allocate their scarce resources with the aim of reaching “the pareto optimality”. The Department nurtures students with strong background in micro & macroeconomics theory, about international financial institutions, knowledge in various applied areas of economics, knowledge of relevant mathematical and statistical techniques, and expertise in the use of computers for the analysis of data as well as in the ability to use the analytical tools of economics in problem solving. The complementary study of econometrics, the primary quantitative method used in the discipline, enables students to become critical consumers of statistically based arguments about numerous public and private issues rather than passive recipients unable to sift through the statistics. The Department also enables  students who can read competently as a law graduate, compute effectively as an accountant, and analyze data flawlessly as a statistician. Department of Economics offers BA ( Economics, History and Political Science) and MA Economics. </p>
+									<ul><li>Career in the government and non-government organizations that are involved in economic analysis, economic policy development, social policy development, project management and policy evaluation. </li>
+										<li> Opportunities as economists and policy analysts, researchers, project officers and consultants. </li>
+										<li>Career in Academic/Research area</li></ul>
+
 
                                                                  
                                    

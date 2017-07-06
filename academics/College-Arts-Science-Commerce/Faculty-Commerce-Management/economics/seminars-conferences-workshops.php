@@ -123,10 +123,13 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Department of <strong> Economics</strong></span>
+                                        <span>&nbsp; Seminars, Conferences <strong>  and Workshops   </strong></span>
                                     </h4>
 
-									<p align=justify>Department of Economics provides wide opportunities to students to enhance their knowledge in the ways as to how societies, governments, businesses, households, and individuals allocate their scarce resources with the aim of reaching “the pareto optimality”. The Department nurtures students with strong background in micro & macroeconomics theory, about international financial institutions, knowledge in various applied areas of economics, knowledge of relevant mathematical and statistical techniques, and expertise in the use of computers for the analysis of data as well as in the ability to use the analytical tools of economics in problem solving. The complementary study of econometrics, the primary quantitative method used in the discipline, enables students to become critical consumers of statistically based arguments about numerous public and private issues rather than passive recipients unable to sift through the statistics. The Department also enables  students who can read competently as a law graduate, compute effectively as an accountant, and analyze data flawlessly as a statistician. Department of Economics offers BA ( Economics, History and Political Science) and MA Economics. </p>
+									<p><b style="color: #cd6e08;font-weight: bold;">International Guest Lecture:</b></p>
+									<ul><li>	On the 21st September, 2016, the Department of Economics had an International Guest Lecture on "Insides of Economics-The Game Theory". The resources persons were Dr Debashish Pal, Academic Director, Department of Applied Economics, University of Cincinnati, US and Madam Anali Khevnekar, India Country Head, University of Cincinnati, US.</li></ul>
+
+
 
                                                                  
                                    
@@ -177,7 +180,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
+                                   <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="achievements.php"> Achievements </a></p>
                                     </section>
 									

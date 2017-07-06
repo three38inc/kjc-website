@@ -123,10 +123,21 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Department of <strong> Economics</strong></span>
+                                        <span>&nbsp; Department  <strong>  Achievements </strong></span>
                                     </h4>
 
-									<p align=justify>Department of Economics provides wide opportunities to students to enhance their knowledge in the ways as to how societies, governments, businesses, households, and individuals allocate their scarce resources with the aim of reaching “the pareto optimality”. The Department nurtures students with strong background in micro & macroeconomics theory, about international financial institutions, knowledge in various applied areas of economics, knowledge of relevant mathematical and statistical techniques, and expertise in the use of computers for the analysis of data as well as in the ability to use the analytical tools of economics in problem solving. The complementary study of econometrics, the primary quantitative method used in the discipline, enables students to become critical consumers of statistically based arguments about numerous public and private issues rather than passive recipients unable to sift through the statistics. The Department also enables  students who can read competently as a law graduate, compute effectively as an accountant, and analyze data flawlessly as a statistician. Department of Economics offers BA ( Economics, History and Political Science) and MA Economics. </p>
+									<p><b style="color: #cd6e08;font-weight: bold;">Paper Presentation</b></p>
+									<ul><li>Shama Susan Stephen  and Fahad T H from IInd semester MA (Economics) along with Paominhao Haokip from IVth semester MA (Economics) presented papers in the One day Inter-Collegiate Students Conference conducted by Jain University, Jayanagar, Bangalore on the 28th February, 2017.</li></ul>
+									
+									<p><b style="color: #cd6e08;font-weight: bold;">Competitions </b></p>
+									<ul><li> Mr Fahad T H won the 1st prize in Corporate Walk & 1st prize in Treasure Hunt in the Intercollegiate State Level Competition organized by Al-Ameen Arts, Science & Commerce College, Bangalore on the 19th April, 2017.</li>
+										
+										<li>Awungshi Meiyarwung, Shama Stephen and Fahad T H from Ist semester MA (Economics) participated in the events Marketshetra-Marketing & ad-mad event, The Panoptic-Teaching event and Quiznocrat-Quizzing and went up to the semi final round in the marketing event of  Altius 2016, the National Level Postgraduate Economics Festival, organized by Christ University on the 16th & 17th September, 2017.</li>
+
+										<li>Fahad T H won the 1st prize in the event "Banking & Insurance" in  Impulse- the Intra Department Fest of the PG Department of Commerce, Kristu jayanti College, conducted on the 1st and 2nd September, 2016.</li></ul>
+
+
+
 
                                                                  
                                    
@@ -177,7 +188,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
+                                  <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="achievements.php"> Achievements </a></p>
                                     </section>
 									

@@ -123,10 +123,46 @@
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Department of <strong> Economics</strong></span>
+                                        <span>&nbsp; Academic <strong> Calendar </strong></span>
                                     </h4>
+<table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="271" valign="top"><p><strong>EVENTS</strong><strong> </strong></p></td>
+    <td width="330" valign="top"><p><strong>DATE</strong><strong> </strong></p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Student Lecture Series - 1</p></td>
+    <td width="330" valign="top"><p>11th July 2017</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Economia</p></td>
+    <td width="330" valign="top"><p>22nd Aug 2017</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Student Lecture Series - 2</p></td>
+    <td width="330" valign="top"><p>6th Oct 2017</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Student Lecture Series - 3</p></td>
+    <td width="330" valign="top"><p>28th Nov 2017</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>National Conference</p></td>
+    <td width="330" valign="top"><p>24th Jan 2018</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Student Lecture Series - 4</p></td>
+    <td width="330" valign="top"><p>5th Apr 2018</p></td>
+  </tr>
+  <tr>
+    <td width="271" valign="top"><p>Guest Lectures </p></td>
+    <td width="330" valign="top"><p>15th Sep 2017<br />
+      12th Oct 2017<br />
+      15th Dec 2017<br />
+      15th Mar 2018</p></td>
+  </tr>
+</table>
 
-									<p align=justify>Department of Economics provides wide opportunities to students to enhance their knowledge in the ways as to how societies, governments, businesses, households, and individuals allocate their scarce resources with the aim of reaching “the pareto optimality”. The Department nurtures students with strong background in micro & macroeconomics theory, about international financial institutions, knowledge in various applied areas of economics, knowledge of relevant mathematical and statistical techniques, and expertise in the use of computers for the analysis of data as well as in the ability to use the analytical tools of economics in problem solving. The complementary study of econometrics, the primary quantitative method used in the discipline, enables students to become critical consumers of statistically based arguments about numerous public and private issues rather than passive recipients unable to sift through the statistics. The Department also enables  students who can read competently as a law graduate, compute effectively as an accountant, and analyze data flawlessly as a statistician. Department of Economics offers BA ( Economics, History and Political Science) and MA Economics. </p>
 
                                                                  
                                    
@@ -177,7 +213,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
+                                  <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="achievements.php"> Achievements </a></p>
                                     </section>
 									
