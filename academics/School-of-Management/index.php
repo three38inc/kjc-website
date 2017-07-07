@@ -1,4 +1,5 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html>
+<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?>
 <html lang="en" class="no-js">
 
 <head>
@@ -34,7 +35,60 @@
     <script src="../../js/respond.js"></script>
     <script src="../../js/custom.js"></script>
     <script src="../../js/fakeLoader.js"></script>
+    <style>
+        
 
+        
+        .card-img img {
+            width: 80%;
+            padding-bottom: 15px;
+        }
+        
+        .card-img2 img {
+            width: 80%;
+            height: auto;
+            margin: 50px 0;
+        }
+        
+        .card-mba {
+            background: #fff;
+            padding: 10px;
+            text-align: center;
+            padding-top: 50px;
+            overflow: hidden;
+            min-height: 583px;
+            box-shadow: 0 1px 2px #ccc;
+        }
+        .card-mba:hover{
+            box-shadow: 0px 4px 5px 1px #ccc;
+            cursor: pointer
+        }
+        .cardBg {
+            background-color: #34495e;
+            color: #fff;
+        }
+        
+        .card-block {
+            width: 80%;
+            margin: 0 auto;
+        }
+        
+        .card-block p {
+            text-align: center;
+        }
+        
+        .card-subtitle {
+            font-size: 14px;
+            margin-top: 0px;
+        }
+        
+        .card-title {
+            margin-bottom: 0;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+
+    </style>
 </head>
 
 <body>
@@ -65,7 +119,7 @@
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../../php/offCanvasMenu.php'); ?>
+        <?php //include('../../php/offCanvasMenu.php'); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
@@ -97,7 +151,67 @@
                             </div>
                         </div>
                     </div>
-
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 card-mba cardBg">
+                                <a href="experiential-learning.php" style="text-decoration:none;color:#FFF;">
+                                <div class="card-img2">
+                                    <img src="images/mba/father-600x600.jpg" class="card-img-top">
+                                </div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Experiential Learning</h4>
+                                    <h5 class="card-subtitle">Building critical skills</h5>
+                                    <p class="card-text">Experiential Learning is focused on building critical skills through an outbound leadership training programme......</p>
+                                    <div class="card-btn"><a href="experiential-learning.php" class="btn btn-primary" style="background: #fff;
+    border-color: #fff;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 3px 15px;">MORE</a></div>
+                                </div>
+                                    </a>
+                            </div>
+                            <div class="col-lg-3 card-mba">
+                                <a href="learning-management-thro-theatre.php" style="text-decoration:none;color:#000;">
+                                <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Learning Management Thro’ Theatre</h4>
+                                    <h5 class="card-subtitle">Collaborative form of fine art</h5>
+                                    <p class="card-text">Theatre uses live performers, typically actors or actresses, to present the experience of a real or imagined .....
+                                    </p>
+                                    <div class="card-btn"><a href="learning-management-thro-theatre.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-3 card-mba cardBg">
+                                <a href="interactive-group-learning.php" style="text-decoration:none;color:#FFF;">
+                                <div class="card-img2">
+                                    <img src="images/mba/3i4-600x400.jpg" class="card-img-top">
+                                </div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Group Learning</h4>
+                                    <h5 class="card-subtitle">intellectually engaged community</h5>
+                                    <p class="card-text">Kristu Jayanti School of Management offers a platform for the student community to learn as a group in an interactive environment .....</p>
+                                    <div class="card-btn"><a href="interactive-group-learning.php" class="btn btn-primary" style="background: #fff;
+    border-color: #fff;
+    color: #2c3e50;
+    font-weight: bold;
+    padding: 3px 15px;">MORE</a></div>
+                                </div>
+                                </a>
+                            </div>
+                            <div class="col-lg-3 card-mba">
+                                <a href="employability-enhancement-programmes.php" style="text-decoration:none;color:#000;">
+                                <div class="card-img"><img src="images/mba/student-600x900.jpg" class="card-img-top"></div>
+                                <div class="card-block">
+                                    <h4 class="card-title">Employability Enhancements</h4>
+                                    <h5 class="card-subtitle">Impacts The relevant areas</h5>
+                                    <p class="card-text">Holistic development of the students also includes enhancing their Employability .....</p>
+                                    <div class="card-btn"><a href="employability-enhancement-programmes.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-9">
@@ -163,8 +277,8 @@
     <script src="../../js/sly.js"></script>
     <script src="../../js/customSly.js"></script>
     <script src="../../js/wow.min.js"></script>
-    
-     <script src="../../js/owl.carousel.min.js" type="text/javascript"></script>
+
+    <script src="../../js/owl.carousel.min.js" type="text/javascript"></script>
     <script src="../../js/scripts.js"></script>
     <script src="js/manSchool.js"></script>
 
@@ -174,12 +288,11 @@
                 pageLanguage: 'en'
             }, 'google_translate_element');
         }
-        
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script>
-        $(document).ready(function(){
+        $(document).ready(function() {
             $('#frameHighLights').owlCarousel({
                 items: 1,
                 loop: true,
@@ -208,6 +321,7 @@
                 }
             });
         });
+
     </script>
 </body>
 

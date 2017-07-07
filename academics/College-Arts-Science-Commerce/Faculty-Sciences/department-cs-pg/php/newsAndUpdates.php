@@ -140,33 +140,9 @@
         <div class="row">
             <div class="col-xs-12">
                 <ul class="demo1">
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                              <td><b>MBA/PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
-                                    <a href="../admission/admission.php">(Apply online)</a></td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                               <td><b>Law Programmes:</b> Next Counselling will be held on  <b>20<sup>th</sup> June, 2017.</b>
-                                    <a href="../admission/admission.php">(Apply online)</a></td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> B.Com Programmes:</b> Applicants can apply online. Selected applicants will be intimated through email<br>
-                                    <a href="../admission/admission.php">(Apply online)</a></td>
-                            </tr>
-                        </table>
-                    </li>
+                    
+                   
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
@@ -176,20 +152,12 @@
                             </tr>
                         </table>
                     </li>
+                  
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../../../../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
-                                <td>3rd Trim MBA/PGDM 2016-18 batch CBCS Course Registration  <a href="http://kristujayanti.edu.in/CBCS/choice_based_credit_mba.php" target="_blank">[CLICK HERE]</a></td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/university.png" width="50" height="50" class="img-circle" /></td>
-                               <td><strong>June 15th to 29 st 2017</strong> School of Management (MBA & PGDM) IIIrd End Trimester Examination
-</td>
+                                <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 01st 2017</strong>  Department of Computer Science[PG] and IEEE Student Branch organizing the programme on Industry Institute Interface(3i).  <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=ieee-student-branch.php">(Read More)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -197,58 +165,11 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>June 17th 2017</strong> Graduation Day (UG)</td>
+                               <td><strong>July 20th - 21st 2017</strong> Department of Computer Science[PG] organizing Two day National Level Workshop on "Data Science & Analytics". <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=data-science-analytics.php">(Read More)</a></td>
                             </tr>
                         </table>
                     </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/graduates.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>June 19th 2017</strong>Commencement of III & V Sem UG Programmes</td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/clipboard.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>June 20th 2017</strong>Commencement of III Sem MA / MSc / MCom / M.Com. (FA)/ MSW / III & V Sem MCA programmes</td>
-                            </tr>
-                        </table>
-                    </li>
-                   <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/check.png" width="50" height="50" class="img-circle" /></td>
-                               <td><strong>June 24th 2017</strong> Graduation Day (PG)</td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>July 17th 2017</strong> School of Management (MBA & PGDM) Inauguration of Academic Year 2017-18 Commencement of First Trimester Classes</td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
-                               <td><strong>July 18th 2017</strong> Commencement of I Sem MA / MSc / MCom / M.Com. (FA)/ MSW programmes</td>
-                            </tr>
-                        </table>
-                    </li>
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../../../images/news/exam-circle.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01 st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
-                            </tr>
-                        </table>
-                    </li>
+                   
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

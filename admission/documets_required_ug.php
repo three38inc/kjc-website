@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -147,6 +147,13 @@ b. Residential Permit from the Commissi<br>oner of Police Bengaluru
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
                                     </section>
@@ -226,14 +233,7 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
+ 
                                    
 
                                 </div>
@@ -267,7 +267,7 @@ Law Programmes: Rs 300/-  <br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

@@ -141,11 +141,23 @@
             <div class="col-xs-12">
                 <ul class="demo1">
 					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
+								<td><b>PG Programmes:</b> Counselling result held on <b>01<sup>st</sup> July, 2017.</b>
+                                    <a href="../admission/pg_counselling_result_july_01_2017.php">(View result)</a><br>
+								Next Counselling will be held on 10<sup>th</sup> July, 2017 <a href="../admission/admission.php">(Apply online)</a>
+								</td>
+                            </tr>
+                        </table>
+                    </li>
+					
 					 <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>30<sup>th</sup> June, 2017.</b>
+								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>10<sup>th</sup> July, 2017.</b>
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
@@ -156,13 +168,13 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>MBA/PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
+                                <td><b>PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
                     </li>
                    
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
@@ -170,8 +182,9 @@
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
-                    </li>
-                    <li class="news-item">
+                    </li>-->
+					
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
@@ -179,7 +192,7 @@
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                    
                    
@@ -195,7 +208,7 @@
                   
                    
                   
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/exam.png" width="50" height="50" class="img-circle" /></td>
@@ -203,18 +216,19 @@
 </td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                     
                    
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/graduates.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>June 24th 2017</strong> Graduation Day (PG)</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
+					
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

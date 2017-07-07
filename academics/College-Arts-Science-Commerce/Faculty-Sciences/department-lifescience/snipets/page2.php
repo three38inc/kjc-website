@@ -130,7 +130,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/preety.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr. Preethy Chandran
@@ -163,7 +163,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/easter.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Dr.  Esther Shoba R

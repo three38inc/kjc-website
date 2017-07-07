@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -86,6 +86,7 @@
 </head>
 
 <body>
+<!--
     <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
@@ -98,6 +99,7 @@
         })();
 
     </script>
+-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -143,7 +145,7 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission 2017</strong></span>
+                                        <span>&nbsp;Admission <strong> 2017</strong></span>
                                     </h4>
 
 
@@ -173,9 +175,9 @@
                                         </div>
                                         <div class="panel-body">
 											 
-											<p><b>Admissions to all UG Programmes are Open</b></p>
+											<!--<p><b>Admissions to all UG Programmes are Open</b></p>
 											<p>* Online Application Forms are available in our website (Hard copies are not available).<br>
-												* Applicants can either apply online on their own or apply from college campus</p>
+												* Applicants can either apply online on their own or apply from college campus</p>-->
 											
 											
 											 <div class="well well-sm">
@@ -183,13 +185,13 @@
                                                     </div>
 											
 											
-											<div class="panel panel-default">
+	<!--<div class="panel panel-default">
   <div class="panel-body">
    <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
    <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
 	   <b>Selected applicants will be intimated through email and sms. </b></font>
 </div>
-</div>
+</div>-->
 											
 											<div class="panel panel-default">
   <div class="panel-body">
@@ -202,15 +204,15 @@
                                                             <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                             <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                                 <font size=2>Click here for Admission process</font> </a><br>
-																Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
-																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a></p></div></div>
+																<!--Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
+																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a>--></p></div></div>
 											
 											<div class="well well-sm">
                                                 <center>LAW PROGRAMMES COUNSELLING</center>
                                             </div>
 											
 								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 30<sup>th</sup> June, 2017</b> </font>
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b> </font>
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />
@@ -225,7 +227,7 @@
                                             <div class="well well-sm">
                                                 <center>PG COUNSELLING</center>
                                             </div>
-                                            <p><font color="#FF0000" size="2"><u>MBA / PGDM Programme: </u> </font><br />
+                                            <p><font color="#FF0000" size="2"><u>PGDM Programme: </u> </font><br />
                                                <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b>
                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                 <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
@@ -236,7 +238,7 @@
 
 
                                                 <p><font color="#FF0000" size="2"><u>PG Programmes: </u> </font><br />
-                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 01<sup>st</sup> July, 2017</b></font>
+                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></font>
                                                     <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                     <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
                                                     </font><br />
@@ -280,6 +282,14 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
+									
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission.php" style="color: #2980b9;font-weight: bold;">Admission 2017</a></p>
                                     </section>
@@ -368,14 +378,7 @@ Law Programmes: Rs 300/-  <br>
                                         </div>
                                     </div>
 
-                                  <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
+                                  
 
 
                                 </div>
@@ -409,7 +412,7 @@ Law Programmes: Rs 300/-  <br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

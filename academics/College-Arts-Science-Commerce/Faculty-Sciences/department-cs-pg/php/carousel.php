@@ -79,10 +79,7 @@
     background-position: right top;
   background-image: url('images/carousel/3.jpg');
 }
-.back__bg-4,
-.front__bg-4 {
-  background-image: url('images/carousel/4.jpg');
-}
+
 
 .back__bg.hidden {
   display: none;
@@ -104,9 +101,6 @@
 }
 .back__bg-3 {
   top: 200%;
-}
-.back__bg-4 {
-  top: 300%;
 }
 
 .front__bg {
@@ -151,9 +145,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 .front__bg-3 {
   top: -200%;
 }
-.front__bg-4 {
-  top: -300%;
-}
+
 
 .scene .nav {
   position: absolute;
@@ -249,9 +241,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 .nav__el-3:before {
   content: "03";
 }
-.nav__el-4:before {
-  content: "04";
-}
+
 
 .menu__btn {
   z-index: 5;
@@ -412,13 +402,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
       <div class="back__bg back__bg-1 active"></div>
       <div class="back__bg back__bg-2"></div>
       <div class="back__bg back__bg-3"></div>
-      <div class="back__bg back__bg-4"></div>
+     
     </div>
     <div class="front">
       <div class="front__bg front__bg-1 active"></div>
       <div class="front__bg front__bg-2"></div>
       <div class="front__bg front__bg-3"></div>
-      <div class="front__bg front__bg-4"></div>
+      
     </div>
 <!--
     <div class="nav">

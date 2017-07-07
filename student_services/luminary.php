@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
     <head>
         <meta charset="UTF-8" />
@@ -191,7 +191,7 @@ Luminary - A part of Kristu Jayanti College EDP Cell</p>
             <!--                                </div>-->
             <?php include ('../php/alerts.php');  ?>
             <?php include('../php/footer.php'); ?>
-            <?php include('../php/morphingSearch.php'); ?>
+            
         </div>
 
 

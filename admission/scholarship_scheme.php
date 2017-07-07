@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -123,7 +123,7 @@ ii) Jayantian Talent Scholarship (JTS)<br>
             iii) JayantianUpliftment Scholarship (JUS)</p>
 
                                     <p><b style="color: #cd6e08;font-weight: bold;">General Guidelines</b><br>
-                                        <li>Students who receive any sort of scholarship (Government, Minority, etc) are not eligible under JUS</li>
+                                      <ul>  <li>Students who receive any sort of scholarship (Government, Minority, etc) are not eligible under JUS</li>
                                         <li>Students who satisfy the stipulated conditions of the schemes are eligible under KJSS and are required to apply by filling up the form within the due date</li>
                                         <li>The Committee will scrutinize the forms and the Principal will approve the beneficiaries under KJSS</li>
                                         <li>KJSS is applicable only to under-graduate students</li>
@@ -132,34 +132,34 @@ ii) Jayantian Talent Scholarship (JTS)<br>
                                         <li>Students who would qualify under category (iii. JUS) will be eligible to get scholarships under category (i) & (ii) provided they qualify for them</li>
                                         <li>The decision of the scholarship in identifying the beneficiaries will be final</li>
                                         <li>The number of scholarships and the amount disbursed each year will be decided by the Management of the College</li>
-                                        <li>   The minimum conditions for applying for scholarship does not automatically guarantee scholarship</li>
+										  <li>   The minimum conditions for applying for scholarship does not automatically guarantee scholarship</li></ul>
 
                                     <p><b style="color: #cd6e08;font-weight: bold;">1. JayantianAchievement Scholarship (JAS)</b><br>
 Conditions<br>
-                                        <li>This scholarship is exclusively for students who are excellent in academics</li>
+                                       <ul> <li>This scholarship is exclusively for students who are excellent in academics</li>
                                         <li>Students' academic excellence will be evaluated each semester on a continuous basis and students selected for this scholarship from II semester (after evaluation of performance in Semester I)</li>
                                         <li>Students should have minimum 85% of attendance in each course in the previous semester</li>
 <li>B.Com./BBM students should secure minimum 75% of marks (aggregate of CIA & End Semester Examinations), BA & B.Sc. ( CSMS/CSME) - 75%& B.Sc. ( Life Science) / BCA - 80%<br>
-    Each eligible student will receive Rs. 10000 per annum.</li>
+	Each eligible student will receive Rs. 10000 per annum.</li></ul>
 
                                     <p><b style="color: #cd6e08;font-weight: bold;">2. Jayantian Talent Scholarship (JTS)</b><br>
                                         <b>Conditions</b><br>
-<li>This scholarship is provided for encouraging students to excel in co-curricular and
+<ul><li>This scholarship is provided for encouraging students to excel in co-curricular and
     extra-curricular activities (cultural, sports & games and inter-collegiate fests)</li>
                                         <li>Students should have minimum 80% of attendance in each course in the previous semester</li>
                                         <li>Students should secure minimum 60% of marks (aggregate of CIA & End Semester Examinations) and should have passed in all the courses</li>
                                         <li>Students should have represented the college and won at least one prize at the University level/State Level /National level competitions.</li>
-                                        <li>Each eligible student will receive Rs. 10,000 in lump sum in an academic year and an additional amount of Rs. 5000 will be given if the same student satisfies the conditions in the following academic year</li>
+	<li>Each eligible student will receive Rs. 10,000 in lump sum in an academic year and an additional amount of Rs. 5000 will be given if the same student satisfies the conditions in the following academic year</li></ul>
 
                                     <p><b style="color: #cd6e08;font-weight: bold;">3. JayantianUpliftment Scholarship (JUS)</b><br>
                                         <b>Conditions</b><br>
-                                        <li>This scholarship is provided to financially disadvantaged students</li>
+                                       <ul><li>This scholarship is provided to financially disadvantaged students</li>
                                         <li>Students' family annual income should be equal to or less than Rs. one lakh</li>
                                         <li>Student should satisfy the Scholarship Committee's queries and convince the need for scholarship</li>
                                         <li>Students need to produce the proof of income certificate given by the local civil authority</li>
                                         <li>Students should have minimum 80% of attendance in each course in the previous semester</li>
                                         <li>Students should secure minimum 60% of marks ( aggregate of CIA & End Semester Examinations) and should have passed in all the courses</li>
-                                        <li>Students need to pay only 50% of the annual tuition fee and remaining 50% the fee is exempted</li></p>
+										   <li>Students need to pay only 50% of the annual tuition fee and remaining 50% the fee is exempted</li></ul>
                                         
 
                                 </div>
@@ -170,6 +170,13 @@ Conditions<br>
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
                                     </section>
@@ -249,14 +256,7 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
+ 
                                    
 
                                 </div>
@@ -290,7 +290,7 @@ Law Programmes: Rs 300/-  <br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

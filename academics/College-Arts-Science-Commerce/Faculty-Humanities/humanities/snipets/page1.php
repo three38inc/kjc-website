@@ -208,22 +208,22 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/thomasp.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Dr. Thomas Palayoor
+                <h4> Dr. Thomas P
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>  MA; Ph D
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> British and American Drama Shakespeare, Postcolonial Literature
+                    <span>Areas of Interest </span><br/> British and American Drama, Shakespeare, Postcolonial Literature
                 </p>
                 <p>
                     <span>Experience </span><br/> 30 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> Nil
+                    <span>Papers presented or published </span><br/> 15
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -239,7 +239,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/belga berk.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Belga Marriya Berk
@@ -262,7 +262,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br><br><br>
             </div>
         </div>
     </div>
@@ -270,7 +270,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/paulami.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Paulami Guha Biswas
@@ -332,7 +332,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/alna.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Alna Mariya Isac
@@ -363,7 +363,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/vidyathi r.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Vidyavathi  R
@@ -394,7 +394,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/krishna prabha.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Dr.  Krishna Prabha
@@ -425,7 +425,7 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/sachin munda.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Sachin Mundakkal

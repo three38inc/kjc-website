@@ -23,7 +23,7 @@
     }
 </style>
 <div class="list-group">
-    <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of June</a>
+    <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="April" href="test.php">
         <table cellpadding="4">
             <tr>

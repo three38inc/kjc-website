@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -38,6 +38,7 @@
 </head>
 
 <body>
+<!--
     <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
@@ -50,6 +51,7 @@
         })();
 
     </script>
+-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -91,7 +93,7 @@
                         </div>
                         <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
                             <div class="col-lg-4 space">
-                                <a href="../academics/School-of-Management/">
+                                <a href="../academics/School-of-Management/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">S</span>chools of <strong> Management</strong></span></h4>
@@ -104,7 +106,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="../academics/College-Arts-Science-Commerce/">
+                                <a href="../academics/College-Arts-Science-Commerce/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Arts, Science &amp; Commerce</strong></span>
@@ -118,7 +120,7 @@
                                 </a>
                             </div>
                             <div class="col-lg-4 space">
-                                <a href="../academics/College-of-Law/">
+                                <a href="../academics/College-of-Law/" target="_blank">
                                     <div class="content-spl mainDiv wow fadeIn">
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                             <span><span style="font-size:1.2em;">C</span>ollege of <strong> Law</strong></span>
@@ -298,7 +300,7 @@
 
                                         <div style="clear:both;"></div>
                                         <p style="text-align:center; font-size: 1.2em;position:relative;">
-                                            Admission to all UG &amp; PG Programmes for academic year 2017 are open.
+                                            Admission to LAW  &amp; PG Programmes for academic year 2017 are open.
                                         </p>
                                         <p class="text-center">
                                             <a href="../admission/admission.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -379,7 +381,7 @@
                     <!--                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -76,7 +76,7 @@ win=window.open(mypage,myname,settings);}
 </head>
 
 <body>
-    <script type="text/javascript">$crisp=[];CRISP_WEBSITE_ID="bfee4615-2d13-4129-a9c2-d7b8095e3d0e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.im/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -124,7 +124,9 @@ win=window.open(mypage,myname,settings);}
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;PG<strong> Admission</strong></span>
                                     </h4>
-
+     <p><b><font color="#FF0000"><u>PG Programme:</u></font></b> <font color="#">
+	 Counselling result held on <b>01<sup>st</sup> July, 2017</b> </font> <a href="pg_counselling_result_july_01_2017.php">(View result)</a><br> <b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></p>
+									
      <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b>Programme Name</b></p></td>
@@ -137,6 +139,19 @@ win=window.open(mypage,myname,settings);}
   <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
 <td width="200"><p><a href="pop_up_admission/mcom_fee.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
 <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+	  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa.php"><u>M.Com <br />(Financial Analysis)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/mfa_feee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
+  </tr>
+  
+  <tr>
+  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa_cgma.php"><u>M.Com <br />(Financial Analysis<br /> with CGMA)</u></a></b></p></td>
+  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
+  <td width="200"><p><a href="pop_up_admission/cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
+  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   <tr>
   <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/social_work.php"><u>MSW</u></a></b></p></td>
@@ -184,20 +199,6 @@ win=window.open(mypage,myname,settings);}
   <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
   </tr>
   
-   <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa.php"><u>M.Com <br />(Financial Analysis)</u></a></b></p></td>
-  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="pop_up_admission/mfa_feee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-  
-  <tr>
-  <td width="200" bgcolor="#dce6f1"><p><b><a href="../academics/College-Arts-Science-Commerce/Faculty-Commerce-Management/commerce/mcom_fa_cgma.php"><u>M.Com <br />(Financial Analysis<br /> with CGMA)</u></a></b></p></td>
-  <td width="200"><p><a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee srtucture','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Admission process<br /> & Status</u></center></a></p></td>
-  <td width="200"><p><a href="pop_up_admission/cgma_fee.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()"><center><u>Eligibility Criteria<br /> & Fee Structure</u></center></a></p></td>
-  <td width="200"><p><a href="../admission/admission_guidelines.php"><center><u>Application Form</u></center></a></p></td>
-  </tr>
-  
   </table>
     
 
@@ -212,6 +213,13 @@ win=window.open(mypage,myname,settings);}
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+									<div class="list-group">
+                                  <a href="#" class="list-group-item active">Counselling Results</a>
+									  
+									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
+										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
+                                        </a>
+                                       </div>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="admission.php">Admission 2017</a></p>
                                     </section>
@@ -291,14 +299,7 @@ Law Programmes: Rs 300/-  <br>
 </div>   
  </div>
                                  
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
+ 
                                    
 
                                 </div>
@@ -332,7 +333,7 @@ Law Programmes: Rs 300/-  <br>
                     <!--						                                </div>-->
                     <?php include ('../php/alerts.php');  ?>
                     <?php include('../php/footer.php'); ?>
-                    <?php include('../php/morphingSearch.php'); ?>
+                    
                 </div>
 
 
