@@ -17,10 +17,23 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>30 Years
+                    <span> Years of experience </span><br/>26 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Environmental Biotechnology/MicrobialTechnology/Industrial Microbiology
+                </p>
+				
+				<p>
+                    <span> Research articles presented </span><br/> 09
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 11
+                </p>
+				<p>
+                    <span> Books published </span><br/> 01
+                </p>
+				<p>
+                    <span> Books chapters published </span><br/> 01
                 </p>
 				
 				
@@ -55,18 +68,19 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>19 Years
+                    <span> Years of experience </span><br/>18 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Cancer Genetics, Genotoxicity studies
                 </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br><br>
+                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </div>
         </div>
     </div>
@@ -90,7 +104,7 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>17 Years
+                    <span> Years of experience </span><br/>16 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Plant Biochemistry and Biotechnology
@@ -101,7 +115,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br><br>
+                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </div>
         </div>
     </div>
@@ -124,11 +138,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>18 Years
+                    <span> Years of experience </span><br/>19 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Diagnostic and Environmental Microbiology
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 19
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 16
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -158,10 +179,20 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>7 Years
+                    <span> Years of experience </span><br/>5 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Neuroscience, Molecular Biology, Protein Expression	
+                </p>
+				<p>
+                    <span> Research articles presented </span><br/> 17
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 03
+                </p>
+				
+				<p>
+                    <span> Books chapters published </span><br/> 01
                 </p>
                
                 <ul class="list-inline social-light ">
@@ -193,11 +224,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>17 Years
+                    <span> Years of experience </span><br/>14 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Extracellular matrix proteins, Immunopharmacology, Animal cell culture
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 01
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 01
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

@@ -278,7 +278,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="faculty-commerce-management/commerce/mcom.php">
+            <a href="faculty-commerce-management/commerce-pg/mcom.php">
                 <div class="courseTitle color-5">
                     <i class="fa fa-line-chart c5" style="float: left;"></i>
                     <h2>M.Com</h2>
@@ -288,7 +288,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="faculty-commerce-management/commerce/mcom_fa.php">
+            <a href="faculty-commerce-management/commerce-pg/mcom_fa.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-line-chart c6" style="float: left;"></i>
                     <h2>M.Com</h2>
@@ -298,7 +298,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="faculty-commerce-management/commerce/mcom_fa_cgma.php">
+            <a href="faculty-commerce-management/commerce-pg/mcom_fa_cgma.php">
                 <div class="courseTitle color-6">
                     <i class="fa fa-line-chart c6" style="float: left;"></i>
                     <h2>M.Com</h2>
@@ -308,7 +308,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
-            <a href="faculty-commerce-management/commerce/ma_economics.php">
+            <a href="faculty-commerce-management/economics/ma_economics.php">
                 <div class="courseTitle color-7">
                     <i class="fa fa-line-chart c7" style="float: left;"></i>
                     <h2>MA</h2>

@@ -115,6 +115,8 @@
                                         <span>&nbsp;Patent<strong> Recognition</strong></span>
                                     </h4>
                                     <p><b>Patent:: Garlic formulation & process for preparing the same for treatment of DIABETICS : US,13/906,432 - Dr. Deepa</b></p>
+									
+									 <p><b>A process for preparation of lindane free industrial effluents/water using novel formulation of microbial consortium : Indian Patent grant No (IN189721) - Dr. Elcey C.D </b></p>
 
                                     <p><b><u>Research Publications by Faculty Members</u></b></p>
                                     

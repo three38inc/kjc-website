@@ -15,11 +15,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 11 Years
+                    <span> Years of experience </span><br/> 12 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Cancer & Molecular Therapeutics	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 01
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 13
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -46,11 +53,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>4 Years
+                    <span> Years of experience </span><br/>5 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Plant Microbial Biotechnology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 08
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 07
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -77,11 +91,21 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>17 Years
+                    <span> Years of experience </span><br/>13 Years
                 </p>
                  <p>
                     <span> Areas of Research </span><br/>Physiology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 03
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 26
+                </p>
+				<p>
+                    <span> Books published </span><br/> 01
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -115,6 +139,13 @@
                  <p>
                     <span> Areas of Research </span><br/> Plant Tissue culture & Molecular Biology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 02
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 14
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -148,6 +179,13 @@
                  <p>
                     <span> Areas of Research </span><br/> Bioremediation and Degradation		
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 02
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 23
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -181,6 +219,13 @@
                  <p>
                     <span> Areas of Research </span><br/> Cloning and Expression	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 06
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 02
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>

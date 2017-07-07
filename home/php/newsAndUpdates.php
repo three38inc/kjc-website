@@ -257,18 +257,21 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01 st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
+                                <td><strong>August 01st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
                             </tr>
                         </table>
                     </li>
-                    <!--<li class="news-item">
+					
+                   <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/star-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01 st 2017</strong> Commencement of I Sem MCA programme</td>
+                                <td><strong>August 02nd 2017</strong> Commencement of I Sem MCA programme</td>
                             </tr>
                         </table>
-                    </li>-->
+					</li>
+					
+					   
                 </ul>
             </div>
         </div>

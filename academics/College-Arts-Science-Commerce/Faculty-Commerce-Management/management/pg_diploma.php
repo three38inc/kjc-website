@@ -149,7 +149,7 @@ d) Fee for Saarc Country students<br>
 (d) The Management / College does not collect any type of Capitation fees / Donation other than the fees mentioned above.
 Prospectus & Application Fee : Rs. 250/- D.D. drawn in favour of " The Principal, Kristu Jayanti College" payable at Bangalore)<br>
 Apply online: (Click)<br>
-                                        Classes will commence during the 1st week of August, 2016</p>
+                                        Classes will commence during the end of July, 2017</p>
                                     <p><b>For further Details Contact:</b><br>
 College Office: 080 - 28465611 / 28465353 / 28465770, <br>
 E-mail: admission@kristujayanti.com<br>

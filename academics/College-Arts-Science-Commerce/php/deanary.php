@@ -9,7 +9,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty of Science</h3>
-        <p>Faculty of Science offers MCA,BCA, BSc CSME,BSc CSMS,Bsc Biotechnology, Microbiology ..</p>
+        <p>Faculty of Science offers MCA, BCA, BSc CSME, BSc CSMS, BSc Biotechnology, Microbiology and MSc Biotechnology, Microbiology  ..</p>
         <a href="Faculty-Sciences/index.php">Know More</a>
     </div>
 
@@ -18,7 +18,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty Of Commerce &amp; <br>  Management  </h3>
-        <p>Faculty of Commerce &amp; Management offers Mcom,Bcom,Bcom Professional,BBA,Bcom Tourism ..</p>
+        <p>Faculty of Commerce &amp; Management offers M.Com, B.Com, B.Com Professional, BBA, B.Com Tourism ..</p>
         <a href="Faculty-Commerce-Management/index.php">Know More</a>
     </div>
 
@@ -27,7 +27,7 @@
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
         </div>
         <h3>Faculty Of Humanities</h3>
-        <p>The Faculty of Humanities offers MA,MSW,BA History,BA Journalism..</p>
+        <p>The Faculty of Humanities offers Social Work, Psychology, Mass Communication, Literature and Languages, History, Culture and Political Science..</p>
         <a href="Faculty-Humanities/index.php">Know More</a>
     </div>
 

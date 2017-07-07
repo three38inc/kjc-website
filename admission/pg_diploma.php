@@ -158,7 +158,7 @@ win=window.open(mypage,myname,settings);}
              <br>                       
                                 <p><b style="color: #cd6e08;font-weight: bold;">Apply online:</b> <a href="admission_guidelines.php" target="_blank">(Click)</a></p>
 
-                                    <p>Classes will commence during the 1st week of August, 2016</p>
+                                    <p>Classes will commence during the end of July, 2017</p>
 
                                     <p><b style="color: #cd6e08;font-weight: bold;">For further Details Contact:</b><br>
 College Office: 080 - 28465611 / 28465353 / 28465770,<br>
