@@ -118,7 +118,43 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Our <strong>Research Profile</strong></span>
                                     </h4>
-                                 
+                                    <p><b style="color: #cd6e08;font-weight: bold;">FACULTY RESEARCH PUBLICATIONS </b></p>
+                                    
+  <table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="156" nowrap="nowrap" valign="top"><p><strong>Academic Year</strong></p></td>
+    <td width="98" nowrap="nowrap" valign="top"><p><strong>Book Published</strong></p></td>
+    <td width="102" valign="top"><p align="center"><strong>Chapter  in a Book</strong></p></td>
+    <td width="101" nowrap="nowrap" valign="top"><p><strong>Article Published</strong></p></td>
+    <td width="91" nowrap="nowrap" valign="top"><p><strong>Paper</strong><br />
+      <strong>Published</strong></p></td>
+    <td width="107" valign="top"><p><strong>Papers Presented</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>2016-17</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>2</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>100</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>7</strong></p></td>
+    <td width="107"><p><strong>48</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>2015-16</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>1</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>4</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>68</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="107"><p><strong>38</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>Total Publications</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>7</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>168</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>13</strong></p></td>
+    <td width="107"><p><strong>86</strong></p></td>
+  </tr>
+</table>
 
                                     <p align="justify">
 													<strong>Papers Presented in Regional, National and International Conferences</strong>

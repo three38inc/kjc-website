@@ -1,6 +1,45 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
+        
+        <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                <div class="panel-heading" role="tab" id="heading6">
+                    <h4 class="panel-title">
+                    July 07<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+                <div class="panel-body">
+                    
+                    <p><b>For all UG & PG classes</b><br>
+                        Today (07/07/2017) being First Friday of the month, there will be Holy Mass at 12.00 noon in the Main Auditorium. Rev. Fr. Gerald, Alumnus of our College (BA 2005 – 08 batch) who was ordained a priest in May 2017 will be celebrating the Holy Mass. classes will not be held during the 4th hour (12.00 noon to 1.00 p.m.). Regular classes will resume from 1.45 p.m.</p>
+
+                    <p>Students are advised not to sit on the steps at the main door of the college entrance and on the corridor of the ground floor.</p>
+
+                    <p><b>For all UG classes</b><br>
+                        The National Service Scheme (NSS) is organizing a ‘Road Safety Awareness’ programme today at 11.00 a.m. in the Mini Auditorium I – 2nd floor, Main Block.  All NSS volunteers should attend.</p>
+
+                    <p><b>For V Semester UG classes</b><br>
+                        Congratulations to the student secretaries/coordinators selected to lead the various clubs and associations of the college this academic year. The list is published on the notice board. There will be a rehearsal for the investiture ceremony today at 3.40 p.m. in the SKE Auditorium. All the student secretaries of the clubs and associations should be present.</p>
+
+                    <p><b>For all final year UG & PG classes</b><br>
+      POTP (Placement Orientation & Training Programme) for the present final year UG & PG Students of all the departments will start on 12th July 2017 and will end on 25th July 2017.<br>
+
+                        <b>Kindly note the following:</b><br>
+    1. It is mandatory for all the students to attend the POTP programme.<br>
+    2. Kindly come in your college uniforms (or formals if there is no prescribed uniform for your department).<br>
+    3. Please be well groomed.<br>
+                        4. The detailed schedule of POTP is available on the Placement page of the college website.</p>
+ 
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
 		
 		 <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">

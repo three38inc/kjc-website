@@ -110,108 +110,145 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                         
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;IQAC <strong>Activities </strong></span></h4>
+                                        <span>&nbsp;IQAC <strong> Activities </strong></span></h4>
+                                    
+                                    <p><b style="color: #cd6e08;font-weight: bold;">MAJOR ACTIVITIES OF THE INTERNAL QUALITY ASSURANCE CELL</b></p>
 									
-									<p><b>Activities of Internal Quality Assurance Cell</b><br>
-										Internal Quality Assurance Cell organises National conference on contemporary issues in Higher Education every academic year since 2009 </p>
-									
-									<table border="1" class="table table-bordered">
-									<tr>
-										<td width="300"><p><b><center>Name of the Conferences Organized</center></b></p></td>
-										<td width="500"><p><b><center>Name of the Resource Persons</center></b></p></td>
-										</tr>
-										
-										<tr>
-											<td width="300"><p>30/09/2009 & 01/10/ 2009 National Conference on <b>Dynamics of Indian Higher Education System and Challenges</b></p></td>
-											<td width="500"><p><b>Prof. N. R. Shetty,</b> Former VC, Bangalore University & President, Indian Society for Technical Education<br>
-												<b>Dr. R. S. Deshpande,</b> Director, ISEC<br>
-												<b>Dr. R. Sudha Rao,</b> Former VC, KSOU and Professor, NUEPA, New Delhi<br>
-												<b>Dr. Mariamma Varghese,</b> Former VC, SNDT University, Mumbai & Former Senior Academic Consultant, NAAC<br>
-												<b>Prof. Thimmiya A.M.</b> Senior Vice President & Head - Distributed Learning, Manipal University<br>
-												<b>Rev. Dr. Thomas C. Mathew,</b> Vice Chancellor, Christ University, Bangalore<br>
-												<b>Ms. Seethalakshmi</b> Metro Editor, Times of India<br>
-												<b>Dr. M. Prakash</b> Principal, Seshadripuram College, Bangalore<br>
-												<b>Dr. Sudhanshu Bhushan,</b> Professor & Head, Dept. of Higher and Professional Education, NUEPA, New Delhi<br>
-												<b>Prof. Srikanth</b> Dean, Tata Institute of Fundamental Research </p></td>
-										</tr>
-										<tr>
-										<td width="300"><p>11/11/2010 & 12/11/2010 NAAC sponsored <b>National Conference on Quality Management in Higher Education - Role of IQAC</b></p></td>
-										
-										<td width="300"><p><b>Prof. Pramila Maini,</b> Director, Institute of Excellence in Higher Education & Executive Council Member, NAAC<br>
-											<b>Dr. Jagannath Patil</b> Deputy Advisor, NAAC<br>
-											<b>Rev. Dr. B. Jeyaraj SJ</b> Principal, Loyola College, Chennai<br>
-											<b>Prof. K. Subba Rao,</b> Director (Quality), K.L. University<br>
-											<b>Dr. Nirmala Prasad</b> Principal, M.O.P Vaishnav College for Women, Chennai<br>
-											<b>Rev. Dr. Joseph P.P</b> Principal, B.S.S.S Bhopal<br>
-											<b>Rev. Dr. Abraham V.M.</b> Pro-Vice Chancellor, Christ University, Bangalore</p></td>
-										</tr>
-										<tr>
-											<td width="300"><p>17/11/2011 & 18/11/2011 <b>National Conference on Innovations in Teaching - Learning, Research and Unique Practices in Higher Education</b></p></td>
-										
-											<td width="300"><p><b>Prof. Alain Ouvrieu,</b> Director of International Development, Normandie Business School, France<br>
-												<b>Rev. Dr. Xavier Alphonse</b> Member, UGC, New Delhi<br>
-												<b>Prof. Rukshana Shroff,</b> Lady Shri Ram College, New Delhi<br>
-												<b>Dr. Anand Samuel,</b> VC, VIT University<br>
-												<b>Rev. Dr. Casimir Raj,</b> Founder-Director - LIBA, Loyola College, Chennai.<br>
-												<b>Dr. S. Ravichandra Reddy,</b> Former Acting Director, NAAC<br>
-												<b>Dr. Jagannath Patil,</b> Deputy Advisor, NAAC, Bangalore.<br>
-												<b>Rev. Dr. Abraham V.M.,</b> Pro Chancellor, Christ University </p></td>
-										</tr>
-										<tr>
-											<td width="300"><p>29/11/12 & 30/11/12 <b>National Conference on Indian Higher Education in the 21st Century- Five Decades Ahead: Challenges and Prospects</b></p></td>
-										
-											<td width="300"><p><b>Prof. H. Ranganath,</b> Director, NAAC<br>
-												<b>Dr. Gopichand Kattragade,</b> Director, Research & Technology Centre, GE<br>
-												<b>Dr. N.N. Prahallada,</b> Regional Institute of Education (NCERT), Mysore.<br>
-												<b>Dr. H. Vinod Bhat,</b> Pro - Vice Chancellor, Manipal University<br>
-												<b>Dr. M. S. Shyamasundar</b> Deputy Adviser, NAAC<br>
-												<b>Dr. Geetha Swaminathan</b> Coordinator - IQAC & Former Vice Principal, Stella Maris College, Chennai<br>
-												<b>Prof. R.W. Alexander Jesudasan,</b> Principal, Madras Christian College<br>
-												<b>Prof.Latha Pillai,</b> Adviser, NAAC, Former Pro Vice Chancellor, IGNOU </p></td>
-										</tr>
-										<tr>
-											<td width="300"><p>08/05/2014 and 09/05/2014 <b>National Conference on New Paradigms in Academic Innovation</b></p></td>
-										
-											<td width="300"><p><b>Dr. Fr. Thomas C.Mathew, VC,</b> Christ University<br>
-												<b>Prof. B. R. Muthu Kumar,</b> IFS, Former Ambassador of India to Tajikistan, Belarus, Lithuania and Azerbaijan.<br>
-												<b>Prof. Vivien Amonkar,</b> HoD, Dept of Microbiology and PG Dept. of Biotechnology, St.Xavier’s College, Mumbai<br>
-												<b>Dr. Ravichandra Reddy,</b> Former Acting Director, NAAC<br>
-												<b>Prof. Rammohan Rao,</b> Professor Emeritus, ISB Hyderabad<br>
-												<b>Dr.Subramonium Rangaswami,</b> Former VC, Sri Ramachandra University, Chennai</p></td>
-										</tr>
-										<tr>
-											<td width="300"><p>22/01/2015 and 23/01/2015 <b>I-CON 6th National IQAC Conference on Relevance of Interdisciplinary Approach in Higher Education</b></p></td>
-										
-											<td width="300"><p><b>Prof.(Dr.) V.N. Rajashekaran Pillai</b>Former Vice Chairman & Ex- Vice Chancellor<br>
-												<b>Prof. S. Albonse Raj</b> Vice Principal, Loyola College, Chennai<br>
-												<b>Prof. Chandrakant Kokate</b> Vice Chancellor - KLE University, Belagavi<br>
-												<b>Prof. Jancy James</b> Former Vice Chancellor - University of Kerala & Mahatma Gandhi University<br>
-												<b>Prof. Meenakshi Gopinath</b> Mentor, Lady Shri Ram College, New Delhi<br>
-												<b>Dr. Sriram Kothapalli</b> Vice President & Global Head - Quality, ITC Infotech India Ltd.<br>
-												<b>Prof. M. Prakash</b> Director od Studies, Seshadripuram Educational Trust, Bangalore<br>
-												<b>Ms. Libby Sharieef</b> Journalist</p></td>
-										</tr>
-									
-									</table><br>
-									
-									<p><b> IQAC organizes various programmes to enhance skills of the faculty members</b><br>
+									<table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="243" valign="top"><p><strong>Name of Conferences/ Workshops    Organized</strong></p></td>
+    <td width="383" valign="top"><p><strong>Name of the Resource Persons</strong></p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>May    4-6, 2017</strong><br />
+      National Workshop on Management of    Change for progressive secondary education for the Principals and Faculty    members of high school and higher secondary schools<strong></strong></p></td>
+    <td width="383" valign="top"><p><strong>Shri. B C Rao</strong>, Managing Director, Kennametal <br />
+      <strong>Mr. Hendrikus&nbsp;van&nbsp;Dord</strong>, Executive&nbsp;Vice President&nbsp;IETO<br />
+      <strong>Dr. H.S.    Ganesha Bhatta</strong> Principal, MES Teachers&rsquo; College, Bengaluru<br />
+      <strong>Dr Sudha    Bhogle</strong>,    Head, Student Solutions Eduquity Career Technologies<br />
+      <strong>Dr. Shakuntala    Katre</strong>,    Former Senior Academic Consultant, NAAC<br />
+      <strong>Dr. Aravind    Srinivas</strong>,    Tata Consultancy Services<br />
+      <strong>Shri S.    Giridhar</strong>,    Chief Operating Officer, Azim Premji University<br />
+      <strong>Dr. A Senthil    Kumaran</strong>,    Chief Confluencer, The Learners Confluence, The Learners Confluence<br />
+      <strong>Dr. S    Ravichandra Reddy</strong>,    Former Acting Director, NAAC<br />
+      <strong>Dr. Mariamma A    Varghese</strong>,    Former Vice Chancellor, SNDT University, Mumbai<strong></strong></p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>Jan    19th  and 20th 2017</strong><br />
+      NAAC sponsored - 8th ICON- <br />
+      National Conference on Engendering    Technological Excellence in Higher Education Bangalore</p></td>
+    <td width="383" valign="top"><p><strong>Shri. Krishna    Byre Gowda</strong>,    Hon. Minister for Agriculture Govt. of Karnataka<br />
+      <strong>Dr.Aravind    Sreenivasan</strong>,    Dean iON Academy, Tata Consultancy Services<br />
+      <strong>Prof. R. Mahesh, </strong>Dean, Faculty    Affairs, Birla Institute of Technology &amp; Science (BITS), Pilani<br />
+      <strong>Prof. Adinarayana    Kalanidhi </strong>Vice-Chairman,    Common Wealth Science and Technology Academy for Research &amp; Former    Vice-Chancellor of Anna University<br />
+      <strong>Prof. M.G. Sethuraman</strong><br />
+      Director    – IQAC, The Gandhigram Rural Institute, Deemed University, Gandhigram<br />
+      <strong>Prof.    Sudhanshu Bhushan</strong> Head, Dept. of Higher &amp; Professional Education, National University of    Education Planning and Administration (NUEPA), New Delhi<br />
+      <strong>Dr. Jayaram G,</strong><br />
+      Dean,    Academics, VIT University<br />
+      <strong>Prof. Geetha    Bali,</strong> Chairperson, Board of Governors, MANIT, Bhopal, MHRD, GoI Chairperson,    Standing Committee of the Council of NITs in India, MHRD, GoI Former    Vice-Chancellor, Karnataka State Women&rsquo;s University</p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>Jan 21-22 2016</strong><br />
+      7th    ICON National  Conference On Role Of    Higher Educational Institutions In Reinventing Skills For Global Competency</p></td>
+    <td width="383" valign="top"><p><strong>Dr.    R.Natarajan</strong>,    Former Director IIT Madras<br />
+      <strong>Dr. S.    Maragatham,</strong> Dean, Faculty of Engineering, Avinashilingam University, Coimbatore<br />
+      <strong>Shri. T.R. Parasuraman, </strong>Deputy Managing Director &amp; Member of the Board<strong> </strong>Kirloskar    Toyota Textile Machinery Pvt. Ltd<br />
+      <strong>Mr.Ashok Paimidi, Regional Director, Nasscom</strong><br />
+      <strong>Prof. Suhas    Pednekar, </strong>Principal,    Ramnarain Ruia College, Mumbai<br />
+      <strong>Mr.Srikantan Moorthy</strong>, Executive Vice President, Infosys.</p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>Jan 22 and 23rd 2015</strong> <strong></strong><br />
+      I-CON 6th National IQAC Conference on Relevance of    Interdisciplinary Approach in Higher Education </p></td>
+    <td width="383" valign="top"><p><strong>Prof.(Dr.)    V.N. Rajashekaran Pillai</strong>Former    Vice Chairman &amp; Ex- Vice Chancellor<br />
+      <strong>Prof. S. Albonse Raj</strong> Vice Principal, Loyola College, Chennai<br />
+      <strong>Prof. Chandrakant Kokate</strong> Vice Chancellor - KLE University, Belagavi<br />
+      <strong>Prof. Jancy James</strong> Former Vice Chancellor - University of Kerala &amp;    Mahatma Gandhi University<br />
+      <strong>Prof. Meenakshi Gopinath</strong> Mentor, Lady Shri Ram College, New Delhi<br />
+      <strong>Dr. Sriram Kothapalli</strong> Vice President &amp; Global Head - Quality, ITC    Infotech India Ltd.<br />
+      <strong>Prof. M. Prakash</strong> Director of Studies, Seshadripuram Educational Trust,    Bangalore<br />
+      <strong>Ms. Libby Sharieef</strong> Journalist</p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>08/05/2014 and 09/05/2014 </strong><br />
+      National Conference on New Paradigms in Academic    Innovation </p></td>
+    <td width="383" valign="top"><p><strong>Dr. Fr.    Thomas C.Mathew, VC,</strong> Christ University<br />
+      <strong>Prof. B. R. Muthu Kumar,</strong> IFS, Former Ambassador of India to Tajikistan,    Belarus, Lithuania and Azerbaijan.<br />
+      <strong>Prof. Vivien Amonkar,</strong> HoD, Dept of Microbiology and PG Dept. of    Biotechnology, St.Xavier&rsquo;s College, Mumbai<br />
+      <strong>Dr. Ravichandra Reddy,</strong> Former Acting Director, NAAC<br />
+      <strong>Prof. Rammohan Rao,</strong> Professor Emeritus, ISB Hyderabad<br />
+      <strong>Dr.Subramonium Rangaswami,</strong> Former VC, Sri Ramachandra University, Chennai</p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>29/11/12 &amp; 30/11/12 </strong><br />
+      National Conference on Indian Higher Education in    the 21st Century- Five Decades Ahead: Challenges and Prospects </p></td>
+    <td width="383" valign="top"><p><strong>Prof. H.    Ranganath,</strong> Director, NAAC<br />
+      <strong>Dr. Gopichand Kattragade,</strong> Director, Research &amp; Technology Centre,    GE<br />
+      <strong>Dr. N.N. Prahallada,</strong> Regional Institute of Education (NCERT), Mysore.<br />
+      <strong>Dr. H. Vinod Bhat,</strong> Pro - Vice Chancellor, Manipal University<br />
+      <strong>Dr. M. S. Shyamasundar</strong> Deputy Adviser, NAAC<br />
+      <strong>Dr. Geetha Swaminathan</strong> Coordinator - IQAC &amp; Former Vice Principal,    Stella Maris College, Chennai<br />
+      <strong>Prof. R.W. Alexander Jesudasan,</strong> Principal, Madras Christian College<br />
+      <strong>Prof.Latha Pillai,</strong> Adviser, NAAC, Former Pro Vice Chancellor, IGNOU </p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>17/11/2011 &amp; 18/11/2011</strong><br />
+      <strong> </strong>National Conference on    Innovations in Teaching - Learning, Research and Unique Practices in Higher    Education </p></td>
+    <td width="383" valign="top"><p><strong>Prof.    Alain Ouvrieu,</strong> Director of International    Development, Normandie Business School, France<br />
+      <strong>Rev. Dr. Xavier Alphonse</strong> Member, UGC, New Delhi<br />
+      <strong>Prof. Rukshana Shroff,</strong> Lady Shri Ram College, New Delhi<br />
+      <strong>Dr. Anand Samuel,</strong> VC, VIT University<br />
+      <strong>Rev. Dr. Casimir Raj,</strong> Founder-Director - LIBA, Loyola College, Chennai.<br />
+      <strong>Dr. S. Ravichandra Reddy,</strong> Former Acting Director, NAAC<br />
+      <strong>Dr. Jagannath Patil,</strong> Deputy Advisor, NAAC, Bangalore.<br />
+      <strong>Rev. Dr. Abraham V.M.,</strong> Pro Chancellor, Christ University </p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>11/11/2010 &amp; 12/11/2010 </strong><br />
+      NAAC    sponsored National Conference on    Quality Management in Higher Education - Role of IQAC</p></td>
+    <td width="383" valign="top"><p><strong>Prof.    Pramila Maini,</strong> Director, Institute of Excellence in Higher Education &amp; Executive Council Member, NAAC<br />
+      <strong>Dr. Jagannath Patil</strong> Deputy Advisor, NAAC<br />
+      <strong>Rev. Dr. B. Jeyaraj SJ</strong> Principal, Loyola College, Chennai<br />
+      <strong>Prof. K. Subba Rao,</strong> Director (Quality), K.L. University<br />
+      <strong>Dr. Nirmala Prasad</strong> Principal, M.O.P Vaishnav College for Women, Chennai<br />
+      <strong>Rev. Dr. Joseph P.P</strong> Principal, B.S.S.S Bhopal<br />
+      <strong>Rev. Dr. Abraham V.M.</strong> Pro-Vice Chancellor, Christ University,    Bangalore</p></td>
+  </tr>
+  <tr>
+    <td width="243" valign="top"><p><strong>30/09/2009 &amp; 01/10/ 2009</strong><br />
+      National Conference on Dynamics of Indian Higher Education System    and Challenges</p></td>
+    <td width="383" valign="top"><p><strong>Prof. N.    R. Shetty,</strong> Former VC, Bangalore University &amp; President, Indian Society for Technical Education<br />
+      <strong>Dr. R. S. Deshpande,</strong> Director, ISEC<br />
+      <strong>Dr. R. Sudha Rao,</strong> Former VC, KSOU and Professor, NUEPA, New Delhi<br />
+      <strong>Dr. Mariamma Varghese,</strong> Former VC, SNDT University, Mumbai &amp; Former    Senior Academic Consultant, NAAC<br />
+      <strong>Prof. Thimmiya A.M.</strong> Senior Vice President &amp; Head - Distributed    Learning, Manipal University<br />
+      <strong>Rev. Dr. Thomas C. Mathew,</strong> Vice Chancellor, Christ University,    Bangalore<br />
+      <strong>Ms. Seethalakshmi</strong> Metro Editor, Times of India<br />
+      <strong>Dr. M. Prakash</strong> Principal, Seshadripuram College, Bangalore<br />
+      <strong>Dr. Sudhanshu Bhushan,</strong> Professor &amp; Head, Dept. of Higher and    Professional Education, NUEPA, New Delhi<br />
+      <strong>Prof. Srikanth</strong> Dean, Tata Institute of Fundamental Research </p></td>
+  </tr>
+</table>
+				
+                                    <p><b style="color: #cd6e08;font-weight: bold;">IQAC organizes various programmes to enhance skills of the faculty members</b></p>
+                                    <ul><li>Special lecture on “Role of Faculty in Quality Enhancement” by  Prof Sunil Kumar Gupta, Former VC, Himachal University [8/6/2017]</li>
+                                        <li>FDP on  Basic Academic Mentoring Skills – Dr. K. Sekar, Registrar, Prof & Head, Department of Psychiatric Social Work, NIMHANS [28-01-2016]</li>
+                                        <li>Special lecture on Journey towards becoming ‘College with Potential for Excellence’ [CPE,CE] was delivered by Dr. Ravindra Phadke, Vice Principal, Ramnarain Ruia College, Mumbai [17/6/2015]</li>
+                                        <li> Six Sigma Green Belt training in lean management was provided to all faculty members to improve the quality culture in the institution [May 1st- 3rd 2014] * Training session on Moodle to all faculty members [Oct 2014]</li>
+                                        <li> A one day workshop on Curriculum Design and Development was organized by Internal Quality Assurance Cell during the year 2013. Prof.V.D Bhat and Dr. U. Laxmi Narayana from the Regional institute of Education, Mysore guided the faculty about the stages of curriculum development</li>
+                                        <li>Faculty development programme on Institutional Integration and Enhancing Teaching Effectiveness at Kristu Jayanti College [03.06.13 & 04.06.13]</li>
+                                        <li> IQAC extension programme - "Role of teachers in quality enhancement initiatives" offered to teaching faculty of St. Anne’s Degree College, Bangalore on 7th January 2012.</li>
+                                        <li> A case study on 'Kristu Jayanti Quality Sustenance and Enhancement' was presented by Prof. Aloysius Edward at Pazzhasi Raju College (PRNSS), Kannur, Kerala on 30th June, 2012</li>
+                                        <li> Session on Autonomy Perspectives and Responses (2012)</li>
+                                        <li> Workshop on 'Moving Towards Autonomy' Role of Teachers in Autonomy - Dr.S.Ravichandra Reddy(Former Acting Director NAAC, Bangalore) 14/06/2011</li>
+                                        <li> 5th -7th April, 2011: Prof. Aloysius Edward, Coordinator of IQAC was deputed to participate and deliberate at the International Network for Quality Assurance Agencies in Higher Education Conference at Madrid, Spain</li>
+                                        <li> Workshop on Autonomy - Tasks and Challenges (2010)</li>
+                                        <li> One day session on 'Road map to autonomy - Teaching learning methods' at Christ College, Bangalore (July 18, 2009)</li>
+                                        <li>IQAC of the college has been invited to organize workshops on quality sustenance and enhancement at various Higher Education Institutions</li></ul>
 
-* One day session on 'Road map to autonomy - Teaching learning methods' at Christ College, Bangalore (July 18, 2009)<br>
-* Workshop on Autonomy - Tasks and Challenges (2010)<br>
-* Workshop on 'Moving Towards Autonomy' Role of Teachers in Autonomy - Dr.S.Ravichandra Reddy(Former Acting Director NAAC, Bangalore) 14/06/2011<br>
-* Session on Autonomy Perspectives and Responses (2012)<br>
-* A one day workshop on Curriculum Design and Development was organized by Internal Quality Assurance Cell during the year 2013. Prof.V.D Bhat and Dr. U. Laxmi Narayana from the Regional institute of Education, Mysore guided the faculty about the stages of curriculum development<br>
-* Faculty development programme on Institutional Integration and Enhancing Teaching Effectiveness at Kristu Jayanti College [03.06.13 & 04.06.13]<br>
-* 5th -7th April, 2011: Prof. Aloysius Edward, Coordinator of IQAC was deputed to participate and deliberate at the International Network for Quality Assurance Agencies in Higher Education Conference at Madrid, Spain<br>
-*IQAC of the college has been invited to organize workshops on quality sustenance and enhancement at various higher education institutions<br>
-* IQAC extension programme - "Role of teachers in quality enhancement initiatives" offered to teaching faculty of St. Anne’s Degree College, Bangalore on 7th January 2012.<br>
-* A case study on 'Kristu Jayanti Quality Sustenance and Enhancement' was presented by Prof. Aloysius Edward at Pazzhasi Raju College (PRNSS), Kannur, Kerala on 30th June, 2012<br>
-* Six Sigma Green Belt training in lean management was provided to all faculty members to improve the quality culture in the institution [ May 1st- 3rd 2014]
-										* Training session on Moodle to all faculty members [Oct 2014]</p>
-									
-									
 									
                                 </div>
                             </div>

@@ -110,22 +110,26 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;IQAC <strong>Functions </strong></span></h4>
+                                        <span>&nbsp;IQAC  <strong> Functions </strong></span></h4>
+                                    
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Internal Quality Assurance Cell (IQAC)</b></p>
 									
-									<p align=justify>Quality of higher education and Quality of life are inter-dependent. Quality in higher education ensures students achieve their goals and thereby satisfies the needs of society and help in national development. All stakeholders have to be fully engaged in the endeavour of quality assurance of the higher educational institutions.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Quality Policy</b><br>
+                                        We are committed to strenuously endeavour for enlightenment through a holistic educational process, grounded in spiritual values, monitored and enriched through self-evaluation and continuous improvement.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">IQAC  - Functions</b>
+                                    <ul><li>Quality enhancement through internalization of quality culture </li>
+                                        <li>Development of  benchmarks  for the various academic and administrative activities of the college</li>
+                                        <li>Creation of a learner-centric environment, conducive for quality education and curriculum updation</li>
+                                        <li>Quality Assurance through documentation and academic audit</li>
+                                        <li>Institutionalization of Best Practices</li>
+                                        <li>Quality improvement through interactive forums </li>
+                                        <li>Preparation of mandatory quality reports</li>
+                                        <li>Lead the institution for assessment, accreditation and awards</li>
+                                        <li>Assistance to institutions in their quest for quality</li></ul>
 
-									<p align=justify>Kristu Jayanti College, Bangalore has an effective internal quality assurance system to build and ensure a quality culture at the institutional level since its inception. Each department had quality circles with appropriate structure and processes under the guidance of Quality Assurance Cell until the College got accreditation by NAAC in October 2009. Internal Quality Assurance Cell ( IQAC) was established in November 2009 as the post accreditation quality sustenance activity. The IQAC plans, guides and monitors Quality Assurance (QA) and Quality Enhancement (QE) activities of the college. The IQAC channelises and systematizes the efforts and measures of the college towards excellence in all its spheres.</p>
 
-									<p><b>*</b> To develop a quality system for conscious, consistent and catalytic programmed action to improve the academic and administrative performance of the college<br>
-<b>*</b> To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices.<br>
-<b>*</b> To develop benchmarks/parameters for the various academic and administrative activities of the college<br>
-<b>*</b> To facilitate the creation of a learner-centric environment conducive for quality education<br>
-<b>*</b> To obtain feedback responses from students, parents and other stakeholders on quality-related institutional processes<br>
-<b>*</b> To disseminate information on the various quality parameters of higher education<br>
-<b>*</b> To organ ize inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles<br>
-										<b>*</b> To maintain documentation of the various programmes/activities of the college, leading to quality improvement</p>
 
                                 </div>
                             </div>

@@ -342,25 +342,7 @@
 						</table>
                     </li>-->
 					
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">1-31</p>
-                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
-								<td>
-								<p style="margin-top: 2px; margin-bottom: 0px;">
-								    School of Management (MBA &amp; PGDM) III Trimester - Internship / Organizational Study
-								</p>
-								<!--<a href="#" class="read-more">
-                                    Read More 
-                                    <i class='fa fa-angle-double-right'></i>
-								</a>-->
-								</td>
-							</tr>
-                        </table>
-                    </li>
+                    
 					
 					<!--<li class="news-item">
                         <table cellpadding="4">
@@ -441,6 +423,48 @@
 							</tr>
                         </table>
                     </li>-->
+                    
+                   
+					
+					<!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">6</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								 Department of Computer Science[PG] organizing Two day Workshop on "Networking and Network Security" for V Semester MCA students.. 
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=networking-network-security.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">1-31</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								    School of Management (MBA &amp; PGDM) III Trimester - Internship / Organizational Study
+								</p>
+								<!--<a href="#" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>-->
+								</td>
+							</tr>
+                        </table>
+                    </li>
 					
 					<li class="news-item">
                         <table cellpadding="4">
@@ -467,26 +491,6 @@
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">6</p>
-                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
-								<td>
-								<p style="margin-top: 2px; margin-bottom: 0px;">
-								 Department of Computer Science[PG] organizing Two day Workshop on "Networking and Network Security" for V Semester MCA students.. 
-								</p>
-								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=networking-network-security.php" class="read-more">
-                                    Read More 
-                                    <i class='fa fa-angle-double-right'></i>
-								</a>
-								</td>
-							</tr>
-                        </table>
-                    </li>
-					
-					<li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
                                 <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">8</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
@@ -498,6 +502,42 @@
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-12</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Vth Semester B.Com with ACCA Expert Session on Governance, Risk and Ethics (P1) July (Class room no 207) 
+
+								</p>
+				
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-14</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Department of Commerce (UG) III Semester B.Com with ACCA Expert Session on Financial Reporting (F7) (Class room no  106)
+
+								</p>
+				
 								</td>
 							</tr>
                         </table>

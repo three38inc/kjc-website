@@ -81,9 +81,18 @@
 								 <div class="content-left myWelcome wow fadeIn">
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Department of <strong>English</strong></span></h4>
+                                   <span>&nbsp; M.A <strong>English Literatures</strong></span></h4>
 									 
-                                     <p align=justify>The Department of English introduces the students to literature across different genres and historical periods. The Dept aims at providing  instruction and carrying out research in both traditional and contemporary areas of English studies. Our faculty are pursuing their projects  and research on British/American Literature, Indian writing and diaspora, indigenous cultures  and literature, gender studies, postcolonial literature, and film studies. The dept makes every effort to take the students beyond the syllabus in a variety of  forums. Our programme offers myriad opportunities for intellectual enrichment and holistic development. We have week-end enrichment sessions consisting of quizzes, debates, talks, presentations , poetry  recitation and discussions on interdisciplinary topics. The Department newsletter provides the students an important venue for publishing  their stories , poems and articles.  We have a long line of experts on various genres of literature, practicing translators, specialists in theatre and  academic stalwarts of repute visiting  the campus at regular intervals.</p>
+                                    <p align=justify>Masters in English Literature is a two year course aimed with the objective of familiarizing students to a wide gamut of emerging areas of literary study, to inculcate in them an essence of critical exploration and develop their analytical and ingenious aptitude. Papers on language, structure and teaching of English have been included to serve as the ‘window to the world’ and to orient students to meet the challenges of a rapidly evolving world.</p>
+                                     <p><b>Course Objective:</b></p>
+                                     <ul><li>To introduce students to cutting-edge erudition and scholarly activity in order to provide an avenue to seek a career in university teaching and literary learning.</li>
+                                         <li>To develop in students strong methodical skills and a grounding in diverse critical and theoretical approaches. </li>
+                                         <li>To introduce them to the socio-cultural milieu of different periods.</li>
+                                         <li>To equip students with a detailed and sophisticated understanding of English and related literatures, and support students’ critical and creative engagement with issues crucial to English literary studies.</li></ul>
+                                     <p><b>Best Practices </b></p>
+                                     <ul><li>Expressions: A creative Journal</li>
+                                         <li>Language corner and</li>
+                                         <li>Society of poets </li></ul>
 
                                 
                                

@@ -250,9 +250,9 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Centre for Research</h4></a>
+                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Center for Research</h4></a>
                       <p>
-                      The Centre for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
+                      The Center for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/centre_for_research.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -262,7 +262,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" ><h4>Research Projects</h4></a>
                       <p>
-                       The Centre for Research has initiated a good number of research projects, inculcating the research temperament.
+                       The Center for Research has initiated a good number of research projects, inculcating the research temperament.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -312,7 +312,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Centre in Biotechnology</h4></a>
                       <p>
-                        The Department has been endowed the status of a Research Centre in Biotechnology providing a guiding framework for the research programmes.
+                        The Department has been endowed the status of a Research Center in Biotechnology providing a guiding framework for the research programmes.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -322,7 +322,7 @@
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php"><h4>Research Center in Social Work</h4></a>
                       <p>
-                       The Department of Social Work has culminated into a Research Centre, providing scholarly leadership for the profession of social work through evaluative measures.
+                       The Department of Social Work has culminated into a Research Center, providing scholarly leadership for the profession of social work through evaluative measures.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -508,11 +508,11 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                        <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php"><h4>Coaching Center</h4></a>
+                        <a href="<?php echo $ROOT; ?>/student_services/coaching_center.php"><h4>Coaching Center</h4></a>
                       <p>
                       The college offers scrupulous coaching for the competitive examinations in association with ‘TIME’.
                       </p>
-                      <a href="<?php echo $ROOT; ?>/student_services/counselling_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="<?php echo $ROOT; ?>/student_services/coaching_center.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 

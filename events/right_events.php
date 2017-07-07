@@ -24,6 +24,17 @@
 </style>
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="networking-network-security.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 03 </span></td>
+                <td class="event-dates">
+                  <p>  Department of Computer Science[PG] organizing Two day Workshop on "Networking and Network Security" for V Semester MCA students..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
 	
 	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="guest_lecture_women_empo.php">
         <table cellpadding="4">
