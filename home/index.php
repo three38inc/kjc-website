@@ -320,7 +320,7 @@
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks color-2 wow fadeIn" style="min-height: 20px;">
                                         <a href="http://alumni.kristujayanti.edu.in/">
-                                            <h4><i class="fa fa-link c2" style="font-size: 20px;"></i> &nbsp;&nbsp;Alumini Connect</h4>
+                                            <h4><i class="fa fa-link c2" style="font-size: 20px;"></i> &nbsp;&nbsp;Alumni  Connect</h4>
                                         </a>
                                     </div>
                                 </div>
@@ -334,7 +334,7 @@
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks color-4 wow fadeIn" style="min-height: 20px;">
                                         <a href="../career/career.php">
-                                            <h4><i class="fa fa-suitcase c4" style="font-size: 20px;"></i> &nbsp;&nbsp;Career Vacancies</h4>
+                                            <h4><i class="fa fa-suitcase c4" style="font-size: 20px;"></i> &nbsp;&nbsp;Career Opportunities</h4>
                                         </a>
                                     </div>
                                 </div>

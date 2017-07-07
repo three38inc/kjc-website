@@ -137,7 +137,7 @@
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/home/academic-calendar.php">
                             <div class="accTabs color-1">
-                                <h2><i class="flaticon-kjc-calendar c1"></i>Academic Calender</h2>
+                                <h2><i class="flaticon-kjc-calendar c1"></i>Academic Calendar</h2>
                             </div>
                         </a>
                     </div>
