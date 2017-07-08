@@ -109,28 +109,56 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                     <br/>
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Academic Programs</span>
+                                        <span>&nbsp; Achivements</span>
                                     </h4>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">1)	Management Exhibitions:</b></p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">a)	Banque:</b>  In order to inculcate practical understanding of banking operations and it’s functioning; the Department of Management organizes and conducts an annual banking exhibition by the name of, Banque. This platform is exclusively for final year students as they showcase their talent by the way of models and reports. Concepts such as money laundering and bitcoins are expressed by way of models, and create a better understanding on the same.</p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">b)	Savishkar:</b> Savishkar is an exhibition organized exclusively for the first years by the Department of Management, where students develop prototypes on assigned management topics. This event aims at equipping students with a better understanding of management concepts and presenting the same in creative and innovative methods. Concepts of economics, banking facilities, supply chain management, etc. is expressed by way of models and charts. </p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">c)	Koushala:</b> The services sector in India is dominant contributor to our country’s GDP. It has also attracted significant foreign investment flows, contributed significantly to exports as well as provided large-scale employment. India’s services sector covers a wide variety of activities such as trade, hotel and restaurants, transport, storage and communication, Information Technology, financing, insurance and various other business services. Keeping this in mind, Koushala is an exhibition organized exclusively for the second year students, to incorporate in them a clear understanding of various services and its importance. </p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">2)	Anveshan:</b>  Anveshan is an annual paper presentation competition of the department conducted for the final year students to nurture and promote the spirit of research. The students are divided into groups of two and are encouraged to conduct a research based on their chosen specialization (Finance, marketing, human resource).</p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">3)	Innovatio:</b> Innovatio is yet another co-curricular programme conducted with exclusivity for the final year students of the Department of Management. With the “entrepreneurship buzz” going around in the nation, Innovatio is a platform where students are encouraged to identify an innovative business idea and present a detailed plan covering all aspects of the business. The main purpose of this programme is to develop entrepreneurship ability, and to inculcate the needed confidence and knowledge to start a business. </p>
-
-                                    <p><b style="color: #cd6e08;font-weight: bold;">4)	Industrial Visit:</b> While filling in the vessel of education in a student’s life within the four walls of a classroom, it is also important to kindle the flame of education via practical exposure. Through industrial visits students are introduced to various production and operational techniques in order to update them on the latest developments in the industry. Visits to small, medium, and large scale industries are organized. Industries that were visited in the past include- Sarwottam Ispat, Khaitan Electricals Limited, Agi Glaspac Pvt Ltd, Hartex Rubber Industry ( All of which are located in Hyderabad </p>
-
-
-
+                                    <p><b>CONSLIDATED REPORT OF STUDENTS’ ACHIEVEMENTS DURING 2013-2017</b></p>
+<table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td width="106" valign="top"><p align="left"><strong>Academic year </strong></p></td>
+    <td width="102" valign="top"><p align="left"><strong>Number of fests participated</strong></p></td>
+    <td width="100" valign="top"><p align="left"><strong>Overall Winners trophies </strong></p></td>
+    <td width="99" valign="top"><p align="left"><strong>Overall runners trophies </strong></p></td>
+    <td width="99" valign="top"><p align="left"><strong>Number of prizes won </strong></p></td>
+  </tr>
+  <tr>
+    <td width="106" valign="top"><p>2016-17 </p></td>
+    <td width="102" valign="top"><p align="center">09</p></td>
+    <td width="100" valign="top"><p align="center">03</p></td>
+    <td width="99" valign="top"><p align="center">01</p></td>
+    <td width="99" valign="top"><p align="center">42</p></td>
+  </tr>
+  <tr>
+    <td width="106" valign="top"><p>2015-16 </p></td>
+    <td width="102" valign="top"><p>12</p></td>
+    <td width="100" valign="top"><p>02</p></td>
+    <td width="99" valign="top"><p>01</p></td>
+    <td width="99" valign="top"><p>64</p></td>
+  </tr>
+  <tr>
+    <td width="106" valign="top"><p>2014-15 </p></td>
+    <td width="102" valign="top"><p align="center">04</p></td>
+    <td width="100" valign="top"><p align="center">---</p></td>
+    <td width="99" valign="top"><p align="center">----</p></td>
+    <td width="99" valign="top"><p align="center">11</p></td>
+  </tr>
+  <tr>
+    <td width="106" valign="top"><p>2013-14</p></td>
+    <td width="102" valign="top"><p align="center">10</p></td>
+    <td width="100" valign="top"><p align="center">02</p></td>
+    <td width="99" valign="top"><p align="center">----</p></td>
+    <td width="99" valign="top"><p align="center">19</p></td>
+  </tr>
+  <tr>
+    <td width="106" valign="top"><p align="center"><strong>Total</strong></p></td>
+    <td width="102" valign="top"><p align="center"><strong>50</strong></p></td>
+    <td width="100" valign="top"><p align="center"><strong>07</strong></p></td>
+    <td width="99" valign="top"><p align="center"><strong>02</strong></p></td>
+    <td width="99" valign="top"><p align="center"><strong>136</strong></p></td>
+  </tr>
+</table>
 
                                 </div>
                             </div>
@@ -175,7 +203,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_programs.php" style="color: #2980b9;font-weight: bold;">Academic Programs</a></p>
+                                        <p><a class="a-link-arrow" href="academic_programs.php">Academic Programs</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">
@@ -284,7 +312,7 @@
         })();
 
     </script>
-    <script src="../../../../js/modernizr.custom.js"></script>
+  <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>

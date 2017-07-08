@@ -193,7 +193,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

@@ -115,13 +115,30 @@
                                         <span>&nbsp; Best Practices</span>
                                     </h4>
 
-                               <p>The Department of Management adopted some unique practices for the benefit of the students. Following are the major best practices of the department.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Some of the best practices of the Department are as follows:</b></p>
 
-                                    <li>Workshop on management concepts called "Virtuoso" for the fresher by the seniors</li>
-                                    <li>Student attendance regulatory system to monitor the regularity of the students on hourly basis.</li>
-                                    <li> The department has introduced mentoring system, where each class animator has given the responsibility to monitor the growth of each student with help of mentor's handbook.</li>
-                                    <li> We have introduced "No due slip" during the even semester, which will monitor the readiness of students to prepare for examination.</li>
-                                    <li>"Meet your alumni", an interactive program, where the students have benefited by interacting with their alumnae, who settled in corporate.</li>
+                                    <ul><li>Social Responsibility Week</li>
+                                        <li>Virtuoso</li></ul>
+
+                                    <p><b style="color: #cd6e08;font-weight: bold;">a.	Social Responsibility Week</b><br>
+
+                                        Social Responsibility Week is an innovative event designed by the department to sensitize the students on the various social issues of the society</p>
+
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Objective:</b></p>
+                                    <ul><li>Creating awareness among the students</li>
+                                        <li>Creative means of spreading awareness to masses</li>
+                                        <li>Brain storming methods to eradicate the issues</li></ul>
+
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Description:  </b><br>
+                                        During the Social Responsibility Week, a theme is identified based on the relevant and prevailing social issues. Various events are designed around the identified theme. Guest lecture, awareness campaigns, outreach programs etc. are organised based on the theme selected.</p>
+
+                                    <p><b style="color: #cd6e08;font-weight: bold;">b.	Virtuoso: </b><br>
+
+                                        Virtuoso is a management workshop conducted by Department of Management and organized by the Final year students of BBA for the fresher students, to orient them with several aspects of management and providing an insight of the various situations a person can encounter in the business/ corporate world.</p>
+
+                                    <p>In the past academic year there where around 235 students divided into 16 groups of 15 members each, participated in five different events such as Best Manager, Marketing, Finance, Human Resources and Business Quiz.</p>
+
+
 
                                     
                                 </div>
@@ -195,7 +212,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

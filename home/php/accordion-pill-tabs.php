@@ -233,6 +233,13 @@
                             </div>
                         </a>
                     </div>
+                    <div class=" col-lg-4 col-xs-12 exam">
+                        <a href="http://results.kristujayanti.edu.in/" target="_blank">
+                            <div class="accTabs color-6"> 
+                                <h2><i class="flaticon-kjc-extension c1"></i>View Exam Result</h2>
+                            </div>
+                        </a>
+                    </div>
                     <div class=" col-lg-4 col-xs-12 student">
                         <a href="<?php echo $ROOT ; ?>/studentlife/art_culture.php">
                             <div class="accTabs color-7">

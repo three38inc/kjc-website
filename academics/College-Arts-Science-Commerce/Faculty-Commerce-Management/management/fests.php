@@ -114,10 +114,13 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Fests</span>
                                     </h4>
-                                 <p><b style="color: #cd6e08;font-weight: bold;">Acumen:</b><br>
-                                        Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Prodigy:</b><br>
-                                        Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore. </p>
+             
+                                    <p> <b style="color: #cd6e08;font-weight: bold;">1)	Acumen:</b>  Acumen is an annual intra-collegiate fest organized by the final year students of Department of Management to their juniors. This event is conducted mainly with the view of inculcating managerial skills and nurturing the personalities of the first year and the second year students. The programme facilitates in analyzing and in identifying the hidden talents of these students. This management festival has themes based on which the events are integrated with.</p>
+
+                                    <p> <b style="color: #cd6e08;font-weight: bold;">2)	Prodigy:</b> Prodigy is an annual inter-collegiate management fest, conducted mainly with the view of inculcating managerial skill and cultivating the potentialities of varied participants. These participants, from colleges across the southern part of the nation, compete in events such as Human Resources, Finance, Marketing, Best Manager, Entrepreneurship Development, Business Quiz and the likes. </p>
+
+                                    <p> <b style="color: #cd6e08;font-weight: bold;">3)	Ad-Extravaganza:</b> With advertising taking on a mantle of a role in various stages of business, events and other fields, it becomes of paramount importance to weave skills such as creativity, communication, etc. into one fine tapestry in order to deliver. Ad -Extravaganza is an inter-collegiate advertisement fest conducted by the Department of Management. The fest aims at creating a platform for the students to showcase their skills in the area of advertisement and build on the same.</p>
+
 
                                 </div>
                             </div>
@@ -190,7 +193,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

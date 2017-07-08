@@ -112,20 +112,13 @@
                                    <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; Career Development Courses</span>
+                                        <span>&nbsp; Certificate and <strong> Credit Courses</strong></span>
                                     </h4>
+                                    <ul><li><b style="color: #cd6e08;font-weight: bold;">Business Analytics using MS Excel (Certificate Course)</b><br>
+                                        Business Analytics is a field which combines data, information technology, statistical analysis, quantitative methods and computer-based models into one. It has a wide range of application from customer relationship management, financial management, marketing, supply-chain management, human-resource management, pricing, etc. There is a huge demand in the market for project managers with big data expertise. Therefore the department offers a certificate course on the same for the final year students to be well equipped with the skill and become employable.</li>
+                                        <li><b style="color: #cd6e08;font-weight: bold;">Aptitude Skills (Credit Course)</b><br>
+                                            It is essential for students to be not just equipped with subject knowledge but also have good aptitude skills (Numerical, Verbal and Logical reasoning ability). These skills are mandatory to clear competitive exams like IBPS, CAT, MAT, etc. Any company that approaches the college for campus recruitment first tests the aptitude level of the students and then proceeds with interview. Hence the department offers a credit course on the same for the second year students.</li></ul>
 
-                              <p>In order to provide the students an opportunity to learn about various essential skills and knowledge to get an edge over others in terms of employment and higher education, the following career development courses (CDC) are offered to the students. The following courses are not included in the computation of CGPA.</p>
-
-                                    <li>II Semester- Executive Communication</li>
-
-                                    <li>III Semester- Data Analysis for Business Decisions using spread sheet</li>
-
-                                    <li>IV Semester- Event Management</li>
-
-                                    <li>V Semester- Aptitude Training</li>
-
-                                    <li>VI Semester- Personal Branding</li>
 
                                     
                                 </div>
@@ -199,7 +192,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php" style="color: #2980b9;font-weight: bold;">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php" style="color: #2980b9;font-weight: bold;">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

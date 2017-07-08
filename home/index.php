@@ -319,7 +319,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="content-spl sideLinks color-2 wow fadeIn" style="min-height: 20px;">
-                                        <a href="http://alumni.kristujayanti.edu.in/">
+                                        <a href="http://alumni.kristujayanti.edu.in/" target="_blank">
                                             <h4><i class="fa fa-link c2" style="font-size: 20px;"></i> &nbsp;&nbsp;Alumni  Connect</h4>
                                         </a>
                                     </div>

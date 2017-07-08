@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,18);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,13);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -32,41 +32,10 @@
     <script src="../../../../js/respond.js"></script>
     <script src="../../../../js/custom.js"></script>
     <script src="../../../../js/fakeLoader.js"></script>
-    <style>
-        .link-arrow a.a-link-arrow::before {
-            left: 0px;
-            z-index: -1;
-            width: 100%;
-            background: #f3f3f3;
-        }
-        
-        .link-arrow {
-            /* background: rgba(149,165,166,0.4); */
-            background: rgba(255, 255, 255, 0);
-        }
-        
-        .link-arrow a.a-link-arrow {
-            left: 10px;
-        }
-        
-        .menu-list ul li {
-            background: transparent;
-        }
-        
-        .side-menu {
-            background: transparent;
-        }
-        
-        .content-right {
-            background: transparent;
-            box-shadow: none;
-        }
 
-    </style>
 </head>
 
 <body>
-    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -90,66 +59,59 @@
     </script>
     <div class="container-fluid">
         <div class="row">
-            <?php include ('../../../../php/navbar.php');  ?>
+            <?php require ("../../../../php/navbar.php"); ?>
         </div>
     </div>
     <div id="st-container" class="st-container">
-        <?php include('../../../../php/offCanvasMenu.php'); ?>
+        <?php include("../../../../php/offCanvasMenu.php"); ?>
         <!-- content push wrapper -->
         <div class="st-pusher">
             <div class="st-content">
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
+
+
+
                         <div class="row">
-                            <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
-                                <div class="content-left myWelcome wow fadeIn">
-                                    <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                  
-                                    <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                           <span>&nbsp;Faculty <strong>Profile</strong></span>
-                                    </h4>
-                                  <div class="profile-page">
-                                    <div id="page">
+								 <div class="content-left myWelcome wow fadeIn">
 
-                                    </div>
+                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                   <span>&nbsp; Erudite <strong> Club </strong></span></h4>
+									 
+                                     <p>The initiative to institute Erudite Club as a way of eliminating ignorance and darkness from students’ mind by empowering the usage of language proficiency as the virtue of intelligence and wisdom.  The graduates find themselves profoundly prepared to connect emotionally with fellow citizens and communicate meaningfully in society.</p>
+                                     <p><b>The following are some of the outstanding programs conducted by Erudite Club:-</b></p>
+                                     <ul><li>Delphia – To create an interest in global literature and bring the characters alive in the mind of scholars through literary competition and live exhibition.</li>
+                                         <li>Expression – Which gives a platform to write poem and short stories</li>
+                                         <li>Society of Poets – To instil and understand on spoken words poetry </li>
+                                         <li>Theatre performance - To enjoy the language by doing.</li></ul>
 
-                                    <div class="row profile-pagination">
-                                        <ul class="pagination pagination-sm">
-                                            <li class="active"><a href="#" data-value="page1">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-                                            <li><a href="#" data-value="page3">3</a></li>
-                                          
-                                        </ul>
-                                    </div>
-                                </div>
-								</div>
-                            </div>
-                            <div class="col-lg-3">
+
+                                     <center><img src="images/erudite-club.jpg"></center>
+                               
+
+								</div></div>
+                            <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Programs Offered </strong></span>
+                                        <span>&nbsp; <strong>Programs Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bba.php">BBA Bachelor of Business Administration</a></p>
+                                        <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
                                     </section>
-
-
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bba_integrated.php">BBA CGMA Integrated</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPNG</a></p>
                                     </section>
-
-
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">One year PG Diploma Programme <font size=2>(Working Executives)</font></a></p>
-                                    </section> </div>
-                                
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPsEng</a></p>
+                                    </section>
+                                    
+                                     </div>
                                 
                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -159,104 +121,76 @@
                                         </h4>
                                         
                                         
-                                
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission.php" style="color: #2980b9;font-weight: bold;">Vision & Mission</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="acadmic_calendar.php">Academic Calender</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_programs.php">Academic Programs</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="fests.php">Fests</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
+                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                    </section> 
-                                    
+                                    </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="association.php">Association</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="infrastructure.php">Infrastructure</a></p>
+                                    </section>
+
+
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="achivements.php">Achievements</a></p>
-                                    </section> 
-                                    
+                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                    </section>
+
+
                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="students_publications.php">Students Publications</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="kjc_tv.php">KJC TV</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="kjc_radio.php">KJC Radio</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="vac.php">VAC</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_opportunity.php">Career Opportunity</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="curriculm.php">Curriculum</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="schedule_examination.php">Schedule of Examination</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_projects.php">Academic Projects</a></p>
-                                    </section> 
-                                    
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="department_magazine.php">Department Magazine</a></p>
-                                    </section> 
-                                    
-                                    
-                                    
-                                    
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
+                                    </section>
+                                        
+                                      <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
+                                    </section>
+                                        
+                                        
                                     </div>
                                 
                                 
-                                
-                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                        </h4>
-
-                                        <?php include ('../../../../php/sideMenu.php'); ?>
-                                    </div>
-
-
-
-                                   <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
+<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
+                                    <h4 style="margin-left:10px;" class="mainheading">
+                                        <i class="fa fa-bookmark"></i>
+                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
+                                    </h4>
+                                    <?php include ('../../../../php/sideMenu.php'); ?>
+                                </div>
+                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
+                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
                                         <div class="fb-xfbml-parse-ignore">
                                             <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
                                         </div>
                                     </div>
                                 </div>
 
-                                </div>
-
                             </div>
                         </div>
+                        </div></div>
 
-                    </div>
-
-                    						                                </div>
                     <?php include ('../../../../php/alerts.php');  ?>
                     <?php include('../../../../php/footer.php'); ?>
                     <?php include('../../../../php/morphingSearch.php'); ?>
-<!--                </div>-->
+                </div>
 
 
 
@@ -266,10 +200,10 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
-    <!--st-container-->
+    <!--        </div> st-container -->
 
-    <script src="../js/cbpFWTabs.js"></script>
+    <!--<script src="../js/cbpFWTabs.js"></script>-->
+	
     <script>
         (function() {
 
@@ -280,7 +214,7 @@
         })();
 
     </script>
-  <script src="../../../../js/modernizr.custom.js"></script>
+   <script src="../../../../js/modernizr.custom.js"></script>
     <script src="../../../../js/spin.min.js"></script>
     <script src="../../../../js/mySpin.js"></script>
     <script src="../../../../js/swipeview.js"></script>
@@ -303,7 +237,6 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-	 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script>
         $("document").ready(function() {
             //below code is for retrieving corresponding pages #START
@@ -337,7 +270,6 @@
         });
 
     </script>
-
 </body>
 
 </html>
