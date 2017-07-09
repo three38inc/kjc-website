@@ -12,14 +12,20 @@
         /* Select queries return a resultset */
         if ($result = $link->query("SELECT * FROM `login` WHERE `user`= '".$user."' and `pass`= '".$pass."' LIMIT 1")) {
             if($result->num_rows){
-                
-                $_SESSION["logged-user"]=$user;
-                //$_SESSION["preserve-session"]=$remember;
-                header("Location: index.php");
+                $res=mysqli_fetch_array($result);
+                if($res['pass']==$pass){
+                    $_SESSION["logged-user"]=$user;
+                    //$_SESSION["preserve-session"]=$remember;
+                    header("Location: index.php");
+                }
+                else
+                {
+                    $notification1="error1";
+                }
             }
             else{
 
-                $notification1="true";
+                $notification1="error2";
             }
             /* free result set */
             $result->close();
@@ -154,9 +160,13 @@
 
     <?php 
     
-        if($notification1=="true"){
+        if($notification1=="error2"){
             echo "<script>(function() {
             $.Notification.autoHideNotify('error', 'top right', 'Wrong Login Credentials...','The Username or Password is Invalid.');})();</script>";
+        }
+        if($notification1=="error1"){
+            echo "<script>(function() {
+            $.Notification.autoHideNotify('error', 'top right', 'Sql Injection...','Plese refrain from illegal hacking.');})();</script>";
         }
     ?>
 </body>

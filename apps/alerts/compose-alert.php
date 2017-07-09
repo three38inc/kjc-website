@@ -42,6 +42,17 @@
             background-color: #36404a;
             height: 60px;
         }
+        
+        .ajax-loader {
+            visibility: hidden;
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url(assets/images/page-loader.gif) 50% 50% no-repeat rgb(249, 249, 249);
+        }
 
     </style>
 
@@ -49,7 +60,7 @@
 
 
 <body>
-
+    <div class="ajax-loader"></div>
 
     <?php include('snippets/navbar.php');?>
 
@@ -57,8 +68,8 @@
     <div class="wrapper">
         <div class="container">
 
-            
-    <?php include('snippets/page-title.php');?>
+
+            <?php include('snippets/page-title.php');?>
 
             <div class="row">
 
@@ -101,7 +112,7 @@
                                     <div class="form-group">
                                         <label class="col-lg-3 control-label">Subject</label>
                                         <div class="col-lg-9">
-                                            <input type="text" class="form-control" name="subject" value="" placeholder="The Subject Matter of the Alert"/>
+                                            <input type="text" class="form-control" name="subject" value="" placeholder="The Subject Matter of the Alert" id="alert-subject" />
                                         </div>
                                     </div>
                                     <div class="form-group">
@@ -113,7 +124,7 @@
                                         </div>
                                     </div>
                                     <div class="form-group text-right m-b-0">
-                                        <button class="btn btn-primary waves-effect waves-light" type="submit">
+                                        <button class="btn btn-primary waves-effect waves-light btn-submit" type="submit">
                                             Submit
                                         </button>
                                         <button type="reset" class="btn btn-default waves-effect waves-light m-l-5">
@@ -182,36 +193,127 @@
 
     <!--Summernote js-->
     <script src="assets/plugins/summernote/summernote.min.js"></script>
-    
+
     <!--Date range picker-->
     <script src="assets/plugins/moment/moment.js"></script>
     <script src="assets/plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
-    
+
     <!-- App core js -->
     <script src="assets/js/jquery.core.js"></script>
     <script src="assets/js/jquery.app.js"></script>
-    
+
     <script>
         jQuery(document).ready(function() {
 
             $('.inline-editor').summernote({
                 airMode: true
             });
+
+            var today_start=new Date();today_start.setHours(0,0,0);
+            var today_end=new Date();today_end.setHours(28, 88, 119);
+            
+            var tomorrow_start=new Date(new Date().getTime() + 24 * 60 * 60 * 1000);tomorrow_start.setHours(6,-30,0,0);
+            var tomorrow_end=new Date(new Date().getTime() + 24 * 60 * 60 * 1000);tomorrow_end.setHours(28, 88, 119);
+            
+            var nextweek_start=new Date();nextweek_start.setHours(0,0,0,0);
+            var nextweek_end=new Date(new Date().getTime() + 7 * 24 * 60 * 60 * 1000);nextweek_end.setHours(28, 88, 119);
+            
+            y = today_start.getFullYear(), m = today_start.getMonth();
+            var firstDay = new Date(y, m, 1);
+            var lastDay = new Date(y, m + 1, 0);
+            lastDay.setHours(28, 88, 119);
+            console.log(today_start);
+            console.log(today_start.toISOString("YYYY-MM-DD"));
+            console.log((new Date((new Date()).getTime() + 7 * 24 * 60 * 60 * 1000)));
+            
             $('.input-daterange-timepicker').daterangepicker({
                 timePicker: true,
-                timePickerIncrement: 30,
+                timePickerIncrement: 15,
                 locale: {
-                    format: 'MM/DD/YYYY h:mm A'
+                    format: 'YYYY-MM-DD hh:mm:ss a'
                 },
+                "ranges": {
+                    "Today": [
+                        today_start.toISOString(),
+                        today_end.toISOString()
+                    ],
+                    "Tomorrow": [
+                        tomorrow_start.toISOString(),
+                        tomorrow_end.toISOString(),
+                        
+                    ],
+                    "Next 7 Days": [
+                        nextweek_start.toISOString(),
+                        nextweek_end.toISOString()
+                    ],
+                    "This Month": [
+                        firstDay.toISOString(),
+                        lastDay.toISOString()
+                    ]
+                },
+                minDate: today_start,
+                startDate: today_start,
+                endDate: (new Date(today_start.getTime() + (8 * 24 * 60 * 60 * 1000)-1000)),
+
                 buttonClasses: ['btn', 'btn-sm'],
                 applyClass: 'btn-default',
-                cancelClass: 'btn-white'
+                cancelClass: 'btn-white',
+                "opens": "center",
+                "alwaysShowCalendars": true,
+            }, function(start, end, label) {
+                console.log("Date : " + start.format('YYYY-MM-DD') + " to " + end.format('YYYY-MM-DD') + " (predefined range: " + label);
             });
+
             $('.test').on('click', function(e) {
                 alert($('.note-editable').html());
             });
-            $('.input-daterange-timepicker').val("01/01/2015 1:30 PM - 01/01/2015 2:00 PM");
 
+            //$('.input-daterange-timepicker').val("01/01/2015 1:30 PM - 01/01/2015 2:00 PM");
+            $('.input-daterange-timepicker').on('apply.daterangepicker', function(ev, picker) {
+                console.log(picker.startDate.format('YYYY-MM-DD hh:mm:ss a'));
+                console.log(picker.endDate.format('YYYY-MM-DD hh:mm:ss a'));
+            });
+            $('.btn-submit').on('click', function(e) {
+                if ($("form")[0].checkValidity()) {
+                    if (confirm("Are you Sure to save?\nIf you want to review the alert message press Cancel\nOr Click OK to confirm Message.")) {
+                        $.ajax({
+                            type: 'post',
+                            beforeSend: function() {
+                                $('.ajax-loader').css("visibility", "visible");
+                            },
+                            url: "includes/save_alert_info.php",
+                            data: ({
+                                visibility_period: $('.input-daterange-timepicker').val(),
+                                subject: $('#alert-subject').val(),
+                                message: $('.note-editable').html()
+
+                            }),
+                            cache: false,
+                            success: function(e) {
+                                if (e == "error1") {
+                                    if (!alert("Oops ! Multiple Student Entry Found \n Failed to Register :)"))
+                                        location.reload();
+                                } else {
+                                    if (!alert("Oops something went wrong !!! Please do try again \n "))
+                                        location.reload();
+                                }
+                            },
+                            complete: function() {
+                                $('.ajax-loader').css("visibility", "hidden");
+                            },
+                            error: function(e) {}
+                        });
+                    }
+                } else {
+                    if (!alert("You are restricted to submit the Alert, due to anyone of the following conditions.\n1).Incorrect formats\n2).You have not filled mandatory fields")) {;
+                    }
+                }
+
+
+            });
+            $("form").submit(function(e) {
+                e.preventDefault();
+            });
         });
 
     </script>
