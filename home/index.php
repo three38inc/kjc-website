@@ -88,7 +88,7 @@
                     <div class="container">
                         <!--        <div class="row">-->
                         <div class="row empty" style="margin-bottom:9vh;"></div>
-                        <div class="row" style="padding:0% 5px;">
+                        <div class="row" style="padding: 4% 5px 0px;">
                             <?php include ('php/carouselMain-1.php'); ?>
                         </div>
                         <div class="row branchDiv" style="margin-top: 5px;margin-bottom: 5px;">
