@@ -25,6 +25,28 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 08 </span></td>
+                <td class="event-dates">
+                  <p>   Centre for Social Activities of Kristu Jayanti College is organising “Van-Mohotsava” at 8:00AM around Nagenahalli Lake Belt..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="expert-session-fundamentals-Management.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 3-7 </span></td>
+                <td class="event-dates">
+                  <p>    Department of Management (BBA) is organising an expert session on Fundamentals of Management Accounting for students of BBA with CIMA batch</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="networking-network-security.php">
         <table cellpadding="4">
             <tr>
