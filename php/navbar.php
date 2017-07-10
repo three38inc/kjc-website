@@ -228,31 +228,13 @@
          <li>
              <div class="yamm-content">
                 <div class="row">
-                  <div class="col-lg-3">
-                    <div class="menu">
-                      <h3>Quick Links</h3>
-                      <ul>
-                       <li><a href="<?php echo $ROOT; ?>/examination/introduction.php" title="Examination">Examination</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/placements/about_cecr.php" title="Placements">Placements</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/carrer/carrer.php" title="Our Carrers">Career</a></li>
-                       <li><a href="https://www.tcsion.com/SelfServices/" target="_blank" title="Attendance">Attendance</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/events/events.php" title="International">Recent Events</a></li>
-                       <li><a href="<?php echo $ROOT; ?>/notice/notice.php" title="International">Notices &amp; Announcements</a></li>
-						   <li><a href="<?php echo $ROOT; ?>/skydream/index.html" target="_blank">Research Grant</a></li>
-<!--
-                       <li><a href="#" title="Beyond Curriculum">Beyond Curriculum</a></li>
-                       <li><a href="#" title="Achivements">Achivements</a></li>
-                       <li><a href="#" title="Jayantian Special">Jayantian Special</a></li>
--->
-                    </ul>
-                    </div>
-                  </div>
+                  
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Center for Research</h4></a>
+                      <a href="<?php echo $ROOT; ?>/research/centre_for_research.php"><h4>Centre for Research</h4></a>
                       <p>
-                      The Center for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
+                      The Centre for Research actively promotes research and inculcates research culture, enriching and enhancing the professional competence.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/centre_for_research.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -262,7 +244,7 @@
                     <div class="menu-alt">
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" ><h4>Research Projects</h4></a>
                       <p>
-                       The Center for Research has initiated a good number of research projects, inculcating the research temperament.
+                       The Centre for Research has initiated a good number of research projects, inculcating the research temperament.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_projects.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -270,11 +252,11 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                      <a href="<?php echo $ROOT; ?>/research/patents.php"><h4>Patents</h4></a>
+                      <a href="http://www.kristujayanti.edu.in/skydream/index.html" target="_blank"><h4>Research Grant</h4></a>
                       <p>
-                       The College demonstrates its prospects for excellence by ensuring Academic freedom and adhering to innovative creations.
+                       Kristu Jayanti College, Autonomous, Bengaluru endeavours to spread the spirit of research and innovation among the academic.
                       </p>
-                      <a href="<?php echo $ROOT; ?>/research/patents.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="http://www.kristujayanti.edu.in/skydream/index.html" target="_blank" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 
@@ -300,19 +282,29 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                        <a href="<?php echo $ROOT; ?>/research/extension.php"><h4>Extension</h4></a>
+                        <a href="<?php echo $ROOT; ?>/research/extension.php"><h4>Service Learning</h4></a>
                       <p>
                         The College Extension services were instituted to coordinate extension activities and carry out Institutional Social Responsibility Initiatives.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/extension.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
+                    
+                    <div class="col-lg-3">
+                    <div class="menu-alt">
+                      <a href="<?php echo $ROOT; ?>/research/patents.php"><h4>Patents</h4></a>
+                      <p>
+                       The College demonstrates its prospects for excellence by ensuring Academic freedom and adhering to innovative creations.
+                      </p>
+                      <a href="<?php echo $ROOT; ?>/research/patents.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                    </div>
+                  </div>
 
-                  <div class="col-lg-3 col-lg-offset-3">
+                  <div class="col-lg-3">
                     <div class="menu-alt">
                         <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Centre in Biotechnology</h4></a>
                       <p>
-                        The Department has been endowed the status of a Research Center in Biotechnology providing a guiding framework for the research programmes.
+                        The Department has been endowed the status of a Research Centre in Biotechnology providing a guiding framework for the research programmes.
                       </p>
                       <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
@@ -320,11 +312,11 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php"><h4>Research Center in Social Work</h4></a>
+                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/research_activities.php"><h4>Research Centre in Social Work</h4></a>
                       <p>
-                       The Department of Social Work has culminated into a Research Center, providing scholarly leadership for the profession of social work through evaluative measures.
+                       The Department of Social Work has culminated into a Research Centre, providing scholarly leadership for the profession of social work through evaluative measures.
                       </p>
-                      <a href="<?php echo $ROOT; ?>/research/research_centre_in_social_work.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/research_activities.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 

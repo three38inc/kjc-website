@@ -80,20 +80,24 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
-									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+									
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Faculty <strong>Profile</strong></span>
 
                                 </h4>
 									
+<div class="profile-page">
+                                    <div id="page">
+
+                                    </div>
 
                                     <div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
                                             <li class="active"><a href="#" data-value="page1">1</a></li>
-                                            <li><a href="#" data-value="page2">2</a></li>
-											<li><a href="#" data-value="page3">3</a></li>
-											 
+											 <li class="active"><a href="#" data-value="page2">2</a></li>
+                                             <li class="active"><a href="#" data-value="page2">3</a></li>
+                                           
                                         </ul>
                                     </div>
                                 </div>
@@ -103,63 +107,21 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our  <strong>Domains</strong></span>
+                                     <span>&nbsp; Programs <strong> Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="english.php">English </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kannada.php">Kannada </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="hindi.php">Hindi </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="history.php">History </a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="political_science.php">Political Science</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/journalism.php">Journalism</a></p>
-                                    </section> </div>
-                                
-                                 <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span> Programs <strong>Offered</strong></span>
-                                        </h4>
-                                        
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_hep.php">BA HEP</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/ba_htj.php">BA HTJ</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPENG</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
                                     </section>
-                                        
-                                     </div></div>
-                                     
-                                     <div class="row" style="margin-left:2px; margin-right: 2px;">
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPNG</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPsEng</a></p>
+                                    </section>
+                                    
+                                     </div>
+                                
+                                <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
                                         <h4 style="margin-left:10px;" class="mainheading">
                                             <i class="fa fa-bookmark"></i>
@@ -173,20 +135,10 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php" style="color: #2980b9;font-weight: bold;">Activities</a></p>
+                                        <p><a class="a-link-arrow" href="erudite-club.php">Erudite Club</a></p>
                                     </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vision_mission.php">Vision & Mission</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="club_association.php">Club and Association</a></p>
-                                    </section>
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
-                                    </section>
+
+
                                         
                                          </div>
                                 
@@ -221,7 +173,7 @@
             <!--/st-content-inner-->
         </div>
         <!-- this is the wrapper for the content-->
-    </div>
+
     <!--st-pusher-->
     <!--        </div> st-container -->
 

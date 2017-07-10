@@ -99,7 +99,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; <strong>Programs Offered </strong></span>
+                                       <span>&nbsp; Programs <strong> Offered </strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
@@ -121,47 +121,14 @@
                                         </h4>
                                         
                                         
+                                        
                                          <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="infrastructure.php">Infrastructure</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="students_publications.php">Students Publications</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_tv.php">KJC TV</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc_radio.php">KJC Radio</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="vac.php">VAC</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="journalism_club.php">Journalism Club</a></p>
-                                    </section>
-                                        
-                                      <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="https://www.facebook.com/kjcjournalism/" target="_blank">Facebook Page</a></p>
+                                        <p><a class="a-link-arrow" href="erudite-club.php">Erudite Club</a></p>
                                     </section>
                                         
                                         

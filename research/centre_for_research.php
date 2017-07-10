@@ -122,28 +122,35 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Research Profile</strong></span>
+                                        <span>&nbsp;  <strong> Centre for Research</strong></span>
                                     </h4>
                                   
 
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">RESEARCH POLICY</b><br /> 'Aspiring towards global competency by creating a conducive physical and intellectual environment to infuse a culture of research that contribute towards transformation of the society'.<br /><br />
+                                        <b style="color: #cd6e08;font-weight: bold;">RESEARCH POLICY</b><br /> <font color="#d64646">Aspiring towards global competency by creating a conducive physical and intellectual environment to infuse a culture of research that contribute towards transformation of the society'.</font></p>
 
-										<b style="color: #cd6e08;font-weight: bold;">CENTRE FOR RESEARCH</b><br /> The Centre for Research actively promotes research and inculcates research culture. It is chaired by the Director of Research. Principal and Vice Principal lead as ex-officio members. Deans, Heads of the Department of postgraduate programmes and one faculty representative from the graduate departments are its members.<br /><br />
+                                    <p><b style="color: #cd6e08;font-weight: bold;">CENTRE FOR RESEARCH</b><br /> The Centre for Research actively promotes research and inculcates research culture. It aims to accelerate the research temper of the college through innovative projects, publications and research extension. </p>
 
 										<b style="color: #cd6e08;font-weight: bold;">OBJECTIVES OF THE CENTRE FOR RESEARCH</b><br />
                                         <ul>
                                             <li>To inculcate research culture in the institution</li>
-                                            <li>To disseminate information, motivate, guide and monitor research projects</li>
-                                            <li>To undertake feasibility studies for industry</li>
-                                            <li>To motivate the faculty members to undertake research, present papers and publish articles</li>
-                                            <li>To facilitate the faculty members to obtain guide ship from various universities</li>
-                                            <li>To organize training and workshops in research</li>
+                                            <li>To publish innovative research articles with high impact factor </li>
+                                            <li>To undertake research projects of international / national funding agencies</li>
+                                            <li>To motivate faculty members in filing patents</li>
+                                            <li>To foster research collaboration with external organisations</li>
+                                            <li>To contribute to societal development through research extension</li>
                                         </ul>
                                    
-                                    <p align="justify">
-                                        Although the institution is in its infancy, the thrust given to academics and research is on a strong note. The college has collaborated with industry, social organizations and institutions at national and international levels for academic and research purposes. With its humble foray into research activities the college has also established an institution-neighbourhood network through its extension and outreach programmes.
-                                    </p>
+                                    <b style="color: #cd6e08;font-weight: bold;">RESEARCH COMMITTE</b><br />
+                                    <ul><li> Principal </li>
+                                    <li>Vice Principal</li>
+                                        <li>Deans of Faculty</li>
+                                        <li>Dr. Justin Nelson Michael, Director</li>
+                                        <li>Dr. Jonas Richard A  </li>
+                                        <li>Dr. Ambika P</li>
+                                        <li>Dr. Vijayanand.S </li>
+                                        <li>Dr. Krishna Prabha</li>
+                                    </ul>
 
                                 </div>
                             </div>

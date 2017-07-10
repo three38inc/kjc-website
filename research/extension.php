@@ -93,13 +93,13 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Research Profile</strong></span>
+                                        <span>&nbsp;<strong>Jayantian Service Learning</strong></span>
                                     </h4>
                              
 
                                     <p align="justify">
 
-                                        The mission statement reiterates civic responsibility among the students and faculty members. Jayantian Extension Services (JES) was instituted by the college to coordinate extension activities and carry out Institutional Social Responsibility Initiatives (ISRI). The need-based extension programmes organized by the institution are depicted in the following table.<br /><br />
+                                        The mission statement reiterates civic responsibility among the students and faculty members. Jayantian Extension Services (JES) was instituted by the college to provide service learning activities and carry out Institutional Social Responsibility Initiatives (ISRI). The need-based service learning programmes organised by the institution are depicted in the following table.<br /><br />
 
                                         <strong>Institutional Social Responsibility Initiatives (ISRI)</strong><br />
                                     </p>
@@ -127,13 +127,13 @@
                                                 <tr>
                                                     <td>Rural Exposure Programme (REP)
                                                     </td>
-                                                    <td>Sensitization of students about socio-economic issues of the rural areas
+                                                    <td>Sensitization of students about socio-economic issues of rural India
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td>NSS
                                                     </td>
-                                                    <td>Fostering neighborhood network, develop social consciousness
+                                                    <td>Fostering neighborhood network and develop social consciousness
                                                     </td>
                                                 </tr>
                                                 <tr>

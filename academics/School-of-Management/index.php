@@ -174,9 +174,9 @@
                                 <a href="learning-management-thro-theatre.php" style="text-decoration:none;color:#000;">
                                 <div class="card-img"><img src="images/mba/edward-600x832.jpg" class="card-img-top"></div>
                                 <div class="card-block">
-                                    <h4 class="card-title">Activity base learning</h4>
-                                    <h5 class="card-subtitle">Collaborative form of fine art</h5>
-                                    <p class="card-text">Theatre uses live performers, typically actors or actresses, to present the experience of a real or imagined .....
+                                    <h4 class="card-title">Activity Based Learning</h4>
+                                    <h5 class="card-subtitle">Leadership &amp; Team building skills </h5>
+                                    <p class="card-text">Curriculum of School of Management focuses on developing ethical corporate leaders and effective team player to contrubite to growth of a organisation..
                                     </p>
                                     <div class="card-btn"><a href="learning-management-thro-theatre.php" class="btn btn-primary" style="padding: 3px 15px;">MORE</a></div>
                                 </div>
@@ -188,7 +188,7 @@
                                     <img src="images/mba/3i4-600x400.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
-                                    <h4 class="card-title">International internship and Exposure</h4>
+                                    <h4 class="card-title">International Internship and Exposure</h4>
                                     <!--<h5 class="card-subtitle">intellectually engaged community</h5>-->
                                     <p class="card-text">Kristu Jayanti School of Management offers unique for budding managers to widen their horizons through International internship.....</p>
                                     <div class="card-btn"><a href="interactive-group-learning.php" class="btn btn-primary" style="background: #fff;
