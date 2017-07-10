@@ -113,7 +113,7 @@
                     <li role="presentation"><a aria-controls="messages" role="button" data-filter=".student">&nbsp; Student Life</a></li>
                     <li role="presentation"><a aria-controls="profile" role="button" data-filter=".exam">&nbsp;Examinations</a></li>
                     <li role="presentation"><a aria-controls="settings" role="button" data-filter=".mis">&nbsp; Achievements</a></li>
-                    <li role="presentation"><a href="../gallery/index.php" aria-controls="settings" role="button" data-filter=".gal">&nbsp; Gallery</a></li>
+                    <li role="presentation"><a href="../gallery/index.php" target="_blank" aria-controls="settings" role="button" data-filter=".gal">&nbsp; Gallery</a></li>
 
                 </ul>
             </div>
@@ -124,7 +124,7 @@
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".spl"><i class="flaticon-kjc-special"></i></a></li>
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="messages" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".student"><i class="flaticon-kjc-life"></i></a></li>
                     <li role="presentation" style="margin: 0px 3%;"><a aria-controls="profile" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".exam"><i class="flaticon-kjc-exam"></i></a></li>
-                    <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".mis"><i class="flaticon-kjc-miscellaneous"></i></a></li><li role="presentation" style="margin: 0px 3%;"><a href="../gallery/index.php" aria-controls="gallery" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".gal"><i class="flaticon-kjc-miscellaneous"></i></a></li>
+                    <li role="presentation" style="margin: 0px 3%;"><a aria-controls="settings" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".mis"><i class="flaticon-kjc-miscellaneous"></i></a></li><li role="presentation" style="margin: 0px 3%;"><a href="../gallery/index.php" aria-controls="gallery" style="padding: 5px 12px;color: #428643;" role="button" data-filter=".gal" target="_blank"><i class="flaticon-kjc-miscellaneous" ></i></a></li>
 
                 </ul>
             </div>
@@ -317,7 +317,13 @@
                             </div>
                         </a>
                     </div>
-                    
+                    <div class=" col-lg-4 col-xs-12 spl">
+                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
+                            <div class="accTabs color-6">
+                                <h2><i class="flaticon-kjc-lifeskills c6"></i>Centre for Life Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education</h2>
+                            </div>
+                        </a>
+                    </div>
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/beyond_curriculum/ncc.php">
                             <div class="accTabs color-5">
@@ -326,13 +332,7 @@
                         </a>
                     </div>
                     
-                    <div class=" col-lg-4 col-xs-12 spl">
-                        <a href="<?php echo $ROOT ; ?>/beyond_curriculum/centre_life_skills.php">
-                            <div class="accTabs color-6">
-                                <h2><i class="flaticon-kjc-lifeskills c6"></i>Centre for Life Skills &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education</h2>
-                            </div>
-                        </a>
-                    </div>
+                    
                     
                     <div class=" col-lg-4 col-xs-12 spl">
                         <a href="<?php echo $ROOT ; ?>/iqac/iqac_functions.php">

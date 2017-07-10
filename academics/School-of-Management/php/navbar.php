@@ -1,3 +1,23 @@
+<style>
+    .all-prog-head a{
+        margin-bottom: 3px;
+        font-size: .9em;
+        font-weight: normal;
+        color: #24ccc0;;
+        cursor: pointer;
+        font-family: 'PT Sans', sans-serif;
+        transition: all ease-in-out 0.2s;
+    }
+    .academics-all-prog a {
+        text-decoration: none;
+        cursor: pointer;
+        
+    }
+    .academics-all-prog h5 a{
+        color: #fff;
+        font-size: .8em;
+    }
+</style>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
     <!--  <div class="container-fluid">-->
     <div class="container">

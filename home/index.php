@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -142,14 +142,14 @@
                                 <div class="content-spl myWelcome wow fadeIn" style="margin-bottom:1px;">
                                     <?php include ('php/welcome.php'); ?>
                                 </div>
-                                <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 279px;padding-top: 0;">
+                                <div class="content-spl myNav wow fadeIn" style="height: auto;min-height: 249px;padding-top: 0;">
                                     <?php include ('php/accordion-pill-tabs.php'); ?>
                                     <div style="clear: both;"></div>
                                 </div>
                                 <div style="clear: both;"></div>
                             </div>
                             <div class="col-lg-3">
-                                <div class="content-spl wow fadeIn" style="height: 540px; overflow-y:hidden;">
+                                <div class="content-spl wow fadeIn" style="height: 510px; overflow-y:hidden;">
                                     <?php include ('php/newsAndUpdates.php'); ?>
                                 </div>
                             </div>

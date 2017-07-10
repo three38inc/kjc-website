@@ -15,6 +15,7 @@
     }
     .academics-all-prog h5 a{
         color: #fff;
+        font-size: .8em;
     }
 </style>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
