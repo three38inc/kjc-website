@@ -15,6 +15,7 @@
     }
     .academics-all-prog h5 a{
         color: #fff;
+        font-size: .8em;
     }
 </style>
 <nav class="big navbar navbar-default navbar-fixed-top yamm" id='top'>
@@ -248,12 +249,12 @@
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/School-of-Management/mba.php" target="_blank">Master Of Busines Administration [MBA]</a></h5>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/School-of-Management/mba.php" target="_blank">Post Graduate Diploma in Management [PGDM]</a></h5>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/School-of-Management/mba_pgdm_international_finance.php" target="_blank">MBA / PGDM International Finance</a></h5>
-                                        <h6 class="all-prog-head" style="color:#24ccc0;">College of Law</h6>
+                                        <h6 class="all-prog-head" style="color:#24ccc0;"><a href="<?php echo $ROOT; ?>/academics/College-of-Law/" target="_blank">College of Law</a></h6>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-of-Law/BA-LLB/index.php" target="_blank">B.A., LL.B.</a></h5>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-of-Law/BCom-LLB/index.php" target="_blank">B.COM LL.B.</a></h5>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-of-Law/BBA-LLB/index.php" target="_blank">B.B.A., LL.B.</a></h5>
                                         
-                                        <h6 class="all-prog-head" style="color:#24ccc0;">Department Of Computer Science [PG]</h6>
+                                        <h6 class="all-prog-head" style="color:#24ccc0;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/">Department Of Computer Science [PG]</a></h6>
                                         <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/index.php">Master Of Computer Application [MCA]</a></h5>
                                     </div>
                                     

@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
+    
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -325,7 +325,7 @@ Law Programmes: Rs 300/-  <br>
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
+    
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
