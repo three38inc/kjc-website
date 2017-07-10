@@ -127,12 +127,12 @@
                                    <a href="#" class="btn btn-primary">In the news</a>
                                    <a href="#" class="btn btn-primary">Social MediaPress releases</a><br><br>-->
                                     
-<a href="#" class="btn btn-primary">News</a>
-<a href="#" class="btn btn-success">In-house publications</a>
-<a href="#" class="btn btn-info">Photographs</a>
-<a href="#" class="btn btn-warning">Press releases</a>
-<a href="#" class="btn btn-danger">In the news</a>
-<a href="#" class="btn btn-success">Social Media</a>
+<a href="news.php" class="btn btn-primary">News</a>
+<a href="in_house_publications.php" class="btn btn-success">In-house publications</a>
+<a href="photographs.php" class="btn btn-info">Photographs</a>
+<a href="press_releases.php" class="btn btn-warning">Press releases</a>
+<a href="in_the_news.php" class="btn btn-danger">In the news</a>
+<a href="social_media.php" class="btn btn-success">Social Media</a>
                                         
 
  

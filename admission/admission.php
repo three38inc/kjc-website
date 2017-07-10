@@ -164,6 +164,12 @@
 3.       Shortlisted applicants after interview can proceed with the remaining admission formalities<br>
 
 										The eligibility criteria and fee structure for the programmes offered are made available in the website.</p>
+                                    
+                                  
+
+                                    
+                                    
+                                   
 
 								
                                     <!--<div class="panel panel-info">
@@ -194,39 +200,13 @@
 												* Applicants can either apply online on their own or apply from college campus</p>-->
 											
 											
-											 <div class="well well-sm">
-                                                        <center>UG COUNSELLING</center>
-                                                    </div>
-											
-											
-	<!--<div class="panel panel-default">
-  <div class="panel-body">
-   <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
-   <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
-	   <b>Selected applicants will be intimated through email and sms. </b></font>
-</div>
-</div>-->
-											
-											<div class="panel panel-default">
-  <div class="panel-body">
-    <p><font color="#FF0000" size="2"><u>BA Programmes: </u> </font><br />
-                                                            <font size="2"><b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b> </font>
-                                                           
-                                                               <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
-                                                           <br />
-                                                            <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-                                                            <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-                                                            <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
-                                                                <font size=2>Click here for Admission process</font> </a><br>
-																<!--Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
-																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a>--></p></div></div>
-											
+											 											
 											<div class="well well-sm">
                                                 <center>LAW PROGRAMMES COUNSELLING</center>
                                             </div>
 											
 								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b> </font>
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 20<sup>th</sup> July, 2017</b> </font>
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />
@@ -234,6 +214,8 @@
                                                             <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                             <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                                 <font size=2>Click here for Admission process</font> </a>
+                                     
+                                            <p><b><font color="red">Admissions to all other UG Programmes for the academic year 2017 has been closed</font></b></p>
                                                   
 
                                                         
@@ -251,15 +233,18 @@
                                                 </a>
 
 
-                                                <p><font color="#FF0000" size="2"><u>PG Programmes: </u> </font><br />
-                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></font>
+                                                <p><font color="#FF0000" size="2"><u>PG Programmes : </u> </font><br />
+                                                    <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b>
+                                                 
                                                     <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                     <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
                                                     </font><br />
                                                     <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                     <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                         <font size=2>Click here for Admission process</font>
-													</a></div></div>
+													</a>
+                                            <p><b><font color="red">Note: Admissions to M.Sc Psychology, MSW, English Literature Programmes for the academic year 2017 has been closed</font></b></p>
+                                        </div></div>
 									
 									<div class="alert alert-info">
   

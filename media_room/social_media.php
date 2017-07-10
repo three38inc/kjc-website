@@ -67,6 +67,8 @@
 
 <body>
     
+ 
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -118,9 +120,24 @@
 
                                  
 									<p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms.  </p>
+                                
+                                    
+                                    <table border="0" align="center">
+                                    <tr>
+                                        
+                                        <td width="200"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png"></a></td>
+                                        <td width="200"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png"></a></td>
+                                        <td width="200"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png"></a></td>
+                                        <td width="200"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png"></a></td></tr></table>
 
 
-
+                                   
+                                     
+                                   
+                                    
+                                   
+                                    
+                                   
 
 
 
