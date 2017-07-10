@@ -116,7 +116,7 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Research Profile</strong></span>
+                                        <span>&nbsp;<strong>Research Publications</strong></span>
                                     </h4>
                                     <p><b style="color: #cd6e08;font-weight: bold;">FACULTY RESEARCH PUBLICATIONS </b></p>
                                     

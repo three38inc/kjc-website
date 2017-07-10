@@ -118,7 +118,14 @@
 
                                  
 									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
+                                    
+                                    <div class="well">
+ <ul class="nav nav-pills">
+  <li class="active"><a href="#">July <span class="badge">01</span></a></li>
+  
+</ul>
 
+</div>
 
 
 

@@ -115,27 +115,30 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;The <strong>consultancy Profile</strong></span>
+                                        <span>&nbsp; <strong>Consultancy </strong></span>
                                     </h4>
                                  
 
                                     <p align="justify">
 												<strong>Consultancy Policy</strong><br />
-												'The institute shall open its services and share its knowledge resources for the mutual benefit of institutions, industry and neighborhood'.<br /><br />
+                                        <font color="d64646">'The institute shall open its services and share its knowledge resources for the mutual benefit of institutions, industry and neighborhood'.</font></p>
 
-												<strong>The Exclusive Centres that are known for Consultancy Services in the College are :</strong><br />
+												<p><strong>Exclusive Centres for Consultancy Services:</strong><br />
 												
 											<ul>
-												<li>Centre for Continuing Professional Development (CCPD) for imparting training to teachers of schools and colleges on psycho-social understanding of learners</li>
-												<li>Centre for Life Skill Education (CLSE) trainers youth and teachers in the ten core life skills of various educational institutions, NGOs and other organizations</li>
-												<li>Centre for Placements and Corporate Relations (CPCR) conducts training programmes on soft skills and offers placement services to neighbourhood institutions</li>
-												<li>Department of Management Studies, enhances financial literacy and conducts management courses for trainees of IPIRTI, Govt. of India</li>
+												<li>Centre for Continuing Professional Development (CCPD)-  Imparts training to teachers of schools and colleges on psycho-social understanding of learners</li>
+                                                
+												<li>Centre for Life Skill Education (CLSE)- Trains youth and teachers of various educational institutions, NGOs and other organisations in the ten core life skills </li>
+                                                
+												<li>Centre for Employability and Corporate Relations (CECR)-  Conducts training programmes on soft skills and offers placement extension services to neighbourhood institutions</li>
+											
 												<li>Department of Social Work and Psychology organize training programmes for government school teachers on positive disciplining in collaboration with World Vision India</li>
-												<li>Dept. of Computer Science (PG) offers computer skill courses for police personnel, Bangalore City</li>
-												<li>IQAC of the college has been invited to organize workshops on quality sustenance and enhancement of various other higher education institutions</li>
+                                                
+												
+												<li>IQAC- Organises workshops on quality sustenance and enhancement of other higher education institutions</li>
 											</ul> 
-											<br/><br/>
-											</p>
+										
+											
 
 									
 								</div>

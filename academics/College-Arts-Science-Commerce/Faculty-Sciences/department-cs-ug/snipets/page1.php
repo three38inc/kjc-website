@@ -9,7 +9,10 @@
                 </h4>
                 <h5>Vice Principal</h5>
                 <p>
-                    <span>Qualification </span> <br/>MCA, MPhil (Ph.D Pursuing)
+                    <span>Qualification </span> <br/>MCA, MPhil (Ph.D)
+                </p>
+                 <p>
+                    <span>Area of Research</span><br/> Areas of interest-Programming languages, Data Communication and Network, Network security
                 </p>
                 <p>
                     <span>Papers published </span><br/> 1

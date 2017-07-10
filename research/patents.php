@@ -117,19 +117,17 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Patent Profile </strong></span>
+                                        <span>&nbsp;<strong>Patents</strong></span>
                                     </h4>
                                 
 
                                     <p align="justify">
 												
-												<b> Dr. Samir Kelekar - </b> Computer Science (PG) has patented his research <br/><br/>
+												<b> Dr. Samir Kelekar - </b> Computer Science (PG) <br/><br/>
 												a.	Patent  US 8127359 issued on Feb 28, 2012 for "Systems and Methods for Real-time Network-based Vulnerability Assessment"<br>
 												b.	Patent US 8789193 issued on July 22, 2014 for  “Method and Apparatus for Detecting Events Pertaining to Potential Change in Vulnerability Status”	
-												<br/><br/><br/><b>Dr. Deepa M.A. - </b> Dept. of Life Sciences patented her research<br/><br/>
-												a.	Patent US 13/903, 432 for "Garlic Formulation and Process for Anti-Diabetic Treatment"
-												<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-											</p>
+                                    </p>
+											
 										
 									</div>
 								</div>

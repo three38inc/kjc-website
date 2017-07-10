@@ -86,6 +86,16 @@
                                     <span>&nbsp;  <strong> Achievements  </strong></span></h4>
                                
                                 <p align=justify>Kristu Jayanti College is known by the quality of the students it produces. The students of the Computer Science Department have proved themselves to be the best in Bangalore and in different parts of the country over and over again. The professionalism and competitive spirit that demonstrates a successful IT professional has been exuded by the students in the recent competitions and events conducted by various educational institutions.</p>
+                                    
+                                    
+                                    
+                                    <center><p><b> In India Today - Nielsen survey-2017, the college is ranked 2nd Best BCA College in India.</b></p></center>
+                                    
+                                    
+                                    <center><img src="images/best-college.jpg"></center>
+                                    
+                                    
+                                    
                                 <p><b>Achievements in academic year 2016-17</b></p>
   <table class="table table-bordered" align=center>
   <thead>

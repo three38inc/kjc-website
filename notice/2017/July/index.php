@@ -3,6 +3,71 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                <div class="panel-heading" role="tab" id="heading7">
+                    <h4 class="panel-title">
+                    July 10<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+                <div class="panel-body">
+                    
+                    <p><b>For all UG classes</b><br>
+                        Registrations for Kalajyothi close on Wednesday, 12th July by 4.00 p.m. There is a help desk arranged at the main reception lobby to facilitate registrations. Students may avail the facility between 3.30 p.m. and 5.30 p.m. on 10th and 11th July 2017.</p>
+
+                    <p>An audition for students interested in joining the college choir is scheduled on Tuesday, 11th July, 3.45 p.m. onwards at the Mini Auditorium I (2nd Floor – Main Block). Students who play musical instruments can also take part in the audition.</p>
+
+                    <p>Please note: Successful completion of the choir training will help the students earn three extension credits.</p>
+
+
+                    <p><b>For all PG classes</b><br>
+                        Centre for NET/SET training of our college proposes to conduct an additional batch preparatory classes for III & V Semester PG students of our college on Paper I. PG students who are aspiring to appear for NET examination can join the same by registering their names in the UG Block reception counter on or before July 12, 2017. For further details please contact<br>
+
+    > Dr. V Muthukumar, Dept. of Commerce (PG), PG Block<br>
+    > Dr. Sonia Angeline, Dept. of Life Sciences, Staff Room No. 8 (3rd Floor, UG Block)<br>
+    > Dr. I Jerry Richards, Dept. of Social Work, Staff Room No. 9 (4th Floor, UG Block)<br>
+
+                        Course Fee – Rs. 1200/- | No. of Hours – 35 | Timing – 4.30 p.m. to 5.30 p.m. (Weekly 3 days)</p>
+
+
+                    <p><b>For all UG & PG classes</b><br>
+Today (10/07/2017) there will be final selection trials for students who wish to join the college Athletic team (Men & Women). Students are requested to come in proper sports kit.<br>
+                        Time: 4.15 p.m. | Venue: College Ground</p>
+
+
+                    <p><b>Entrepreneurship and Innovation Centre (EIC)</b><br>
+The EIC nurtures the entrepreneurial skills and directs the students to become job providers. To become an EIC member, the interested students can register their names and details with the following faculty members.<br>
+
+    1. Prof. Mathiyarasan.M (Staff Room.3), First Floor, Main Block - B.Com students<br>
+    2. Prof. Deepika.S.R. (Staff Room.5) Second Floor, Main Block - BBA students<br>
+    3. Prof. Amjad Khan (Electronics Lab) First Floor, Main Block - Computer Science    students<br>
+    4. Dr. Preethi Chandran (Staff Room. 9) Fourth Floor - Life Science and Humanities<br><br>
+    5. Prof. Swetha.P.A (Staff Room. 11, Ground Floor, PG Block)<br>
+        The last date for registration is today (10/07/2017).<br>
+
+                        The list of students selected as members of the Debating Society of the college is displayed on the notice board. A meeting of the Debating Society is scheduled tomorrow (11/07/2017) at 4.30 p.m. in the Mini Auditorium I.</p>
+
+<p><b>For I & III Sem B.Com (except I Sem B.Com Professional & I Sem B.Com ACCA) and<br>
+    I & III Sem BBA (except I Sem BBA Section ‘A’ CGMA)</b><br>
+
+    There will be training for CS Foundation Course. Those students who are interested are requested to assemble for a briefing today (10th July 2017).<br>
+
+    <b>Venue:</b> Room No. 311 | Time: 3.30 p.m.<br>
+
+    <b>For further details contact:</b><br>
+    > Prof. Ajai Abraham Thomas – Staff Room No. 5, Second floor, UG Block.<br>
+    > Prof. Saranya S – Staff Room No. 1, First floor, UG Block.<br>
+    > Prof. Padmanagendra R – Staff Room No. 1, First floor, UG Block.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+        <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
                 <div class="panel-heading" role="tab" id="heading6">
                     <h4 class="panel-title">

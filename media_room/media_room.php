@@ -101,7 +101,7 @@
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--        <div class="row">-->
+                        <!--<div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
@@ -118,6 +118,26 @@
 
                                  
 									<p align=justify>Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public, especially media and other stakeholders. It also provides details of all major activities of the college through press releases and other multimedia formats. </p>
+                                    
+                                <!-- <a href="#" class="btn btn-primary">News</a>
+                                    
+                                  <a href="#" class="btn btn-primary">In-house publications</a>
+                                  <a href="#" class="btn btn-primary">Photographs</a>
+                                  <a href="#" class="btn btn-primary">Press releases</a><br><br>
+                                   <a href="#" class="btn btn-primary">In the news</a>
+                                   <a href="#" class="btn btn-primary">Social MediaPress releases</a><br><br>-->
+                                    
+<a href="news.php" class="btn btn-primary">News</a>
+<a href="in_house_publications.php" class="btn btn-success">In-house publications</a>
+<a href="photographs.php" class="btn btn-info">Photographs</a>
+<a href="press_releases.php" class="btn btn-warning">Press releases</a>
+<a href="in_the_news.php" class="btn btn-danger">In the news</a>
+<a href="social_media.php" class="btn btn-success">Social Media</a>
+                                        
+
+ 
+
+
 
 
 

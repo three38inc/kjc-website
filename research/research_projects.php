@@ -116,14 +116,20 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;The  <strong>Research Projects</strong></span>
+                                        <span>&nbsp;<strong>Research Projects</strong></span>
                                     </h4>
                                    
 										 <p align="justify">
 												
-												The Centre for Research has initiated a number of research projects both minor and major in order to create and inculcate research temperament among the faculty members and students.<br /><br />
-											</p>
-											 <p align="justify"><strong>Ongoing Research Projects</strong><br /></p>
+												The Centre for Research has initiated a number of research projects both minor and major in order to create and inculcate research temperament among the faculty members and students.</p>
+                                    
+                                     <p align="justify">
+												
+											<p>UGC Minor Research Projects</p>
+                                    
+                                    
+										
+											 <p align="justify"><strong>Research Projects</strong><br /></p>
 												<table class="table table-hover table-bordered">
 													<thead>
 														<tr>
@@ -162,11 +168,7 @@
 													</tbody>
 												</table>
 											
-											 <p align="justify">
-												During the year 2014 - 2015, fifteen research proposals have been submitted to the UGC for minor research grant under section 12B. During the year 2015-2016, twenty one research proposals have been submitted to SWRO, UGC for minor research grant.
-												
-											</p>
-										
+											
 									</div>
 								</div>
 								<div class="col-lg-3">

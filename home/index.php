@@ -174,10 +174,10 @@
                                                 <div style="clear:both;"></div>
 
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Glimpses as a weekly newsletter has revealed to the world what Kristu Jayanti is ..
+                                                  Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_1/stories/story_main.php" target="_blank" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -188,10 +188,10 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    The institution has experienced a rapid growth since its humble inception ...
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../media_room/in_the_news.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -201,10 +201,10 @@
                                                 </div>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Chavara journel &amp; Jayantian New letter has been grown to industry standard ....
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../media_room/in_house_publications.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
 
@@ -216,10 +216,10 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Video room of kristu jayanti Produces magnificiant videos which explains ....
+                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -230,10 +230,10 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Facebook and Youtube became a part and parcel of the Age .
+                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public.
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../media_room/social_media.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                             <div class="item">
@@ -244,14 +244,14 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Brochures for the current academic year can be accessed from here....
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
                                                     <!--
                                                     <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
                                                         Click Here</a>
 -->
-                                                    <a href="#" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
 
 
                                             </div>

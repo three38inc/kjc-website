@@ -94,30 +94,20 @@ win=window.open(mypage,myname,settings);}
 									<img src="images/banner_activities.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Application Form <strong> Instructions</strong></span></h4>
-								
-			        <p>Kindly use Mozilla Firefox or Google Chrome as your browser for applying online<br />
-Following steps are involved in submitting application form online</p>
-									
-									<div class="alert alert-info">
-  
-										
-	<p><b>Step 1 (Registration and Application fee payment):</b><br /> Fill up basic details and make application fee payment to receive the user id and password in your email.<br /><br />
-
-<b> Step 2 (Complete the detailed E-Form):</b> <br />Use the user ID & password from the email to complete the E-Form.</p>
-
-<p><b> Step 3 (Submit the hard copy of application form in college office):</b><br />
-<b>(Not applicable for online fee paid applicants)</b><br />
-
-Admission process will be initiated only after receiving the original DD/copy of cash paid receipt and hard copy of the application form.</p>
-
-</div>
+                                        <span>&nbsp;Instructions to <strong> Apply online </strong></span>
+                                    </h4>
+                                    
+                                    		<img src="../../admission/images/guidlens-steps.jpg"><br><br>
+				
 									
 									
+									<table border="0" class="table table-hover">
+									<tr>
+										<td width="400"> <center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">NEW USERS CLICK HERE TO REGISTER</a></center></td>
+										<td width="400"><center><a href="https://www3.digialm.com//EForms/loginAction.do?subAction=ViewLoginPage&orgId=368&formId=926" target="_blank" class="btn btn-primary btn-sm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; REGISTERED USERS CLICK HERE &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; </a></center></td>
+										</tr></table>
         
       
-         <p><u><font color="#FF0000">Note: Your admission process will be initiated only after completing the above steps.</font></u><br />
-        Shortlisted Applicants will be notified via email about the counselling schedules one week before the date of counselling.</p>
 									
 									<div class="well well-sm">
  <p>(for further issues or clarifications on online application form)<br />
@@ -127,7 +117,6 @@ Admission process will be initiated only after receiving the original DD/copy of
 </div>
 
 
-									<center><a href="https://www3.digialm.com//EForms/onlineApplicationAction.do?values=368@@926&subAction=registration" target="_blank" class="btn btn-primary btn-sm">CLICK HERE TO REGISTER FOR APPLICATION FORM</a></center>
  
  <!--<p><b> 1. </b><font color="#FF0000"><b><u>Kindly use Mozilla Firefox as your default browser to fill up the form. It may not work properly with internet explorer or Google chrome.</u></b></font> <a href="http://www.mozilla.org/en-US/firefox/new/">[Download Mozilla Firefox browser]</a></p></font>
  
@@ -183,100 +172,9 @@ If the page displays the following error message "An error seems to have occurre
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; MBA &amp; PGDM<strong> Admission</strong></span>
-                                    </h4>
-                                 <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="admission.php">MBA/PGDM Admission</a></p>
-                                    </section>
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                   </section>
+                                       <?php include('right-admission.php');?>
                                     
-									
-									<section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                   
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                   
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php" style="color: #2980b9;font-weight: bold;">Online Fee Payment Details</a></p>
-                                    </section>
-									  <div class="well">
- <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
-                                  <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-</div>
-                                    
-                                     <div class="well">
- <p><font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font></p>
-                                 <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center> 
-</div>
-                                    
-                      
-                        <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-  </div>
-  <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
-2. online payment<br>
-        3. Payment through demand draft<br></font>
-  </div>
-                            <div class="panel panel-default">
-  <div class="panel-body">
-<font size=2>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                       
-  </div>
-</div>   
- </div>
-                                 
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
-                                   
-
-                                
-                                    
-									
-                               
-								
-								
-									
-<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                    </h4>
-                                    <?php include ('../../php/sideMenu.php'); ?>
-                                </div>
-                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-						</div></div>
+                                </div></div></div></div>
 
                     <?php include ('../../php/alerts.php');  ?>
                     <?php include('../../php/footer.php'); ?>
