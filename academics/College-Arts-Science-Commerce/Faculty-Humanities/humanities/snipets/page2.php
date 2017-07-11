@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Ms. Ramya . B
                 </h4>
+                Head Dept. of History
                 <p>
                     <span>Qualification </span> <br/>  MA (History) M.A( Tourism), M. Phil (History) SLET for Lectureship 
                 </p>

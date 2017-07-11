@@ -83,37 +83,25 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;MA <strong> Mass Communication & Journalism</strong></span></h4>
                                 
-                                <p><b style="color: #cd6e08;font-weight: bold;">Programme Overview</b><br>
-The programme stresses a balance between the theoretical and practical aspects of journalism and mass communication. The curriculum is carefully tailored to prepare students for better academic careers in communication, giving them the broad liberal arts education necessary to succeed as communicators in today's challenging media scenario. The prescribed curriculum focuses on identifying the journalism competencies required to equip learners to sharpen their skills in a wide range like:<br>
-                                    <b>*</b> Competencies of general knowledge and intellectual ability;<br>
-<b>*</b> Professional techniques of research, writing (and other forms of presentation), editing, design, and production;<br>
-<b>*</b> The ability to use the tools of journalism and to adapt to new technologies and innovative practices<br>
-<b>*</b> Professional understandings, including ethics<br>
-                                    <b>*</b> Knowledge of journalism's role in society, the organization and management of the news media, and laws circumscribing journalism practice; and Knowledge of best practices and specializations in journalism.</p>
-                                
-                                <p><b style="color: #cd6e08;font-weight: bold;">Duration of the course:</b><br>
-                                    The Candidate shall undergo a period of study extending over 4 semesters (2 years inclusive of 30 days of compulsory Internship).</p>
-
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br>
-                                    Candidates who have passed the final examination of any Bachelor's Degree from any recognized university, with a minimum of 50% of marks in aggregate, are eligible to apply for admission to the M. A. Degree program. However, the eligibility criterion is subject to modification as per the directives of competent authorities. </p>
-                                
-                                
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Internship</b><br>
-                                    Each student will have to undergo a four-week long internship programme or attachment in any of the media organizations such as newspapers, magazines, radio, television, agencies of advertising and public relations/corporate communication, or any other media organization of repute identified by the students and faculty jointly/individually wherein facilities for internship are easily available locally or regionally.</p>
-
-                                <p><b style="color: #cd6e08;font-weight: bold;">Dissertation</b><br>
-                                    Each student of the programme will have to submit a dissertation at the end of fourth semester and before the commencement of the final examination.</p>
-
-                                <p><b style="color: #cd6e08;font-weight: bold;">Practicals</b><br>
+                                     <p><b style="color: #cd6e08;font-weight: bold;">Programme overview</b><br>
+                                         Department of Journalism & Mass Communication strive for excellence in media education, training and research through a curriculum which synergize theoretical and practical components, and is delivered through multidisciplinary approach. Our dedicated academicians along with media experts, professionals and researchers with global competencies train students in both media content and form to succeed in today’s challenging media scenario. Moreover, our interdisciplinary curriculum and flexible classrooms will create a real media experience with creative media productions, critical analysis, and entrepreneurialism. </p>
+                                     <p><b style="color: #cd6e08;font-weight: bold;">Course objectives</b><br>
+                                         The prescribed curriculum focuses on identifying the journalism competencies required to equip learners to sharpen their skills in a wide range like: Competencies of general knowledge and intellectual ability; Professional techniques of research, writing (and other forms of presentation), editing, design, and production; The ability to use the tools of journalism and to adapt to new technologies and innovative practices; Professional understandings, including ethics; Knowledge of journalism’s role in society, the organization and management of the news media, and laws circumscribing journalism practice; and Knowledge of best practices and specializations in journalism.</p>
+                                     <p><b style="color: #cd6e08;font-weight: bold;">Eligibility for Admission</b><br>
+                                         a. Journalism Candidates: Candidates who have passed the bachelor’s degree with 50 percent of marks in the aggregate of all the examinations of the degree in the optional subjects of Journalism shall be eligible for admission.</p>
+                                     <p>b. Non-Journalism Graduates: Candidates who have passed the bachelor’s degree examination of Bangalore University or any other University recognized as equivalent to 50 percent of marks in the aggregate of all the subjects including the languages are eligible for admission.</p>
+                                     <p><<b style="color: #cd6e08;font-weight: bold;">Internship</b><br>
+                                         Each student will have to undergo a four-week long internship programme or attachment in any of the media organizations such as newspapers, magazines, radio, television, agencies of advertising and public relations/corporate communication, or any other media organization of repute identified by the students and faculty jointly/individually wherein facilities for internship are easily available locally or regionally.</p>
+                                     <p><b style="color: #cd6e08;font-weight: bold;">Dissertation</b><br>
+Each student of the programme will have to submit a dissertation at the end of fourth semester and before the commencement of the final examination.<br>
+                                         <b style="color: #cd6e08;font-weight: bold;">Practicals</b><br>
 a. Lab Journal<br>
 b. Lab: Short Film/Documentary production<br>
 c. Lab: Radio Documentary production<br>
-                                    d. Lab: Television news production<br>
-                                e. Lab: Photo Feature production </p>
-									 
-									   <center><p><a href="curriculum/syllabus_master_journalism_mass_communication.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  MA Mass Communication & Journalism 2015 -17</a></p></center>
-									 
-									   <center><p><a href="curriculum/course_structure_ma_mass_communication_journalism.pdf" target="_blank" class="btn btn-primary btn-xs">Course Structure of  MA Mass Communication & Journalism </a></p></center>
+d. Lab: Television news production<br>
+e. Lab: Photo Feature production <br>
+                                         f. Lab: Advertising </p>
+
                                 
                                 
 								</div></div>

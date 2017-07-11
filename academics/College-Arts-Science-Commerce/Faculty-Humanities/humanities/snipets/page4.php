@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Sreedhar P.D
                 </h4>
+                Head Dept. of Hindi
                 <p>
                     <span>Qualification </span> <br/>  MA, PHD in Hindi, MA Kannada
                 </p>

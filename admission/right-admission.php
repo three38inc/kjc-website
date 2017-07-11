@@ -2,8 +2,52 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+
+                                  <a href="admission.php" class="list-group-item">
+										   <font size=2>Admission 2017</font>
+                                        </a>
+
+                                    
+										<a href="admission_enquiry.php" class="list-group-item">
+										   <font size=2>Admission Enquiry</font>
+                                        </a><br>
 									
-									<div class="list-group">
+									
+									
+										<div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp Fee Structure</font> </a><br>
+									  
+							<section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Programme</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="mca_admission.php">MCA Programme</a></p>
+                                    </section>
+                                    
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Programmes</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="ug_admission.php">UG Programmes</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Programmes</a></p>
+                                    </section>
+									<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
+                                    </section>
+											<section class="link-arrow">
+
+                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                    </section>
+                                       </div>
+
+<div class="list-group">
 										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
 										
 									  
@@ -22,45 +66,7 @@ Law Programmes: Rs 300/- <br>
 										
 										
 										
-										<a href="admission.php" class="list-group-item">
-										   <font size=2>Admission 2017</font>
-                                        </a>
-										<a href="admission_enquiry.php" class="list-group-item">
-										   <font size=2>Admission Enquiry</font>
-                                        </a>
-                                       </div>
-									
-										<div class="list-group">
-											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp Fee Structure</font> </a><br>
-									  
-							<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section>
-                                    
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section>
-									<section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section>
-											<section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
+										
                                        </div>
 									
 									

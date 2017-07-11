@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>SJ. Michael
                 </h4>
+                Head Dept. of Political Science
                 <p>
                     <span>Qualification </span> <br/>  MA,PDMIR,SLET [Ph.D.]
                 </p>

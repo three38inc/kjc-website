@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Dr. Gopakumar A.V
                 </h4>
+                Head Dept. of Journalism / Dean Faculty of Humanities
 				<p>
                  <span>Qualification </span> <br/> MCJ, MSc, UGC NET, PhD.
                 </p>

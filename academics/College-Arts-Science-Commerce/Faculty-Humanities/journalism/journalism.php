@@ -84,18 +84,7 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;<strong>Journalism</strong></span></h4>
 									 
-									 <p align=jsutify><b>Programme overview</b><br>
- Department of Journalism & Mass Communication strive for excellence in media education, training and research through a curriculum which synergize theoretical and practical components, and is delivered through multidisciplinary approach.  Our dedicated academicians along with media experts, professionals and researchers with global competencies train students in both media content and form to succeed in today’s challenging media scenario. Moreover, our interdisciplinary curriculum and flexible classrooms will create a real media experience with creative media productions, critical analysis, and entrepreneurialism.  <br>
- 
-									 <p align=justify><b>Course objectives</b><br>
- 
-										 The prescribed curriculum focuses on identifying the journalism competencies required to equip learners to sharpen their skills in a wide range like: Competencies of general knowledge and intellectual ability; Professional techniques of research, writing (and other forms of presentation), editing, design, and production; The ability to use the tools of journalism and to adapt to new technologies and innovative practices; Professional understandings, including ethics;  Knowledge of journalism’s role in society, the organization and management of the news media, and laws circumscribing journalism practice; and Knowledge of best practices and specializations in journalism.</p>
- 
-									 <p align=justify><b>Eligibility for Admission</b><br>
-										 a. Journalism Candidates: Candidates who have passed the bachelor’s degree with 50 percent of marks in the aggregate of all the examinations of the degree in the optional subjects of Journalism shall be eligible for admission.</p>
- 
-<p align=justify>b. Non-Journalism Graduates: Candidates who have passed the bachelor’s degree examination of
-	Bangalore University or any other University recognized as equivalent to 50 percent of marks in the aggregate of all the subjects including the languages are eligible for admission. </p>
+                                     <p align=jsutify>This course aims at moulding the students for a career in Journalism, both print and electronic media broadcasting, and in allied fields like advertising and film The course introduces various facets of the profession of Journalism with a blend of theoretical knowledge and hands on experience. The curriculum comprises eight papers and is carefully tailored to prepare students for specialized media and mass communication needs. Furthermore, the curriculum also provides them the broad liberal arts education necessary to succeed as communicators in today's challenging media scenario.</p>
 
 
                                 
