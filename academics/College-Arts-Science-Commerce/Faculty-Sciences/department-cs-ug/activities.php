@@ -96,6 +96,11 @@
                                                 </div>
                                                 <div id="collapse19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading19">
                                                     <div class="panel-body">
+                                                        
+                                                        <p><b>Industrial Visit to ISRO, Bangalore</b><br>
+                                                            The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017.Mr.H.L. Srinivasa, Scientist, ISRO Satellite Centre briefed the students on various aspects of ISRO and space technology. The students were given an insight to the objectives and the various facilities for research, construction, test, launch, track and control facilities of ISRO. He also elaborated on the different launch vehicles like SLV, ASLV, PSLV and GSLV. Mr.Srinivas also spoke on the various satellite programmes of ISRO like NSAT (Indian National Satellite System), Indian Remote Sensing satellites (IRS), Radar Imaging Satellites and GAGAN satellite navigation system and its applications. He also updated the students on the forthcoming satellites, launch vehicles and launches. He also spoke on the Chandrayaan-2 mission planned to be launched to the Moon by a GSLV including a lunar orbiter, lander and rover, in 2018. The students also visited the clean room which is equipped with harness lab for fabricating onboard harness of the spacecraft and Mechanical lab which is equipped with mechanical ground support equipment required for the assembly, integration and testing of the spacecraft. The students also had a video presentation on the Chandrayan-1 and making of satellites. Mr.Srinivas also informed the students on the wide range of career opportunities available in ISRO.</p>
+                                                        
+                                                        
 														<p><b>Guest Lectureon Space Technology </b><br>
 															<b>Classes Attended & Number of beneficiaries:</b><br>
 															I SEM BCA, I SEM B.Sc, III SEM BCA,III SEM B.Sc - 650 students</p>

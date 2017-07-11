@@ -8,6 +8,16 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-isro-visit.jpg" class="img-responsive"/>
+            <span class="date">10<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=industrial-visit-ISRO.php">
+              <h4>Industrial Visit to ISRO, Bangalore <br/><small>
+       The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017..   </small></h4></a>
+            </div>
+        </li>
+        
         <li>
             <img src="../highlights/2017/kristu-jayanti-college-orientation-visit-indian-social-institute.jpg" class="img-responsive"/>
             <span class="date">04<sup>th</sup> July 2017</span>
