@@ -12,7 +12,7 @@
                     <span>Qualification </span> <br/>MCA, MPhil (Ph.D)
                 </p>
                  <p>
-                    <span>Area of Research</span><br/> Areas of interest-Programming languages, Data Communication and Network, Network security
+                    <span>Area of Research</span><br/> Programming languages, Data Communication and Network, Network security
                 </p>
                 <p>
                     <span>Papers published </span><br/> 1
@@ -51,7 +51,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
@@ -79,7 +79,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>

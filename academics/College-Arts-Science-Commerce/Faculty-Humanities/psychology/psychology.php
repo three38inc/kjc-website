@@ -90,6 +90,8 @@
                                         <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
 
                                         <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
+                                        
+                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
 
                                         <center><p><a href="curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2016 -18</a></p></center>
                                         <center><p><a href="curriculum/scope_psychologist.pdf" target="_blank" class="btn btn-primary btn-xs">Scope of Specializations of Psychology </a></p></center>
@@ -102,7 +104,7 @@
                                             <span>&nbsp;Programs <strong> Offered </strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="ba_program.php">BA JPEng.</a></p>
+                                            <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPEng.</a></p>
                                         </section>
 										<section class="link-arrow">
                                             <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>

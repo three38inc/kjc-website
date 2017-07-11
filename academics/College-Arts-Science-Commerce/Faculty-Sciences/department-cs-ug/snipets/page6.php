@@ -13,6 +13,9 @@
                 <p>
                     <span>Areas of interest </span><br/>  Java, SE, CPrograming, Software Testing
                 </p>
+                <p>
+                    <span>Experience </span><br/> 2.3 year
+                </p>
               
                 <p>
                     <span>Papers presented or published </span><br/> 03

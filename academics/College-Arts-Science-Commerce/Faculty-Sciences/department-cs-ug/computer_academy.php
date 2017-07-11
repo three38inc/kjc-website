@@ -92,8 +92,7 @@
                                     <p><b><u>Science exhibition:</u></b> ”Galaxia" is a two day science exhibition in which students from our college and other colleges develop computer science, electronics, statistics and mathematics projects which provide them an opportunity to experiment and innovate along with the curriculum learning.</p>
                                     <p><b><u>Technical communities:</u></b> Technical communities provide a platform for the students to discuss, share and update their knowledge in various domains of information technology.</p>
                                     <p><b><u>Social outreach programmes:</u></b> This programme provides the students an opportunity to recognize their social responsibility to give back and contribute to the development of the society. </p>
-                                    <p><b><u>Value Added Courses and Certificate courses:</u></b> These certifications enable our students to acquire wider technical knowledge as an extension of our curriculum.</p>
-
+                                  
                                         <p>As a whole computer academy is a gateway which allows our next generation scientists, engineers, teachers, entrepreneurs and artists to be able to innovate using computation, have excellent communication skills, be professional in approach and attitude, spotlight in big picture.</p>
                                         <p><b>For any Queries and Feedback Mail to</b><br>
                                             <b>computeracademy@kristujayanti.com</b></p>

@@ -414,12 +414,15 @@ Students potential of preparing modules and effective delivery of the same in a 
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Programs <strong> Offered </strong></span>
                                     </h4>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_program.php">BA - program offered</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="msc_program.php">M.Sc - program offered</a></p>
-                                    </section> </div>
+                                   <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPEng.</a></p>
+                                        </section>
+										<section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
+                                        </section>
+                                        <section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="msc_program.php">M.Sc Psychology</a></p>
+                                        </section>  </div>
                                 
                                  <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
