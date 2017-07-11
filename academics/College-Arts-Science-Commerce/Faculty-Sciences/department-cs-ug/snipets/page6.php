@@ -13,9 +13,7 @@
                 <p>
                     <span>Areas of interest </span><br/>  Java, SE, CPrograming, Software Testing
                 </p>
-                <p>
-                    <span>Experience </span><br/> -
-                </p>
+              
                 <p>
                     <span>Papers presented or published </span><br/> 03
                 </p>
@@ -39,7 +37,7 @@
                 <h4> Shraddha Ramdas Bandekar
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> Post Graduate Degree in MSc Mathematics
+                    <span>Qualification </span> <br/> M.Sc
                 </p>
                 <p>
                     <span>Areas of interest </span><br/>  Mathematical Modelling and Fluid Mechanics
@@ -47,9 +45,7 @@
                 <p>
                     <span>Experience </span><br/> Fresher
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> Nil
-                </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

@@ -43,7 +43,7 @@
                     <span>Teaching &amp; Research Experience</span><br/>  15 years 
                 </p>
                  <p>
-                    <span>Area of Research</span><br/> Human Genetics 
+                    <span>Area of Interest</span><br/> Human Genetics 
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -71,7 +71,7 @@
                     <span>Experience </span><br/> 03 Years
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Graph Theory
+                    <span>Area of interest </span><br/> Graph Theory
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -125,7 +125,7 @@
                     <span>Qualification </span> <br/> B.E. , MSc(IT)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Electronics
+                    <span>Area of interest </span><br/> Electronics
                 </p>
                 <p>
                     <span>Experience  </span><br/> 21 years
@@ -149,13 +149,13 @@
                 <div class="class-img"><img src="images/faculty/Suni Ajaykaumar.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Suni Ajaykaumar
+                <h4>Suni Ajaykumar
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Sc(statistics),M.Phil(Statistics),Pursuing P.hd
+                    <span>Qualification </span> <br/> M.Sc(statistics),M.Phil(Statistics), (Ph.D)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Applied statistics
+                    <span>Area of interest </span><br/> Applied statistics
                 </p>
                 <p>
                     <span>Experience  </span><br/>  18 years

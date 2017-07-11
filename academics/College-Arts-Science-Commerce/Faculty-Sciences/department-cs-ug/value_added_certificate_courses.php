@@ -84,7 +84,7 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Value Added and <strong> Certificate Courses  </strong></span></h4>
                                
-                                <p align=justify>At Kristu Jayanti College we believe in going beyond books and equipping our students with real life skills that turn out to be invaluable in their personal and professional life. The department conducts Value Added Courses aiming to provide an additional, learner centric, skill oriented technical training with the primary objective of improving the employability skills of the students. The various value added courses offered for the academic year (2016-17) are as follows:</p>
+                                <p align=justify>At Kristu Jayanti College we believe in going beyond books and equipping our students with real life skills that turn out to be invaluable in their personal and professional life. The department conducts Value Added Courses aiming to provide an additional, learner centric, skill oriented technical training with the primary objective of improving the employability skills of the students. The various value added courses offered for the academic year (2017-18) are as follows:</p>
                                 
                                 <p><b>Value Added Courses</b></p>
       <table class="table table-bordered" align=center>

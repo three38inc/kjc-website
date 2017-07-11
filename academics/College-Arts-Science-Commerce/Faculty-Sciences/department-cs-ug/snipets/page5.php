@@ -35,7 +35,7 @@
                 <div class="class-img"><img src="images/faculty/Saravana Kumar.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> S.Saravana Kumar
+                <h4> S. Saravana Kumar
                 </h4>
                 <p>
                     <span>Qualification </span> <br/> M.Sc., DCS., M.Phil., (Ph.D)
@@ -44,7 +44,7 @@
                     <span>Areas of interest</span><br/>  Software Testing, Network Security
                 </p>
                  <p>
-                    <span>Experience </span><br/>  Academic: 11 Years
+                    <span>Experience </span><br/> 11 Years
                 </p>
                 <p>
                     <span>Papers presented or published </span><br/> 10 &amp; 05 
@@ -130,7 +130,7 @@
                 <h4>  Suresh K
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  B. Sc, M. C. A, M. Phil & PHD(pursuing) 
+                    <span>Qualification </span> <br/>  MCA.,M.Phil.,(P.hD)
                 </p>
                 <p>
                     <span>Areas of interest </span><br/> Data Mining, Database & operating System 

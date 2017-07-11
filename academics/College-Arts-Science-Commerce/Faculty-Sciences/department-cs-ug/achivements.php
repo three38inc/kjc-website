@@ -94,6 +94,12 @@
                                     
                                     <center><img src="images/best-college.jpg"></center>
                                     
+                                    <p><b>Certificate Exchange Ceremony with ICT Academy</b><br>
+Kristu Jayanti College, Bengaluru signs membership with ICT Academy on 23rd June 2017.<br>
+Kristu Jayanti College, Bengaluru is the first Arts & Science College in the State of Karnataka to sign the membership with ICT Academy.<br>
+                                        The membership is signed to benefit Faculty Members and Students through various initiatives of ICT Academy which includes Faculty Development, Student Skill Development, Industry-Institute Collaboration, Research etc.</p>
+
+                                    
                                     
                                     
                                 <p><b>Achievements in academic year 2016-17</b></p>
