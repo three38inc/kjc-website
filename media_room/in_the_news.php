@@ -120,7 +120,7 @@
 									<p align=justify>Kristu Jayanti College activities and other initiatives are carried in various newspapers. This section showcases news and other write ups carried across media platforms.  </p>
 
 
-                  <a href="pdf/2017/kristu-itc-academy.pdf" target="_blank" class="btn btn-primary btn-sm">Kristu Jayanti College signed the Membership with ICT Academy</a>
+                  <a href="../pdf/2017/kristu-itc-academy.pdf" target="_blank" class="btn btn-primary btn-sm">Kristu Jayanti College signed the Membership with ICT Academy</a>
 
 
 
@@ -130,7 +130,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="news.php">News</a></p>

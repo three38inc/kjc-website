@@ -591,8 +591,12 @@
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
-						Department of Computer Science (UG) is organizing Guest Lecture on "Machine Learning and Tech Giants"
+						Department of Computer Science (UG) is organizing Tech Talk on "Machine Learning and The Tech Giants"
 									</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 								
 								</td>
 							</tr>
@@ -663,7 +667,7 @@
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">

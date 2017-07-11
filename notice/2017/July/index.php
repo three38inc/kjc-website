@@ -2,6 +2,61 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                <div class="panel-heading" role="tab" id="heading8">
+                    <h4 class="panel-title">
+                    July 11<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
+                <div class="panel-body">
+                    
+                    <p><b> For III year UG classes only</b><br>
+
+    If there is any change in your address please do make the changes in the college ID-Card by submitting valid proof to the office (Computer Lab III – 3rd Floor) on 12/07/2017 before 1.45 p.m.<br>
+
+                        <b>Documents Required</b><br>
+    a) Request letter duly signed by The Principal<br>
+                        b) Address proof (original & photocopy).</p>
+
+
+                    <p><b>For all UG & PG classes</b><br>
+                        Students are requested to wear always the ID-Card while you are in the campus. Please do not bring any outsider in the campus. If you happen to see anybody outsider inside the campus please report immediately to the college authorities.</p>
+
+                    <p>Jayantian Language Center offers a certificate programme in English. Classes will start from tomorrow (12/07/2017). Interested students are requested to pay the fee of Rs. 1000/- in the Reception Counter (Main Block) today (11/07/2017) itself. Successful completion of course will help the students to earn three extension credits.</p>
+
+                    <p>Our college is organizing a certificate programme on “Art of Painting” by Mr. Thomas a renowned artist. It is a 45 hours programme. Classes will start from tomorrow (12/07/2017). Interested students are requested to pay the fee of Rs. 1250/- in the Reception Counter (Main Block) today (11/07/2017) itself. Successful completion of course will help the students to earn three extension credits.</p>
+
+                    <p>The list of students selected as members of the Debating Society of the college is displayed on the notice board. A meeting of the Debating Society is scheduled today (11/07/2017) in the Main Auditorium at 4.30 p.m.</p>
+
+                    <p>Today (11/07/2017) there will be selection trials for students who wish to join the college Badminton Team (Men). Students are requested to come in proper sports kit and bring your own racket.<br>
+
+                        Time: 4.30 p.m. | Venue: Quadrangle (UG Block).</p>
+
+
+                    <p><b>For all UG classes</b><br>
+                        Registrations for Kalajyothi close on Wednesday, 12th July by 4.00 p.m. There is a help desk arranged at the main reception lobby to facilitate registrations. Students may avail the facility between 3.30 p.m. and 5.30 p.m. today.</p>
+
+                    <p>An audition for students interested in joining the college choir is scheduled today at 3.45 p.m. onwards at the Mini Auditorium I (2nd Floor – Main Block). Students who play musical instruments can also take part in the audition.</p>
+
+                    <p><b>Please note:</b> Successful completion of the choir training will help the students earn three extension credits.</p>
+
+
+                    <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes (except MBA/PGDM)</b><br>
+Defaulters of tuition/admission fee should pay the same on or before 19th July 2017 with late fee of Rs. 500/-.  <br>
+
+    Venue: Counter No. 2 (UG Office)<br>
+                        Time:   12.45 p.m. to 1.40 p.m.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
                 <div class="panel-heading" role="tab" id="heading7">

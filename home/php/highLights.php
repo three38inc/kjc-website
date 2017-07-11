@@ -7,6 +7,38 @@
 
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-orientation-visit-indian-social-institute.jpg" class="img-responsive"/>
+            <span class="date">04<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-indian-social-institute.php">
+              <h4>Orientation Visit to Indian Social Institute (ISI), Bangalore  <br/><small>
+           The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students to Indian Social Institute..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-visit-schneider-electric.jpg" class="img-responsive"/>
+            <span class="date">01<sup>st</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-schneider-electric.php">
+              <h4>Department of Social Work | Orientation Visit to Schneider Electric  <br/><small>
+            The Department of Social Work has organized an Orientation Visit for the 3rd Semester of MSW students to Schneider Electric on the 1st of July 1, 2017..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-capacity-building-training.jpg" class="img-responsive"/>
+            <span class="date">13<sup>th</sup> - 17<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=capacity-building-training.php">
+              <h4>Centre for Life Skills Education | Capacity Building Training on Life Skills  <br/><small>
+             The Centre for Life Skills Education (CLSE), Kristu Jayanti College, in collaboration with the Rajiv Gandhi National Institute of Youth Development..  </small></h4></a>
+            </div>
+        </li>
 		
 		
 		

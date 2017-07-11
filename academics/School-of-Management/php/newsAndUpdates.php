@@ -139,21 +139,55 @@
         <div class="row">
             <div class="col-xs-12">
                 <ul class="demo1" >
-                    <li class="news-item">
+                    
+                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
-                                <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>17 July 2017:</b> Commencement of Trimester I</td>
+                                <td><img src="../../images/bookshelf.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>01 to 17 July 2017:</b> International Student Exchange Programme to Germany</td>
 
                             </tr>
                         </table>
                     </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/booklet-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>17 July 2017:</b> Subharambh 2017-19 Batch (Trimester I)</td>
+
+                            </tr>
+                        </table> 
+                    </li>
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>18 - 21 July 2017:</b> Life Skills Training</td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/brush-pencil-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>25 - 30 July 2017:</b> International Industrial Visit to Singapore</td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
 					<li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
-                                <td><img src="../../images/exam.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../../images/booklet-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>01 August 2017:</b> Commencement of Trimester IV</td>
 
                             </tr>
@@ -164,7 +198,7 @@
                             <tr>
 
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>13, 14 & 15th Aug 2017:</b> Gramasamvedhitha</td>
+                                <td><b> 14 &amp; 15 Aug 2017:</b> Gramasamvedhitha - Rural Outreach</td>
 
                             </tr>
                         </table>
@@ -174,7 +208,7 @@
                             <tr>
 
                                 <td><img src="../../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>07 Sep 2017:</b> Management Development Programme </td>
+                                <td><b>07 Sep 2017:</b> Management Development Programme - I </td>
 
                             </tr>
                         </table>
@@ -184,7 +218,7 @@
                             <tr>
 
                                 <td><img src="../../images/check-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>28 Sep 2017:</b> Intra Collegiate Management Fest - Talento 2K17 </td>
+                                <td><b>28 Sep 2017:</b> Intra Collegiate Management Fest - Talento 2K17</td>
 
                             </tr>
                         </table>
@@ -206,7 +240,18 @@
                             <tr>
 
                                 <td><img src="../../images/easel-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>29 &amp; 30 Nov 2017:</b> Faculty Development Programme </td>
+                                <td><b>29 &amp; 30 Nov 2017:</b> Faculty Development Programme - I </td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/genius-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>06 Jan 2018:</b> Management Development Programme - II </td>
 
                             </tr>
                         </table>
@@ -217,7 +262,7 @@
                             <tr>
 
                                 <td><img src="../../images/gear-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>02 Feb 2018:</b> Panel Discussions  </td>
+                                <td><b>02 Feb 2018:</b> Panel Discussion on Union Budget </td>
 
                             </tr>
                         </table>
@@ -227,39 +272,74 @@
                         <table cellpadding="4">
                             <tr>
 
+                                <td><img src="../../images/email-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>09 Feb 2018:</b> Abhigyan  2K18 - Management Through Theatre </td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/check-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>16 &amp; 17 Feb 2018:</b> Faculty Development Programme - II </td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/booklet-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>03 Apr 2018:</b> Commencement of Trimester III </td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/clock-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>07 Apr 2018:</b> Management Development Programme - III </td>
+
+                            </tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/global-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>21 Apr 2018:</b> Incognito 2K18 - Business Quiz Competition </td>
+
+                            </tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>27 &amp; 28 Apr 2018:</b> International Conference  - KRISYM 2K18 </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
                                 <td><img src="../../images/news-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>09 Feb 2018:</b> Abhigyan  2K18 - Management Through Theatre  </td>
-
-                            </tr>
-                        </table>
-                    </li>
-					
-					<li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-
-                                <td><img src="../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>21 Apr 2018:</b> Incognito 2K18 - Business Quiz Competition</td>
-
-                            </tr>
-                        </table>
-                    </li>
-					
-					<li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-
-                                <td><img src="../../images/calendar-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>27 &amp; 28 Apr 2018:</b> International Conference  - KRISYM 2K18</td>
-                            </tr>
-                        </table>
-                    </li>
-					
-					<li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td><img src="../../images/brush-pencil-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>27 &amp; 11 May 2018:</b> Ventura 2K18 - Business Plan Contest</td>
+                                <td><b> 11 May 2018:</b> Ventura 2K18 - Business Plan Contest </td>
                             </tr>
                         </table>
                     </li>
