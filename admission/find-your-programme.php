@@ -26,6 +26,7 @@
     <!--custom css-->
     <link href="../css/custom.css" rel="stylesheet">
     <link href="../css/innerpage.css" rel="stylesheet">
+    <link href="../css/table_sorter.css" rel="stylesheet">
     <!-- javascript -->
     <script src="../js/jquery-1.11.0.min.js"></script>
     <script src="../bootstrap/js/bootstrap.min.js"></script>
@@ -98,8 +99,11 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
--->
+    </script>-->
+    
+     
+     <!-----------end------>
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -122,10 +126,11 @@
 
     </script>
     
-    <!-----------findmyprogramme------>
-    <script type="text/javascript" src="/path/to/jquery-latest.js"></script> 
-<script type="text/javascript" src="/path/to/jquery.tablesorter.js"></script>
-     <!-----------end------>
+  
+    
+    
+    
+    
     <div class="container-fluid">
         <div class="row">
             <?php include ('../php/navbar.php');  ?>
@@ -152,7 +157,49 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Find Your <strong> Programme? </strong></span></h4>
                                     
+                          
                                     
+                                    <table id="myTable" class="tablesorter"> 
+<thead> 
+<tr> 
+    <th>Last Name</th> 
+    <th>First Name</th> 
+    <th>Email</th> 
+    <th>Due</th> 
+    <th>Web Site</th> 
+</tr> 
+</thead> 
+<tbody> 
+<tr> 
+    <td>Smith</td> 
+    <td>John</td> 
+    <td>jsmith@gmail.com</td> 
+    <td>$50.00</td> 
+    <td>http://www.jsmith.com</td> 
+</tr> 
+<tr> 
+    <td>Bach</td> 
+    <td>Frank</td> 
+    <td>fbach@yahoo.com</td> 
+    <td>$50.00</td> 
+    <td>http://www.frank.com</td> 
+</tr> 
+<tr> 
+    <td>Doe</td> 
+    <td>Jason</td> 
+    <td>jdoe@hotmail.com</td> 
+    <td>$100.00</td> 
+    <td>http://www.jdoe.com</td> 
+</tr> 
+<tr> 
+    <td>Conway</td> 
+    <td>Tim</td> 
+    <td>tconway@earthlink.net</td> 
+    <td>$50.00</td> 
+    <td>http://www.timconway.com</td> 
+</tr> 
+</tbody> 
+</table> 
                                     
 
 
@@ -191,16 +238,7 @@
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
-    <script>
-        (function() {
-
-            [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
-                new CBPFWTabs(el);
-            });
-
-        })();
-
-    </script>
+    
     <script src="../js/modernizr.custom.js"></script>
     <script src="../js/spin.min.js"></script>
     <script src="../js/mySpin.js"></script>
@@ -215,6 +253,9 @@
     <script src="../js/wow.min.js"></script>
     <!--    <script src="js/res-navtabs.js"></script>-->
     <script src="../js/scripts.js"></script>
+     <!-----------findmyprogramme------>
+    
+<script type="text/javascript" src="../js/jquery.tablesorter.min.js"></script>
     <script type="text/javascript">
         function googleTranslateElementInit() {
             new google.translate.TranslateElement({
@@ -224,7 +265,17 @@
 
     </script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script>
+        (function() {
 
+            [].slice.call(document.querySelectorAll('.tabs')).forEach(function(el) {
+                new CBPFWTabs(el);
+            });
+            $("#myTable").DataTable();
+            })();
+        
+
+    </script>
 </body>
 
 </html>
