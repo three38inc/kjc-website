@@ -507,6 +507,24 @@
                         </table>
                     </li>-->
                     
+                      <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">11</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Department of Commerce (PG) Workshop on Research of Paper Writing at 9.15 am in Conference Hall II
+
+								</p>
+				
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
@@ -543,18 +561,24 @@
                         </table>
                     </li>
                     
+                  
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">11</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">13</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
-						Department of Commerce (PG) Workshop on Research of Paper Writing at 9.15 am in Conference Hall II
+						The Department of History is organizing a Guest Lecture on the "Significance of Numismatics in History"
 
 								</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=significance-numismatics-history.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 				
 								</td>
 							</tr>
@@ -662,6 +686,27 @@
 							</tr>
                         </table>
                     </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">26</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								  The Department of Journalism and Mass Communication, is organizing a workshop on ‘Writing for Newspapers’ 
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=workshop-writing-newspapers.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

@@ -3,6 +3,58 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
          <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                <div class="panel-heading" role="tab" id="heading9">
+                    <h4 class="panel-title">
+                    July 12<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+The inauguration of Kalajyothi, Clubs & Associations and investiture ceremony is scheduled today (12/07/2017) in the SKE Auditorium. The Class Representatives, Class Coordinators for LCA, Sports & Games and Department specific clubs and associations (list displayed on the notice board) have to attend the programme and be seated in the SKE Auditorium at 2.40 p.m.</p>
+
+    <p>Registrations for Kalajyothi close today, 12th July by 4.00 p.m. Preliminary rounds for music and dance will be held on 13th & 14th July. For details, refer the notice board.</p>
+
+                    <p><b>For all UG & PG classes</b><br>
+
+    Certificate programme on “Art of Painting” by Mr. Thomas a renowned artist. It is a 45 hours programme. Classes will start today at 4.00 p.m.<br>
+
+                        <b>Venue:</b> Mini Auditorium I<br>
+
+    Certificate programme in English classes will start today (12/07/2017) at 4.00 p.m.<br>
+
+                        <b>Venue:</b> Room No. 104<br>
+
+    Today (12/07/2017) there will be selection trials for students who wish to join the college Badminton Team (Women). Students are requested to come in proper sports kit and bring your own racket.<br>
+
+                        <b>Time:</b> 4.30 p.m. | Venue: Quadrangle (UG Block).</p>
+
+
+                    <p><b>For all Final year BBA, BCA & B.Sc (CSME, CSMS) classes</b><br>
+
+    The POTP (Placement Orientation & Training Programme) by the Centre for Employability & Corporate Relations will commence today (12/07/2017). The details for today are as follows:<br>
+
+    1. Programme: Final year BBA<br>
+                        <b>Time:</b> 11.00 a.m. – 12.50 p.m.<br>
+                        <b>Venue:</b> Main Auditorium, UG Block</p>
+
+    <p>2. Programme: Final year BCA & B.Sc (CSME & CSMS)<br>
+        <b>Time:</b> 3.35 p.m. – 4.30 p.m.<br>
+        <b>Venue:</b> Main Auditorium, UG Block<br>
+
+    Students should assemble in the venue on time.<br>
+        <b>Time:</b>   12.45 p.m. to 1.40 p.m.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
                 <div class="panel-heading" role="tab" id="heading8">
                     <h4 class="panel-title">

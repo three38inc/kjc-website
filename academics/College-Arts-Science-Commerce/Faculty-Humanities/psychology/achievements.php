@@ -79,22 +79,70 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Department of <strong>Psychology </strong></span></h4>
+                                            <span>&nbsp; Achievements <strong></strong></span></h4>
 
-                                        <p>Department of psychology aims to provide an environment which facilitates in-depth, quality education to students aspiring to understand themselves and others.</p>
+                                        <p align=justify>Department of Psychology focuses on growth of an individual in academic and various other extracurricular activities. The following are some of the achievements of student</p>
+                                        <p><b>Academic Achievement</b></p>
+                                        <table border="0" class="table table-borderd table-hover">
+  <tr>
+    <td width="56"><p align="center"><strong>Sl.    No</strong></p></td>
+    <td width="170"><p align="center"><strong>Student    Name</strong></p></td>
+    <td width="284"><p align="center"><strong>Achievement</strong></p></td>
+    <td width="91"><p align="center"><strong>Year</strong></p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">1</p></td>
+    <td width="170"><p align="center">Deepika Nambiar</p></td>
+    <td width="284"><p align="center">M.Sc., First Rank and    Gold Medal, Bangalore University</p></td>
+    <td width="91"><p align="center">2012</p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">2</p></td>
+    <td width="170"><p align="center">Monisha Muliyil</p></td>
+    <td width="284"><p align="center">M.Sc., First Rank and    Gold Medal, Bangalore University</p></td>
+    <td width="91"><p align="center">2013</p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">3</p></td>
+    <td width="170"><p align="center">Guriyam Melody Sharma</p></td>
+    <td width="284"><p align="center">B.A., Gold Medal,    Bangalore University</p></td>
+    <td width="91"><p align="center">2013</p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">4</p></td>
+    <td width="170"><p align="center">Preethi M Rajagopalan</p></td>
+    <td width="284"><p align="center">M.Sc. Fourth Rank,    Bangalore University</p></td>
+    <td width="91"><p align="center">2013</p></td>
+  </tr>
+</table>
 
-                                        <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
 
-                                        <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
-                                        
-                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
-
-                                        <center><p><a href="curriculum/BA-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">BA Course Matrix</a></p></center>
-                                        <center><p><a href="curriculum/MSc-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">MSc Course Matrix</a></p></center>
+                                        <p><b>Extracurricular Achievement </b></p>
+                                        <table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="56"><p align="center"><strong>Sl.    No</strong></p></td>
+    <td width="170"><p align="center"><strong>Student    Name</strong></p></td>
+    <td width="284"><p align="center"><strong>Achievement</strong></p></td>
+    <td width="91"><p align="center"><strong>Year</strong></p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">1</p></td>
+    <td width="170"><p align="center">Rebecca Keerthana </p></td>
+    <td width="284"><p align="center">2nd Prize,    Western Group Vocals, National Youth Fest </p></td>
+    <td width="91"><p align="center">2011</p></td>
+  </tr>
+  <tr>
+    <td width="56"><p align="center">2</p></td>
+    <td width="170"><p align="center">Anate Augustine</p></td>
+    <td width="284"><p align="center">Kerala State Award    for best Actress</p></td>
+    <td width="91"><p align="center">2014</p></td>
+  </tr>
+</table>
+                                      
 
                                     </div></div>
                                 <div class="col-lg-3" style="margin-top:1em;">
@@ -123,7 +171,7 @@
                                                 <span> <strong>Activities</strong></span>
                                             </h4>
                                             
-                                            <section class="link-arrow">
+                                         <section class="link-arrow">
                                                 <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
                                             </section>
 

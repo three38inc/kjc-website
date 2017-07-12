@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -123,51 +123,74 @@
 												
 												The Centre for Research has initiated a number of research projects both minor and major in order to create and inculcate research temperament among the faculty members and students.</p>
                                     
+                                    <p><b><u>Faculty of Science</u></b></p>
+                                    
+                                    <table border="0" class="table table-bordered table-hover">
+   
+    <tr>
+    <td width="500">Department of Life Sciences</td>
+        <td width="500"><center><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Computer Science (UG)</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Computer Science (PG)</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+    </table>
+    
+    
+    <p><b><u>Faculty  of Commerce and Management</u></b></p>
+     <table border="0" class="table table-bordered table-hover">
+   
+    <tr>
+    <td width="500">School of Management (MBA/PGDM)</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Commmerce (PG)</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Management (UG)</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+    </table>
+    <p><b><u>Faculty  of Humanities</u></b></p>
+    
+      <table border="0" class="table table-bordered table-hover">
+   
+    <tr>
+    <td width="500">Department of Social Work</td>
+    <td width="500"><center><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/research_activities.php">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Humanities</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Psychology</td>
+    <td width="500"><center><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Humanities/socialwork/research-activities.php">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of Journalism</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+     <tr>
+    <td width="500">Department of English</td>
+    <td width="500"><center><a href="#">View here</a></center></td>
+    </tr>
+    </table>
+                                    
+                                    
+                                    
                                      <p align="justify">
 												
 											<p>UGC Minor Research Projects</p>
                                     
                                     
-										
-											 <p align="justify"><strong>Research Projects</strong><br /></p>
-												<table class="table table-hover table-bordered">
-													<thead>
-														<tr>
-															<th>Category</th>
-															<th>Year</th>
-															<th>Project Name</th>
-														</tr>
-													</thead>
-													<tbody>
-														<tr>
-															<td rowspan="2">Major Project</td>
-															<td>2013</td>
-															<td>Standardization of Allium Based Product Formulation funded by Jian Health Care Pte. Ltd., Singapore</td>
-														</tr>
-														<tr>
-															<td>2015</td>
-															<td>K-FIST Scheme of VGST</td>
-														</tr>
-														<tr>
-															<td rowspan="4">Minor Project</td>
-															<td>2009 onwards</td>
-															<td>Educating the Mentally Challenged undertaken by Dept. of Psychology</td>
-														</tr>
-														<tr>
-															<td>2010 onwards</td>
-															<td>Abilities in Disabilities undertaken by Dept. of Psychology</td>
-														</tr>
-														<tr>
-															<td>2014</td>
-															<td>Capacity Mapping of Partner NGOs of ChildFund India in Karnataka funded by ChildFund India</td>
-														</tr>
-														<tr>
-															<td>2014</td>
-															<td>Study on Prevalence of Disruptive Internet Usage Behaviour among College Students funded by World Vision India</td>
-														</tr>
-													</tbody>
-												</table>
-											
 											
 									</div>
 								</div>
@@ -194,16 +217,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>

@@ -79,22 +79,54 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Department of <strong>Psychology </strong></span></h4>
+                                            <span>&nbsp; Research  <strong> Activities </strong></span></h4>
 
-                                        <p>Department of psychology aims to provide an environment which facilitates in-depth, quality education to students aspiring to understand themselves and others.</p>
+                                        <p align=justify>The department of psychology in collaboration with various organizations conducts research activities to enrich the knowledge and to create research interest and aptitude among students. The department also focuses on to develop appropriate method for their research studies and construct psychological research tools. </p>
+                                        <p><b>The following are some of the projects undertaken by the department of psychology</b></p>
+                                        <table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td width="57"><p align="center"><strong>Sl.    No</strong></p></td>
+    <td width="217"><p align="center"><strong>Organization    Name</strong></p></td>
+    <td width="331"><p align="center"><strong>Project    Title</strong></p></td>
+    <td width="113"><p align="center"><strong>Year    of Project</strong></p></td>
+  </tr>
+  <tr>
+    <td width="57"><p align="center">1</p></td>
+    <td width="217"><p align="center">Kirubai Project<br />
+      Bangalore</p></td>
+    <td width="331"><p align="center">Assessment of the    long term effects of the family strengthening network under Kutumba Araike</p></td>
+    <td width="113"><p align="center">2016 –2017</p></td>
+  </tr>
+  <tr>
+    <td width="57"><p align="center">2</p></td>
+    <td width="217"><p align="center">Friendship Foundation<br />
+      Bangalore</p></td>
+    <td width="331"><p align="center">Focusing Student    enrichment and exposure in the field of special needs (Mentally Challenged)</p></td>
+    <td width="113"><p align="center">2016 – 2017 </p></td>
+  </tr>
+  <tr>
+    <td width="57"><p align="center">3</p></td>
+    <td width="217"><p align="center">Lovedale Foundation<br />
+      Bangalore</p></td>
+    <td width="331"><p align="center">Effect of regular    counselling for student&rsquo;s quality of life</p></td>
+    <td width="113"><p align="center">2015 – 2016 </p></td>
+  </tr>
+  <tr>
+    <td width="57"><p align="center">4</p></td>
+    <td width="217"><p align="center">Akshadhaa Foundation<br />
+      Bangalore</p></td>
+    <td width="331"><p align="center">Student enrichment    and exposure in the field of special needs (Autism)</p></td>
+    <td width="113"><p align="center">2014 onwards</p></td>
+  </tr>
+</table>
 
-                                        <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
 
-                                        <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
-                                        
-                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
 
-                                        <center><p><a href="curriculum/BA-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">BA Course Matrix</a></p></center>
-                                        <center><p><a href="curriculum/MSc-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">MSc Course Matrix</a></p></center>
+                                      
 
                                     </div></div>
                                 <div class="col-lg-3" style="margin-top:1em;">
@@ -124,6 +156,10 @@
                                             </h4>
                                             
                                             <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
+                                            </section>
+
+  <section class="link-arrow">
                                                 <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
                                             </section>
 

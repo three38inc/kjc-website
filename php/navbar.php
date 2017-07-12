@@ -302,11 +302,11 @@
 
                   <div class="col-lg-3">
                     <div class="menu-alt">
-                        <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php"><h4>Research Centre in Biotechnology</h4></a>
+                        <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php"><h4>Research Centre in Biotechnology</h4></a>
                       <p>
                         The Department has been endowed the status of a Research Centre in Biotechnology providing a guiding framework for the research programmes.
                       </p>
-                      <a href="<?php echo $ROOT; ?>/research/research_centre_in_biotechnology.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                      <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
                     </div>
                   </div>
 

@@ -79,18 +79,40 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-                <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; M.Sc<strong>Program offered </strong></span></h4>
-                                    
-                              
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Post Graduate Programme (M.Sc.)</b><br>
-                                    The M.Sc. programme spans over two years (4 semesters) duration offering specializations in Clinical Psychology, Industrial Psychology and Counselling Psychology. The specializations begin from the Third semester.</p>
-                                <p align=justify>To impart hands-on-experience in research and experiential learning according to the specialization, internships are provided for a duration of two months after the third semester, in organizations like Christian Medical College Vellore, Kempegowda Institute of Medical Science Bangalore , SCARFF , Pepsi CO , Lifestyle International, Hinduja Global Solutions, COPER , Tata Steel , Future Retail, 3M, Strides and NGOs etc.</p>
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Eligibility:</b><br>
-                                    BA/B.Sc. degree from Bangalore University or any other University offering an equivalent degree with at least 50% marks (45% for SC/ST) in the main subjects individually as well as in aggregate, with Psychology as a compulsory subject.</p>
+									  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
-									  <center><p><a href="curriculum/msc_psychology_programme_matrix_2015.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of M.SC Programme offered </a></p></center>
+                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                    <span>&nbsp; Department  <strong> Activities </strong></span></h4>
+                                    
+                            
+                                
+                                <div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="headingOne">
+														<h5 class="panel-title">
+															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+
+																 Seminar on Psychology Today - Scope and Significance 
+															</a>
+														</h5>
+													</div>
+													<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+														<div class="panel-body">
+                                                            <p><b><i>"The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind." - William James</i></b></p>
+                                                            <p align=justify><b>Date:</b> 30.06.2017<br>
+                                                                With the objective to explore and appraise careers and prospects in Psychology for UG & PG Students. <b>Dr. Sudha Bhogle</b>, Head, Student Solutions, Eduquity Career Technologies, addressing around 220 psychology students from under graduation and post-graduation started her seminar on Emerging areas and Avenues in Psychology by calling Psychology to be <b>“the go to Science”</b>. As the seminar progressed she spoke about the various branches in psychology and its major function areas, scope and the career prospects in those branches. The following are the major branches which were covered, Cognitive psychology, Neuropsychology, Clinical psychology, Media and Technology psychology, Industrial and Organizational psychology and Engineering psychology. </p>
+                                                            <p align=justify>She gave students an idea about what they could do next to pursue a career in psychology. She ended her speech with a quote saying that “the future of psychology is so bright that we will have to wear dark shades”. </p>
+
+
+                                                        </div>
+													</div>
+												</div>
+                                
+                            
+                                
+                            
+                                   
+                                  
+                                    
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -117,7 +139,7 @@
                                         </h4>
                                         
                                         
-                                     <section class="link-arrow">
+                                         <section class="link-arrow">
                                                 <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
                                             </section>
 
@@ -165,6 +187,8 @@
                                                 <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
                                             </section>
 
+                                        
+                                       
                                         
                                         
                                     </div>

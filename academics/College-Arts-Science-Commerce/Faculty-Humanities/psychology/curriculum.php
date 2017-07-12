@@ -79,22 +79,15 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Department of <strong>Psychology </strong></span></h4>
+                                            <span>&nbsp; Curriculum for <strong> UG and PG programs</strong></span></h4>
 
-                                        <p>Department of psychology aims to provide an environment which facilitates in-depth, quality education to students aspiring to understand themselves and others.</p>
-
-                                        <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
-
-                                        <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
+                                        <center>  <a href="curriculum/Autonomous-UG-Syllabus-psy-2015-18.pdf" target="_blank" class="btn btn-primary btn-sm">Autonomous UG Syllabus PSYCHOLOGY 2015-18</a><br><br></center>
                                         
-                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
-
-                                        <center><p><a href="curriculum/BA-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">BA Course Matrix</a></p></center>
-                                        <center><p><a href="curriculum/MSc-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">MSc Course Matrix</a></p></center>
+                                        <center> <a href="curriculum/Msc-Psy-curriculum-2017-19.pdf" target="_blank" class="btn btn-primary btn-sm">Msc Psychology curriculum 2017-19</a></center>
 
                                     </div></div>
                                 <div class="col-lg-3" style="margin-top:1em;">

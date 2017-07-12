@@ -25,6 +25,17 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 11 </span></td>
+                <td class="event-dates">
+                  <p>  	Department of Commerce (PG) Workshop on Research of Paper Writing at 9.15 am in Conference Hall II</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
      <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
         <table cellpadding="4">
             <tr>

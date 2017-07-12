@@ -39,6 +39,16 @@
             </div>
         </li>
         
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-Scope-Significance.jpg" class="img-responsive"/>
+            <span class="date">30<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=scope-and-significance.php">
+              <h4>Department of Psychology Seminar on Psychology Today – Scope and Significance <br/><small>
+            With the objective to explore and appraise careers and prospects in Psychology for UG & PG Students. Dr. Sudha Bhogle,..  </small></h4></a>
+            </div>
+        </li>
+        
         
         <li>
             <img src="../highlights/2017/kristu-jayanti-college-capacity-building-training.jpg" class="img-responsive"/>

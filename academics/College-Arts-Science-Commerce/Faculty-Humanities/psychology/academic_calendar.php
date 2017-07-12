@@ -79,18 +79,266 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-                <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; M.Sc<strong>Program offered </strong></span></h4>
-                                    
-                              
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Post Graduate Programme (M.Sc.)</b><br>
-                                    The M.Sc. programme spans over two years (4 semesters) duration offering specializations in Clinical Psychology, Industrial Psychology and Counselling Psychology. The specializations begin from the Third semester.</p>
-                                <p align=justify>To impart hands-on-experience in research and experiential learning according to the specialization, internships are provided for a duration of two months after the third semester, in organizations like Christian Medical College Vellore, Kempegowda Institute of Medical Science Bangalore , SCARFF , Pepsi CO , Lifestyle International, Hinduja Global Solutions, COPER , Tata Steel , Future Retail, 3M, Strides and NGOs etc.</p>
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Eligibility:</b><br>
-                                    BA/B.Sc. degree from Bangalore University or any other University offering an equivalent degree with at least 50% marks (45% for SC/ST) in the main subjects individually as well as in aggregate, with Psychology as a compulsory subject.</p>
+									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
-									  <center><p><a href="curriculum/msc_psychology_programme_matrix_2015.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of M.SC Programme offered </a></p></center>
+                                <h4 class="mainheading"><i class="fa fa-bookmark"></i>
+                                    <span>&nbsp; Academic <strong> Calendar </strong></span></h4>
+                                     
+                                     <p><b>Academic Calendar 2017-18</b></p>
+                                    <table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td width="139" valign="top"><p><strong>Date </strong></p></td>
+    <td width="138" valign="top"><p><strong>Class</strong></p></td>
+    <td width="186" valign="top"><p><strong>Activity</strong></p></td>
+    <td width="204" valign="top"><p><strong>Subject/Programme</strong></p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>June  12 - 17     2017</p></td>
+    <td width="138" valign="top"><p>UG</p></td>
+    <td width="186" valign="top"><p>Training</p></td>
+    <td width="204" valign="top"><p>life    skill Development</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>June    30  2017</p></td>
+    <td width="138" valign="top"><p>UG</p></td>
+    <td width="186" valign="top"><p>Propium    Series Seminar</p></td>
+    <td width="204" valign="top"><p>Psychology    Today</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    3 2017</p></td>
+    <td width="138" valign="top"><p>III    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Positive    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    10 2017</p></td>
+    <td width="138" valign="top"><p>III    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Social    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    17 2017</p></td>
+    <td width="138" valign="top"><p>III    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Specialization    1</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    20 2017</p></td>
+    <td width="138" valign="top"><p>V    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Behaviour    Dysfunction</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    25 2017</p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Phase    I: Title and Method Finalization</p></td>
+    <td width="204" valign="top"><p>Research    Proposal </p></td>
+  </tr>
+  <tr>
+    <td width="139" rowspan="3"><p>July    29 2017</p></td>
+    <td width="138" valign="top"><p>V    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Industrial    and OB</p></td>
+  </tr>
+  <tr>
+    <td width="138" valign="top"><p>I    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Basic    Psychological Process </p></td>
+  </tr>
+  <tr>
+    <td width="138" valign="top"><p>V    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Developmental    Psy</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>July    31 2017</p></td>
+    <td width="138" valign="top"><p>III    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Specialization    2</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August    3-4 2017</p></td>
+    <td width="138" valign="top"><p>III    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Experiential    learning</p></td>
+    <td width="204" valign="top"><p>Educational    trip</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August    7 2017</p></td>
+    <td width="138" valign="top"><p>I    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Cognitive    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August 10 2017 </p></td>
+    <td width="138" valign="top"><p>UG    &amp; PG</p></td>
+    <td width="186" valign="top"><p>Intra    College Psychology Fest</p></td>
+    <td width="204" valign="top"><p>COGNIZANCE</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August 14 2017 </p></td>
+    <td width="138" valign="top"><p>I    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Bio    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August 21 2017 </p></td>
+    <td width="138" valign="top"><p>I    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Research    Methods</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August 28 2017 </p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Propium    Series Workshop</p></td>
+    <td width="204" valign="top"><p>Counselling    Skills</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>August 30 2017 </p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Indian    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>September    20 2017</p></td>
+    <td width="138" valign="top"><p>UG    &amp; PG</p></td>
+    <td width="186" valign="top"><p>Inter    Collegiate Psychology Fest</p></td>
+    <td width="204" valign="top"><p>STIMULI</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>November    3 2017</p></td>
+    <td width="138" valign="top"><p>I    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Industrial    Vist</p></td>
+    <td width="204" valign="top"><p>VYASA</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>November    7 2017</p></td>
+    <td width="138" valign="top"><p>IV    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Internship    Begins </p></td>
+    <td width="204" valign="top"><p>Hands    on Training</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>November    20 2017</p></td>
+    <td width="138" valign="top"><p>UG</p></td>
+    <td width="186" valign="top"><p>commencement    of even sem</p></td>
+    <td width="204" valign="top"><p>Classes    begin</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    5 2017</p></td>
+    <td width="138" valign="top"><p>VI    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Behaviour    Dysfunction</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    6 2017</p></td>
+    <td width="138" valign="top"><p>IV    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Developmental    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    7 2017</p></td>
+    <td width="138" valign="top"><p>IV    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Basic    Psychological process </p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    12 2017</p></td>
+    <td width="138" valign="top"><p>II    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>commencement    of even sem</p></td>
+    <td width="204" valign="top"><p>Classes    begin</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    13 2017</p></td>
+    <td width="138" valign="top"><p>IV    Sem BA Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Industrial    &amp; OB </p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>December    30 2017</p></td>
+    <td width="138" valign="top"><p>IV    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Internship    Ends </p></td>
+    <td width="204" valign="top"><p>Hands    on Training</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    3 2018</p></td>
+    <td width="138" valign="top"><p>II    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Theories    of Personality Learning and Intelligence</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p><strong>Date </strong></p></td>
+    <td width="138" valign="top"><p><strong>Class</strong></p></td>
+    <td width="186" valign="top"><p><strong>Activity</strong></p></td>
+    <td width="204" valign="top"><p><strong>Subject</strong></p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    10 2018</p></td>
+    <td width="138" valign="top"><p>II    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Statistics    in Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    12 2018</p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Propium    Series Workshop</p></td>
+    <td width="204" valign="top"><p>Workshop</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    17 2018</p></td>
+    <td width="138" valign="top"><p>II    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Health    Psychology</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    20 2018</p></td>
+    <td width="138" valign="top"><p>IV    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Alternative    Psychotherapuitics</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    22 2018</p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Phase    II: Introduction and ROL Final Review and Remark</p></td>
+    <td width="204" valign="top"><p>Research    Proposal </p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    24 2018</p></td>
+    <td width="138" valign="top"><p>II    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Life    span Development</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>January    30 2018</p></td>
+    <td width="138" valign="top"><p>UG    &amp; PG</p></td>
+    <td width="186" valign="top"><p>National    Conference </p></td>
+    <td width="204" valign="top"><p>INSYGHT</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>Febrauary    7 2018</p></td>
+    <td width="138" valign="top"><p>IV    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Specalaization    1</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>Febrauary    14 2018</p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Phase    III: Analysis and Discussion Review and Remark</p></td>
+    <td width="204" valign="top"><p>Research    Proposal </p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>Febrauary    21 2018</p></td>
+    <td width="138" valign="top"><p>IV    Sem M.Sc. Psy</p></td>
+    <td width="186" valign="top"><p>Assignment    submission</p></td>
+    <td width="204" valign="top"><p>Specalaization    II</p></td>
+  </tr>
+  <tr>
+    <td width="139" valign="top"><p>Febrauary    23 2018</p></td>
+    <td width="138" valign="top"><p>PG</p></td>
+    <td width="186" valign="top"><p>Propium    Series</p></td>
+    <td width="204" valign="top"><p>Panel    Discussions</p></td>
+  </tr>
+</table>
+                              
+
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -117,7 +365,7 @@
                                         </h4>
                                         
                                         
-                                     <section class="link-arrow">
+                                       <section class="link-arrow">
                                                 <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
                                             </section>
 
@@ -165,6 +413,8 @@
                                                 <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
                                             </section>
 
+                                        
+                                       
                                         
                                         
                                     </div>

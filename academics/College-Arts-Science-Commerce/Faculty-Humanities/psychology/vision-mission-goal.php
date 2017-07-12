@@ -79,22 +79,24 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                        <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                            <span>&nbsp; Department of <strong>Psychology </strong></span></h4>
+                                            <span>&nbsp; Vision Mission <strong> Goals </strong></span></h4>
 
-                                        <p>Department of psychology aims to provide an environment which facilitates in-depth, quality education to students aspiring to understand themselves and others.</p>
+                                        <p><b style="color: #cd6e08;font-weight: bold;">Vision </b><br>
+                                            Self-Actualization through transformative learning.  </p>
+                                        <p><b style="color: #cd6e08;font-weight: bold;">Mission </b><br>
+                                            Realizing one’s fullest potential through transformative learning processes, enabling the attainment of intrapersonal and interpersonal development with strength, character, knowledge and commitment.</p>
+                                        <p><b style="color: #cd6e08;font-weight: bold;">Goals </b><br>
+                                        <ul><li>To develop the ability to realize ones full potential mentally, emotionally, morally and spiritually.</li>
+                                            <li>To create social conscience and awareness for enlightened living.</li>
+                                            <li>To promote creativity, scientific temper and environmental sensitivity.</li>
+                                            <li>To endow qualities of head and heart that makes an individual healthy with character and moral strength.</li></ul>
 
-                                        <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
 
-                                        <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
-                                        
-                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
-
-                                        <center><p><a href="curriculum/BA-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">BA Course Matrix</a></p></center>
-                                        <center><p><a href="curriculum/MSc-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">MSc Course Matrix</a></p></center>
+                                      
 
                                     </div></div>
                                 <div class="col-lg-3" style="margin-top:1em;">
