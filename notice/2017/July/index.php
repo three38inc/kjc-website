@@ -3,6 +3,45 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
          <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse910" aria-expanded="false" aria-controls="collapse10">
+                <div class="panel-heading" role="tab" id="heading10">
+                    <h4 class="panel-title">
+                    July 13<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
+                <div class="panel-body">
+                    <p><b> For all UG & PG classes</b><br>
+                        Scholarship forms for SC/ST, CAT I, II, IIIA, Minorities are available online. Details are displayed on the college notice board. Eligible students may avail the opportunity by applying well in advance and should submit the documents/proof at the college office (Counter No. 1, Time – 3.00 to 5.00 p.m. on Saturdays 12 noon – 1.30 p.m.)</p>
+
+                    <p>There will be a prayer meeting in the CMI Ashram Chapel today (13/07/2017) at 3.40 p.m.</p>
+
+                    <p>Today (13/07/2017) there will be selection trials for students who wish to join the college Cricket Team (Men). Students are requested to come in proper sports kit.<br>
+
+                        <b> Time:</b> 4.00 p.m. | Venue: College ground.</p>
+
+    <p>Certificate programme in “English” and “Art of Painting” started on 12/07/2017. If any student interested to join the programme can register at UG Block Reception Counter on or before 14/07/2017. Class starts at 4.00 p.m.<br>
+
+    Venue:<br><br>
+    > Art of Painting - Room No. 411, Third floor, UG Block.<br>
+        > English – Room No. 412, Third floor, UG Block.</p>
+
+
+                    <p><b>For I year UG classes</b><br>
+                        Online application for D Devaraj Urs Pratibha Puraskara award is invited from students by the Backward Class Community. Students of CAT I, IIA, and IIIA, who have scored above 90% in PUC (Karnataka State Board) are eligible to apply. Last date to apply is 31/07/2017. For more refer college notice board.</p>
+
+                    <p><b>For I & III Sem B.Com (except I Sem B.Com Professional & I Sem B.Com ACCA) and I & III Sem BBA (except I Sem BBA Section ‘A’ CGMA)</b><br>
+                        The last date to register for CS Foundation training and fee payment is 15th July 2017.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
                 <div class="panel-heading" role="tab" id="heading9">
                     <h4 class="panel-title">

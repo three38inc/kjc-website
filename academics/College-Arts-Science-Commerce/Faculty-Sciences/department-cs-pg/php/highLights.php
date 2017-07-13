@@ -8,6 +8,16 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+        <li>
+            <img src="../../../../highlights/2017/kristu-jayanti-college-Webinar.jpg" class="img-responsive"/>
+            <span class="date">29<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="events/events.php?mode=openlink&year=2017&month=june&url=webinar-ms-project.php">
+              <h4>Department of Computer Science Webinar on "MS Project – SPM Tool" <br/><small>
+          This Webinar provided an exposure to the most useful feature of Microsoft Project 2010, which is one the most used software for project management..  </small></h4></a>
+            </div>
+        </li>
+        
         
      
 		<li>

@@ -8,6 +8,8 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+        
+        
          <li>
             <img src="../highlights/2017/kristu-jayanti-college-isro-visit.jpg" class="img-responsive"/>
             <span class="date">10<sup>th</sup> July 2017</span>
@@ -39,13 +41,25 @@
             </div>
         </li>
         
-        <li>
+         <li>
             <img src="../highlights/2017/kristu-jayanti-college-Scope-Significance.jpg" class="img-responsive"/>
             <span class="date">30<sup>th</sup> June 2017</span>
             <div class="quote">
 				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=scope-and-significance.php">
               <h4>Department of Psychology Seminar on Psychology Today – Scope and Significance <br/><small>
             With the objective to explore and appraise careers and prospects in Psychology for UG & PG Students. Dr. Sudha Bhogle,..  </small></h4></a>
+            </div>
+        </li>
+        
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-Webinar.jpg" class="img-responsive"/>
+            <span class="date">29<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=webinar-ms-project.php">
+              <h4>Department of Computer Science Webinar on "MS Project – SPM Tool" <br/><small>
+          This Webinar provided an exposure to the most useful feature of Microsoft Project 2010, which is one the most used software for project management..  </small></h4></a>
             </div>
         </li>
         

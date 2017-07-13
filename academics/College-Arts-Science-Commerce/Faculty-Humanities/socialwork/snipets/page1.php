@@ -7,7 +7,7 @@
             <div class="item-content">
                 <h4>Dr Jonas Richard A
                 </h4>
-                Associate Professor / Head of the Department
+                 Associate Professor and Head of the Department
                  
                 <p>
                     <span>Qualification </span> <br/>MSW(HRM), M.Sc(Psychology), M.Phil(Psychology),PhD

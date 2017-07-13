@@ -90,7 +90,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
