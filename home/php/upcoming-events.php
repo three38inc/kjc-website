@@ -525,7 +525,7 @@
                         </table>
                     </li>-->
                     
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -541,7 +541,7 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                     <li class="news-item">
                         <table cellpadding="4">
@@ -563,7 +563,7 @@
                     
                   
                     
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -583,7 +583,7 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
 					
 					<li class="news-item">
                         <table cellpadding="4">
@@ -605,6 +605,8 @@
 							</tr>
                         </table>
                     </li>
+                    
+                    
 					
 					<li class="news-item">
                         <table cellpadding="4">
@@ -618,6 +620,27 @@
 						Department of Computer Science (UG) is organizing Tech Talk on "Machine Learning and The Tech Giants"
 									</p>
                                     <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">15</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Department of Management (BBA) is organising a Guest Lecture for III Semester students on "Marketing Strategies for Distributing Electronic Durables"
+									</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=marketing-strategies-distributing-electronic-durables.php" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>

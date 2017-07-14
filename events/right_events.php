@@ -25,6 +25,39 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="significance-numismatics-history.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 13 </span></td>
+                <td class="event-dates">
+                  <p> 	The Department of History is organizing a Guest Lecture on the "Significance of Numismatics in History"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="placement-orientation.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 12 </span></td>
+                <td class="event-dates">
+                  <p> Placement Orientation &amp; Training Programme  </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 10 </span></td>
+                <td class="event-dates">
+                  <p> 	Vth Semester B.Com with ACCA Expert Session on Governance, Risk and Ethics (P1) July (Class room no 207) </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
         <table cellpadding="4">
             <tr>
