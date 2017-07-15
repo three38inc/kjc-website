@@ -3,7 +3,56 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
          <div class="panel panel-default">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse910" aria-expanded="false" aria-controls="collapse10">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                <div class="panel-heading" role="tab" id="heading11">
+                    <h4 class="panel-title">
+                    July 15<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading11">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+
+                        The list of students selected for the college choir is displayed in the notice board. The choir practice will start on Monday (17/07/2017) in the Music Room (PG Block, 5th Floor) at 4.30 p.m.</p>
+
+                    <p><b>CSA Programme</b><br>
+All CSA volunteers are requested to attend Swatch KJC programme which is scheduled today (15/07/2017) at 1.30 p.m.<br>
+          <b>Venue:</b> Car Parking</p>
+
+
+                    <p><b>For all I year UG classes</b><br>
+
+    Selection of NSS volunteers will be held on 29th July 2017. The First year students in UG programmes who have submitted their application to join NSS should attend. <br>
+
+                        <b>Venue:</b> Room Nos. 201, 202, 203, 204 &amp; 205.<br>
+                        <b>Time:</b> 2.00 p.m. to 4.00 p.m.<br>
+
+
+                        <b>For further details contact:</b><br>
+    Dr. Sreedhar P.D., Staff Room No. IX<br>
+    Mr. Vinod Baburao Meghsham, Staff No. IX<br>
+                        Ms. Kalyanai V, Staff Room No. I</p>
+
+
+                    <p><b>For all Final year Students of PG Life Science (BT & MB)</b><br>
+
+    The POTP (Placement Orientation &amp; Training Programme) by the Centre for Employability & Corporate Relations will commence today. The details for today are as follows:<br>
+
+    Course: Final year PG Life Science (BT &amp; MB)<br>
+                        <b>Time:</b> 11.00 a.m. – 12.50 p.m.<br>
+                        <b>Venue:</b> Room No 205, PG Block  <br>
+                        A request to all the students to attend the same, come well groomed and on time.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="false" aria-controls="collapse10">
                 <div class="panel-heading" role="tab" id="heading10">
                     <h4 class="panel-title">
                     July 13<sup>th</sup>

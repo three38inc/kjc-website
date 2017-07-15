@@ -87,7 +87,7 @@
 								<p><b>The Department offers Research and Training Consultancy in the following areas </b><br>
 
                                      <p><b style="color: #cd6e08;font-weight: bold;">For Social Development Organizations</b></p>
-                                     <ul><li>Community Need and Impact Assessment M</li>
+                                     <ul><li>Community Need and Impact Assessment </li>
                                          <li>Beneficiary Identification & Background Verification </li>
                                          <li> Project Monitoring & Evaluation</li>
                                          <li>Grant Writing Education, Support and Training</li>

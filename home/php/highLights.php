@@ -8,6 +8,27 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-vanamohotsav.jpg" class="img-responsive"/>
+            <span class="date">08<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=van-mahotsav-2017.php">
+              <h4>Centre for Social Activities<br> VANMAHOTSAV 2017 <br/><small>
+             Centre for Social Activities of Kristu Jayanti College had organised “Van-Mohotsava” on 8th July 2017 at Nagenahalli Lake Belt..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-virtuosa.jpg" class="img-responsive"/>
+            <span class="date">10<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=Virtuoso-2017.php">
+              <h4>Department of Management (BBA) organized a management workshop “Virtuoso 2017”  <br/><small>
+       Department of Management (BBA) organized a management workshop “Virtuoso 2017” for the freshers (I semester students) on 14th July 2017. Mr. John Santhosh,..   </small></h4></a>
+            </div>
+        </li>
+        
         
         
          <li>

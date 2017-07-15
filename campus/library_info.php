@@ -225,7 +225,7 @@ Other Visitors to the Library may use it provided he gets permission from the Di
                                         <p><a class="a-link-arrow" href="library_info.php" style="color: #2980b9;font-weight: bold;">Library</a></p>
                                     </section>
                                      <section class="link-arrow">   
-                                        <p><a class="a-link-arrow" href="library_epac.php">Library EPAC</a></p>
+                                        <p><a class="a-link-arrow" href="library.php">Library EPAC</a></p>
                                     </section><section class="link-arrow">
                                         <p><a class="a-link-arrow" href="labs.php">Labs</a></p>
                                     </section><section class="link-arrow">

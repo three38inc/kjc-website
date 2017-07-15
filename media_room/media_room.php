@@ -138,6 +138,7 @@
             <button class="btn btn-warning filter-button" data-filter="press">Press releases</button>
             <button class="btn btn-danger filter-button" data-filter="innews">In the news</button>
             <button class="btn btn-default filter-button" data-filter="social">Social Media</button>
+             <button class="btn btn-default filter-button" data-filter="television">KJC Televison</button>
         </div>
     
 
@@ -149,12 +150,12 @@
             
             
              <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter inhouse">
-                 <p>Kristu Jayanti College Media Room also manages in-house multi-media platforms like - The Quadrangle, Glimpses, KJC Television and KJC Radio.</p>
+                 <p align=justify>Kristu Jayanti College Media Room also manages in-house multi-media platforms like - The Quadrangle, Glimpses, KJC Television and KJC Radio.</p>
 
-                 <p><b>The Quadrangle:</b> an in-house annual print newsletter published by the Department of Journalism and Mass Communication to facilitate the undergraduate journalism students in rporting. The Quadrangle covers all major events and other activities of the campus in a journalistic angle. The newsletter also carries a supplement page where it provides the students to showcase their feature writing skills.</p>
+                 <p align=justify><b>The Quadrangle:</b> an in-house annual print newsletter published by the Department of Journalism and Mass Communication to facilitate the undergraduate journalism students in rporting. The Quadrangle covers all major events and other activities of the campus in a journalistic angle. The newsletter also carries a supplement page where it provides the students to showcase their feature writing skills.</p>
 
-                 <p><b>Glimpses:</b> A weekly published e- newsletter, where news reports of all major events and activities of the college are covered by journalism students.</p>
-                 <p><b>Kristu Jayanti Television:</b> an offline TV programming and production started with an objective to reach out students, staff and visitors by streaming mash-up videos of all major programmes conducted in Kristu Jayanti College. These visuals will provide an opportunity for the students, staff and visitors to know the various programmes that are organized at Kristu Jayanti College. The streaming is done in the main reception TV screen and as a separate YouTube channel. KJC Radio: an offline radio programming and production started with an objective to reach out students, by streaming infotainment programme on events conducted, upcoming events and music tapes. KJC Radio will provide an opportunity for the students and staff to know the various programmes that are organized at Kristu Jayanti College. The programme are infotainment nature it will be played in the college cafeteria.  </p>
+                 <p align=justify><b>Glimpses:</b> A weekly published e- newsletter, where news reports of all major events and activities of the college are covered by journalism students.</p>
+               
                  
             </div>
             
@@ -173,7 +174,13 @@
             </div>
             
             <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter social">
-                 <p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms. </p>
+                <p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms. </p></div>
+                
+                 <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter television">
+                 <p align=justify><b>Kristu Jayanti Television:</b> an offline TV programming and production started with an objective to reach out students, staff and visitors by streaming mash-up videos of all major programmes conducted in Kristu Jayanti College. These visuals will provide an opportunity for the students, staff and visitors to know the various programmes that are organized at Kristu Jayanti College. The streaming is done in the main reception TV screen and as a separate YouTube channel. KJC Radio: an offline radio programming and production started with an objective to reach out students, by streaming infotainment programme on events conducted, upcoming events and music tapes. KJC Radio will provide an opportunity for the students and staff to know the various programmes that are organized at Kristu Jayanti College. The programme are infotainment nature it will be played in the college cafeteria.  </p>
+                     
+         <iframe width="780" height="500" src="https://www.youtube.com/embed/okShnOoHJbI" frameborder="0" allowfullscreen></iframe>
+                     
               
                 
             <!-- <div class="col-md-12">

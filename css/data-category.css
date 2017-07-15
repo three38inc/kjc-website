@@ -3,30 +3,30 @@
     font-size: 36px;
     color: #ffffff;
     text-align: center;
-    font-weight: 500;
+    font-weight: 600;
     margin-bottom: 70px;
 }
 .gallery-title:after {
     content: "";
     position: absolute;
-    width: 7.5%;
-    left: 46.5%;
-    height: 45px;
+    width: 60%;
+    left: 40%;
+    height: 35px;
     border-bottom: 1px solid #edde63;
 }
 .filter-button
 {
-    font-size: 18px;
+    font-size: 14px;
     border: 1px solid #ffffff;
     border-radius: 5px;
     text-align: center;
     color: #000000;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 
 }
 .filter-button:hover
 {
-    font-size: 18px;
+    font-size: 14px;
     border: 1px solid #ffffff;
     border-radius: 5px;
     text-align: center;
@@ -40,10 +40,7 @@
     color: white;
 }
 
-.port-image
-{
-    width: 100%;
-}
+
 
 .gallery_product
 {
