@@ -134,7 +134,7 @@
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
-            <a href="../../research/research_centre_in_biotechnology.php">
+            <a href="Faculty-Sciences/department-lifescience/ls_research.php">
                 <div class="courseTitle color-2">
                     <i class="fa fa-search c2" style="float: left;"></i>
                     <h2>Research Center</h2>
@@ -152,7 +152,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="faculty-humanities/humanities/ma_english_literature.php">
+            <a href="faculty-humanities/english/ma_english_literature.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>MA</h2>
@@ -243,7 +243,7 @@
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="../../research/research_centre_in_social_work.php">
+            <a href="Faculty-Humanities/socialwork/research_activities.php">
                 <div class="courseTitle color-3">
                     <i class="fa fa-book c3" style="float: left;"></i>
                     <h2>Research Center</h2>
