@@ -58,27 +58,27 @@
             </div>
         </div>
         
-        <div class="item">
+        <!--<div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-rest-api.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
 		
 		
-        <div class="item">
+       <!-- <div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-tech-talk.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
         
-        <div class="item">
+        <!--<div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-ieee-student.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
         
           <div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-mba-inauguration.jpg"/>
@@ -86,9 +86,37 @@
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
+        
+         <div class="item">
+            <img src="../images/events-banner/kristu-jayanti-college-lifeskills-school-managemet.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
 		
 		<div class="item">
 			<img src="../images/events-banner/kristu-jayanti-college-data-science-anylastics.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+        <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-india-costa.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+        <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-attitudinal-workshop.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+         <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-rural-exposure.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>

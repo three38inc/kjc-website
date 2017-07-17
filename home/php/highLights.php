@@ -9,6 +9,16 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-significance-numismatics.jpg" class="img-responsive"/>
+            <span class="date">13<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=significance-numismatics-history.php">
+              <h4>Guest Lecture on  "Significance of  Numismatics in History" <br/><small>
+           Numismatics is the study or collection of currency, including coins, tokens, paper money, and related objects..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
             <img src="../highlights/2017/kristu-jayanti-college-vanamohotsav.jpg" class="img-responsive"/>
             <span class="date">08<sup>th</sup> July 2017</span>
             <div class="quote">

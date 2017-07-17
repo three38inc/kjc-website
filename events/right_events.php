@@ -25,6 +25,39 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="machine-learning-tech-giants.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 15 </span></td>
+                <td class="event-dates">
+                  <p> Department of Computer Science (UG) is organizing Tech Talk on "Machine Learning and The Tech Giants"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="Virtuoso-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 14 </span></td>
+                <td class="event-dates">
+                  <p> The Department of Management is organizing “Virtuoso” a management workshop..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 10 </span></td>
+                <td class="event-dates">
+                  <p> 	Department of Commerce (UG) III Semester B.Com with ACCA Expert Session on Financial Reporting (F7) (Class room no  106)</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
      <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="significance-numismatics-history.php">
         <table cellpadding="4">
             <tr>
@@ -47,7 +80,7 @@
         </table>
     </a>
     
-    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
         <table cellpadding="4">
             <tr>
                 <td class="event-dates"><span> 10 </span></td>
@@ -58,7 +91,7 @@
         </table>
     </a>
     
-    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
         <table cellpadding="4">
             <tr>
                 <td class="event-dates"><span> 11 </span></td>

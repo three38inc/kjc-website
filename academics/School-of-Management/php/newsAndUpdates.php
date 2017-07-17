@@ -161,6 +161,19 @@
                             </tr>
                         </table> 
                     </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/easel-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>18 July 2017:</b> School of Management ( MBA & PGDM) Life Skills Education for  Managers </td>
+
+                            </tr>
+                        </table> 
+                    </li>
+                    
+                    
                      <li class="news-item">
                         <table cellpadding="4">
                             <tr>
@@ -176,8 +189,31 @@
                         <table cellpadding="4">
                             <tr>
 
+                                <td><img src="../../images/megaphone-2-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b>22 July 2017:</b> School of Management (MBA & PGDM) & Department of Economics in Association with Indian Economic Trade Organization (IETO)
+    organize India & Costa Rica Conclave at 10.30 am in SKE Auditorium  </td>
+
+                            </tr>
+                        </table> 
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
                                 <td><img src="../../images/brush-pencil-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>25 - 30 July 2017:</b> International Industrial Visit to Singapore</td>
+
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+
+                                <td><img src="../../images/gear-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><b> July 31, 2017 &amp; August 01, 2017  &amp; August 03 &amp; 04, 2017:</b> School of Management ( MBA & PGDM) Attitudinal Workshop </td>
 
                             </tr>
                         </table>
@@ -198,7 +234,7 @@
                             <tr>
 
                                 <td><img src="../../images/focus-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b> 14 &amp; 15 Aug 2017:</b> Gramasamvedhitha - Rural Outreach</td>
+                                <td><b> 14 &amp; 15 Aug 2017:</b>  School of Management ( MBA & PGDM) Rural Exposure Programme (REP) to Kesarakere, Malur Taluk </td>
 
                             </tr>
                         </table>
@@ -353,7 +389,7 @@
         </div>
     </div>
 
-    <a href="../../events/events.php" class="a-News-All">
+    <a href="events/events.php" class="a-News-All">
         <div class="row news-all">
             <p>Read More</p>
         </div>
