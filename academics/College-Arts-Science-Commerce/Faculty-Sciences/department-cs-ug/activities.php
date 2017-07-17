@@ -96,8 +96,24 @@
                                                 </div>
                                                 <div id="collapse19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading19">
                                                     <div class="panel-body">
+                                                        <p><b>Title:</b> Machine learning under Tech Giants<br>
+
+                                                            <b>Date:</b> 15.07.17<br>
+
+                         <b>Classes Attended & Number of beneficiaries:</b> III SEM BCA, III SEM B.Sc., V SEM BCA, V SEM B.Sc. - 600 students<br>
+
+            <b>Name and details of the Resource Person:</b>  Mr. Sawrav Roy, Senior Software Development Engineer, Amazon Fulfilment Technologies<br>
+
+                                                            <b align=justify>Objective:</b>  To impart knowledge on the basics of Machine learning- its types, its difference from a standard rule based learning approach, existing job profiles in this domain.</p>
+
+
+                                                            <p align=justify>The session started with the speaker prompting for a difference between rule based learning and adaptable learning. He quoted the difference between how a machine works when it is made to do a routine task having pre-defined set of rules and when it has find an adaptable solution. He further explored the adaptable learning aspect by quoting the example of “steps involved in distinguishing between an apple and orange (for a machine)”. The speaker emphasized that we go for machine learning when the human expertise for a task doesn’t exist or when humans are unable to explain their expertise or when the solution has to be adapted with changes in the environment. He also explained the various forms of machine learning-association analysis, supervised and unsupervised learning, and reinforcement learning to name a few. Thereafter a video was played which showed the working of a simple perceptron model, multilayer perceptron, spiking perceptron and convolutional perceptron. He also emphasized that the aim of a learning algorithm is always to minimize the error loss with every passed data set and mentioned two core learning algorithms WCore and BP(Back Propagation). The speaker then mentioned about Tensor Flow which is an open source library available for ML, which can be used to create simple to complex ML algorithms. He also mentioned that students can use Scikit-Learn that leverages Python’s breadth for math and science related ML problems. Finally he concluded the session with the job opportunities available to students in this area. Two promising job profiles – one of a developer role (entry level) and second of a ML Scientist role were well appreciated by the speaker.</p>
+
                                                         
-                                                        <p><b>Industrial Visit to ISRO, Bangalore</b><br>
+                                                        
+                                                        
+                                                        
+                                                        <p align=justify><b>Industrial Visit to ISRO, Bangalore</b><br>
                                                             The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017.Mr.H.L. Srinivasa, Scientist, ISRO Satellite Centre briefed the students on various aspects of ISRO and space technology. The students were given an insight to the objectives and the various facilities for research, construction, test, launch, track and control facilities of ISRO. He also elaborated on the different launch vehicles like SLV, ASLV, PSLV and GSLV. Mr.Srinivas also spoke on the various satellite programmes of ISRO like NSAT (Indian National Satellite System), Indian Remote Sensing satellites (IRS), Radar Imaging Satellites and GAGAN satellite navigation system and its applications. He also updated the students on the forthcoming satellites, launch vehicles and launches. He also spoke on the Chandrayaan-2 mission planned to be launched to the Moon by a GSLV including a lunar orbiter, lander and rover, in 2018. The students also visited the clean room which is equipped with harness lab for fabricating onboard harness of the spacecraft and Mechanical lab which is equipped with mechanical ground support equipment required for the assembly, integration and testing of the spacecraft. The students also had a video presentation on the Chandrayan-1 and making of satellites. Mr.Srinivas also informed the students on the wide range of career opportunities available in ISRO.</p>
                                                         
                                                         

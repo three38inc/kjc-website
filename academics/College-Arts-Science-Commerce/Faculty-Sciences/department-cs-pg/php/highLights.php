@@ -9,6 +9,27 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../../../../highlights/2017/kristu-jayanti-college-network-security.jpg" class="img-responsive"/>
+            <span class="date">06<sup>th</sup> - 07<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="events/events.php?mode=openlink&year=2017&month=july&url=networking-network-security.php">
+              <h4>Workshop on "Networking &amp; Network Security" <br/><small>
+       Dr. Samir, the Development Director of Kristu Jayanti College, conducted a two day workshop on Networking &amp; Network Security..  </small></h4></a>
+            </div>
+        </li>
+        
+         <li>
+            <img src="../../../../highlights/2017/kristu-jayanti-college-3iimpressions.jpg" class="img-responsive"/>
+            <span class="date">01<sup>st</sup> July 2017</span>
+            <div class="quote">
+				 <a href="events/events.php?mode=openlink&year=2017&month=july&url=ieee-student-branch.php">
+              <h4>3i – Industry Institute on "IMPRESSIONS" <br/><small>
+         The first session of 3i- Industry Institute Interface for this academic year was hosted on “Impressions.”  The session that was vibrant,..  </small></h4></a>
+            </div>
+        </li>
+        
+        
+        <li>
             <img src="../../../../highlights/2017/kristu-jayanti-college-Webinar.jpg" class="img-responsive"/>
             <span class="date">29<sup>th</sup> June 2017</span>
             <div class="quote">

@@ -185,18 +185,7 @@
                         </table>
                     </li>
                     
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-
-                                <td><img src="../../images/megaphone-2-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><b>22 July 2017:</b> School of Management (MBA & PGDM) & Department of Economics in Association with Indian Economic Trade Organization (IETO)
-    organize India & Costa Rica Conclave at 10.30 am in SKE Auditorium  </td>
-
-                            </tr>
-                        </table> 
-                    </li>
-                    
+                  
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>

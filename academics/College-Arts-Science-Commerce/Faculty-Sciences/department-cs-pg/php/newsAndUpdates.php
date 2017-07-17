@@ -172,11 +172,20 @@
                         </table>
                     </li>-->
                     
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>July 15th 2017</strong> Department of Computer Science[PG] organizing Webinar on "REST API" <br> <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=webinar-REST-API.php">(Read More)</a></td>
+                            </tr>
+                        </table>
+                    </li>-->
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
+                               <td><strong>July 18th 2017</strong>  Department of Computer Science [PG] and IIT, Bombay Organizing "Spoken Tutorial Software Training  on JAVA" <br> <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=spoken-tutorial-software-training.php">(Read More)</a></td>
                             </tr>
                         </table>
                     </li>

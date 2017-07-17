@@ -9,6 +9,16 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-tech-giants.jpg" class="img-responsive"/>
+            <span class="date">15<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php">
+              <h4>Department of Computer Science (UG) Machine learning under Tech Giants<br/><small>
+           The session started with the speaker prompting for a difference between rule based learning and adaptable learning..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
             <img src="../highlights/2017/kristu-jayanti-college-significance-numismatics.jpg" class="img-responsive"/>
             <span class="date">13<sup>th</sup> July 2017</span>
             <div class="quote">

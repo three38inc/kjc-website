@@ -231,6 +231,20 @@
                             </div>
                             <div class="clearfill"></div>
                         </div>
+                        
+                         <div class="row" style="margin-top: 14px;">
+                            <div class="col-lg-9">
+                                <div class="content-spl myWelcome wow fadeIn" style="margin-top: -5px;">
+                                    <?php include ('php/atKJC.php'); ?>
+                                </div>
+
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="content-spl wow fadeIn" style="margin-top: -5px; height: 372px; overflow: hidden;">
+                                    <?php include ('php/upcoming-events.php'); ?>
+                                </div>
+                            </div>
+                        </div>
 
                         <div class="row">
                             <div class="col-lg-12">
@@ -323,6 +337,9 @@
         });
 
     </script>
+    
+    
+    
 </body>
 
 </html>

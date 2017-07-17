@@ -129,16 +129,16 @@
                 <h4> Stephen Deepak
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> BBM, MBA 
+                    <span>Qualification </span> <br/> MBA, MPHIL, PGDMA, PGDPMIR, PGDRM, UGC-NET, (PH.D)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Finance and Accounting
+                    <span>Areas of interest </span><br/> Entrepreneurial heuristics, Organization Justice, Consumer behavior, Employability and competency mapping
                 </p>
                 <p>
-                    <span>Experience </span><br/> 11 years 
+                    <span>Experience </span><br/> 14 years
                 </p> 
 				<p>
-                    <span>Papers presented &amp; published </span><br/> 3
+                    <span>Papers presented &amp; published </span><br/> 17
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
