@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -237,6 +237,8 @@
                                         </div>
                                     </div>
                                     <p align="justify"><br/><br/><strong>The detailed integration of ACCA courses with B.Com curriculum is given below:</strong></p><br/>
+                                    
+                                     	<center><p><a href="curriculum/B.Com-ACCA-2017-2020.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA 2017-20  </a></p></center>
 									
                                    	<center><p><a href="curriculum/acca_courses_with_bcom_curriculumm_new.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA   </a></p></center>
 

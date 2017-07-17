@@ -77,7 +77,7 @@
                                  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										 <span>&nbsp;Our <strong>Founder</strong></span>
+										 <span>&nbsp;Faculty <strong> Profile </strong></span>
                                     </h4>
 
                               <div class="profile-page">

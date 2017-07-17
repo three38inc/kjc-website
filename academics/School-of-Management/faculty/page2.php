@@ -11,7 +11,7 @@
                     <span>Qualification </span> <br/> MBA PhD NET(JRF)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Advanced Algebra.
+                    <span>Areas of interest </span><br/> Marketing and Operations
                 </p>
                 <p>
                     <span>Experience </span><br/>17 years
@@ -45,7 +45,7 @@
                     <span>Experience </span><br/> 8 years
                 </p> 
 				 <p>
-                    <span>Papers presented or published </span><br/> 15
+                    <span>Papers presented &amp; published </span><br/> 15
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -76,7 +76,7 @@
                     <span>Experience </span><br/> 13 years
                 </p> 
 				<p>
-                    <span>Papers presented or published </span><br/> 35 / 30
+                    <span>Papers presented &amp; published </span><br/> 35
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -101,13 +101,44 @@
                     <span>Qualification </span> <br/> BBM, MBA 
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Capital Markets, Portfolio construction and Management 
+                    <span>Areas of interest </span><br/> Finance and Accounting
                 </p>
                 <p>
-                    <span>Experience </span><br/> 10. 9 years 
+                    <span>Experience </span><br/> 11 years 
                 </p> 
 				<p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Papers presented &amp; published </span><br/> 3
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+  <div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/stephen-deepak.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Stephen Deepak
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> BBM, MBA 
+                </p>
+                <p>
+                    <span>Areas of interest </span><br/> Finance and Accounting
+                </p>
+                <p>
+                    <span>Experience </span><br/> 11 years 
+                </p> 
+				<p>
+                    <span>Papers presented &amp; published </span><br/> 3
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
