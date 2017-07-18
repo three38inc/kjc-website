@@ -2,6 +2,62 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+        <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                <div class="panel-heading" role="tab" id="heading12">
+                    <h4 class="panel-title">
+                    July 18<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse12" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading12">
+                <div class="panel-body">
+                    <p><b> For all UG & PG classes</b><br>
+                        E-Pass scholarship application is open for students belonging to CAT I, IIA, IIIA and other backward classes (Karnataka State). Last date to apply is 5th August 2017. For more details refer college notice board.</p>
+
+                    <p><b>For final year PG classes – MCA, MA (Eng, Eco, Mass Comm. & Jour) & M.Sc (Psy)</b><br>
+   The POTP (Placement Orientation & Training Programme) by the Centre for Employability & Corporate Relations will be conducted tomorrow (19/07/2017). The details are as follows:<br>
+
+                        <b>Courses:</b> PG<br>
+    > MCA<br>
+    > MA (ENGLISH, ECONOMICS, MASS COMM & JOURNALISM)<br>
+    > M.SC (PSYCHOLOGY)<br>
+
+
+                        <b>Time:</b> 2.35 p.m. - 4.30 p.m.<br>
+                        <b>Venue:</b> Mini Auditorium I, PG Block<br>
+
+                        All the students are requested to attend the same. Please come well groomed and on time.</p>
+
+
+                    <p><b>For all UG & PG classes (Except MBA/PGDM and I year PG classes)</b><br>
+
+                        <b>Tuition /Admission Fee</b><br>
+
+    Defaulters of tuition/admission fee should pay the same on or before 19th July 2017 with late fee of Rs. 500/-.<br>
+
+                        <b>Venue:</b> Counter No. 2 (UG Office)<br>
+                        <b>Time:</b>   12.45 p.m. to 1.40 p.m.<br>
+
+    Students who have transferred tuition/admission fee directly to the college account (online payment mode) for this academic year are requested to collect the fee receipt from Counter No. 2 (UG Office) today itself by showing valid transaction details.<br>
+
+                        <b>Time:</b> 3.00 p.m. to 4.00 p.m.</p>
+
+
+                    <p><b>For II & III year UG, II year PG and II/III year MCA classes (Except MBA/PGDM)</b><br>
+
+                        Those students who have paid the tuition/admission fee at the South Indian Bank Counter in the college campus and yet to collect the fee receipt should do so by 19th July 2017 before 4.30 p.m. The receipts will be issued in the Reception Counter.</p>
+
+                    <p><b>III & V Sem UG classes</b><br>
+                        Students who did not collect the new ID-Card are requested to collect the same from the IT Centre (Third Floor, Main Block) either today or tomorrow, by submitting the old ID-Card. From Thursday all should have the new ID-Card to enter the campus and class.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
          <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
                 <div class="panel-heading" role="tab" id="heading11">

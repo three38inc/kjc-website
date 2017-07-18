@@ -10,7 +10,7 @@
                  Associate Professor and Head of the Department
                  
                 <p>
-                    <span>Qualification </span> <br/>MSW(HRM), M.Sc(Psychology), M.Phil(Psychology),PhD
+                    <span>Qualification </span> <br/> MSW(HRM), M.Sc(Psychology), M.Phil(Psychology),PhD
                 </p>
                  <p>
                     <span> Experience </span><br/>18 Years
