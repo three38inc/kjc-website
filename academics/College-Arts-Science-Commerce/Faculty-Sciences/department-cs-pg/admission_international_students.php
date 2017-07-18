@@ -92,34 +92,47 @@ win=window.open(mypage,myname,settings);}
 						  <img src="images/<?php echo $imgNum;?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp;Documents required at the time of Interview<strong> (Original plus Two Copies)</strong></span></h4>
-									 
-									 
-									 			
-										
-				  <p> 1.	Original Marks Card ( X, XII & Degree (All Semester / Year wise marks cards)
-         (foreign students Both - translation original & Original Marks Card)</p>
+                                    <span>&nbsp;Admission International <strong> Students</strong></span></h4>
+								
+			    <p>Kristu Jayanti provides a vibrant campus which blends diverse cultures across the globe. We welcome students from other countries to experience this cultural contrast. There has been an incremental growth in the number of International students over these years. The diaspora of students at Kristu Jayanti is enriched with students from countries like Dar Es Salaam, Iran, Ivory coast, Nepal, Republic of Korea, Tanzania, Thailand, Congo, Nigeria, Cameroon, Saudi Arabia,Yemen and many more. Programmes offered at present are available to all International students and when they seek admission in the institution, subject to the guidelines of University and AICTE.</p>
 
-                                    <p>2.	Transfer Certificate</p>
+                                    <p>We have Intensive English Language Course for International students coming from Non-English speaking countries. Those interested candidate can contact the admission office in advance. These students can later apply regular degree or postgraduate programme. The programme starts in January 2017, and duration of this programme is four months.</p>
 
-                                    <p>3.	Provisional / Degree Certificate</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Admission procedures for International Students</b><br>
 
-                                    <p>4.	Conduct Certificate</p>
+                                        <b style="color: #cd6e08;font-weight: bold;">Register Online</b><br>
+                                        1) Applicants are requested to apply online through the college website or can come in person to fill the application form in the college office itself. Applicants are requested to provide valid e-mail id and further communication will be done through this mail id only till the admission process is over. More details regarding online application can be found in 'online application' page.</p>
 
-                                    <p>5.	Migration Certificate (if applicable)</p>
+                                    <p>2) Details of each course, Admission Process, Eligibility Criteria & Fee Structure can be seen against the admission page link of each program.</p>
 
-                                    <p>6.	Caste Certificate (if applicable)</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Bona fide Certificate</b><br>
+                                        College will issue Bona fide certificate to foreign national students to apply for visa only after the admission process is over. Those who are in absentia have to send the translated copy of their marks card, copy of their passport and first year tuition fee to get the bona fide certificate. But admission to such students will be conditional until they enroll the college in time with all original documents and approved by the Principal.</p>
 
-                                    <p>7.	AIU Equivalency Certificate (for students who have done their qualifying examination in any curriculum other than Indian Educational Curriculum)</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Admission</b><br>
+Admission process and eligibility criteria stipulated for Indian applicants are applicable to foreign national applicants also. Besides, admission to all foreign national students are reserved until<br>
+1) they submit all relevant original documents<br>
+2) get eligibility certificate from Bangalore University<br>
+3) get the equivalence certificate from the AIU.<br>
+Documents (Original plus two copies)<br>
+1. Original Marks Card ( X, PUC / XII & Degree)<br>
+(Both - translation original & Original Marks Card)<br>
+2. Copy of the Visa<br>
+3. Equivalency certificate from AIU<br>
+4. Copy of Passport<br>
+5. Residential permit from Police Commissioner office, Bangalore.<br>
+                                        6. Address proof</p>
 
-                                    <p>8.	Five Passport size Photos</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Equivalence Certificate from Association of Indian Universities (AIU)</b><br>
+To obtain equivalence certificate the following documents copies along with the prescribed fee should sent to address given below. Applicants can apply directly to get certificate from AIU or can be done through college office.<br>
+Documents required to get AIU certificate<br>
+(a) Original Marks Card ( X, PUC / XII & Degree)<br>
+(Both - translation original & Original Marks Card)<br>
+(b) Passport Copies<br>
+(c) Student visa copy</p>
 
-                                    <p>9.	First year fees</p>
-
-                                    <p><b>In addition to the above, NRI and Foreign Students should produce:</b><br>
-a. Valid Passport<br>
-b. Residential Permit from the Commissioner of Police Bengaluru (for foreign students only<br>
-                                        c. HIV Test Certificate</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">AIU Address and website</b><br>
+Association of Indian Universities, AIU House, 16 Comrade Indrajit Gupta Marg (KotlaMarg) New Delhi - 110 002 Ph: (011) 23230059, 23231097, 23232429, 23232435
+                                        www.aiuweb.org/</p>
 
 
 								</div></div>
