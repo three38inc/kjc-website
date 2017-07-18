@@ -116,7 +116,7 @@
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="expert-session-fundamentals-Management.php">
         <table cellpadding="4">
             <tr>
-                <td class="event-dates"><span> 3-7 </span></td>
+                <td class="event-dates"><span> 03 </span></td>
                 <td class="event-dates">
                   <p>    Department of Management (BBA) is organising an expert session on Fundamentals of Management Accounting for students of BBA with CIMA batch</p>
                 </td>
