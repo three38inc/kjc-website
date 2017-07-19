@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Photographs<strong></strong></span>
@@ -159,6 +159,10 @@
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="social_media.php">Social Media</a></p>
+                                    </section>
+                                    
+                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="kjc-television.php">KJC Television</a></p>
                                     </section>
 
 

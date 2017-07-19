@@ -160,7 +160,7 @@
                    <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
         <thead>
             <tr>
-                <th>Programme</th>
+                <th width="150">Programme</th>
                 <th>Graduation Level</th>
                 <th>Department</th>
                 <th>Admission process</th>

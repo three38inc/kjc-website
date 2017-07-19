@@ -8,6 +8,16 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-clean-campus.jpg" class="img-responsive"/>
+            <span class="date">15<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=swatch-kjc-clean-campus.php">
+              <h4>Centre for Social Activities Swatch K.J.C campus "CLEAN CAMPUS" <br/><small>
+        Centre for Social Activities of Kristu Jayanti College had organised “swatch K.J.C campus “ CLEAN CAMPUS on 15th July 2017 at college campus..  </small></h4></a>
+            </div>
+        </li>
+        
         <li>
             <img src="../highlights/2017/kristu-jayanti-college-tech-giants.jpg" class="img-responsive"/>
             <span class="date">15<sup>th</sup> July 2017</span>

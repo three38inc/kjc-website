@@ -266,24 +266,34 @@
                             </tr>
                         </table>
                     </li>
-					
+                    
                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 20th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-20july.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/clock-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>July 17th 2017</strong> School of Management (MBA & PGDM) Inauguration of Academic Year 2017-18 Commencement of First Trimester Classes</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>July 18th 2017</strong> Commencement of I Sem MA / MSc / MCom / M.Com. (FA)/ MSW programmes</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                     <li class="news-item">
                         <table cellpadding="4">
