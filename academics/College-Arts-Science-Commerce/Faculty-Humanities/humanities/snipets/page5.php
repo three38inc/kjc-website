@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Lt. Sarvesha B S
                 </h4>
+                Head Dept. of Kannada
                 <p>
                     <span>Qualification </span> <br/> M.A., M.Ed., M.Phil. (Ph.D)
                 </p>

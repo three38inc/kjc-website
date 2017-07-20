@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -137,6 +137,8 @@
 
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">4. Dissertation</b><br>
 										Each candidate is required to develop a case in finance/accounting/banking and analyse the same with probable solutions and submit a report based on the research findings during the fourth semester. This will be evaluated for 60 marks. Viva voce examination will be conducted for 40 marks.</p>
+                                    
+                                    <center><p><a href="curriculum/MCOM-FA-2017-19.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com (Financial Analysis) 2017-20  </a></p></center>
 									
 									<center><p><a href="curriculum/com_fa_2015_17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com (Financial Analysis) 2015-17  </a></p></center>
 									

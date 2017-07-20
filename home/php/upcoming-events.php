@@ -507,43 +507,7 @@
                         </table>
                     </li>-->
                     
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-12</p>
-                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
-								<td>
-								<p style="margin-top: 2px; margin-bottom: 0px;">
-						Vth Semester B.Com with ACCA Expert Session on Governance, Risk and Ethics (P1) July (Class room no 207) 
-
-								</p>
-				
-								</td>
-							</tr>
-                        </table>
-                    </li>
-                    
-                    <li class="news-item">
-                        <table cellpadding="4">
-                            <tr>
-                                <td style="width: 60px; text-align: center; ">
-                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-14</p>
-                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
-								<td>
-								<p style="margin-top: 2px; margin-bottom: 0px;">
-						Department of Commerce (UG) III Semester B.Com with ACCA Expert Session on Financial Reporting (F7) (Class room no  106)
-
-								</p>
-				
-								</td>
-							</tr>
-                        </table>
-                    </li>
-                    
-                    <li class="news-item">
+                      <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -559,9 +523,69 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
+                    
+                   <!-- <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-12</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Vth Semester B.Com with ACCA Expert Session on Governance, Risk and Ethics (P1) July (Class room no 207) 
+
+								</p>
+				
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
+                    
+                    <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">10-14</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Department of Commerce (UG) III Semester B.Com with ACCA Expert Session on Financial Reporting (F7) (Class room no  106)
+
+								</p>
+				
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
+                    
+                  
+                    
+                   <!-- <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">13</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						The Department of History is organizing a Guest Lecture on the "Significance of Numismatics in History"
+
+								</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=significance-numismatics-history.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+				
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
 					
-					<li class="news-item">
+					<!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -580,9 +604,11 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
+                    
+                    
 					
-					<li class="news-item">
+					<!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -591,13 +617,38 @@
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
-						Department of Computer Science (UG) is organizing Guest Lecture on "Machine Learning and Tech Giants"
+						Department of Computer Science (UG) is organizing Tech Talk on "Machine Learning and The Tech Giants"
 									</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 								
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
+                    
+                   <!-- <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">15</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+						Department of Management (BBA) is organising a Guest Lecture for III Semester students on "Marketing Strategies for Distributing Electronic Durables"
+									</p>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=marketing-strategies-distributing-electronic-durables.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								
+								</td>
+							</tr>
+                        </table>
+                    </li>-->
 					
 					<li class="news-item">
                         <table cellpadding="4">
@@ -638,6 +689,26 @@
 							</tr>
                         </table>
                     </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">24</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								   Department of Journalism and Mass Communication is organizing a workshop on ‘Television Programme Production’ for the MA [JMC] students
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=television-programme-production.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
 					
                     <li class="news-item">
                         <table cellpadding="4">
@@ -658,12 +729,33 @@
 							</tr>
                         </table>
                     </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">26</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								  The Department of Journalism and Mass Communication, is organizing a workshop on ‘Writing for Newspapers’ 
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=workshop-writing-newspapers.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
-                                <p style="font-size: 3em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
 								<td>
 								<p style="margin-top: 2px; margin-bottom: 0px;">
@@ -673,6 +765,26 @@
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>-->
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">AUG</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">18</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								Department of Life Sciences organizes Connoisseur (UG) and Bioventura (PG) Intracollegiate Biofest
+								</p>
+							<a href="../events/events.php?mode=openlink&year=2017&month=august&url=connoisseur-bioventura.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 								</td>
 							</tr>
                         </table>

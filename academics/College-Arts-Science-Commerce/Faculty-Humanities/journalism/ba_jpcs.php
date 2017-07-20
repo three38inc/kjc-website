@@ -92,6 +92,8 @@
                                     During the three year program the students gain intensive theoretical and practical knowledge and are steered towards becoming proficient in programming languages, computer architecture, concepts of operating system analysis and design, data structures, numerical methods, concept of database management systems and business data processing. During the final year of study, students have an opportunity to interact with the industry and work on live projects that are part of their curriculum.</p>
                                 <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
+                                     
+                                      <center><p><a href="curriculum/2017-BA-JPCS.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPCS 2017 - 20</a></p></center>
 									 
 									 
                                   <center><p><a href="curriculum/overview_ba_jpcs_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPCS 2015 - 18</a></p></center>
@@ -115,7 +117,7 @@
                                         <p><a class="a-link-arrow" href="ba_jpeng.php">BA JPEng</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPolEng</a></p>
+                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPsEng</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>

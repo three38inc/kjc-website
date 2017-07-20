@@ -125,10 +125,10 @@
                                     <table border="0" align="center">
                                     <tr>
                                         
-                                        <td width="200"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png"></a></td>
-                                        <td width="200"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png"></a></td>
-                                        <td width="200"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png"></a></td>
-                                        <td width="200"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png"></a></td></tr></table>
+                    <td width="150"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png" title="Facebook"></a></td>
+                                        <td width="150"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png" title="YouTube"></a></td>
+                                        <td width="150"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png" title="Linkedin"></a></td>
+                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>
 
 
                                    
@@ -147,7 +147,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="news.php">News</a></p>

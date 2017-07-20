@@ -174,7 +174,7 @@
                                                 <div style="clear:both;"></div>
 
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                  Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                  Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -188,7 +188,7 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -201,7 +201,7 @@
                                                 </div>
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -216,7 +216,7 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -230,7 +230,7 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public.
+                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
@@ -244,7 +244,7 @@
 
                                                 <div style="clear:both;"></div>
                                                 <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
                                                 </p>
                                                 <p class="text-center">
                                                     <!--

@@ -10,10 +10,7 @@
 		
 
 	
-			<p align=justify><b>Jayantian Extension Services</b><br>
-				<b>Centre for Social Activities</b><br>
-				<b>Van Mahotsav - 2017</b><br>
-				Centre for Social Activities of Kristu Jayanti College is organising “Van-Mohotsava” on 8th July 2017 at 8:00AM around Nagenahalli Lake Belt. The event aims to generate enthusiasm among students towards protecting trees, as “trees mean water, water means bread and bread is life”. This program would gift a green environment to the coming future.</p>
+            <p align=justify>Centre for Social Activities of Kristu Jayanti College had organised <b>“Van-Mohotsava”</b> on 8th July 2017 at Nagenahalli Lake Belt. Around 160 CSA volunteers, Staff coordinators planted 60 saplings around the lake. <b>Rev. Fr. Emmanuel P. J.</b> appreciated students for taking up a noble initiative. The event created an enthusiasm among students towards preservation of forest and planting of trees, as “trees mean water, water means bread and bread is life”. This program would gift a green environment to the coming future.</p>
 
 
 			

@@ -129,7 +129,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="news.php" style="color: #2980b9;font-weight: bold;">News</a></p>

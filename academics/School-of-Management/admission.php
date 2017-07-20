@@ -151,6 +151,7 @@ win=window.open(mypage,myname,settings);}
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
+                                    
                                       <?php include('right-admission.php');?>
                                 </div></div></div></div>
 

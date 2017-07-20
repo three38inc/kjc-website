@@ -94,6 +94,8 @@
 
                                 <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria</b><br>
                                     A student securing 40% aggregate marks including languages in P.U.C / 10 +2 / Pre University equivalent course is eligible.</p>
+                                     
+                                      <center><p><a href="curriculum/2017-BA-JPEng.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPEng 2017 - 20</a></p></center>
 									 
 									   <center><p><a href="curriculum/overview_ba_jpeng_2015_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of  BA- JPEng 2015 - 18</a></p></center>
 
@@ -114,7 +116,7 @@
                                         <p><a class="a-link-arrow" href="ba_jpeng.php" style="color: #2980b9;font-weight: bold;">BA JPEng</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPolEng</a></p>
+                                        <p><a class="a-link-arrow" href="ba_jpoleng.php">BA JPsEng</a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_journalism_mass_communication.php">MA Journalism & Mass Communication</a></p>

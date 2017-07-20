@@ -236,6 +236,26 @@
                             </tr>
                         </table>
                     </li>-->
+                    
+                     <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 12th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>-->
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 15th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-15july.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>
 					
                     <li class="news-item">
                         <table cellpadding="4">

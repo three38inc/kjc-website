@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,8 @@
             //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -131,6 +132,8 @@
 
                                     <p align="justify">
 										<b style="color: #cd6e08;font-weight: bold;">Eligibility:</b> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40% aggregate are eligible to apply.</p>
+                                    
+                 <center><p><a href="curriculum/B.Com-Tourism-2017-20.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2017 - 20</a></p></center>
                                    
 									
 								<center><p><a href="curriculum/bcom_tourism_2014_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2014 - 17</a></p></center>

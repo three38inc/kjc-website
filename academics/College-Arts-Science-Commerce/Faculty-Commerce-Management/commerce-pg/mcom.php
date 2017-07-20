@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -141,6 +141,10 @@ or<br>
 	* Accounting and Taxation</b></p>
 
 									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility for Admission</b> Candidates who have completed graduate programme in commerce or management from any university which is approved and recognized by UGC or its equivalent and has secured not less than 50% of the marks in the aggregate (In the case of SC/ST/Cat I students and blind students the minimum percentage of marks required shall be less than by 5 %) are eligible for admission into this Programme. </p>
+                                    
+                                    
+                                    
+                                    <center><p><a href="curriculum/MCOM-2017-19.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2017-20  </a></p></center>
 									
 									<center><p><a href="curriculum/mcom_2015-17.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of M.Com 2015-17  </a></p></center>
 									

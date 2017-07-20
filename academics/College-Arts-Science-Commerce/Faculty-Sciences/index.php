@@ -130,7 +130,7 @@
                                             <span>&nbsp;<strong>Departments</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php">Department of Computer Science [PG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php" target="_blank">Department of Computer Science [PG]</a></p>
                                         </section>
 
 

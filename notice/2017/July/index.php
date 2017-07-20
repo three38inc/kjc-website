@@ -2,6 +2,201 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                <div class="panel-heading" role="tab" id="heading11">
+                    <h4 class="panel-title">
+                    July 15<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse11" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading11">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+
+                        The list of students selected for the college choir is displayed in the notice board. The choir practice will start on Monday (17/07/2017) in the Music Room (PG Block, 5th Floor) at 4.30 p.m.</p>
+
+                    <p><b>CSA Programme</b><br>
+All CSA volunteers are requested to attend Swatch KJC programme which is scheduled today (15/07/2017) at 1.30 p.m.<br>
+          <b>Venue:</b> Car Parking</p>
+
+
+                    <p><b>For all I year UG classes</b><br>
+
+    Selection of NSS volunteers will be held on 29th July 2017. The First year students in UG programmes who have submitted their application to join NSS should attend. <br>
+
+                        <b>Venue:</b> Room Nos. 201, 202, 203, 204 &amp; 205.<br>
+                        <b>Time:</b> 2.00 p.m. to 4.00 p.m.<br>
+
+
+                        <b>For further details contact:</b><br>
+    Dr. Sreedhar P.D., Staff Room No. IX<br>
+    Mr. Vinod Baburao Meghsham, Staff No. IX<br>
+                        Ms. Kalyanai V, Staff Room No. I</p>
+
+
+                    <p><b>For all Final year Students of PG Life Science (BT & MB)</b><br>
+
+    The POTP (Placement Orientation &amp; Training Programme) by the Centre for Employability & Corporate Relations will commence today. The details for today are as follows:<br>
+
+    Course: Final year PG Life Science (BT &amp; MB)<br>
+                        <b>Time:</b> 11.00 a.m. – 12.50 p.m.<br>
+                        <b>Venue:</b> Room No 205, PG Block  <br>
+                        A request to all the students to attend the same, come well groomed and on time.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                <div class="panel-heading" role="tab" id="heading10">
+                    <h4 class="panel-title">
+                    July 13<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse10" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading10">
+                <div class="panel-body">
+                    <p><b> For all UG & PG classes</b><br>
+                        Scholarship forms for SC/ST, CAT I, II, IIIA, Minorities are available online. Details are displayed on the college notice board. Eligible students may avail the opportunity by applying well in advance and should submit the documents/proof at the college office (Counter No. 1, Time – 3.00 to 5.00 p.m. on Saturdays 12 noon – 1.30 p.m.)</p>
+
+                    <p>There will be a prayer meeting in the CMI Ashram Chapel today (13/07/2017) at 3.40 p.m.</p>
+
+                    <p>Today (13/07/2017) there will be selection trials for students who wish to join the college Cricket Team (Men). Students are requested to come in proper sports kit.<br>
+
+                        <b> Time:</b> 4.00 p.m. | Venue: College ground.</p>
+
+    <p>Certificate programme in “English” and “Art of Painting” started on 12/07/2017. If any student interested to join the programme can register at UG Block Reception Counter on or before 14/07/2017. Class starts at 4.00 p.m.<br>
+
+    Venue:<br><br>
+    > Art of Painting - Room No. 411, Third floor, UG Block.<br>
+        > English – Room No. 412, Third floor, UG Block.</p>
+
+
+                    <p><b>For I year UG classes</b><br>
+                        Online application for D Devaraj Urs Pratibha Puraskara award is invited from students by the Backward Class Community. Students of CAT I, IIA, and IIIA, who have scored above 90% in PUC (Karnataka State Board) are eligible to apply. Last date to apply is 31/07/2017. For more refer college notice board.</p>
+
+                    <p><b>For I & III Sem B.Com (except I Sem B.Com Professional & I Sem B.Com ACCA) and I & III Sem BBA (except I Sem BBA Section ‘A’ CGMA)</b><br>
+                        The last date to register for CS Foundation training and fee payment is 15th July 2017.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                <div class="panel-heading" role="tab" id="heading9">
+                    <h4 class="panel-title">
+                    July 12<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse9" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading9">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+The inauguration of Kalajyothi, Clubs & Associations and investiture ceremony is scheduled today (12/07/2017) in the SKE Auditorium. The Class Representatives, Class Coordinators for LCA, Sports & Games and Department specific clubs and associations (list displayed on the notice board) have to attend the programme and be seated in the SKE Auditorium at 2.40 p.m.</p>
+
+    <p>Registrations for Kalajyothi close today, 12th July by 4.00 p.m. Preliminary rounds for music and dance will be held on 13th & 14th July. For details, refer the notice board.</p>
+
+                    <p><b>For all UG & PG classes</b><br>
+
+    Certificate programme on “Art of Painting” by Mr. Thomas a renowned artist. It is a 45 hours programme. Classes will start today at 4.00 p.m.<br>
+
+                        <b>Venue:</b> Mini Auditorium I<br>
+
+    Certificate programme in English classes will start today (12/07/2017) at 4.00 p.m.<br>
+
+                        <b>Venue:</b> Room No. 104<br>
+
+    Today (12/07/2017) there will be selection trials for students who wish to join the college Badminton Team (Women). Students are requested to come in proper sports kit and bring your own racket.<br>
+
+                        <b>Time:</b> 4.30 p.m. | Venue: Quadrangle (UG Block).</p>
+
+
+                    <p><b>For all Final year BBA, BCA & B.Sc (CSME, CSMS) classes</b><br>
+
+    The POTP (Placement Orientation & Training Programme) by the Centre for Employability & Corporate Relations will commence today (12/07/2017). The details for today are as follows:<br>
+
+    1. Programme: Final year BBA<br>
+                        <b>Time:</b> 11.00 a.m. – 12.50 p.m.<br>
+                        <b>Venue:</b> Main Auditorium, UG Block</p>
+
+    <p>2. Programme: Final year BCA & B.Sc (CSME & CSMS)<br>
+        <b>Time:</b> 3.35 p.m. – 4.30 p.m.<br>
+        <b>Venue:</b> Main Auditorium, UG Block<br>
+
+    Students should assemble in the venue on time.<br>
+        <b>Time:</b>   12.45 p.m. to 1.40 p.m.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                <div class="panel-heading" role="tab" id="heading8">
+                    <h4 class="panel-title">
+                    July 11<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
+                <div class="panel-body">
+                    
+                    <p><b> For III year UG classes only</b><br>
+
+    If there is any change in your address please do make the changes in the college ID-Card by submitting valid proof to the office (Computer Lab III – 3rd Floor) on 12/07/2017 before 1.45 p.m.<br>
+
+                        <b>Documents Required</b><br>
+    a) Request letter duly signed by The Principal<br>
+                        b) Address proof (original & photocopy).</p>
+
+
+                    <p><b>For all UG & PG classes</b><br>
+                        Students are requested to wear always the ID-Card while you are in the campus. Please do not bring any outsider in the campus. If you happen to see anybody outsider inside the campus please report immediately to the college authorities.</p>
+
+                    <p>Jayantian Language Center offers a certificate programme in English. Classes will start from tomorrow (12/07/2017). Interested students are requested to pay the fee of Rs. 1000/- in the Reception Counter (Main Block) today (11/07/2017) itself. Successful completion of course will help the students to earn three extension credits.</p>
+
+                    <p>Our college is organizing a certificate programme on “Art of Painting” by Mr. Thomas a renowned artist. It is a 45 hours programme. Classes will start from tomorrow (12/07/2017). Interested students are requested to pay the fee of Rs. 1250/- in the Reception Counter (Main Block) today (11/07/2017) itself. Successful completion of course will help the students to earn three extension credits.</p>
+
+                    <p>The list of students selected as members of the Debating Society of the college is displayed on the notice board. A meeting of the Debating Society is scheduled today (11/07/2017) in the Main Auditorium at 4.30 p.m.</p>
+
+                    <p>Today (11/07/2017) there will be selection trials for students who wish to join the college Badminton Team (Men). Students are requested to come in proper sports kit and bring your own racket.<br>
+
+                        Time: 4.30 p.m. | Venue: Quadrangle (UG Block).</p>
+
+
+                    <p><b>For all UG classes</b><br>
+                        Registrations for Kalajyothi close on Wednesday, 12th July by 4.00 p.m. There is a help desk arranged at the main reception lobby to facilitate registrations. Students may avail the facility between 3.30 p.m. and 5.30 p.m. today.</p>
+
+                    <p>An audition for students interested in joining the college choir is scheduled today at 3.45 p.m. onwards at the Mini Auditorium I (2nd Floor – Main Block). Students who play musical instruments can also take part in the audition.</p>
+
+                    <p><b>Please note:</b> Successful completion of the choir training will help the students earn three extension credits.</p>
+
+
+                    <p><b>For II & III Year UG, II Year PG and II/III Year MCA classes (except MBA/PGDM)</b><br>
+Defaulters of tuition/admission fee should pay the same on or before 19th July 2017 with late fee of Rs. 500/-.  <br>
+
+    Venue: Counter No. 2 (UG Office)<br>
+                        Time:   12.45 p.m. to 1.40 p.m.</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
                 <div class="panel-heading" role="tab" id="heading7">

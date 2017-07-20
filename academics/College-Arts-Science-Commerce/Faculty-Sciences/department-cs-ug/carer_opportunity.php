@@ -88,7 +88,11 @@
                                 <p align=justify>The placement cell of the college ensures that the students have the necessary information and skills for an effective job search .The cell also conducts professional training programmes outside the curricula to provide better placements. Individual counseling and group sessions are held to assist a smoother flow of activity. The tremendous knowledge gap between the industry and educational sector is being fulfilled by the placement cell. </p>
                                 <p align=justify>The placement team consists of three full time dedicated and passionate faculty members. The training programmes are initiated from the beginning of the academic year. Placement cell contributes through the "GATE - Opening a passage" which is the placement training and orientation programme for all the final year graduates. "GATE" focuses on areas like placement forum, guidelines, aptitude test, GD and interview techniques which will help the computer science students to reach greater heights in the corporate world.</p>
                                 <p align=justify>Talks on various topics related to placements like "Placement Opportunities & absorption process by IT companies", "Placement process and requirements" etc. are organized. Many students of the department are employed in different companies like Infosys, IBM, Cognizant, Ernst & Young, HP, Oracle, iGate, South Indian Bank, Wipro, National Instruments, Aricent, UST Global, Deutsche Bank, Unisys and TTK Services.</p>
+                                    
+                                    <a href="../../../../placements/about_cecr.php">Centre for Employability and Corporate Relations (CECR)</a>
 
+                                    
+                                    
                             
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

@@ -97,6 +97,8 @@
 										Industry Mentorship Programme connects experienced industry professionals with current students for one-on-one guidance to share insights and increase student employability in their future. This programme aims at empowering the students to connect with industry and focus on their professional goals.</p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Academic Alliance with VMware</b><br>
 										VMware, Inc. is a subsidiary of Dell Technologies that provides cloud and virtualization software and services and claims to be the first to successfully virtualize the x86 architecture commercially. Courses on Data Center Virtualization Fundamentals [V6], VMware Network Virtualization Fundamentals and VMware Cloud Fundamentals are provided to the students of the department. VMware organizes “VMware - Open Badge Day”, where by faculty/students can take up assessments on various technology fundamentals and earn the “VMware Digital Badges”.</p>
+                                    
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;"> Membership with ICT Academy</b><br> Kristu Jayanti College, Bengaluru is the first Arts & Science College in the State of Karnataka to sign the membership with ICT Academy.The membership is signed to benefit Faculty Members and Students through various initiatives of ICT Academy which includes Faculty Development, Student Skill Development, Industry-Institute Collaboration, Research etc.</p>
 
                                
                                

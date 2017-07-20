@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Dr Jonas Richard A
                 </h4>
+                 Associate Professor and Head of the Department
                  
                 <p>
                     <span>Qualification </span> <br/>MSW(HRM), M.Sc(Psychology), M.Phil(Psychology),PhD
@@ -39,7 +40,7 @@
             <div class="item-content">
                 <h4>Dr. I. Jerry Richards
                 </h4>
-                
+                Assistant Professor
                 <p>
                     <span>Qualification </span> <br/>MSW (HR), PhD, UGC- NET (JRF)
                 </p>
@@ -58,7 +59,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br><br>
             </div>
         </div>
     </div>
@@ -70,7 +71,7 @@
             <div class="item-content">
                 <h4>Dr. Winnie Joyce A
                 </h4>
-                 
+                 Assistant Professor
                 <p>
                     <span>Qualification </span> <br/>MSW (Medical & Psychiatry), M.Phil & PhD
                 </p>
@@ -90,7 +91,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br>
+                </ul><br><br><br><br>
             </div>
         </div>
     </div>
@@ -102,7 +103,7 @@
             <div class="item-content">
                 <h4>Dr. Emmanuel Daniel
                 </h4>
-                 
+                 Assistant Professor
                 <p>
                     <span>Qualification </span> <br/>M.S.W., M.B.A., Ph.D., UGC- NET, (B.C.S.)
                 </p>

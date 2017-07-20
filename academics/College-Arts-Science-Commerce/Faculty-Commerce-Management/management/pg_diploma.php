@@ -155,6 +155,8 @@ College Office: 080 - 28465611 / 28465353 / 28465770, <br>
 E-mail: admission@kristujayanti.com<br>
 Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
                                         For details of Subjects (Click here)</p>
+                                    
+                                    <center><p><a href="curriculum/PGD-Syllabus-2017-18.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of One Year Post Graduate Diploma 2017- 18 </a></p></center>
 									
 										<center><p><a href="curriculum/pg_diploma_course_matrix_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of One Year Post Graduate Diploma </a></p></center>
 

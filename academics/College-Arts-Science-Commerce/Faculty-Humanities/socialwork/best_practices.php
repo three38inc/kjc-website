@@ -82,23 +82,25 @@
 									  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                    <span>&nbsp; Best <strong> Practices </strong></span></h4>
+                                    <span>&nbsp; Best Practices  <strong> for Student Engagement </strong></span></h4>
 								
-								<p><b style="color: #cd6e08;font-weight: bold;">Students</b><br>
-									<b>*</b> Course Initiation Project That Helps Them To Identify Their Interest Areas in Social Work Field<br>
-<b>*</b> Functional Kannada Classes for Non Kannada Students To Make Their Field Work Placements More Productive.<br>
-<b>*</b> Life Skills Education for All The MSW Students At The Beginning Of The Course.<br>
-<b>*</b> Regular Interaction With the Field Experts <br>
-<b>*</b> Focus On Experiential Learning Involving Students In Live Projects<br>
-<b>*</b> Mithra Milan Program to foster Regular Interaction With The Field Work Agencies<br>
-								<b>*</b> Know Your Alumni Program to Connect The Alumni and The Students Through Guest Lectures</p>
+                                     <ul><li>Course Initiation Project at the beginning of the course to help students identify their strength in the field of Social Work</li>
 
-								<p><b style="color: #cd6e08;font-weight: bold;">Faculty Members</b><br>
-<b>*</b> Counselling Services by the Faculty Members for The Students, Teachers and Outsiders.<br>
-<b>*</b> Consultancy Services by the Faculty Members with regard to  Research, Training and CSR Activities<br>
-<b>*</b> Membership In National And International Professional Bodies<br>
-<b>*</b> Regular and Ongoing Research by Faculty and Students.<br>
-									<b>*</b> Conducting Certificate And Diploma Courses for Outsiders </p>
+                                         <li> Functional Kannada classes for Non Kannada students during the first semester to make their field work placements more dynamic and productive</li>
+
+                                         <li> Life Skills Education (LSE) for all the students at the beginning of the course to make them more adaptive with positive behavior</li>
+
+                                         <li> Bi monthly interaction with the Field Experts to expose them to the field realities</li>
+
+                                         <li> Special emphasis on  Experiential Learning involving students in live projects</li>
+
+                                         <li>Connecting with the Alumni through monthly expert lectures</li>
+
+                                         <li> Weekly Journal Article Review </li>
+
+                                         <li>Weekly Social Documentary Analysis</li></ul>
+
+
 								
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
@@ -149,7 +151,7 @@
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php" style="color: #2980b9;font-weight: bold;">Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="best_practices.php" style="color: #2980b9;font-weight: bold;">Best Practices for Student Engagement</a></p>
                                     </section>
 										
 										<section class="link-arrow">

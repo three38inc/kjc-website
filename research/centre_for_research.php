@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -151,7 +151,14 @@
                                         <li>Dr. Vijayanand.S </li>
                                         <li>Dr. Krishna Prabha</li>
                                     </ul>
-
+                                    
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Contact:</b> <br>
+                                        <b>Dr. Justin Nelson Michael</b><br>
+                                    Director<br>
+                                        Centre for Research <br>
+                                        <b>Phone:</b> 080 28465611,28465770 <br>
+                                        <b>Extension:</b> 457<br>
+                                        <b>Email:</b> research@kristujayanti.com</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -177,16 +184,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
-                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>

@@ -118,6 +118,8 @@
                                    <p align=justify>The joint venture between AICPA (American Institute of Certified Public Accountants) and CIMA ( Chartered Institute of Management Accountants) developed Global Management Accounting Principles to define best practice in management accounting and introduced the CGMA ( Chartered Global Management Accountants) competency framework to define the skills management accountants need today and into the future. The CGMA recognises professionals who meet the highest benchmark of quality, competency and integrity.</p>
                                     <p align=justify>BBA CGMA Integrated is eligible for gaining 9 paper exemptions out of 16 towards the CGMA Qualification and the student has to write only 7 papers to qualify CGMA. The BBA CGMA Integrated gives an opportunity to gain qualifications like Certificate in Business Accounting, Diploma in Management Accounting, Advanced Diploma in Management Accounting, Certificate in IFRS along with the CGMA Qualification.</p>
                                     
+                                    <center><p><a href="curriculum/BBA-Curriculum-CGMA-2017-2020.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA CGMA Integrated 2017- 20</a></p></center>
+                                    
 									<center><p><a href="curriculum/bba_cgma_course_matrix.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA CGMA Integrated</a></p></center>
 									
                                 </div>

@@ -31,6 +31,7 @@
             <div class="item-content">
                 <h4> Dr. Molly Joy
                 </h4>
+                Head Dept. of Psychology
                 <p>
                     <span>Qualification </span> <br/> MA (Psychology), MEd, MA (English), PGD Human Resource Management, PhD Psychology.
                 </p>

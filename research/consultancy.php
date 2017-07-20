@@ -64,7 +64,7 @@
     </style>
 	</head>
 	<body>
-        <script type="text/javascript">
+      <!--  <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -75,7 +75,7 @@
             //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -166,16 +166,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php" style="color: #2980b9;font-weight: bold;">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>
