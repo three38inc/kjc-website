@@ -7,6 +7,7 @@
     <div class="col-lg-4 deanary" id="falSci">
         <div class="iconDiv">
             <i class="fa fa-folder-open-o" aria-hidden="true"></i>
+<!--            <img src="images/science.png" class="img-responsive" width="20"/>-->
         </div>
         <h3>Faculty of Science</h3>
         <p>Faculty of Science offers MCA, BCA, BSc CSME, BSc CSMS, BSc Biotechnology, Microbiology and MSc Biotechnology, Microbiology  ..</p>

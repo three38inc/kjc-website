@@ -39,7 +39,7 @@ center .mainheading span strong{
     right: 0px;
     top: 0px;
     height: 100%;
-    padding: 50px 0;
+    padding: 0;
     background: linear-gradient(90deg,transparent,rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7));
 }
 
@@ -281,4 +281,11 @@ center .mainheading span strong{
 .courseDetails .courseTitle p{
     font-size: 14px;
     text-align: left;
+}
+
+
+
+.hoverDiv{
+    position: relative;
+    top: -150px;
 }
