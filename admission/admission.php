@@ -189,8 +189,8 @@
                                         </div>
                                     </div>-->
 
-                                    <div class="panel panel-info">
-                                        <div class="panel-heading">
+                                    <div class="panel panel-info" style="border-color:#336E7B!important">
+                                        <div class="panel-heading" style="border-color:#336E7B!important;background-color:#336E7B!important">
                                             <h2 class="panel-title">Counselling / Interview Schedules</h2>
                                         </div>
                                         <div class="panel-body">
@@ -275,7 +275,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 </blockquote>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3" style="background-color:rgba(218, 223, 225,0.5);">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     
                                      <?php include('right-admission.php');?>
