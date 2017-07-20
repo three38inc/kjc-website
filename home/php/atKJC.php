@@ -14,12 +14,12 @@
             </div>
         </div>
 		
-		<div class="item">
+		<!--<div class="item">
 			 <a href="http://kalajyothi.kristujayanti.edu.in/" target="_blank"><img src="../images/events-banner/kristu-jayanti-college-kalajyothi2017.jpg"/></a>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
         
         
 		 <!--<div class="item">
@@ -80,12 +80,12 @@
             </div>
         </div>-->
         
-          <div class="item">
+          <!--<div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-iit-bombay.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
         
          <div class="item">
             <img src="../images/events-banner/kristu-jayanti-college-lifeskills-school-managemet.jpg"/>

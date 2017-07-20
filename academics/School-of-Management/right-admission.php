@@ -2,6 +2,32 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
+
+<a href="admission.php" class="list-group-item">
+										   <font size=2>MBA / PGDM Admission 2017</font>
+                                        </a>
+										<a href="admission_enquiry.php" class="list-group-item">
+										   <font size=2>Admission Enquiry</font>
+                                        </a><br>
+
+	                                 <div class="list-group">
+											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp; Fee Structure</font> </a><br>
+									  
+							     
+                                    
+                                   
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
+                                    </section>
+                                            
+                                            <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
+                                    </section>
+                                    
+                                   
+                                   
+									
+                                       </div>
 									
 									<div class="list-group">
 										<a href="#" class="list-group-item active"><font size="3">Online Application Form</font></a>
@@ -19,35 +45,10 @@ PGDM Programme: Rs 900/- <br>
 										
 										
 										
-										<a href="admission.php" class="list-group-item">
-										   <font size=2>MBA / PGDM Admission 2017</font>
-                                        </a>
-										<a href="admission_enquiry.php" class="list-group-item">
-										   <font size=2>Admission Enquiry</font>
-                                        </a>
+										
                                        </div>
 									
-										<div class="list-group">
-											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp; Fee Structure</font> </a><br>
-									  
-							       <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">MBA/PGDM Admission</a></p>
-                                    </section>
-                                            
-                                    
-                                   
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                            
-                                            <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-                                    
-                                   
-                                   
 									
-                                       </div>
 									
 									
 									

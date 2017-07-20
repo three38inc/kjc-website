@@ -2,9 +2,7 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Admission</strong></span>
                                     </h4>
-									
-									
-                                        
+
                                         <a href="admission.php" class="list-group-item">
 										   <font size=2>MCA Admission</font>
                                         </a>
@@ -15,9 +13,7 @@
                                         <div class="list-group">
 											<a href="#" class="list-group-item active"><font size="3">Programmes Offered</font> <br> <font size="2">Eligibility &amp; Fee Structure</font> </a><br>
 									  
-							       <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php">MCA Admission</a></p>
-                                    </section>
+							    
                                             
                                     
                                    

@@ -7,6 +7,18 @@
 
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
+        
+        <li>
+            <img src="images/highlights/kristu-jayanti-college-shubh-aarambh.jpg" class="img-responsive" />
+            <span class="date">17<sup>th</sup> July 2015</span>
+            <div class="quote">
+                <a href="events/events.php?mode=openlink&year=2017&month=july&url=shubh-aarambh-school-management.php">
+                    <h4>Shubh Aarambh Batch 2017 - 19 - MBA/PGDM School of Management <br/><small>
+				'Shubh Aarambh' marks the commencement of the academic year 2017-18 for the batch 2017-19, MBA/PGDM..</small></h4>
+                </a>
+            </div>
+        </li>
+        
         <li>
             <img src="images/highlights/vinimay_leadership_series.jpg" class="img-responsive" />
             <span class="date">21<sup>st</sup> July 2015</span>

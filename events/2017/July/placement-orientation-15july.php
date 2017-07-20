@@ -3,7 +3,7 @@
 		<div class="panel-heading">
   Placement Orientation & Training Programme
 
-            <b class="panel-title pull-right">July 12<sup>th</sup> 2017</b>
+            <b class="panel-title pull-right">July 15<sup>th</sup> 2017</b>
             <div style="clear:both"></div>
         </div>
 		<div class="panel-body">
