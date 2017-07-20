@@ -363,9 +363,18 @@
 								
                             </div>
 						</a>
-						
-						
-                    </div>
+					</div>
+                    <div class=" col-lg-12 col-xs-12 mis hidden-xs hidden-sm">
+                        <a href="../achivements/college.php">
+<!--
+                            <div class="accTabs color-3">
+                                <h2><i class="flaticon-kjc-gallery c3"></i>Faculty</h2>
+								
+                            </div>
+-->
+                            <img src="<?php echo $ROOT;?>/images/achievements-banner.jpg" class="img-responsive"/>
+						</a>
+					</div>
                     
                 </div>
 				
