@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
+    <link rel="stylesheet" href="../css/socialmedia.css">
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
     <link href="../css/custom.css" rel="stylesheet">
@@ -120,20 +121,37 @@
 
                                  
 									<p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms.  </p>
+                                    
+          
+<center><div class="wrapper">
+<ul class="social-icons icon-circle icon-zoom list-unstyled list-inline"> 
+<li> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><i class="fa fa-facebook"></i></a></li> 
+<li> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
+<li> <a href="https://plus.google.com/+KristuJayantiCollegeBengaluru" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+<li> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-youtube"></i></a></li>
+<li> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><i class="fa fa-twitter"></i></a></li>
+
+</ul>
+</div>
+                                    </center>
+
                                 
                                     
-                                    <table border="0" align="center">
+                                   <!-- <table border="0" align="center">
                                     <tr>
                                         
                     <td width="150"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png" title="Facebook"></a></td>
                                         <td width="150"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png" title="YouTube"></a></td>
                                         <td width="150"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png" title="Linkedin"></a></td>
-                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>
+                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>-->
 
 
                                    
-                                     
-                                   
+        
+
+
+
+
                                     
                                    
                                     

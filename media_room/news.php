@@ -119,6 +119,9 @@
                                  
 									<p align=justify>Regular updates of the activities and events of the college are carried in this section to inform the student community, staffs, parents and other stakeholders.  </p>
                                     
+                              
+               
+<div style="height:300px;width:800px;border:1px solid #ccc;overflow:auto;">
 <ul class="list-group">
   <li class="list-group-item">
    
@@ -150,9 +153,79 @@
     </li></ul>
                                     
                                     
-       <!---------------------------------------------------------------end------------------------------------------------------------->                          
+       <!---------------------------------------------------------------end------------------------------------------------------------->   
+                                        
+                                        <ul class="list-group">
+  <li class="list-group-item">
+   
+     <b>Centre for Social Activities VANMAHOTSAV 2017 </b><br>
+     Centre for Social Activities of Kristu Jayanti College had organised “Van-Mohotsava” on 8th July 2017 at Nagenahalli Lake Belt..<br>
+      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=van-mahotsav-2017.php">Read More</a>
+    </li></ul>
+                                    
+                                    
+       <!---------------------------------------------------------------end------------------------------------------------------------->   
+                                        <ul class="list-group">
+  <li class="list-group-item">
+   
+     <b>Department of Management (BBA) organized a management workshop “Virtuoso 2017”  </b><br>
+    Department of Management (BBA) organized a management workshop “Virtuoso 2017” for the freshers (I semester students) on 14th July 2017. Mr. John Santhosh,..
+      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=Virtuoso-2017.php">Read More</a>
+    </li></ul>
+                                    
+                                    
+       <!---------------------------------------------------------------end------------------------------------------------------------->   
+                                        <ul class="list-group">
+  <li class="list-group-item">
+   
+     <b>Industrial Visit to ISRO, Bangalore</b><br>
+  The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017.. 
+      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=industrial-visit-ISRO.php">Read More</a>
+    </li></ul>
+                                    
+                                    
+       <!---------------------------------------------------------------end------------------------------------------------------------->   
+    
+        <ul class="list-group">
+  <li class="list-group-item">
+   
+     <b>Orientation Visit to Indian Social Institute (ISI), Bangalore</b><br>
+   The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students to Indian Social Institute..  
+      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-indian-social-institute.php">Read More</a>
+    </li></ul>
+                                    
+                                    
+       <!---------------------------------------------------------------end------------------------------------------------------------->  
+    
+    <ul class="list-group">
+  <li class="list-group-item">
+   
+     <b>Department of Social Work | Orientation Visit to Schneider Electric</b><br>
+   The Department of Social Work has organized an Orientation Visit for the 3rd Semester of MSW students to Schneider Electric on the 1st of July 1, 2017..
+      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-schneider-electric.php">Read More</a>
+    </li></ul>
+                                    
+                                    
+       <!---------------------------------------------------------------end------------------------------------------------------------->   
+    
+    
+    
+    
+    
+    
+</div>
+                                    
+                                    
+                           
+                                    
+                                    
+                 
+    <!--<div class="well" style="overflow: scroll">                                
 
+        
+        
 
+                                    </div>-->
 
 
 
@@ -246,7 +319,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-    </div>
+  
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>
@@ -282,6 +355,7 @@
         }
 
     </script>
+    
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body>

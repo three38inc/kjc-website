@@ -12,10 +12,12 @@
 				Exposure to art and culture is essential for holistic living. The Literary and Cultural Association of Kristu Jayanti College, has carved a niche for itself as a platform for budding talents, where students not only develop their literary and cultural capabilities but also excel in them. The opportunities created by the association have enabled the stars of the college to outshine in many a fest. After the creation of the Literary and Cultural Association, the college has made innumerable achievements by participating at Youth festivals organized by Bangalore University and Youth Festivals at the Zonal and National level .</p>
 
 			<p align=justify>Kalajyothi is the annual intracollegiate Literary, Cultural and Gospel festival of the college. It is organized to provide an opportunity for students to showcase their talent in various competitions held under the categories of literary, fine arts, theatre, music and dance. Some of the events are conducted under secular and gospel categories. This academic year, Kalajyothi will be held from 17th to 22nd July, 2017. </p>
+            
+            <center><a href="../pdf/2017/Kalajyothi-schedule.pdf" target="_blank" class="btn btn-primary btn-sm"> Click here for Tentative Schedule of Events & Venue </a></center><br>
 			
 			<center><a href="../pdf/2017/kalajyothi_event_guidelines_17.pdf" target="_blank" class="btn btn-primary btn-sm">Click here for Events and Rules of Kalajyothi 2017</a></center><br>
 			
-			<center><a href="http://kalajyothi.kristujayanti.edu.in/" target="_blank" class="btn btn-primary btn-sm">Click here for Registration </a></center>
+			<!--<center><a href="http://kalajyothi.kristujayanti.edu.in/" target="_blank" class="btn btn-primary btn-sm">Click here for Registration </a></center>-->
 			
 			
 			

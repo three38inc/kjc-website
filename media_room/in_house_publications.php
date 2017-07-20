@@ -126,7 +126,7 @@
 
 									<p align=justify><b>KJC Radio:</b> an offline radio programming and production started with an objective to reach out students, by streaming infotainment programme on events conducted, upcoming events and music tapes. KJC Radio will provide an opportunity for the students and staff to know the various programmes that are organized at Kristu Jayanti College. The programme are infotainment nature it will be played in the college cafeteria. </p>
                                     
-                                    <center><a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_4/stories/story_main.php" class="btn btn-primary">Glimpses July 17, 2017</a></center>
+                                    <center><a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_4/stories/story_main.php" class="btn btn-primary" target="_blank">Glimpses July 17, 2017</a></center>
 
                                
 

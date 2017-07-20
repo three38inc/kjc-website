@@ -243,7 +243,7 @@
                                                     <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                         <font size=2>Click here for Admission process</font>
 													</a>
-                                            <p><b><font color="red">Note: Admissions to M.Sc Psychology, MSW, English Literature Programmes for the academic year 2017 has been closed</font></b></p>
+                                            <p><b><font color="red">Note: Admissions to M.Sc Psychology Programme for the academic year 2017 has been closed</font></b></p>
                                         </div></div>
 									
 									<div class="alert alert-info">

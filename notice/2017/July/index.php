@@ -3,6 +3,85 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
          <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                <div class="panel-heading" role="tab" id="heading14">
+                    <h4 class="panel-title">
+                    July 20<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse14" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading14">
+                <div class="panel-body">
+                    <p><b> For all UG & PG classes</b><br>
+                        There will be a prayer meeting in the CMI Ashram Chapel today (20/07/2017) at 3.40 p.m</p>
+
+                    <p><b>For III Sem PG classes</b><br>
+                        Open Elective courses for the Academic Year 2017-18<br>
+
+    Class Room Allocation<br>
+    Thursday, 20th July 2017<br>
+                        <b>Time:</b> 1.45 p.m. – 3.30 p.m.</p>
+                    
+                    <table border="0" class="table table-bordered table-hover">
+                    <tr>
+                        <td width="200"><b>Offered by the Department</b></td>
+                        <td width="200"><b>Course Name</b></td>
+                        <td width="200"><b>Venue/Room No.</b></td>
+                        </tr>
+                        <tr>
+                        <td width="200">Comp. Science (PG)</td>
+                        <td width="200">Data management and analytics</td>
+                        <td width="200">PG Block – MCA Lab 2</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">Commerce (PG)</td>
+                        <td width="200">Investment management</td>
+                        <td width="200">PG Block – 104</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">English</td>
+                        <td width="200">Writing for academic and professional purposes</td>
+                        <td width="200">PG Block – 202</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">Life Science</td>
+                        <td width="200">Infectious diseases and control</td>
+                        <td width="200">UG Block – 513</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">Mgt. Studies</td>
+                        <td width="200">Fundamentals of finance</td>
+                        <td width="200">PG Block – 105</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">Psychology</td>
+                        <td width="200">Advertising psychology</td>
+                        <td width="200">UG Block – 510</td>
+                        </tr>
+                        
+                        <tr>
+                        <td width="200">Soc. Work</td>
+                        <td width="200">Corporate social responsibility</td>
+                        <td width="200">UG Block - 506</td>
+                        </tr>
+                        
+                    
+                    </table>
+                    
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse13" aria-expanded="false" aria-controls="collapse13">
                 <div class="panel-heading" role="tab" id="heading13">
                     <h4 class="panel-title">
