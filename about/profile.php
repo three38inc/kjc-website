@@ -131,199 +131,127 @@
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Place
+                                                  City
                                                 </td>
                                                 <td>
-                                                    K. Narayanapura
+                                                 Bengaluru  	
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Nationality
+                                                   State
                                                 </td>
                                                 <td>
-                                                    India
+                                                   Karnataka
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    State
+                                                   Nation
                                                 </td>
                                                 <td>
-                                                    Karnataka
+                                                   India
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Affiliating University
+                                                   Status of the college
                                                 </td>
                                                 <td>
-                                                    Bangalore University
+                                                  Autonomous
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    UGC Recognition
+                                                  Affiliating University
                                                 </td>
                                                 <td>
-                                                    NAAC Accreditation A Grade
+                                                   Bangalore University 
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Status of the college
+                                                  Date of establishment
                                                 </td>
                                                 <td>
-                                                    Autonomous College
+                                                  06/09/1999
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Financial Category
+                                                  Date of grant of ‘Autonomy’ by UGC     
                                                 </td>
                                                 <td>
-                                                    Self Financing
+                                                   17/08/2012
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Type of College
+                                                   Details of UGC recognition
                                                 </td>
                                                 <td>
-                                                    Co-education
+                                                 2 (f)	[18/11/2008] <br> 12 (B)  [01/05/2014]
+
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    No. of departments
+                                                   Accreditation Details		
                                                 </td>
                                                 <td>
-                                                    9
+                                                  NAAC Reaccredited ‘A’ Grade, with CGPA 3.22 [2015]
+
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    No of Programmes
+                                                 Type of Institution		
                                                 </td>
                                                 <td>
-                                                    UG: 14, PG: 12, Ph.D.: 02, PG Diploma: 3
+                                                 Co- Education &amp; Self- Financing Institution
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Year of Establishment
+                                                   Area of the Campus
                                                 </td>
                                                 <td>
-                                                    1999
+                                                   8.5 Acres
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Location of the College
+                                                   Number of Programmes Offered
                                                 </td>
                                                 <td>
-                                                    Semi-urban
+                                                13 UG, 12 PG, 2 Research programmes (Social Work & Biotechnology) & 3 PG Diploma Programmes
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Student Strength
+                                                   Number of Departments
                                                 </td>
                                                 <td>
-                                                    3540
+                                                  11 Departments under 3 Deaneries
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    Area of the Campus
+                                                   Number of Faculty members	
                                                 </td>
                                                 <td>
-                                                    8.5 Acres
+                                                   171
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    No. of Teachers
+                                                   Number of Students
                                                 </td>
                                                 <td>
-                                                    Teaching: Full Time 121; Part Time - 02; Non - Teaching: 40
+                                                    4734
                                                 </td>
                                             </tr>
-                                            <tr>
-                                                <td>
-                                                    Total No. of Teachers Ph.D:
-                                                </td>
-                                                <td>
-                                                    24
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    Total No. of Teachers M.Phil:
-                                                </td>
-                                                <td>
-                                                    45
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    Courses:
-                                                </td>
-                                                <td>
-                                                    <!--blank-->
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="5">
-                                                    Student progression UG
-                                                </td>
-                                                <td>
-                                                    B.Com. 80.80%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    BBM 87.69%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    BCA 86.95%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    B.Sc. 61.33%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    B.A. 88.23%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td rowspan="4">
-                                                    Student progression PG
-                                                </td>
-                                                <td>
-                                                    MBA 100%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    MCA 100%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    M. Sc. 100%
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    MSW 100%
-                                                </td>
-                                            </tr>
+                                           
                                         </table>
                                     </div>
 

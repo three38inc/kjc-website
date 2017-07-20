@@ -115,6 +115,8 @@
                                         <span>&nbsp;Patent<strong> Recognition</strong></span>
                                     </h4>
                                     <p><b>Patent:: Garlic formulation & process for preparing the same for treatment of DIABETICS : US,13/906,432 - Dr. Deepa</b></p>
+									
+									 <p><b>A process for preparation of lindane free industrial effluents/water using novel formulation of microbial consortium : Indian Patent grant No (IN189721) - Dr. Elcey C.D </b></p>
 
                                     <p><b><u>Research Publications by Faculty Members</u></b></p>
                                     
@@ -170,7 +172,7 @@
                                      <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -246,7 +248,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php" style="color: #2980b9;font-weight: bold;">Patent Recognition</a></p>
+                                        <p><a class="a-link-arrow" href="patent.php" style="color: #2980b9;font-weight: bold;">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -254,7 +256,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

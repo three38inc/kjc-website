@@ -87,7 +87,13 @@
 									In continuation of accomplishing international exposure the department has conducted an international conference on Current Trends in Advance computing. The Conference would provide an international forum for the presentation and discussion of the emerging technologies in the field of Computer Science and Information Technology. The International Conference on Current Trends in Advanced Computing (ICCTAC) will provide an excellent international forum for sharing knowledge and results in theory, methodology and applications of recent trends in Information Technology. </p>
 								<p align=justify>The aim of the conference is to provide a platform to the researchers and practitioners from both academia as well as industry to meet and share cutting-edge development in the field of Computer Science. The Department has conducted Five Editions of International Conference in association with IJCA and IEEE. Authors contributed to the conference by submitting articles that illustrated research results, projects, surveying works and industrial experiences in the areas like Big Data, Mobile Computing, Parallel Computing, Cloud Computing, Networks, Data Security, Web Mining, Data Mining, Text Mining, Image Processing and Embedded Systems. The presented papers of first three editions of ICCTAC were published in International Journal of Computer Applications (IJCA). The presented papers of ICCTAC ’16 and ICCTAC ’17 are published in IEEE Xplore.</p>
 
-								<p><b>Further Details Refer:</b> <a href="http://kristujayanti.edu.in/icctac">http://kristujayanti.edu.in/icctac</a></p>
+								<p><b>Further Details Refer:</b> <a href="http://kristujayanti.edu.in/icctac" target="_blank">http://kristujayanti.edu.in/icctac</a></p>
+									 
+									 <p><b> Visit KJC IEEE Student Branch</b> <a href="http://ewh.ieee.org/sb/bangalore/kjc/" target="_blank"> http://ewh.ieee.org/sb/bangalore/kjc/</a>
+
+									 <p><b>Proceedings of IEEE ICCTAC:</b>
+										 <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7564336" target="_blank">http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7564336</a>
+
 
 
 								</div></div>

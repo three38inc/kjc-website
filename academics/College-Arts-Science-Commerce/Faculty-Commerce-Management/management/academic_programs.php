@@ -115,34 +115,22 @@
                                         <span>&nbsp; Academic Programs</span>
                                     </h4>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Social Responsibility Week: </b><br>
-                                        This program is initiated to bring social awareness among students and to create a concern for society. Following are some of the activities conducted during a week long program to sensitise the students with social issues and problems.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">1)	Management Exhibitions:</b></p>
 
-                                    <p>Presentation, poster making, useful of useless, debate, social quiz, sponsoring a meal to orphans</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">a)	Banque:</b>  In order to inculcate practical understanding of banking operations and it’s functioning; the Department of Management organizes and conducts an annual banking exhibition by the name of, Banque. This platform is exclusively for final year students as they showcase their talent by the way of models and reports. Concepts such as money laundering and bitcoins are expressed by way of models, and create a better understanding on the same.</p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Virtuoso: </b><br>
-                                        "Virtuoso" is a workshop conducted by the department of management for the first year students, organised by the final year BBM students, wherein they are introduced to the basic concepts of managerial events so that they have an idea about the contents of a fest.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">b)	Savishkar:</b> Savishkar is an exhibition organized exclusively for the first years by the Department of Management, where students develop prototypes on assigned management topics. This event aims at equipping students with a better understanding of management concepts and presenting the same in creative and innovative methods. Concepts of economics, banking facilities, supply chain management, etc. is expressed by way of models and charts. </p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Anveshan:</b><br>
-                                        Anveshan is an intra class paper presentation competition, started in the year 2010. The competition is opened for only final year BBM students. The students be are divided into different groups of each consisting 3 students and the paper presentation topics will be given in different areas related to management. The students are briefed about the guidelines and conditions to present papers. Later students are given enough time to make a study about the given topic and submit the report on the same.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">c)	Koushala:</b> The services sector in India is dominant contributor to our country’s GDP. It has also attracted significant foreign investment flows, contributed significantly to exports as well as provided large-scale employment. India’s services sector covers a wide variety of activities such as trade, hotel and restaurants, transport, storage and communication, Information Technology, financing, insurance and various other business services. Keeping this in mind, Koushala is an exhibition organized exclusively for the second year students, to incorporate in them a clear understanding of various services and its importance. </p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Guest Lectures: </b><br>
-Experts from industries are invited to interact with students on various issues related to management and discuss to explore new ideas and suggestions for the development of practices in management.</p>
-                                    
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Workshops: </b><br>
-                                        The workshops on different concepts like communication, lateral thinking, creative thinking, mind mapping, innovation in management etc. have been conducted for the students over the years to give them the practical knowledge on various management issues.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">2)	Anveshan:</b>  Anveshan is an annual paper presentation competition of the department conducted for the final year students to nurture and promote the spirit of research. The students are divided into groups of two and are encouraged to conduct a research based on their chosen specialization (Finance, marketing, human resource).</p>
 
-                                    <P><b style="color: #cd6e08;font-weight: bold;">Exhibitions: </b><br>
-                                        Exhibitions are an opportunity for students to showcase their talents and skills. During exhibitions the students exhibit their skills in communication, management, leadership, innovation, creativity etc.</P>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">3)	Innovatio:</b> Innovatio is yet another co-curricular programme conducted with exclusivity for the final year students of the Department of Management. With the “entrepreneurship buzz” going around in the nation, Innovatio is a platform where students are encouraged to identify an innovative business idea and present a detailed plan covering all aspects of the business. The main purpose of this programme is to develop entrepreneurship ability, and to inculcate the needed confidence and knowledge to start a business. </p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Industrial Visits:</b><br>
-                                        Industrial visits are undertaken to expose students to various production and operational techniques to update the students with latest developments in the manufacturing industry. The field visits to various small, medium and large industries are organised.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">4)	Industrial Visit:</b> While filling in the vessel of education in a student’s life within the four walls of a classroom, it is also important to kindle the flame of education via practical exposure. Through industrial visits students are introduced to various production and operational techniques in order to update them on the latest developments in the industry. Visits to small, medium, and large scale industries are organized. Industries that were visited in the past include- Sarwottam Ispat, Khaitan Electricals Limited, Agi Glaspac Pvt Ltd, Hartex Rubber Industry ( All of which are located in Hyderabad </p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Acumen:</b><br>
-                                        Acumen is an annual intra collegiate management fest. This is an event conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of 1st year and 2nd year BBM students. Acumen was started in the year 2003 with the motto "sharpening the business minds". This intra college management festival has a theme based on which all the events and various activities are conducted. In the last few years this mega festival saw many exciting themes like cricket, football, moto gp etc.</p>
 
-                                    <p><b style="color: #cd6e08;font-weight: bold;">Prodigy:</b><br>
-                                        Prodigy is an inter collegiate management fest which is conducted every year. This event is conducted mainly with the view of inculcating managerial skill and nurturing the potentialities of various participants, participating in different events like human resource, marketing, finance, best manager, entrepreneurship and business quiz form various colleges in and around Bangalore</p>
+
 
                                 </div>
                             </div>
@@ -215,7 +203,7 @@ Experts from industries are invited to interact with students on various issues 
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

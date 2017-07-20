@@ -152,7 +152,7 @@ Certificate Course in Training & Development<br>
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices for Student Engagement</a></p>
                                     </section>
 										
 										<section class="link-arrow">

@@ -116,6 +116,10 @@
                                     </h4>
 
                                  <p align=justify>Evolve is an annual magazine of the Department of Management. The magazine is an avenue to broadcast and communicate the activities of department to all. The magazine features activities, articles by faculty members, students, news updates and information on various aspects of business and management. The magazine also creates a platform for the students to exhibit their talent and creativity in writing and presenting.</p>
+                                    
+                                    <a href="pdf/EVOLVE-EVEN.pdf" target="_blank" class="btn btn-primary">EVOLVE EVEN</a><br><br>
+                                    
+                                    <a href="pdf/EVOLVE-ODD-SEM.pdf" target="_blank" class="btn btn-primary">EVOLVE ODD SEM</a>
 
                                 </div>
                             </div>
@@ -188,7 +192,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

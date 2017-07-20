@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -121,35 +121,29 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                   
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>Achievements </strong></span>
                                     </h4>
+									
+									<p><b style="color: #cd6e08;font-weight: bold;">College Ranking</b></p>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <strong>College Ranking </strong><br><br> India Today has been doing an annual survey for the last 14 years on the top colleges in various disciplines in India. INDIA TODAY partnered with The Nielsen Company and conducted the survey to determine the best undergraduate colleges in India in six disciplines namely Arts, Science ,Commerce, Engineering, Medical and Law.
-                                    </p>
-                                    <p align="justify">
-                                        The Department of Commerce of Kristu Jayanti College has striven tirelessly in pursuit of excellence in commerce education and it is rated as one of top ten commerce colleges in Bangalore by India Today - Neilson Survey Consecutively three years in row i.e., 2010, 2011 &amp; 2012.
-                                    </p>
-                                    <p align="justify">
-                                        The Department of Commerce was rated as No.1 emerging Commerce College in India by India Today - Neilson Survey for 2013 and 2014
-                                    </p>
-                                    <p align="justify">
-                                        At Present, the College is blessed to be having the 16th Rank in India and 3rd Rank in Bangalore for being the best Commerce College.
-                                    </p>
-                                    <p align="justify">
-                                        <strong>Paper Presentation</strong><br> Third Semester M.Com students, Mr. Bharath Kumar and Mr. Joshua Praveen Kumar won the Best Paper Award in a National Seminar conducted by Sacred Heart's Degree College, Bangalore on Sept. 22nd, 2015.
+									<p>India Today has been doing an annual survey from the last two decades for the Best Colleges Survey in various disciplines in India. INDIA TODAY partnered with The Nielsen Company and conducted the survey to determine the best undergraduate colleges in India in six disciplines namely Arts, Science ,Commerce, Engineering, Medical and Law. </p>
+									<ul><li>The Department of Commerce of Kristu Jayanti College has striven tirelessly in pursuit of excellence in commerce education and it is rated as one of top ten commerce colleges in Bangalore by India Today - Nielsen Survey consecutively for three years in a row i.e., 2010, 2011 & 2012. </li>
+										<li>The Department of Commerce was rated as the No.1 emerging Commerce College in India by India Today - Nielsen Survey for 2013 and 2014.</li>
+										<li>In 2015, the department achieved 16th rank in India and 3rd rank in Bengaluru as per India Today – Nielsen Survey 2015.</li>
+										<li>In the year 2016, it was rated as the Second Best Emerging Commerce College in India as per India Today – Nielsen Survey 2016.</li>
+										<li>At Present, Commerce department is rated as 9th Best Commerce College at National Level and 3rd Best Commerce College in Bengaluru City as per India Today –Nielsen Survey 2017</li></ul>
 
-                                    </p>
-                                    <p align="justify">
-                                        Third Semester M.Com student, Mr. Chonbeni Orenpatton won the Best Paper Award in a National Seminar conducted by C.P. Bhandari Jain College, Bangalore on Sept. 3rd, 2015.
-                                    </p>
-                                    <p align=justify>
-                                        <strong>Other Competitions</strong><br> M.Com student, Shanmukhi won 1st Prize in Stock Trading Competition, conducted by ICICI Direct - Stock Mind National Competition on 5th September.
+										<p><b style="color: #cd6e08;font-weight: bold;">Paper Presentation</b><br>
+											Third Semester M.Com students, Mr. Bharath Kumar and Mr. Joshua Praveen Kumar won the Best Paper Award in a Natonal Seminar conducted by Sacred Heart's Degree College, Bangalore on Sept. 22nd, 2015. </p>
+										<p>Third Semester M.Com student, Mr. Chonbeni Orenpatton won the Best Paper Award in a National Seminar conducted by C.P. Bhandari Jain College, Bangalore on Sept. 3rd, 2015. </p>
+										<p><b style="color: #cd6e08;font-weight: bold;">Other Competitions</b><br>
+											M.Com student, Shanmukhi won 1st Prize in Stock Trading Competition, conducted by ICICI Direct - Stock Mind National Competition on 5th September. </p>
 
-                                    </p>
+                                   
+                                   
+										
                                     <p align="justify"><strong>University Ranks </strong><br /></p>
 												<table class="table table-hover table-bordered">
 													<thead>
@@ -261,26 +255,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
+                                 
 
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

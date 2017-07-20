@@ -115,7 +115,32 @@
                                         <span>&nbsp; Management Association</span>
                                     </h4>
 
-                                     <p align=justify>Management association started in the year 2001 with the motto "vision beyond tomorrow". This association was launched with the objective of exposing students to various personality development programs such as presentations, group discussions, debate, seminars, workshops, role plays, training programs etc.</p>
+                                    <p align=justify>Management Association was established in the year 2001 with motto "vision beyond tomorrow". Management Association is a platform for students to come together and learn about various managerial skills, which are essential for successful transition to corporate and excelling in their corporate tasks. </p>
+
+                                    <p align=justify>Management Association will focus on developing managerial skills like communication, problem solving, decision making, inter-personal skills, time management, management of resources, stress management etc. <br>
+                                        <b>The major activities initiated under the banner of Management Association are as follows:</b>
+
+                                    <ul><li> <b style="color: #cd6e08;font-weight: bold;">1)	Virtuoso:</b>  Virtuoso is a workshop conducted by the Department of Management, exclusively for the first year students, organized and conducted by the final year students of the department. The students are introduced to the basic concepts of management and management events (Finance, Human Resources, Marketing, and Best Manager), in order to give them a perspective of competitive fests. </li>
+
+                                        <li> <b style="color: #cd6e08;font-weight: bold;">2)	Social Responsibility Week:</b>  CSR is not a new term any longer, companies both small and large practice corporate social responsibility. This could be mainly for the reason that companies exist because of the society, in the sense that companies borrow from Society’s and Nature’s bank of resources, and as a result need to give back to the society in order to encourage and promote development in a sustainable manner. Social Responsibilities Week is initiated to bring about a sense of awareness among students and to sensitize students to the growing concerns of the society. </li>
+
+                                        <li><b style="color: #cd6e08;font-weight: bold;">3)	Meet Your Alumni:</b> Once a student walks out through the gates of an institution, he walks into an adventure, an adventure into the “real world” filled with possibilities, opportunities, ups and downs, success, and failures. Meet Your Alumni is an interactive programme that provides a platform where existing students can connect and interact with the Alumni of our department, who are entrepreneurs or employed in senior designation with corporate. They give back to their alma mater by sharing their rich insights on life after college, experiences, and anecdotes that will pave guidelines to the existing students. They also share about opportunities that are presently available with the corporate and skills required to get employed. </li></ul>
+                                    <p> <b style="color: #cd6e08;font-weight: bold;">Alumni who have visited us in the past academic year are:</b></p>
+
+                                    <ul><li>John Mathai, Entrepreneur (2011-14 BBM batch)</li>
+                                        <li>Mr. Saravanan G, Team Lead, Herman Miller, Bangalore (2003-07 BBM Batch)</li>
+                                        <li>Ms. Deepa Chirayath, Senior Sales Executive, Cadbury (2007-10 BBM Batch)</li></ul>
+
+                                    <p align=justify> <b style="color: #cd6e08;font-weight: bold;">4)	Guest Lectures:</b>  Apart from garnering insights from teachers and the alumni, it is also vitally important for students to have interactions with experts from industry, who can offer their personal experiences, knowledge, insights and cautionary advice for the benefit of the students.</p>
+                                    <p> <b style="color: #cd6e08;font-weight: bold;">Guests who have visited us in the past are-</b></p>
+                                    <ul><li>Mr. Mahesha Velu., SAP Consultant, Cargill Business Services Pvt. Ltd., Bangalore.</li>
+                                        <li>Mr. Nishwanth, Team Leader, Standard Chartered.</li>
+                                        <li>Mr. Christopher D’Souza, Lead Strategic Development Private Ltd.</li>
+                                        <li>Mr. Amith Ravindra, Trainer, Think & Learn Pvt. Ltd., Bangalore.</li>
+                                        <li>Mr. Shreyas B.V., Management Consultant, E & Y, Bangalore.</li></ul>
+
+                                    <p align=justify> <b style="color: #cd6e08;font-weight: bold;">5)	Club Activity:</b> Apart from all these other interactions that the students have, it is also important for the students to interact with themselves by way of a concept called ‘Club Activity’. Students are encouraged to organize and conduct activities related to their curriculum within the dimensions of their class rooms. Through this weekly exercise, students learn the importance of communicating, team work, leadership, etc. by working alongside each other. </p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -187,7 +212,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

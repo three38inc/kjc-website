@@ -15,11 +15,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 2 Years
+                    <span> Years of experience </span><br/> 12 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Cancer & Molecular Therapeutics	
+                    <span> Areas of Research </span><br/>Cancer & Molecular Therapeutics	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 01
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 13
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -36,7 +43,7 @@
                 <div class="class-img"><img src="images/faculty/Sivagamasundari.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Dr. U.Sivagamasundari 
+                <h4>Dr. U. Sivagamasundari 
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc.,Ph.D.
@@ -46,11 +53,18 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>4 Years
+                    <span> Years of experience </span><br/>5 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Plant Microbial Biotechnology	
+                    <span> Areas of Research </span><br/>Plant Microbial Biotechnology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 08
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 07
+                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -77,11 +91,21 @@
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>3.6 Years
+                    <span> Years of experience </span><br/>13 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>Physiology	
+                    <span> Areas of Research </span><br/>Physiology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 03
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 26
+                </p>
+				<p>
+                    <span> Books published </span><br/> 01
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -103,18 +127,25 @@
                 <h4>Dr. Joseph K. S.
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D.,
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Molecular Biology & Plant Biotechnology
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/>-
+                    <span> Years of experience </span><br/> 5 Years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Plant Tissue culture & Molecular Biology	
+                    <span> Areas of Research </span><br/> Plant Tissue culture & Molecular Biology	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 02
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 14
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -136,7 +167,7 @@
                 <h4>Dr. Preethy Chandran
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc., Ph.D.,
+                    <span>Qualification </span> <br/>M.Sc., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Environmental Microbiology
@@ -146,8 +177,15 @@
                     <span> Years of experience </span><br/> 6 years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Bioremediation and Degradation		
+                    <span> Areas of Research </span><br/> Bioremediation and Degradation		
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 02
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 23
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>
@@ -169,18 +207,25 @@
                 <h4>Dr.  Esther Shoba R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>B.Ed., Ph.D
+                    <span>Qualification </span> <br/>B.Ed., Ph.D.
                 </p>
 				<p>
                     <span>Specialization </span><br/> Biotechnology
                 </p>
                 
                  <p>
-                    <span> Years of experience </span><br/> 12 years
+                    <span> Years of experience </span><br/> 14 years
                 </p>
                  <p>
-                    <span> Area of Research </span><br/>: Cloning and Expression	
+                    <span> Areas of Research </span><br/> Cloning and Expression	
                 </p>
+				<p>
+                    <span> Research articles presented </span><br/> 06
+                </p>
+				<p>
+                    <span> Research articles published </span><br/> 02
+                </p>
+				
                 
                 <ul class="list-inline social-light ">
                     <li>

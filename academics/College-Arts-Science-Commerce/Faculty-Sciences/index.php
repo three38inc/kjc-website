@@ -115,29 +115,9 @@
                                             <span>&nbsp; Faculty Of <strong>Sciences</strong></span>
                                         </h4>
 
-                                        <br/>
-                                        <p align="justify">
-                                            <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                            The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology & Microbiology.   
-                                        </p>
-                                        <p align="justify">
-                                            The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                        </p>
-                                        <p align="justify">
-                                            The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                        </p>
-                                        <!--
-<p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-<ul>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Milk</li>
-</ul>
--->
-                                        <!--                                
-<p align="justify">
-The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
+										<p align=justify>The science department was started with the inception of the college in 1999.  The programmes offered under the Deanery of Sciences comprise of multidisciplinary and interdisciplinary courses that facilitate student progression in various fields in sciences. The department that fall under the purview of the faculty of sciences consists are the departments of Computer Science (UG), Department of Computer Science (PG), Department of Life Sciences and the Research Centre in Biotechnology. Academic programs leading to B.Sc., M.Sc., MCA and Ph.D., are offered by the departments.</p>
+										<p align=justify>The faculty of sciences aspires to be a premier entity and strives to be recognized for the significance, novelty, and impact of the curriculum and the quality, relevance and currency of the various academic programs offered by the Deanery is unique. Excellence in research and scholarly pursuits, quality teaching, enthusiasm for innovation and discovery, cooperation and collaboration, community engagement, and service, entrepreneurship, career guidance and counseling, placement programmes are some of the major highlights of the Deanery of Science.</p>
+										<p align=justify>The curriculum of the various programmes covers the latest updates and technical innovations in the fields of Computer Science, Information Technology, Biotechnology, Microbiology, Biochemistry, Genetics and other allied fields. By providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum the various programmes of the deanery help build confidence in students to take up challenges and excel in their career. In addition, the faculty of sciences strives to promote all round development of students by providing value added programs such as Discussions on current affairs, Skill Development activities, Certificate courses, Add-on courses, Life Skill Education, Training and Placement programs, etc,. </p>
 
 
 
@@ -150,7 +130,7 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
                                             <span>&nbsp;<strong>Departments</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php">Department of Computer Science [PG]</a></p>
+                                            <p><a class="a-link-arrow" href="department-cs-pg/index.php" target="_blank">Department of Computer Science [PG]</a></p>
                                         </section>
 
 
@@ -160,7 +140,7 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
 
 
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="department-lifescience/Lifescintro.php">Department of Life Science</a></p>
+                                            <p><a class="a-link-arrow" href="department-lifescience/Lifescintro.php">Department of Life Sciences</a></p>
                                         </section>
 
                                     </div>

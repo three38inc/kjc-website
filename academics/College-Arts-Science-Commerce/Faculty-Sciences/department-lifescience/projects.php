@@ -210,7 +210,7 @@
                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -285,8 +285,8 @@
                                         <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
                                     </section>
                                         
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                  <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -294,7 +294,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

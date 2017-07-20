@@ -77,10 +77,7 @@
                     <span>Experience </span><br/>   Industry - 6.5 years
                 </p>
                 <p>
-                    <span>Papers presented or published </span><br/>  International
-                    Presented/Published-03, National Presented/Published-04,
-                    International Guest Lecture-1.
-                </p>
+                    <span>Papers presented or published </span><br/>  03 / 04</p>
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -108,10 +105,7 @@
                 <p>
                     <span>Experience  </span><br/> 15 years
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/>International Journal-03,
-                    International Conference-04 National Conference-04
-                </p>
+                
 				<p>
                     <span>Papers presented or published </span><br/> 4 / 4
                 </p>
@@ -163,16 +157,16 @@
                 <h4>M.Manasa Manjunath
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Tech 
+                    <span>Qualification </span> <br/> B.Tech.,M.Tech.
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> JAVA,C++,C,OPERATING SYSTEM
+                    <span>Areas of interest </span><br/> Programming in JAVA,C++,Web Technologies,Software Testing
                 </p>
                 <p>
-                    <span>Experience  </span><br/>  3 years
+                    <span>Experience  </span><br/>  4+ years
                 </p>
                 <p>
-                    <span>Papers presented or published  </span><br/>  1
+                    <span>Papers presented or published  </span><br/>  03 / 01
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

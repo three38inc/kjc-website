@@ -83,6 +83,12 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; National <strong> Conference</strong></span></h4>
+									 
+									 
+					
+									 
+									 
+									 
 								<p><b>NATIONAL CONFERENCE ON CURRENT TRENDS IN ADVANCED COMPUTING (CTAC). </b></p>
 <p align=justify>Department started organizing the conference from 2010 onwards.<br>
 	The conference was a platform for researchers and students from various branches of computer field to come together to present their new ideas and inventions in the ever growing software and hardware field. The conference had Technical Sessions and Research paper presentation Sessions. Technical session handled by experts from industry delivered talks on some emerging trends. The paper presentation sessions dealt with many research scholars presenting their papers. The conference was mainly focused on the following fields Mobile Computing, Web Mining, Parallel Computing, Data Mining, Cloud Computing, Software Architecture, Neural Networks, Digital Image Processing, Networking, Text Mining, Data Security, Embedded Systems and Object Oriented Software Engineering. The presented papers were published in the conference proceedings.  </p>

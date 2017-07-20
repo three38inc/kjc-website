@@ -35,7 +35,7 @@ $(document).ready(function(e) {
         autoplay: true,
         pauseOnHover:true,
         direction: 'up',
-        newsTickerInterval: 2000,
+        newsTickerInterval: 5000,
         onToDo: function () {
             //console.log(this);
         }
@@ -45,7 +45,7 @@ $(document).ready(function(e) {
         autoplay: true,
         pauseOnHover:true,
         direction: 'up',
-        newsTickerInterval: 2000,
+        newsTickerInterval: 5000,
         onToDo: function () {
             //console.log(this);
         }

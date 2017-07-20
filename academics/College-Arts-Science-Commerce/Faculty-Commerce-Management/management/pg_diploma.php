@@ -149,12 +149,14 @@ d) Fee for Saarc Country students<br>
 (d) The Management / College does not collect any type of Capitation fees / Donation other than the fees mentioned above.
 Prospectus & Application Fee : Rs. 250/- D.D. drawn in favour of " The Principal, Kristu Jayanti College" payable at Bangalore)<br>
 Apply online: (Click)<br>
-                                        Classes will commence during the 1st week of August, 2016</p>
+                                        Classes will commence during the end of July, 2017</p>
                                     <p><b>For further Details Contact:</b><br>
 College Office: 080 - 28465611 / 28465353 / 28465770, <br>
 E-mail: admission@kristujayanti.com<br>
 Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
                                         For details of Subjects (Click here)</p>
+                                    
+                                    <center><p><a href="curriculum/PGD-Syllabus-2017-18.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of One Year Post Graduate Diploma 2017- 18 </a></p></center>
 									
 										<center><p><a href="curriculum/pg_diploma_course_matrix_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Course Matrix of One Year Post Graduate Diploma </a></p></center>
 
@@ -229,7 +231,7 @@ Programme Co-ordinator: Prof. Ajai Abraham Thomas, Mobile No. 9538847636<br>
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

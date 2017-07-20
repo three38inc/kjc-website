@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -116,9 +116,45 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Research Profile</strong></span>
+                                        <span>&nbsp;<strong>Research Publications</strong></span>
                                     </h4>
-                                 
+                                    <p><b style="color: #cd6e08;font-weight: bold;">FACULTY RESEARCH PUBLICATIONS </b></p>
+                                    
+  <table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="156" nowrap="nowrap" valign="top"><p><strong>Academic Year</strong></p></td>
+    <td width="98" nowrap="nowrap" valign="top"><p><strong>Book Published</strong></p></td>
+    <td width="102" valign="top"><p align="center"><strong>Chapter  in a Book</strong></p></td>
+    <td width="101" nowrap="nowrap" valign="top"><p><strong>Article Published</strong></p></td>
+    <td width="91" nowrap="nowrap" valign="top"><p><strong>Paper</strong><br />
+      <strong>Published</strong></p></td>
+    <td width="107" valign="top"><p><strong>Papers Presented</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>2016-17</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>2</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>100</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>7</strong></p></td>
+    <td width="107"><p><strong>48</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>2015-16</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>1</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>4</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>68</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="107"><p><strong>38</strong></p></td>
+  </tr>
+  <tr>
+    <td width="156" nowrap="nowrap"><p><strong>Total Publications</strong></p></td>
+    <td width="98" nowrap="nowrap"><p><strong>7</strong></p></td>
+    <td width="102" nowrap="nowrap"><p><strong>6</strong></p></td>
+    <td width="101" nowrap="nowrap"><p><strong>168</strong></p></td>
+    <td width="91" nowrap="nowrap"><p><strong>13</strong></p></td>
+    <td width="107"><p><strong>86</strong></p></td>
+  </tr>
+</table>
 
                                     <p align="justify">
 													<strong>Papers Presented in Regional, National and International Conferences</strong>
@@ -236,16 +272,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>

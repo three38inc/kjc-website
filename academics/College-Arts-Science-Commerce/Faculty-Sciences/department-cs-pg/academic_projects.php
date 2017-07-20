@@ -84,8 +84,9 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic <strong> Projects</strong></span></h4>
 								
-								<p align=justify>Students are asked to complete at least two non-academic projects during vacation along with their regular projects. The students are required to undergo Internship/Project for a period of six months as a part of their final year /VI Semester MCA programme. The final semester project work can be carried out either in the institution or at an Industry/Research Organization approved by the Head of the Department and will be supervised by the faculty members of the department. </p>
-								<p>Few important student internship projects which were implemented in the organizations </p>
+									 <p align=justify>Academic training has regular projects from third semester of the course and at least two non-academic projects during vacation. The students are required to undergo Internship/Project for a period of six months as a part of their final year /VI Semester MCA programme. The final semester project work can be carried out either in the institution or at an Industry/Research Organization approved by the Head of the Department and will be supervised by the faculty members of the department. </p>
+									 <p><b>Few important student internship projects which were implemented in the organizations </b></p>
+
 								
 								<table class="table table-bordered">
   <thead>
@@ -97,6 +98,24 @@
     </tr>
   </thead>
   <tbody>
+	  <tr>
+      <th scope="row">2016-17</th>
+      <td>ASISH  TOM</td>
+      <td>Cloud based employee time tracking system.</td>
+      <td>Reckonsys Tech Labs Pvt. Ltd.</td>
+    </tr>
+	  <tr>
+      <th scope="row">2016-17</th>
+      <td>MUTUM AMARJIT SINGH</td>
+      <td>ORION</td>
+      <td>UTEGRATION</td>
+    </tr>
+	  <tr>
+      <th scope="row">2016-17</th>
+      <td>VIJAYAPRAKASH  S</td>
+      <td>Web Applications Uisng Framework Elgg & Laravel</td>
+      <td>Silfra Technologies</td>
+    </tr>
     <tr>
       <th scope="row">2015-16</th>
       <td>ARUN  KUMAR</td>

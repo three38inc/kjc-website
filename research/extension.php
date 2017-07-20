@@ -36,7 +36,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -47,7 +47,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -93,13 +93,13 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Research Profile</strong></span>
+                                        <span>&nbsp;<strong>Jayantian Service Learning</strong></span>
                                     </h4>
                              
 
                                     <p align="justify">
 
-                                        The mission statement reiterates civic responsibility among the students and faculty members. Jayantian Extension Services (JES) was instituted by the college to coordinate extension activities and carry out Institutional Social Responsibility Initiatives (ISRI). The need-based extension programmes organized by the institution are depicted in the following table.<br /><br />
+                                        The mission statement reiterates civic responsibility among the students and faculty members. Jayantian Extension Services (JES) was instituted by the college to provide service learning activities and carry out Institutional Social Responsibility Initiatives (ISRI). The need-based service learning programmes organised by the institution are depicted in the following table.<br /><br />
 
                                         <strong>Institutional Social Responsibility Initiatives (ISRI)</strong><br />
                                     </p>
@@ -127,13 +127,13 @@
                                                 <tr>
                                                     <td>Rural Exposure Programme (REP)
                                                     </td>
-                                                    <td>Sensitization of students about socio-economic issues of the rural areas
+                                                    <td>Sensitization of students about socio-economic issues of rural India
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td>NSS
                                                     </td>
-                                                    <td>Fostering neighborhood network, develop social consciousness
+                                                    <td>Fostering neighborhood network and develop social consciousness
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -173,16 +173,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php" style="color: #2980b9;font-weight: bold;">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php" style="color: #2980b9;font-weight: bold;">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>

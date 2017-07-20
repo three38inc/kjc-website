@@ -77,10 +77,10 @@
                                  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-										 <span>&nbsp;Our <strong>Founder</strong></span>
+										 <span>&nbsp;Faculty <strong> Profile </strong></span>
                                     </h4>
 
-                              <div class="profile-page">
+                            <div class="profile-page">
                                     <div id="page">
 
                                     </div>
@@ -88,7 +88,8 @@
                                     <div class="row profile-pagination">
                                         <ul class="pagination pagination-sm">
                                             <li class="active"><a href="#" data-value="page1">1</a></li>
-                                           
+                                             <li><a href="#" data-value="page2">2</a></li>
+                                              <li><a href="#" data-value="page3">3</a></li>
                                           
                                         </ul>
                                     </div>

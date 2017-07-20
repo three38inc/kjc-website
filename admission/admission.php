@@ -142,16 +142,36 @@
                             <div class="marginTopDiv">&nbsp;</div>
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/banner01.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Admission <strong> 2017</strong></span>
                                     </h4>
 
 
-									<p align=justify>Kristu Jayanti College, founded in 1999, is run by "BODHI NIKETAN TRUST", formed by the members of St. Joseph Prov ince of the Carmelites of Mary Immaculate (CMI). The college is affiliated to Bangalore University and is reaccredited with highest grade 'A' by NAAC in Second Cycle of Accreditation. The college is recognized by UGC under the category 2(f) & 12(B). The college was accorded autonomous status from 2013 by the University Grants Commission, Government of Karnataka & the Bangalore University. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd,3rd,4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore.</p>
-									<p>Kristu Jayanti College is secular in nature and welcomes students from all castes, religions, creed and languages to be a part of the Kristu Jayanti family.</p>
+									<p align=justify>The college looks forward to achieve and promote inclusivity, integration and heterogeneity in their student community. We believe in the right of every individual to receive good quality higher education. Ours is an equal opportunity institution where there is no discrimination on the basis of race, religion, national origin, gender, marital status, age or physical disability.</p>
 
+									<p align=justify>The primary criteria in assessing applicants will be based on their academic performance. This is mainly done by considering their performance in their qualifying examinations and applicants’ performance during the in house screening rounds which is designed accordingly for the programmes.</p>
+
+ 
+
+									<p><b>All aspiring applicants are expected to follow the below procedures to proceed with admissions for desired programmes</b><br>
+
+1.       Submit the online applications<br>
+
+2.       Attend the Interview / Counseling as per the schedules intimated through call letters send via email<br>
+
+3.       Shortlisted applicants after interview can proceed with the remaining admission formalities<br>
+
+										The eligibility criteria and fee structure for the programmes offered are made available in the website.</p>
+                                    
+                                  
+
+                                    
+                                    
+                                   
+
+								
                                     <!--<div class="panel panel-info">
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Admission Drive in Jaipur</h3>
@@ -171,7 +191,7 @@
 
                                     <div class="panel panel-info">
                                         <div class="panel-heading">
-                                            <h3 class="panel-title">Admission Drive in Bengaluru</h3>
+                                            <h2 class="panel-title">Counselling / Interview Schedules</h2>
                                         </div>
                                         <div class="panel-body">
 											 
@@ -180,39 +200,13 @@
 												* Applicants can either apply online on their own or apply from college campus</p>-->
 											
 											
-											 <div class="well well-sm">
-                                                        <center>UG COUNSELLING</center>
-                                                    </div>
-											
-											
-	<!--<div class="panel panel-default">
-  <div class="panel-body">
-   <p><font color="#FF0000" size="2"><u>BCom / BCom Professional / BCom Tourism / BCom with ACCA Programmes: </u> </font><br />
-   <font size="2"> Applicants can apply online. <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br>
-	   <b>Selected applicants will be intimated through email and sms. </b></font>
-</div>
-</div>-->
-											
-											<div class="panel panel-default">
-  <div class="panel-body">
-    <p><font color="#FF0000" size="2"><u>BA Programmes: </u> </font><br />
-                                                            <font size="2"><b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b> </font>
-                                                           
-                                                               <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
-                                                           <br />
-                                                            <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru</font><br />
-                                                            <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
-                                                            <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
-                                                                <font size=2>Click here for Admission process</font> </a><br>
-																<!--Qualifying Mathematics test syllabus for BCA <a href="#">View syllabus</a><br>
-																Qualifying Accountancy test syllabus for BBA <a href="#">View syllabus</a>--></p></div></div>
-											
+											 											
 											<div class="well well-sm">
                                                 <center>LAW PROGRAMMES COUNSELLING</center>
                                             </div>
 											
 								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b> </font>
+                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 20<sup>th</sup> July, 2017</b> </font>
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />
@@ -220,6 +214,8 @@
                                                             <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                             <a href="pop_up_admission/bsc_bt_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                                 <font size=2>Click here for Admission process</font> </a>
+                                     
+                                            <p><b><font color="red">Admissions to all other UG Programmes for the academic year 2017 has been closed</font></b></p>
                                                   
 
                                                         
@@ -237,15 +233,18 @@
                                                 </a>
 
 
-                                                <p><font color="#FF0000" size="2"><u>PG Programmes: </u> </font><br />
-                                                    <font size="2" color="#990000"><b>Next Counselling will be held on 10<sup>th</sup> July, 2017</b></font>
+                                                <p><font color="#FF0000" size="2"><u>PG Programmes : </u> </font><br />
+                                                    <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b>
+                                                 
                                                     <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a><br />
                                                     <font color="#" size="2"><b><u>Venue:</u></b> Kristu Jayanti College, Bengaluru
                                                     </font><br />
                                                     <font color="#" size="2"><b><u>Time:</u></b> 09.00 AM </font><br />
                                                     <a href="pop_up_admission/mcom_admission_status.htm" onclick="NewWindow(this.href,'fee structure','700','400','yes','random');return false" onfocus="this.blur()" target="_blank">
                                                         <font size=2>Click here for Admission process</font>
-													</a></div></div>
+													</a>
+                                            <p><b><font color="red">Note: Admissions to M.Sc Psychology, MSW, English Literature Programmes for the academic year 2017 has been closed</font></b></p>
+                                        </div></div>
 									
 									<div class="alert alert-info">
   
@@ -278,128 +277,10 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
                             </div>
                             <div class="col-lg-3">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>Admission</strong></span>
-                                    </h4>
-									<div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="pg_counselling_result_july_01_2017.php" class="list-group-item">
-										   <font size=2>PG Counselling result held on 01<sup>st</sup> July 2017</font>
-                                        </a>
-                                       </div>
-									
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission.php" style="color: #2980b9;font-weight: bold;">Admission 2017</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mba_admission.php">MBA/PGDM Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="mca_admission.php">MCA Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="pg_diploma.php">Post Graduate Diploma <font size=1> (For Working Executives)</font></a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="pg_admission.php">PG Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="ug_admission.php">UG Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="llb_admission.php">LL.B. Admission</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="documets_required_ug.php">Documents required for Admission (UG)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="scholarship_scheme.php">Scholarship Scheme (KJSS)</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-
-
-                                    <div class="well">
-                                        <p>
-                                            <font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font>
-                                        </p>
-                                        <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-                                    </div>
-
-                                    <div class="well">
-                                        <p>
-                                            <font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font>
-                                        </p>
-                                        <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center>
-                                    </div>
-
-
-                                    <div class="panel panel-primary">
-                                        <div class="panel-heading">
-                                            <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-                                        </div>
-                                        <div class="panel-body">
-                                            <font size=2>1. Fee payment in College office<br> 2. online payment<br> 3. Payment through demand draft<br></font>
-                                        </div>
-                                        <div class="panel panel-default">
-                                            <div class="panel-body">
-                                               <font size=2>UG course: Rs 250/- <br>
-PG course: Rs 500/- <br>
-MCA Programme: Rs 500/- <br>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-Law Programmes: Rs 300/-  <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                                               
-
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                  
-
-
-                                </div>
-                                <div class="row" style="margin-left:2px; margin-right: 2px;">
-                                    <div class="content-right wow fadeIn">
-                                        <h4 style="margin-left:10px;" class="mainheading">
-                                            <i class="fa fa-bookmark"></i>
-                                            <span>&nbsp;Quick Links</span>
-                                        </h4>
-
-                                        <?php include ('../php/sideMenu.php'); ?>
-                                    </div>
-
-
-
-                                    <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                        <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="425" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                            <div class="fb-xfbml-parse-ignore">
-                                                <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                            </div>
-                                        </div>
+                                    
+                                     <?php include('right-admission.php');?>
+                                   
+                                           
                                     </div>
 
                                 </div>
@@ -421,7 +302,7 @@ Law Programmes: Rs 300/-  <br>
             <!--/st-content-inner-->
         </div>
         <!-- this is the wrapper for the content-->
-    </div>
+
     <!--st-pusher-->
 
     <!--st-container-->

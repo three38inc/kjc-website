@@ -83,7 +83,121 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Research <strong> Colloquium  </strong></span></h4>
 								
-								<p align=justify>It is a unique activity conducted by the department to promote research culture among the faculty members. It also provides a platform for teachers to share the developments happening in the researches undertaken and gives insight to the recent developments in their respective domain. This year two sessions were conducted and both the sessions’ two faculty members presented their article and papers. The first session was conducted on 3rd March 2012 and the second session on 25th August 2012.</p>
+									 <p align=justify>Research Colloquium is a prestigious programme held in the Dept. of Computer Science (UG and PG). At this seminar series faculty members present their current work on their domain/ their area of research. The presenters represent a range of disciplines and methodological approaches in the field of IT. This platform provides an opportunity to receive constructive feedback to refine one’s work.</p>
+									 <p align=justify>The sessions are conducted twice a year. It was initiated in the year 2010 – 11. Thereafter 7 sessions were held in the following years. This programme is held with the Objectives:</p>
+<p>1.	To promote research culture among the faculty members.  <br>
+2.	To provide a platform for teachers to share the developments happening in the researches undertaken.<br>
+										 3.	To give insight to the recent developments in their respective domain.</p>
+									 <p><b>The details of the sessions held:</b></p>
+									 
+									 <table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td valign="top"><p align="center"><strong>Academic Year</strong></p></td>
+    <td valign="top"><p align="center"><strong>Session</strong></p></td>
+    <td valign="top"><p align="center"><strong>Date</strong></p></td>
+    <td valign="bottom"><p align="center"><strong>Session</strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2010 - 11</p></td>
+    <td valign="top"><p align="center">1</p></td>
+    <td valign="top"><p>26. 03. 11</p></td>
+    <td valign="bottom"><ol>
+      <li>Ms. Suja Stanley –Comparative study of data compression algorithms.</li>
+      <li>Ms. Neethu Sen – UBANDU</li>
+      <li>Mr. Rajesh H – Data mining: Facts and applications.</li>
+    </ol>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2011 - 12</p></td>
+    <td valign="top"><p align="center">2</p></td>
+    <td valign="top"><p>23. 07. 11</p></td>
+    <td valign="bottom"><ol>
+      <li>&lsquo;Watermarking, A passion security&rsquo; – by Mr. Rajesh .H . He presented about the recent trends in water marking and brought to light the scope of research in this field.</li>
+      <li>&lsquo;Research – an eye opener&rsquo; – jointly by Mr. Velmurugan. R and Mrs. Ambika. P. the presentation was on how to embark on a Ph.D programme  and how to tackle the various hurdles the we may come across.</li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2011 – 12</p></td>
+    <td valign="top"><p align="center">3</p></td>
+    <td valign="top"><p>03. 03. 12</p></td>
+    <td valign="bottom"><ol>
+      <li>Prof. S  Nagendra- &ldquo;Analysis of Brain waves&rdquo;</li>
+      <li>Prof. Prathap.G, Prof. Ramanathan .G and Prof. Akilan.S on the topic &ldquo;A Research on Security Algorithm against Cyber Attacks&rdquo;</li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2012 – 13</p></td>
+    <td valign="top"><p align="center">4</p></td>
+    <td valign="top"><p>25.08. 12</p></td>
+    <td valign="bottom"><ol>
+      <li>Mr. Aswin Herbert presented a paper entitled &ldquo;Brain Finger printing&rdquo;.</li>
+      <li>Mrs. Mary Jacob presented the paper – &ldquo;DNA computing</li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2012 – 13</p></td>
+    <td valign="top"><p align="center">5</p></td>
+    <td valign="top"><p>12. 01 . 13</p></td>
+    <td valign="bottom"><p><u>Prof.Bino Joseph</u> (Dept. of Electronics) on the topic <u>&lsquo;Understanding High Definition&rsquo;</u>.</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2013 - 14</p></td>
+    <td valign="top"><p align="center">6</p></td>
+    <td valign="top"><p>13.12.13</p></td>
+    <td valign="bottom"><p>&ldquo;An overview of Tools useful for Research in Computer research &ldquo;<br />
+      jointly    by <br />
+      Prof. R Kumar<br />
+      Prof. Jyothi Manoj<br />
+      Prof. Aruna Devi K<br />
+      Prof. Ambika</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2014 - 15</p></td>
+    <td valign="top"><p align="center">7</p></td>
+    <td valign="top"><p>25 .07 . 14</p></td>
+    <td valign="bottom"><p>Dr. Shantanu Godbole, Senior Researcher and Manager - Cognitive Text  Analytics, IBM Research – India- &ldquo;Genres of    Research in Computer Science&rdquo;</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2014 - 15</p></td>
+    <td valign="top"><p align="center">8</p></td>
+    <td valign="top"><p>13.04. 2015.</p></td>
+    <td valign="top"><p>1. Convergence and Consociation of Big Data and Cloud - <br />
+      Prof.    Sandhya Soman.<br />
+      2.    Managing and Expanding HCI (Human Computer Interaction) in a Computational Eco Systems: A Living style in a Monitored – Reliant World in Digital Crowd.<br />
+      Prof. H. Rajesh &amp; Prof. Anthony Vincent<br />
+      3. Ontology based Information Retrieval in Semantic Web.<br />
+      Prof. Anitha DSouza</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2015-2016</p></td>
+    <td valign="top"><p align="center">9</p></td>
+    <td valign="top"><p>17.11.2015</p></td>
+    <td valign="top"><p>Research Ideas in Data Mining using Rapid Miner Tool – Dr.Ambika and Prof.Arunadevi</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2015-2016</p></td>
+    <td valign="top"><p align="center">10</p></td>
+    <td valign="top"><p>15.04.2016</p></td>
+    <td valign="top"><p>Introduction to <strong>R</strong> Software – Prof.Suni Ajaykumar and Prof.Liji George</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2016-2017</p></td>
+    <td valign="top"><p align="center">11</p></td>
+    <td valign="top"><p>26.11.2016</p></td>
+    <td valign="top"><p>Dr. Subashini. P, Professor, Department of Computer Science, Avinashilingam Institute for Home Science and Higher Education for Women, Coimbatore.</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>2016-2017</p></td>
+    <td valign="top"><p align="center">12</p></td>
+    <td valign="top"><p>05.05.2017</p></td>
+    <td valign="top"><p>Session I: &quot;Scientific Chart Recognition &quot; by Dr.Nagarajan.S </p>
+      <p>Session II: &quot;CloudSim in &nbsp;Research &quot; by Prof. Vinothina.V </p>
+      <p>Session III: &quot;Augmented Reality- &nbsp;Research &nbsp;Perspectives &quot; by Prof. Ranjitha M </p>
+      <p>&nbsp;</p></td>
+  </tr>
+</table>
+
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

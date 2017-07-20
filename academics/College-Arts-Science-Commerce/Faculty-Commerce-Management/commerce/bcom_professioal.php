@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -121,45 +121,25 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                            
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>B.Com Professional (Special impetus for CA and CS) </strong></span>
+                                        <span>&nbsp;B.Com Professional <strong> (Special impetus for CA and CS) </strong></span>
                                     </h4>
 
-                                    <br/>
+									<p><b style="color: #cd6e08;font-weight: bold;">A Course to meet Industry Demand B.Com Professional </b></p>
                                     <p align="justify">
-										<b style="color: #cd6e08;font-weight: bold;">A Course to meet Industry Demand B.Com Professional </b> <br/><br/>
-                                        The onset of first autonomous cycle in Kristu Jayanti College has given autonomy for the college in starting a new course, changing the nomenclature of course, launching diploma and certificate programmes based on current needs and employability of students. Reaping these benefits, our College introduced this course to create a cadre of professionals. 
-                                      
-                                    </p>
-                                    
-                                    <p align="justify">
-                                        B.Com (Professional) is a high profile undergraduate program aimed to create enhanced competence of career positioning tied up with opportunity to become an accounting and management professional. The program expects a serious commitment of the student to take up challenging study schedules and assignments. The course involves a blend of theoretical education and practical training which run concurrently for a period of three years and equips a student with knowledge, ability, skills and other qualities required of a professional accountant. 
-
-                                    </p>
-                                    <p align="justify">
-                                        The uniqueness of the program is its content and topic coverage, the teaching methodology and the faculty. The syllabus has been designed at a level equal to that of professional courses. The teaching methodologies include classroom lectures and orientation. The focus is also kept on developing soft skills of the students. Faculty members for core subjects are from the industry and the profession to enable wider exposure. Student joining for this program enroll for any one of the professional courses offered like CA (Chartered Accountancy) or CS (Company Secretary). 
-                                    
-                                    </p>
-                                    <p align="justify">
-                                        Today, many MNC's are setting up their base in India due to Liberalization and Globalization of Indian Economy. Hence there are many employment opportunities for the Professional students. On completion of this course one can start one's career as Business Consultant/ Auditors / Tax Consultant / Chief Financial Analyst / Investment Bankers / In Capital Market / As Personal Financial Advisors / In Forensic Accounting / MNC's / Retail Stores / IT / Advertising and Media. 
-                                    
-                                    </p>
-                                    <p align="justify">
-                                        The Curriculum of B.Com (Professional) has been designed to facilitate students in preparing for CA & CS examination. This course aims at providing comprehensive insight into Accounting, Finance, Taxation, Law, Management and so on. All these play a significant role in today's dynamic business environment.
-                                    </p>
-                                    <p align="justify">
-                                    
-                                    
-                                    </p>
-                                    <br/>
+										
+									<p align=justify>B.Com (Professional) is a high profile undergraduate program aimed to create enhanced competency of career positioning coupled with the opportunity to become an accounting and management professional. The program expects a serious commitment of the student to take up challenging study schedules and assignments. The course involves a blend of theoretical education and practical training which runs concurrently for a period of three years to equip a student with knowledge, ability, skills and other qualities required to become a professional accountant. </p>
+									<p align=justify>The uniqueness of the program is its content and topic coverage, the teaching methodology and the faculty members. The syllabus has been designed at a level equal to that of professional courses. The teaching methodologies include classroom lectures and orientation. The focus is also kept on developing soft skills of the students. Faculty members for core subjects are from the industry and the profession to enable wider exposure. A student who joins the programme has to enroll in any of the professional courses offered by the department like CA (Chartered Accountancy) or CS (Company Secretary). </p>
+									<p align=justify>The Curriculum of B.Com (Professional) has been designed to facilitate students in preparing for CA & CS examination. This course aims at providing comprehensive insight into Accounting, Finance, Taxation, Law, Management and so on. All these play a significant role in today's dynamic business environment. </p>
+									<p align=justify>Today, many MNC's are setting up their base in India due to Liberalization and Globalization of Indian Economy. Hence there are many employment opportunities for the Professional students. On completion of this course one can start one's career as Business Consultant/ Auditors / Tax Consultant / Chief Financial Analyst / Investment Bankers / In Capital Market / As Personal Financial Advisors / In Forensic Accounting / MNC's / Retail Stores / IT / Advertising and Media.</p>
+									
                                     <p ><strong>Programme Features </strong>
                                     (Additional Course Inputs)</p>
-                                    <ul style="list-style-type:none;">
-                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i> Workshop on Financial Statement Analysis through Accounting Software - Tally</li>
-                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i>Workshop on International Financial Reporting Standards (IFRS)</li>
-                                        <li><i class="fa fa-check" aria-hidden="true" style="color:green;margin-right:10px;"></i> Professional Interface Forum (PIF)</li>
-                                    </ul>
+									<ul><li>Workshop on Financial Statement Analysis through Accounting Software - Tally</li>
+										<li>Workshop on International Financial Reporting Standards (IFRS)</li>
+										<li>Professional Interface Forum (PIF)</li></ul>
+
 
 
                                 </div>
@@ -190,26 +170,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
+                                   
 
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

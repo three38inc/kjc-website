@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Ms. Ramya . B
                 </h4>
+                Head Dept. of History
                 <p>
                     <span>Qualification </span> <br/>  MA (History) M.A( Tourism), M. Phil (History) SLET for Lectureship 
                 </p>
@@ -33,22 +34,22 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Shrestha-Banerjee.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Shrestha Banerjee
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  M.A(HISTORY), M.Phil(HISTORY), 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> M-
+                    <span>Areas of Interest </span><br/> Modern History, Women History, Legal History
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 5 years and 9 months
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 02 / 02
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

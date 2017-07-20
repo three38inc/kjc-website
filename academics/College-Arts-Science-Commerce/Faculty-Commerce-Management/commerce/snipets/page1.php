@@ -142,25 +142,26 @@
             </div>
         </div>
     </div>
-    <div class="member-item col-md-4">
+	
+	 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/Madumalathi.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Ragavendra Babu.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Ms. Madhumalathi.R
+                <h4> Raghavendra Babu . J
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> M.Com, MPhil
-                </p> 
-                <p>
-                    <span>Areas of interest </span><br/> Accounting and Finance
+                    <span>Qualification </span> <br/>  MBA, Net, Mcom
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>  17 Years
+                    <span>Areas of Interest </span><br/> Finance and Banking      
+                </p>
+                <p>
+                    <span>Teaching Experience </span><br/>12 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 3 / 10
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -172,6 +173,7 @@
             </div>
         </div>
     </div>
+    
 </div>
 
 

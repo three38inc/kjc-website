@@ -7,6 +7,145 @@
 
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
+        
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-clean-campus.jpg" class="img-responsive"/>
+            <span class="date">15<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=swatch-kjc-clean-campus.php">
+              <h4>Centre for Social Activities Swatch K.J.C campus "CLEAN CAMPUS" <br/><small>
+        Centre for Social Activities of Kristu Jayanti College had organised “swatch K.J.C campus “ CLEAN CAMPUS on 15th July 2017 at college campus..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-tech-giants.jpg" class="img-responsive"/>
+            <span class="date">15<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php">
+              <h4>Department of Computer Science (UG) Machine learning under Tech Giants<br/><small>
+           The session started with the speaker prompting for a difference between rule based learning and adaptable learning..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-significance-numismatics.jpg" class="img-responsive"/>
+            <span class="date">13<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=significance-numismatics-history.php">
+              <h4>Guest Lecture on  "Significance of  Numismatics in History" <br/><small>
+           Numismatics is the study or collection of currency, including coins, tokens, paper money, and related objects..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-vanamohotsav.jpg" class="img-responsive"/>
+            <span class="date">08<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=van-mahotsav-2017.php">
+              <h4>Centre for Social Activities<br> VANMAHOTSAV 2017 <br/><small>
+             Centre for Social Activities of Kristu Jayanti College had organised “Van-Mohotsava” on 8th July 2017 at Nagenahalli Lake Belt..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-virtuosa.jpg" class="img-responsive"/>
+            <span class="date">10<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=Virtuoso-2017.php">
+              <h4>Department of Management (BBA) organized a management workshop “Virtuoso 2017”  <br/><small>
+       Department of Management (BBA) organized a management workshop “Virtuoso 2017” for the freshers (I semester students) on 14th July 2017. Mr. John Santhosh,..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+        
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-isro-visit.jpg" class="img-responsive"/>
+            <span class="date">10<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=industrial-visit-ISRO.php">
+              <h4>Industrial Visit to ISRO, Bangalore <br/><small>
+       The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017..   </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-orientation-visit-indian-social-institute.jpg" class="img-responsive"/>
+            <span class="date">04<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-indian-social-institute.php">
+              <h4>Orientation Visit to Indian Social Institute (ISI), Bangalore  <br/><small>
+           The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students to Indian Social Institute..   </small></h4></a>
+            </div>
+        </li>
+        
+        
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-visit-schneider-electric.jpg" class="img-responsive"/>
+            <span class="date">01<sup>st</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-schneider-electric.php">
+              <h4>Department of Social Work | Orientation Visit to Schneider Electric  <br/><small>
+            The Department of Social Work has organized an Orientation Visit for the 3rd Semester of MSW students to Schneider Electric on the 1st of July 1, 2017..   </small></h4></a>
+            </div>
+        </li>
+        
+         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-Scope-Significance.jpg" class="img-responsive"/>
+            <span class="date">30<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=scope-and-significance.php">
+              <h4>Department of Psychology Seminar on Psychology Today – Scope and Significance <br/><small>
+            With the objective to explore and appraise careers and prospects in Psychology for UG & PG Students. Dr. Sudha Bhogle,..  </small></h4></a>
+            </div>
+        </li>
+        
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-Webinar.jpg" class="img-responsive"/>
+            <span class="date">29<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=webinar-ms-project.php">
+              <h4>Department of Computer Science Webinar on "MS Project – SPM Tool" <br/><small>
+          This Webinar provided an exposure to the most useful feature of Microsoft Project 2010, which is one the most used software for project management..  </small></h4></a>
+            </div>
+        </li>
+        
+        
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-capacity-building-training.jpg" class="img-responsive"/>
+            <span class="date">13<sup>th</sup> - 17<sup>th</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=capacity-building-training.php">
+              <h4>Centre for Life Skills Education | Capacity Building Training on Life Skills  <br/><small>
+             The Centre for Life Skills Education (CLSE), Kristu Jayanti College, in collaboration with the Rajiv Gandhi National Institute of Youth Development..  </small></h4></a>
+            </div>
+        </li>
+		
+		
+		
+		<li>
+            <img src="../highlights/2017/kristu-jayanti-college-space-technology-isro.jpg" class="img-responsive"/>
+            <span class="date">01<sup>st</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=space_technology.php">
+              <h4>Department of Computer Science Guest lecture on Space Technology <br/><small>
+              The guest lecture on SPACE TECHNOLOGY organized for I and III sem BCA, B.Sc. students on 01.07.17 in Main Auditorium at 11.00 Am.. </small></h4></a>
+            </div>
+        </li>
+		
+		<li>
+            <img src="../highlights/2017/kristu-jayanti-college-ict-academy.jpg" class="img-responsive"/>
+            <span class="date">23<sup>rd</sup> June 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=june&url=ict-academy.php">
+              <h4>Kristu Jayanti College, Bengaluru signs membership with ICT Academy  <br/><small>
+              The guest lecture on SPACE TECHNOLOGY organized for I and III sem BCA, B.Sc. students on 01.07.17 in Main Auditorium at 11.00 Am.. </small></h4></a>
+            </div>
+        </li>
 		
 		<li>
             <img src="../highlights/2017/kristu-jayanti-college-workshop-personal-branding.jpg" class="img-responsive"/>

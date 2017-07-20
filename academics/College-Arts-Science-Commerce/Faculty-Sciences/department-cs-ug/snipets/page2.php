@@ -8,17 +8,15 @@
                 <h4> Mini Gopalakrishnan
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MSc ,BE d.
+                    <span>Qualification </span> <br/> M.Sc.,B.Ed
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Mathematics
+                    <span>Area of interest </span><br/> Advance Algebra
                 </p>
                 <p>
                     <span>Experience </span><br/>18 years
                 </p>
-				<p>
-                    <span>Papers presented or published </span><br/> Nil
-                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
@@ -41,7 +39,7 @@
                     <span>Qualification </span> <br/> M.Sc.(Statistics) , M.Phil (Statistics) 
                 </p>
                 <p>
-                    <span>Areas of interest</span><br/>  Bio-Stats 
+                    <span>Area of interest</span><br/>  Bio Statistics
                 </p>
                  <p>
                     <span>Experience </span><br/> 15 years 
@@ -62,7 +60,7 @@
                 <div class="class-img"><img src="images/faculty/Aswin.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>  R. Aswin Herbert Sathish
+                <h4>R. Aswin Herbert Sathish
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>MCA.,MPhil 
@@ -158,14 +156,12 @@
                     <span>Qualification </span> <br/> MSc, B.Ed, M.Phil (Mathematics)
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Differential Calculus
+                    <span>Area of interest </span><br/> Differential Calculus
                 </p>
                 <p>
                     <span>Experience  </span><br/>  15 years
                 </p>
-				<p>
-                    <span>Papers presented or published </span><br/> Nil
-                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

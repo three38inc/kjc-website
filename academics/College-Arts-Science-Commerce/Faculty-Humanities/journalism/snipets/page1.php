@@ -7,6 +7,7 @@
             <div class="item-content">
                 <h4>Dr. Gopakumar A.V
                 </h4>
+                Head Dept. of Journalism / Dean Faculty of Humanities
 				<p>
                  <span>Qualification </span> <br/> MCJ, MSc, UGC NET, PhD.
                 </p>
@@ -100,14 +101,16 @@
                 <h4> Praveen Abraham
                 </h4>
                 <p>
-                 <span>Qualification </span> <br/> MA English Literature, M.Phil in English &amp; 
-                    Comparitive Lierature
+                 <span>Qualification </span> <br/> MCJ (Master of Communication and Journalism)
                 </p>
 				 <p>
-                    <span>Areas of Interest </span><br/>  English Literature and Language
+                    <span>Areas of Interest </span><br/>  Communication Theories, News Reporting and Editing, Photo Journalism and Television Production 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/>14 years
+                    <span>Teaching Experience </span><br/>7 years
+                </p>
+				<p>
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -153,7 +156,7 @@
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/selvi.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Pynthamil Selvi S
@@ -165,8 +168,8 @@
                     <span>Areas of Interest </span><br/>  Media Laws, Television Production and Film Studies
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 8 years
-                </p>
+                    <span>Teaching Experience </span><br/>  5 years 
+					</p>
 				<p>
                     <span>Papers presented or published </span><br/> 1
                 </p>

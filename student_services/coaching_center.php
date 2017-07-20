@@ -77,16 +77,19 @@
 								
 										<div class="inner-content">
 											<p> 
-											<b style="color: #cd6e08;font-weight: bold;">Professional Coaching Centre
-												</b><br/><br/>
-											The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes for CAT/MAT and other MBA entrance exams in association with 'TIME,' and introductory coaching classes for Civil Services Examination.<br /><br />
-												To utilize the opportunities available in the corporate sector, the college provides coaching for students in 'Company Secretaryship Foundation Course'. The college is accredited to the Institute of Company Secretaryship of India, New Delhi.<br /><br />
-												The material and books for competitive exams have been allocated a separate section in the library for easy access. The placement cell of the institution notifies the students and provides information about competitive exams.<br /><br />
-												<strong>Faculty in-charge</strong><br />
-												Mr. C. Surendranath Reddy - Time Coaching ( 9448324966)<br />
-												Mr. Lourdnathan F.- Company Secretaryship ( 9845322127)<br />
-												<br /><br /><br /><br /><br /><br /><br /><br /><br />
-											</p>
+                                                <b style="color: #cd6e08;font-weight: bold;">Professional Coaching Centre</b><br>
+												
+                                                    <p>The competitive examinations require scrupulous coaching and preparation. The college offers coaching classes for CAT/MAT and other MBA entrance exams in association with 'TIME' and introductory coaching classes for Civil Services Examination.</p>
+                                                    
+<p>To utilize the opportunities available in the corporate sector, the college provides coaching for students in 'Company Secretaryship Foundation Course'. The college is accredited to the Institute of Company Secretaryship of India, New Delhi.</p>
+                                            
+												<p>The material and books for competitive exams have been allocated a separate section in the library for easy access. The placement cell of the institution notifies the students and provides information about competitive exams.</p>
+                                            
+                                            <p><b>Faculty in-charge</b></p>
+                                            <ul><li>Mr. C. Surendranath Reddy - Time Coaching ( 9448324966)</li>
+                                                <li>Mr. Lourdnathan F.- Company Secretaryship ( 9845322127)</li></ul>
+												
+									
 										</div>
 									</div>
 								</div>

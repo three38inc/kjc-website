@@ -115,9 +115,9 @@
                                         <span>&nbsp;Bio-Science <strong>Laboratory</strong></span>
                                     </h4>
 
-                                      <p>The Department of Life Sciences is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerated centrifuge Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are a special feature of the lab. These instruments and facilities such as plant tissue culture lab, microbial culture, etc., help the students in performing experiments and minor projects in the field of Plant Tissue Culture, Microbiology, rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.</p>
+                                      <p>The Department of Life Sciences is equipped with four state-of-the-art laboratories for Genetics, Biochemistry, Biotechnology and Microbiology. The students perform various scientific experiments in the respective fields in the labs. Latest instrumentation including the thermal cycler (PCR), UV Trans-illuminator, UV Spectrophotometer, deep freezer, Refrigerated centrifuge, Gerber's centrifuges, Soxhlet apparatus, image capture device, etc., are special feature of the lab. These instruments and facilities such as microbial culture, etc., help the students in performing experiments and minor projects in the field of Plant biotechnology, Microbiology, rDNA technology, Molecular Biology, Plant Tissue Culture, Microbiology, Enzymology, Cytogenetics and other fields.</p>
 									
-									<center><img src="images/bio_lab.jpg"></center>
+									<center><img src="../images/bio_lab.jpg"></center>
             
 
                                 </div>
@@ -129,7 +129,7 @@
                                       <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -204,8 +204,8 @@
                                         <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
                                     </section>
                                         
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -213,7 +213,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

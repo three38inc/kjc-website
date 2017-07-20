@@ -309,7 +309,7 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
                                      <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -384,8 +384,8 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
                                         <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
                                     </section>
                                         
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -393,7 +393,7 @@ Prof. M. G. Venkatesha, Bangalore University  </td>
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

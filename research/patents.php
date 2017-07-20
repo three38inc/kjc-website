@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -117,19 +117,17 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                             
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Our <strong>Patent Profile </strong></span>
+                                        <span>&nbsp;<strong>Patents</strong></span>
                                     </h4>
                                 
 
                                     <p align="justify">
 												
-												<b> Dr. Samir Kelekar - </b> Computer Science (PG) has patented his research <br/><br/>
+												<b> Dr. Samir Kelekar - </b> Computer Science (PG) <br/><br/>
 												a.	Patent  US 8127359 issued on Feb 28, 2012 for "Systems and Methods for Real-time Network-based Vulnerability Assessment"<br>
 												b.	Patent US 8789193 issued on July 22, 2014 for  “Method and Apparatus for Detecting Events Pertaining to Potential Change in Vulnerability Status”	
-												<br/><br/><br/><b>Dr. Deepa M.A. - </b> Dept. of Life Sciences patented her research<br/><br/>
-												a.	Patent US 13/903, 432 for "Garlic Formulation and Process for Anti-Diabetic Treatment"
-												<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-											</p>
+                                    </p>
+											
 										
 									</div>
 								</div>
@@ -156,18 +154,18 @@
                                         <p><a class="a-link-arrow" href="consultancy.php">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
+                                    </section>
+                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
-                                    </section>
-
+                                    
                                 </div>
                                 <div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
                                     <h4 style="margin-left:10px;" class="mainheading">

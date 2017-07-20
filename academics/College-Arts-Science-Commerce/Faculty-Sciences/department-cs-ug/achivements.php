@@ -86,6 +86,24 @@
                                     <span>&nbsp;  <strong> Achievements  </strong></span></h4>
                                
                                 <p align=justify>Kristu Jayanti College is known by the quality of the students it produces. The students of the Computer Science Department have proved themselves to be the best in Bangalore and in different parts of the country over and over again. The professionalism and competitive spirit that demonstrates a successful IT professional has been exuded by the students in the recent competitions and events conducted by various educational institutions.</p>
+                                    
+                                    <p><b>Achievements in Academic Year 2017-18</b></p>
+                                    
+                                    <center><p><b> In India Today - Nielsen survey-2017, the college is ranked 2nd Best BCA College in India.</b></p></center>
+                                    
+                                    
+                                    <center><img src="images/best-college.jpg"></center>
+                                    
+                                    <center><p><b style="color: #cd6e08;font-weight: bold;"><font size="3">Certificate Exchange Ceremony with ICT Academy</font></b></center>
+                                    
+                                    
+                                    <ul><li>Kristu Jayanti College, Bengaluru signs membership with ICT Academy on 23rd June 2017.</li>
+                                        <li>Kristu Jayanti College, Bengaluru is the first Arts & Science College in the State of Karnataka to sign the membership with ICT Academy.</li>
+                                        <li>The membership is signed to benefit Faculty Members and Students through various initiatives of ICT Academy which includes Faculty Development, Student Skill Development, Industry-Institute Collaboration, Research etc.</li></ul>
+
+                                    
+                                    
+                                    
                                 <p><b>Achievements in academic year 2016-17</b></p>
   <table class="table table-bordered" align=center>
   <thead>

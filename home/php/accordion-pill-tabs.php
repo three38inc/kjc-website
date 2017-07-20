@@ -137,7 +137,7 @@
                     <div class="col-lg-4 col-xs-12 myFav">
                         <a href="<?php echo $ROOT ; ?>/home/academic-calendar.php">
                             <div class="accTabs color-1">
-                                <h2><i class="flaticon-kjc-calendar c1"></i>Academic Calender</h2>
+                                <h2><i class="flaticon-kjc-calendar c1"></i>Academic Calendar</h2>
                             </div>
                         </a>
                     </div>
@@ -230,6 +230,13 @@
                         <a href="<?php echo $ROOT ; ?>/examination/grievance_redressal.php">
                             <div class="accTabs color-6">
                                 <h2><i class="flaticon-kjc-postexam c6"></i>POST-EXAM Procedure</h2>
+                            </div>
+                        </a>
+                    </div>
+                    <div class=" col-lg-4 col-xs-12 exam">
+                        <a href="http://results.kristujayanti.edu.in/" target="_blank">
+                            <div class="accTabs color-6"> 
+                                <h2><i class="flaticon-kjc-extension c1"></i>View Exam Result</h2>
                             </div>
                         </a>
                     </div>

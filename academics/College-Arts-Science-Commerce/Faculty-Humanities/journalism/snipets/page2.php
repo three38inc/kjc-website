@@ -2,22 +2,22 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/indumathi.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Indumathi S
                 </h4>
 				<p>
-                 <span>Qualification </span> <br/> MS Communication, NET
+                 <span>Qualification </span> <br/> MS Communication, NET, (PhD)
                 </p>
 				 <p>
-                    <span>Areas of Interest </span><br/> Film Studies. Reporting and Editing, Advertising, Development Communication, Magazine Journalism
+                    <span>Areas of Interest </span><br/> Film Studies, Reporting and Editing, Advertising, Development Communication, Magazine Journalism 
                 </p>
                 <p>
-                    <span>Teaching Experience </span><br/> 5.6 years
+                    <span>Teaching Experience </span><br/> 4 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 2 / 1
+                    <span>Papers presented or published </span><br/> 2 
                 </p>
                 
                 

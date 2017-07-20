@@ -2,22 +2,23 @@
     <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/sandhya-soman.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>  Sandhya Soman
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> -
+                    <span>Qualification </span> <br/> MCA, UGC-NET
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/>  -
+                    <span>Areas of interest </span><br/>  Java, SE, CPrograming, Software Testing
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 2.3 year
                 </p>
+              
                 <p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 03
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -39,7 +40,7 @@
                 <h4> Shraddha Ramdas Bandekar
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> Post Graduate Degree in MSc Mathematics
+                    <span>Qualification </span> <br/> M.Sc
                 </p>
                 <p>
                     <span>Areas of interest </span><br/>  Mathematical Modelling and Fluid Mechanics
@@ -47,9 +48,7 @@
                 <p>
                     <span>Experience </span><br/> Fresher
                 </p>
-                <p>
-                    <span>Papers presented or published </span><br/> Nil
-                </p>
+                
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

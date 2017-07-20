@@ -98,7 +98,7 @@
                 <h4>K.Kalaiselvi 
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc, M.Phil, (Pursuing Ph.D)
+                    <span>Qualification </span> <br/>M.Sc, M.Phil, (Ph.D)
                 </p>
                 <p>
                     <span>Areas of interest </span><br/>Cybersecurity, cryptography, Evolutionary algorithms
@@ -158,7 +158,7 @@
                 <h4> Amjad Hassan Khan MK
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>M.Sc, M. Phill 
+                    <span>Qualification </span> <br/> M.Sc, M. Phil
                 </p>
                 <p>
                     <span>Areas of interest </span><br/>  Communication systems, high power devices, microwave systems, DSP
@@ -166,9 +166,7 @@
                 <p>
                     <span>Experience </span><br/>  14 years
                 </p>
-				<p>
-                    <span>Papers presented or published </span><br/>  Nil
-                </p>
+				
                 <ul class="list-inline social-light ">
                     <li>
                         <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>

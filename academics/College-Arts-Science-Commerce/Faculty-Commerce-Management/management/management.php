@@ -114,8 +114,11 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; About the Department</span>
                                     </h4>
-                                 <p align=justify> The Department of Management (BBA) was established in the year 2001 with an objective of imparting management education to the students to equip themselves with knowledge and experience required in the real world. The department has been constantly upgrading the program to match the changes in the external environment.</p>
-                                    <p align=justify>The department always sets high standards to perform the activities for the benefit of student community in various areas of management. The department constantly upgrades its processes to adopt changes in the dynamic environment and to move along with global practices.</p>
+                                    <p align=justify>The Department of Management (BBA), established in the year 2001, aspires to impart education to the students and equip them with the knowledge, skill and attitude required in the business world. Provide solid foundation in wide range of business aspects such as Accounting, Finance, Human Resource, Marketing, Business Research and Management. </p>
+                                    <p>“Sucess in business management requires learning as fast as the world is changing” - Warren Bennis</p>
+                                    <p align=justify>The department has been constantly upgrading the program to match the changes in the external environment. We always set high standards to perform the activities for the benefit of student community in various areas of management. </p>
+                                    <p align=justify>The department takes pride in churning out best entrepreneurs; our students are well placed in Multinational Companies such as Deloitte, Deutsche Bank, HSBC, IBM, KPMG and many others. They never forget to visit us back and share the valuable experiences with their juniors.</p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -187,7 +190,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

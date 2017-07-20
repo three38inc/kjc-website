@@ -116,7 +116,7 @@
 									
 									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Course Design</b><br>
-										The M.Sc. Biotechnology & Microbiology courses are two year full time programme in four semesters, affiliated to the Bangalore University and recognized by the Govt. of Karnataka. The college provides comprehensive education to the students through effective planning and intensive training with recent trends in Biotechnology & Microbiology with experimental knowledge. Each semester builds and equips the students to adapt to the demands in research and development units, industries and entrepreneurship in the areas of Biotechnology.</p>
+										The M.Sc. Biotechnology course is a two year full time programme in four semesters, affiliated to the Bangalore University and recognized by the Govt. of Karnataka. The college provides comprehensive education to the students through effective planning and intensive training with recent trends in Biotechnology with experimental knowledge. Each semester builds and equips the students to adapt to the demands in research and development units, industries and entrepreneurship in the areas of Biotechnology.</p>
 									<p><b style="color: #cd6e08;font-weight: bold;">Eligibility</b><br>
 										1. B.Sc. degree with minimum 50% of marks (45% in the case of SC & ST students) in all subjects.</p>
 									<p>2. Students should have studied Chemistry / Biochemistry compulsorily as an optional subject along with Biotechnology / Microbiology / Botany / Zoology / Genetcs / Life Science / Applied Botany / Applied Zoology / Environmental Science / Home Science / Sericulture / Biological Science / Agricultural Sciences / Horticultural Science / Fisheries / Dairy Sciences / Forestry / BE and B.Tech Biotechnology / Four Year BS Programme.</p>
@@ -133,7 +133,7 @@
                                     <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -209,7 +209,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -217,7 +217,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

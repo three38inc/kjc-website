@@ -24,6 +24,154 @@
 </style>
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="machine-learning-tech-giants.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 15 </span></td>
+                <td class="event-dates">
+                  <p> Department of Computer Science (UG) is organizing Tech Talk on "Machine Learning and The Tech Giants"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="Virtuoso-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 14 </span></td>
+                <td class="event-dates">
+                  <p> The Department of Management is organizing “Virtuoso” a management workshop..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 10 </span></td>
+                <td class="event-dates">
+                  <p> 	Department of Commerce (UG) III Semester B.Com with ACCA Expert Session on Financial Reporting (F7) (Class room no  106)</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="significance-numismatics-history.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 13 </span></td>
+                <td class="event-dates">
+                  <p> 	The Department of History is organizing a Guest Lecture on the "Significance of Numismatics in History"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="placement-orientation.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 12 </span></td>
+                <td class="event-dates">
+                  <p> Placement Orientation &amp; Training Programme  </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 10 </span></td>
+                <td class="event-dates">
+                  <p> 	Vth Semester B.Com with ACCA Expert Session on Governance, Risk and Ethics (P1) July (Class room no 207) </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 11 </span></td>
+                <td class="event-dates">
+                  <p>  	Department of Commerce (PG) Workshop on Research of Paper Writing at 9.15 am in Conference Hall II</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="van-mahotsav-2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 08 </span></td>
+                <td class="event-dates">
+                  <p>   Centre for Social Activities of Kristu Jayanti College is organising “Van-Mohotsava” at 8:00AM around Nagenahalli Lake Belt..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="expert-session-fundamentals-Management.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 03 </span></td>
+                <td class="event-dates">
+                  <p>    Department of Management (BBA) is organising an expert session on Fundamentals of Management Accounting for students of BBA with CIMA batch</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="networking-network-security.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 03 </span></td>
+                <td class="event-dates">
+                  <p>  Department of Computer Science[PG] organizing Two day Workshop on "Networking and Network Security" for V Semester MCA students..</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="guest_lecture_women_empo.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 03 </span></td>
+                <td class="event-dates">
+                  <p> Women Empowerment Cell of our College organizing Guest Lecture on "How to deal with your teenage life"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="space_technology.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 01 </span></td>
+                <td class="event-dates">
+                  <p>Department of Computer Science (UG) Guest Lecture on "Space Technology" </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	<a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="ieee-student-branch.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 01</span></td>
+                <td class="event-dates">
+                  <p>Department of Computer Science[PG] and IEEE Student Branch organizing the programme on Industry Institute Interface(3i)</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+	
+	
+	
+	
+	
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="April" href="test.php">
         <table cellpadding="4">
             <tr>

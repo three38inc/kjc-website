@@ -140,7 +140,7 @@
 										Each question paper scrutinized by a Board, in addition to double valuation scheme for PG programmes .</p>
 									
 									
-									<a href="../pdf/2017/academic_council_members_new.pdf" target="_blank" class="btn btn-primary btn-sm">Click here for Statutory Bodies - Governing Body, Academic Council and BoS</a>
+									<!--<a href="../pdf/2017/academic_council_members_new.pdf" target="_blank" class="btn btn-primary btn-sm">Click here for Statutory Bodies - Governing Body, Academic Council and BoS</a>-->
 
 
                                 </div>

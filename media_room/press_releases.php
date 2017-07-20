@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Press <strong>releases</strong></span>
@@ -118,7 +118,14 @@
 
                                  
 									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
+                                    
+                                   <!-- <div class="well">
+ <ul class="nav nav-pills">
+  <li class="active"><a href="#">July <span class="badge">01</span></a></li>
+  
+</ul>
 
+</div>-->
 
 
 
@@ -130,7 +137,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="news.php">News</a></p>
@@ -159,6 +166,10 @@
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="social_media.php">Social Media</a></p>
+                                    </section>
+                                    
+                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="kjc-television.php">KJC Television</a></p>
                                     </section>
 
 

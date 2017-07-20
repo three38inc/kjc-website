@@ -112,16 +112,28 @@
                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Environmental<strong> Club</strong></span></h4>
+                                        <span>&nbsp;Academic <strong> Clubs </strong></span></h4>
 
                                   
+									<p><b style="color: #cd6e08;font-weight: bold;">Life Sciences club</b><br>
+									
+										The Life Science club serves as a forum for expert talks by renowned personnel from various biotech industries, national and intenational institutons. This helps the students to update their knowledge and keep pace with rapid scientific development. It also provides an oppurtunity for students to exhibit innovative and creative ideas during the exhibitions and fests conducted by the club.</p> 
+									
+									<p>The club activites assist the students to utilize their talents in the best way and help them to achieve their goals.</p>
+									
+									
+									
+									<p><b style="color: #cd6e08;font-weight: bold;">Environment club</b><br>
+										The Environment club of Kristu Jayanti College aims to create awereness  on various environment related issues prevalent today. The Environment club also strives to make the student concious of their environmental responsibilites and practice the principles of reduction, reuse and recycling of resources.</p>
+									<p>Kristu Jayanti College is comitted to work locally to improve social, economical and environmental well being of our community which will leave us with a greener Earth. The environment club instigates a sense of responsibility for the environment and a personal comittement to protect and preserve the environment among youth.</p>
+									
 									<p><b style="color: #cd6e08;font-weight: bold;">Activities performed under Environment Club</b></p>
-									<ul><li>-Environment awareness.</li>
-										<li>- Green audit</li>
-										<li>- Energy Audit</li>
-										<li>- Identification of Plants (Campus Flora)</li>
-										<li>- Waste management</li>
-										<li>- Soil amelioration</li>
+									<ul><li>Environment awareness.</li>
+										<li>Green audit</li>
+										<li>Energy Audit</li>
+										<li>Identification of Plants (Campus Flora)</li>
+										<li> Waste management</li>
+										<li>Soil amelioration</li>
 									</ul>
 									
 									<center><img src="images/environmental_club.jpg"></center>
@@ -136,7 +148,7 @@
                                      <span>&nbsp;<strong>Programmes</strong> offered</span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., MicroBiology</a></p>
+                                        <p><a class="a-link-arrow" href="bsc_micro.php">B.Sc., Microbiology</a></p>
                                     </section>
 
 
@@ -211,8 +223,8 @@
                                         <p><a class="a-link-arrow" href="pub.php">Publications</a></p>
                                     </section>
                                         
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="patent.php">Patent Recognition</a></p>
+                                   <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="patent.php">Patents </a></p>
                                     </section>
                                         
                                     <section class="link-arrow">
@@ -220,7 +232,7 @@
                                     </section>
                                         
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="envtclub.php" style="color: #2980b9;font-weight: bold;">Environmental Club</a></p>
+                                        <p><a class="a-link-arrow" href="envtclub.php" style="color: #2980b9;font-weight: bold;">Academic clubs</a></p>
                                     </section>
                                         
                                     <section class="link-arrow">

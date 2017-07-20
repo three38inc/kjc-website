@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+   <!-- <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,8 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -121,22 +122,21 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                              
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;<strong>B.Com Tourism </strong></span>
+                                        <span>&nbsp;B.Com (Vocational) <strong>Tourism &amp; Travel Management</strong>  </span>
                                     </h4>
 
-                                    <br/>
-                                    <p align="justify">
-                                        <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                       B.Com (Tourism) is a Vocational three year Degree program spread over six semesters. The course has got a strong business emphasis with an attention towards the ethical, cultural and environmental dimensions of tourism. It also lays emphasis on communication, customer relations and service and follows an Institute- Industry related approach.
-                                    </p>
-                                    <br/>
+									<p align=justify>It is a three year degree program on vocational training on travel and tourism spread over six semesters affiliated to Bangalore University. This programme prepares the students to explore the core concepts in commerce with a special focus on travel and tourism, one of the fastest growing industry in the country. On these ground the curriculum envisages practical sessions, field visits and internship programmes to have a comprehensive idea about this discipline, the three year programme equips them for a career in accounting and management along with travel and tourism industry by empowering them with competent skills as per the industry requirement.</p>
+									<p align=justify>The curriculum is designed in such a way that, the students are not only exposed to Tourism & Travel Management but also have an opportunity to select any of the two electives which is offered to them.</p>
+
                                     <p align="justify">
 										<b style="color: #cd6e08;font-weight: bold;">Eligibility:</b> Candidates who have passed in 10+2/Pre University Course/ Equivalent with 40% aggregate are eligible to apply.</p>
+                                    
+                 <center><p><a href="curriculum/B.Com-Tourism-2017-20.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2017 - 20</a></p></center>
                                    
 									
-									<center><p><a href="curriculum/bcom_tourism_2014_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2014 - 17</a></p></center>
+								<center><p><a href="curriculum/bcom_tourism_2014_2017.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2014 - 17</a></p></center>
 								<center><p><a href="curriculum/bcom_tourism_2015_2018.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)   2015 - 18</a></p></center>
 								<center><p><a href="curriculum/bcom_tourism_2016_2019.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM (Tourism)  2016 - 19</a></p></center>
 
@@ -169,26 +169,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
+                                   
 
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

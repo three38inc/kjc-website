@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -121,12 +121,12 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn" style="min-height: 1150px;">
                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;<strong>B.Com Integrated (B.Com with ACCA)</strong></span>
                                     </h4>
 
-                                    <br/>
+                                
                                     <p align="justify">
                                         <strong>ACCA - Association of Chartered Certified Accountants </strong><br/><br/> Finance is the main reason why most companies exist. They either want to make it, save it, use it more effectively or advise other companies on how to make it, save it or use it more effectively. Even charities and not-for-profit companies need to make sure they use their funds in the most efficient way. All organizations have one thing in common. They need accountancy professionals who understand finance, who can play a fundamental role in running the business and who can help make the business a success.
 
@@ -237,6 +237,8 @@
                                         </div>
                                     </div>
                                     <p align="justify"><br/><br/><strong>The detailed integration of ACCA courses with B.Com curriculum is given below:</strong></p><br/>
+                                    
+                                     	<center><p><a href="curriculum/B.Com-ACCA-2017-2020.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA 2017-20  </a></p></center>
 									
                                    	<center><p><a href="curriculum/acca_courses_with_bcom_curriculumm_new.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of B.COM with ACCA   </a></p></center>
 
@@ -268,26 +270,7 @@
                                     </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom.php">M.Com</a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa.php">M.Com (Financial Analysis)
-                                        </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="mcom_fa_cgma.php">M.Com (FA with CGMA)
-                                            </a></p>
-                                    </section>
-
-
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="ma_economics.php">MA Economics</a></p>
-                                    </section>
+                                  
 
                                 </div>
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">

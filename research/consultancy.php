@@ -64,7 +64,7 @@
     </style>
 	</head>
 	<body>
-        <script type="text/javascript">
+      <!--  <script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -75,7 +75,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -115,27 +115,30 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                  
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;The <strong>consultancy Profile</strong></span>
+                                        <span>&nbsp; <strong>Consultancy </strong></span>
                                     </h4>
                                  
 
                                     <p align="justify">
 												<strong>Consultancy Policy</strong><br />
-												'The institute shall open its services and share its knowledge resources for the mutual benefit of institutions, industry and neighborhood'.<br /><br />
+                                        <font color="d64646">'The institute shall open its services and share its knowledge resources for the mutual benefit of institutions, industry and neighborhood'.</font></p>
 
-												<strong>The Exclusive Centres that are known for Consultancy Services in the College are :</strong><br />
+												<p><strong>Exclusive Centres for Consultancy Services:</strong><br />
 												
 											<ul>
-												<li>Centre for Continuing Professional Development (CCPD) for imparting training to teachers of schools and colleges on psycho-social understanding of learners</li>
-												<li>Centre for Life Skill Education (CLSE) trainers youth and teachers in the ten core life skills of various educational institutions, NGOs and other organizations</li>
-												<li>Centre for Placements and Corporate Relations (CPCR) conducts training programmes on soft skills and offers placement services to neighbourhood institutions</li>
-												<li>Department of Management Studies, enhances financial literacy and conducts management courses for trainees of IPIRTI, Govt. of India</li>
+												<li>Centre for Continuing Professional Development (CCPD)-  Imparts training to teachers of schools and colleges on psycho-social understanding of learners</li>
+                                                
+												<li>Centre for Life Skill Education (CLSE)- Trains youth and teachers of various educational institutions, NGOs and other organisations in the ten core life skills </li>
+                                                
+												<li>Centre for Employability and Corporate Relations (CECR)-  Conducts training programmes on soft skills and offers placement extension services to neighbourhood institutions</li>
+											
 												<li>Department of Social Work and Psychology organize training programmes for government school teachers on positive disciplining in collaboration with World Vision India</li>
-												<li>Dept. of Computer Science (PG) offers computer skill courses for police personnel, Bangalore City</li>
-												<li>IQAC of the college has been invited to organize workshops on quality sustenance and enhancement of various other higher education institutions</li>
+                                                
+												
+												<li>IQAC- Organises workshops on quality sustenance and enhancement of other higher education institutions</li>
 											</ul> 
-											<br/><br/>
-											</p>
+										
+											
 
 									
 								</div>
@@ -163,16 +166,16 @@
                                         <p><a class="a-link-arrow" href="consultancy.php" style="color: #2980b9;font-weight: bold;">Consultancy</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="extension.php">Extension</a></p>
+                                        <p><a class="a-link-arrow" href="extension.php">Service Learning</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_biotechnology.php">Research centre in Biotechnology</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Biotechnology</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="research_centre_in_social_work.php">Research centre in Social Work</a></p>
+                                        <p><a class="a-link-arrow" href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/ls_research.php">Research centre in Social Work</a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php">Chavara Journal</a></p>
+                                        <p><a class="a-link-arrow" href="http://www.kristujayanti.edu.in/chavara/index.php" target="_blank">Chavara Journal</a></p>
                                     </section>
 
                                 </div>

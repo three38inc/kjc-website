@@ -84,10 +84,119 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic <strong> Calendar </strong></span></h4>
 								
-								<p><b>APRIL    18</b>   IV Semester End Semester Examination</p>
-								<p><b>APRIL 22</b> VI Semester MCA Preparatory Main Project Viva-Voce</p>
-								<p><b>APRIL 25</b> II Semester MCA Term Examination</p>
-								<p><b>APRIL 27</b> VI Semester MCA End Semester Main Project Viva-Voce</p>
+								<table border="0" class="table table-bordered table-hover">
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Month</strong></p></td>
+    <td width="48" valign="top"><p align="center"><strong>Date</strong></p></td>
+    <td width="50" valign="top"><p align="center"><strong>Year</strong></p></td>
+    <td width="50" valign="top"><p align="center"><strong>Day</strong></p></td>
+    <td width="535" valign="top"><p align="center"><strong>Activity</strong></p></td>
+  </tr>
+  <tr>
+    <td width="745" colspan="5" valign="top"><p align="center"><strong>ODD SEMESTER</strong></p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">06</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Thu</p></td>
+    <td width="535" valign="top"><p>Workshop on &ldquo;Networking &amp; Network Security&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">07</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>Workshop on &ldquo;Networking &amp; Network Security&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">13</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Thu</p></td>
+    <td width="535" valign="top"><p>FDP on &ldquo;Data Science &amp; Analytics&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">14</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>FDP on &ldquo;Data Science &amp; Analytics&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">28</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>Rural Exposure Programme – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>July</strong></p></td>
+    <td width="48" valign="top"><p align="center">29</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Sat</p></td>
+    <td width="535" valign="top"><p>Rural Exposure Programme – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Aug</strong></p></td>
+    <td width="48" valign="top"><p align="center">31</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Thu</p></td>
+    <td width="535" valign="top"><p>One Day National Level Students Symposium – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Sep</strong></p></td>
+    <td width="48" valign="top"><p align="center">27</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Wed</p></td>
+    <td width="535" valign="top"><p>Intra-collegiate Fest – Manoeuvre – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="745" colspan="5" valign="top"><p align="center"><strong>EVEN SEMESTER</strong></p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Dec</strong></p></td>
+    <td width="48" valign="top"><p align="center">15</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>National Workshop on &ldquo;Roof Computing&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Dec</strong></p></td>
+    <td width="48" valign="top"><p align="center">16</p></td>
+    <td width="50" valign="top"><p align="center">2017</p></td>
+    <td width="50" valign="top"><p align="center">Sat</p></td>
+    <td width="535" valign="top"><p>National Workshop on &ldquo;Roof Computing&rdquo; – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Feb</strong></p></td>
+    <td width="48" valign="top"><p align="center">1</p></td>
+    <td width="50" valign="top"><p align="center">2018</p></td>
+    <td width="50" valign="top"><p align="center">Thu</p></td>
+    <td width="535" valign="top"><p>International Conference ICCTAC &rsquo;18 – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Feb</strong></p></td>
+    <td width="48" valign="top"><p align="center">2</p></td>
+    <td width="50" valign="top"><p align="center">2018</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>International Conference ICCTAC &rsquo;18 – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Mar</strong></p></td>
+    <td width="48" valign="top"><p align="center">1</p></td>
+    <td width="50" valign="top"><p align="center">2018</p></td>
+    <td width="50" valign="top"><p align="center">Thu</p></td>
+    <td width="535" valign="top"><p>Intercollegiate Fest – Shells 2K18 – Dept. of Computer Science (PG)</p></td>
+  </tr>
+  <tr>
+    <td width="62" valign="top"><p align="center"><strong>Mar</strong></p></td>
+    <td width="48" valign="top"><p align="center">2</p></td>
+    <td width="50" valign="top"><p align="center">2018</p></td>
+    <td width="50" valign="top"><p align="center">Fri</p></td>
+    <td width="535" valign="top"><p>Intercollegiate Fest – Shells 2K18 – Dept. of Computer Science (PG)</p></td>
+  </tr>
+</table>
 
 
 								</div></div>

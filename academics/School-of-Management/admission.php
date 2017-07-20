@@ -95,6 +95,8 @@ win=window.open(mypage,myname,settings);}
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; MBA &amp; PGDM <strong> Admission</strong></span></h4>
+                                    
+                                    <p><b><font color="#FF0000"><u>PGDM Programme</u>:</font></b> <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.</b></p><br>
 								
 						<table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
@@ -149,100 +151,9 @@ win=window.open(mypage,myname,settings);}
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; MBA &amp; PGDM<strong> Admission</strong></span>
-                                    </h4>
-                                 <section class="link-arrow">   
-                <p><a class="a-link-arrow" href="admission.php" style="color: #2980b9;font-weight: bold;">MBA/PGDM Admission</a></p>
-                                    </section>
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="why_kjc.php">Why Kristu Jayanti College ?</a></p>
-                                   </section>
                                     
-									
-									<section class="link-arrow">
-                                    
-                                        <p><a class="a-link-arrow" href="documets_required_pg.php">Documents required for Admission (PG)</a></p>
-                                    </section>
-                                   
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_enquiry.php">Admission Enquiry</a></p>
-                                    </section>
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="admission_international_students.php">Admission International Students</a></p>
-                                    </section>
-                                   
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="online_fee_payment.php">Online Fee Payment Details</a></p>
-                                    </section>
-									  <div class="well">
- <p><font size=2 color='#5cafee'>New users can click the link below to get online application form and the instructions to fill the application form</font></p>
-                                  <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Online Application Form</a>
-</div>
-                                    
-                                     <div class="well">
- <p><font size=2 color='#5cafee'>Registered user can click the link below to view / update the details</font></p>
-                                 <center><a href="admission_guidelines_login.php" class="btn btn-primary btn-xs">Login Here</a></center> 
-</div>
-                                    
-                      
-                        <div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Application & Prospectus FeePayment option</h3>
-  </div>
-  <div class="panel-body">
-    <font size=2>1. Fee payment in College office<br>
-2. online payment<br>
-        3. Payment through demand draft<br></font>
-  </div>
-                            <div class="panel panel-default">
-  <div class="panel-body">
-<font size=2>
-MBA Programme: Rs 900/- <br>
-PGDM Programme: Rs 900/- <br>
-1 year PG Diploma Programme
-(Working Executives): Rs 250/-</font> 
-                       
-  </div>
-</div>   
- </div>
-                                 
- <div class="list-group">
-                                  <a href="#" class="list-group-item active">Counselling Results</a>
-									  
-									   <a href="mba_pgdm_counselling_result_june_10_2017.php" class="list-group-item">
-										   <font size=2>MBA/PGDM Counselling result held on 10<sup>th</sup> June 2017</font>
-                                        </a>
-                                       
-                                    </div>
-                                   
-
-                                
-                                    
-									
-                               
-								
-								
-									
-<div class="content-right new-content-right wow fadeIn" style="margin-left:2px; margin-right: 2px;">
-                                    <h4 style="margin-left:10px;" class="mainheading">
-                                        <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;goto <strong>QuickLinks</strong></span>
-                                    </h4>
-                                    <?php include ('../../php/sideMenu.php'); ?>
-                                </div>
-                                <div class="content-right wow fadeIn" style="padding:10px;padding-bottom: 0px;">
-                                    <div class="fb-page" data-href="https://www.facebook.com/KristuJayantiCollege" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true">
-                                        <div class="fb-xfbml-parse-ignore">
-                                            <blockquote cite="https://www.facebook.com/KristuJayantiCollege"><a href="https://www.facebook.com/KristuJayantiCollege">Facebook</a></blockquote>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-						</div></div>
+                                      <?php include('right-admission.php');?>
+                                </div></div></div></div>
 
                     <?php include ('../../php/alerts.php');  ?>
                     <?php include('../../php/footer.php'); ?>

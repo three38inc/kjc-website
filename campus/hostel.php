@@ -21,7 +21,7 @@
 		<link rel="stylesheet" href="../css/navTabs.css">
 		<link rel="stylesheet" href="../css/animate.css">
 		<link rel="stylesheet" href="../css/fakeLoader.css">
-		<!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
+		<!--<link rel="stylesheet" href="css/res-navtabs.css">-->
 		<!--custom css-->
 		<link href="../css/custom.css" rel="stylesheet">
 		<link href="../css/innerpage.css" rel="stylesheet">
@@ -66,7 +66,7 @@
 </head>
 
 <body>
-    <script type="text/javascript">
+    <!--<script type="text/javascript">
         $crisp = [];
         CRISP_WEBSITE_ID = "bfee4615-2d13-4129-a9c2-d7b8095e3d0e";
         (function() {
@@ -77,7 +77,7 @@
             d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
-    </script>
+    </script>-->
 		<div id="fakeLoader"></div>
 		<script>
 			$("#fakeLoader").fakeLoader({
@@ -218,6 +218,17 @@ Bangalore - 560 077
         <td width="200"><center>Managed and Run by St. Charles Sisters</center> </td>
         <td width="100"><center><b>09449608879<br />
 080-28465328</b>
+       </center></td>
+        </tr>
+             <tr>
+        <td width="200"><b><u>For Girls:</u></b><br />
+<b>Missionary Sisters of St. Peter Claver Study House</b><br />
+Hennur Cross, Hennur Road Kalyan Nagar
+Bangalore - 560043
+</td>
+        <td width="200"><center>Managed and Run by St. Peter Clavers Sisters</center> </td>
+        <td width="100"><center><b>080-25440454<br />
+9449752577 9482389473</b>
        </center></td>
         </tr>
         </table><br />

@@ -110,36 +110,37 @@
                             <div class="col-lg-9">
                                 <div class="content-left myWelcome wow fadeIn">
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
-                                    <br/>
+                            
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;IQAC <strong>Composition </strong></span></h4>
+                                        <span>&nbsp;IQAC  <strong> Composition </strong></span></h4>
+                                    
+                                    <p><b style="color: #cd6e08;font-weight: bold;">IQAC Members [2017-2018]</b></p>
 									
-									<p><b>IQAC Members [2015-16]</b></p>
-
-									<p><b>Chairperson</b><br>
-										Fr. Josekutty P.D</p>
-
-									<p><b>Co-ordinator</b><br>
-										Prof. Aloysius Edward J</p>
-
-									<p><b>External Experts</b><br>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Chairperson</b><br>
+                                        Fr. Josekutty P.D</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Co-ordinator</b><br>
+                                        Prof. Aloysius Edward J</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">External Experts</b><br>
 Prof. Mathew Manimala, IIMB<br>
 Shri. Augustine V.D., HR Coach, Bosch<br>
-										Shri. Bhatia L.H., CEO, Amiglobe Consulting (IBM finance partner)</p>
-									<p><b>Alumni Member</b><br>
-										Mr. Dennis Thomas, CEO, Refresh Food and Beverages</p>
-
-									<p><b>Members</b><br>
-* Fr. Augustine George<br>
-* Fr. Lijo P Thomas<br>
-* Fr. Som Zacharia<br>
-* Dr. Calistus Jude A L<br>
-* Dr. Justin Nelson Michael<br>
-* Mrs. Ramya B<br>
-* Ms. Jyothi Manoj<br>
-* Ms. Jalit Toms<br>
-* Ms. Anita C<br>
-										* Ms. Nagendra S</p>
+                                        Shri. Bhatia L.H., CEO, Amiglobe Consulting (IBM finance partner)</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Alumni Member</b><br>
+                                        Mr. Dennis Thomas, CEO, Refresh Food and Beverages</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Members</b><br>
+Fr. Augustine George<br>
+Fr. Lijo P Thomas<br>
+Fr. Som Zacharia<br>
+Dr. Calistus Jude A L<br>
+Dr. Gopakumar A.V<br>
+Dr. Justin Nelson Michael<br>
+Mrs. Ramya B<br>
+Ms. Jyothi Manoj <br>
+Ms. Jalit Toms<br>
+Ms. Anita C<br>
+Ms. Nagendra S<br>
+Ms. Aruna Devi K<br>
+Ms. Priya Josson</p>
+ 
 
                                 </div>
                             </div>

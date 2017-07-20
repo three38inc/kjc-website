@@ -89,6 +89,12 @@
 <p align=justify>Development of application software in diverse areas where computers are used is the main function of MCA graduates. The major thrust is on giving the students a sound background in computing, business functioning and mathematics relevant to information technology.</p>
 								<p>MCA curriculum includes syllabus, value added courses and certificate courses.</p>
 
+									 <p><b> <font size="3">Syllabus</font></b> <a href="syllabus.php">[View here]</a></p>
+									 
+									 <p><b> <font size="3">Certificate Programme</font></b> <a href="certificate_programme.php">[Click here]</a></p>
+									 
+									 <p><b> <font size="3">Value Added Courses</font></b> <a href="value_added_courses.php">[Click here]</a></p>
+									 
 
 								</div></div>
                             <div class="col-lg-3" style="margin-top:1em;">

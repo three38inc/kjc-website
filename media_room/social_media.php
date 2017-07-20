@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -67,6 +67,8 @@
 
 <body>
     
+ 
+    
     <div id="fakeLoader"></div>
     <script>
         $("#fakeLoader").fakeLoader({
@@ -110,7 +112,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Social <strong>Media </strong></span>
@@ -118,9 +120,24 @@
 
                                  
 									<p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms.  </p>
+                                
+                                    
+                                    <table border="0" align="center">
+                                    <tr>
+                                        
+                    <td width="150"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png" title="Facebook"></a></td>
+                                        <td width="150"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png" title="YouTube"></a></td>
+                                        <td width="150"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png" title="Linkedin"></a></td>
+                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>
 
 
-
+                                   
+                                     
+                                   
+                                    
+                                   
+                                    
+                                   
 
 
 
@@ -130,7 +147,7 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="news.php">News</a></p>
@@ -159,6 +176,10 @@
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="social_media.php" style="color: #2980b9;font-weight: bold;">Social Media</a></p>
+                                    </section>
+                                    
+                                     <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="kjc-television.php">KJC Television</a></p>
                                     </section>
 
 

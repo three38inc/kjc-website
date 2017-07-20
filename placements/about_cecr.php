@@ -116,21 +116,20 @@
                                     </h4>
 
                                  
-                                    <p align="justify"><b><font color="#006699">Centre for Employability and Corporate Relations (CECR)</b><br>
+                     <p align="justify"><font color="#006699">
+						 <b style="color: #cd6e08;font-weight: bold;">Centre for Employability and Corporate Relations (CECR)</b><br>
 
 <b>Greetings</b></font><br>
 
-Global Competitive environment today requires resilient individuals who are dynamic in their approach, humble in their attitude, proactive in their thought and committed in their purpose. Right since its inception, Kristu Jayanti College has endeavored to inculcate a mental quality infrastructure in each student. Based on the four pillars of education - Knowledge, Skills, Values and Attitude, the Jayantian Education system is geared towards holistic change.</p>
+									<p align=justify>Global Competitive environment today requires resilient individuals who are dynamic in their approach, humble in their attitude, proactive in their thought and committed in their purpose. Right since its inception, Kristu Jayanti College has endeavored to inculcate a mental quality infrastructure in each student. Based on the four pillars of education - Knowledge, Skills, Values and Attitude, the Jayantian Education system is geared towards holistic change.</p>
+									
+									<p align=justify>Our College has been reaccredited with an A grade, the highest grade in the new methodology awarded to higher education institutions in India, an acknowledgement of our commitment to impart quality education with special emphasis on access, equity and social responsibility. The College is rated as the one of the Best Colleges in India and occupies the 3rd,4th,5th positions in Commerce, Arts & Science Colleges among the top Colleges in Bangalore by India Today - Neilsen survey 2010 , 2011 , 2012 , 2013, 2014 , 2015,2016. In India Today - Nielsen survey 2017 the college is ranked 2nd Best BCA College, 9th Best Commerce College, 17th Best Science College & 14th Best Arts College in India and 2nd, 3rd, 4th positions in Arts, Commerce & Science among Top 10 Colleges in Bangalore. The recognition of academic excellence of our college by various surveys is a reiteration of our quality enhancement and sustenance.</p>
+									
+									<p align=justify>Effectiveness of education is proved by the Job Placements offered to the students. During the previous year more than 52 corporate organizations visited our campus to recruit prospective employees from various streams of study at Post Graduate and Graduate Levels. The holistic educational curriculum and training to imbibe organizing ability, communication skills and team spirit have made the students enterprising to meet the demands of modern business.</p>
+									<p align=justify>The overwhelming feedback from our recruiters regarding the performance of the earlier batches is an assurance of their trust in the quality of our pedagogy.</p>
+									<p>It would be an honour to have your esteemed organization participate in our placement programme.</p>
+									<p>We welcome you to our campus for GATE 2017-18.</p>
 
-<p align="justify">Our College has been reaccredited with A grade, the highest grade in the new methodology awarded to higher education institutions in India, an acknowledgement of our commitment to impart quality education with special emphasis on access, equity and social responsibility. The College is rated as the one of the Best Colleges in India and occupies the 3rd,4th,5th positions in Commerce, Arts & Science Colleges among the top Colleges in Bangalore by India Today - Neilsen survey 2010 , 2011 , 2012 , 2013, 2014 , 2015. The recognition of academic excellence of our college by various surveys is a reiteration of our quality enhancement and sustenance.</p>
-
-<p align="justify">Effectiveness of education is proved by the Job Placements offered to the students. During the previous year more than 52 corporate organizations visited our campus to recruit prospective employees from various streams of study at Post Graduate and Graduate Levels. The holistic educational curriculum and training to imbibe organizing ability, communication skills and team spirit have made the students enterprising to meet the demands of modern business.</p>
-
-<p align="justify">The overwhelming feedback from our recruiters regarding the performance of the earlier batches is an assurance of their trust in the quality of our pedagogy.</p>
-
-<p>It would be an honour to have your esteemed organization participate in our placement programme.</p>
-
-<p>We welcome you to our campus for GATE 2016-17.</p>
 
 
 

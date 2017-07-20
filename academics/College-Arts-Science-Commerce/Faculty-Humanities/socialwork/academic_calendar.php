@@ -83,6 +83,89 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic <strong>  Calendar </strong></span></h4>
+                                     
+                                     <table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td><p align="center"><strong>Month</strong></p></td>
+    <td><p align="center"><strong>Date</strong></p></td>
+    <td><p align="center"><strong>Day</strong></p></td>
+    <td><p align="center"><strong>Event</strong></p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p><strong>June</strong></p></td>
+    <td valign="bottom"><p>20/06/2017</p></td>
+    <td valign="bottom"><p>Tuesday</p></td>
+    <td valign="bottom"><p>Commencement of III Semester classes</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>27/06/2017</p></td>
+    <td valign="bottom"><p>Tuesday </p></td>
+    <td valign="bottom"><p>Orientation Visit to St. John&rsquo;s Hospital, Bangalore </p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>30/06/2016</p></td>
+    <td valign="bottom"><p>Friday</p></td>
+    <td valign="bottom"><p>Workshop on Self Branding and    Employability Skills </p></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p><strong>July</strong></p></td>
+    <td valign="bottom"><p>01/07/2017</p></td>
+    <td valign="bottom"><p>Saturday</p></td>
+    <td valign="bottom"><p>Orientation Visit to Schneider Electric,    Bangalore</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>04/07/2017</p></td>
+    <td valign="top"><p>Tuesday</p></td>
+    <td valign="bottom"><p>Orientation Visit to Indian Social Institute(ISI),    Bangalore</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>13/07/2017</p></td>
+    <td valign="bottom"><p>Thursday</p></td>
+    <td valign="bottom"><p>CSR Exposure Visit to   Techmahindra, Bangalore</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>18/07/2017</p></td>
+    <td valign="bottom"><p>Tuesday</p></td>
+    <td valign="bottom"><p>Commencement of I Semester Classes</p></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><p>19/07/2017 to<br />
+      22/07/2017</p></td>
+    <td valign="bottom"><p>&nbsp;</p></td>
+    <td valign="top"><p>Capacity    Building Training on Life Skills for Social Work Professionals</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>20/07/2017</p></td>
+    <td valign="top"><p>Thursday</p></td>
+    <td valign="bottom"><p>Orientation Visit to FVTRS( Functional Vocational Training and Research Society)</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>August</strong></p></td>
+    <td valign="top"><p>22/08/2017</p></td>
+    <td valign="top"><p>Tuesday</p></td>
+    <td valign="top"><p>Panel    Discussion</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>October</strong></p></td>
+    <td valign="top"><p>11/10/2017</p></td>
+    <td valign="top"><p>Wednesday</p></td>
+    <td valign="top"><p>National Seminar</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>January</strong></p></td>
+    <td valign="top"><p>10/01/2018</p></td>
+    <td valign="top"><p>Wednesday</p></td>
+    <td valign="top"><p>Panel Discussion</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>February</strong></p></td>
+    <td valign="bottom"><p>27/02/2018    &amp;<br />
+      28/02/2018</p></td>
+    <td valign="top"><p>Tuesday &amp; <br />
+      Wednesday</p></td>
+    <td valign="top"><p>International Conference</p></td>
+  </tr>
+</table>
 								
 								
 								
@@ -135,7 +218,7 @@
                                     </section>
 										
 										<section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices for Student Engagement</a></p>
                                     </section>
 										
 										<section class="link-arrow">

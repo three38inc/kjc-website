@@ -143,12 +143,12 @@
                                     </section>
                                         
                                          <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPOLENG</a></p>
+                                        <p><a class="a-link-arrow" href="../journalism/ba_jpoleng.php">BA JPsENG</a></p>
                                     </section>
                                         
-                                         <section class="link-arrow">
+                                        <!-- <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="ma_english_literature.php">MA English Literature</a></p>
-                                    </section>
+                                    </section>-->
                                         
                                      </div></div>
                                      

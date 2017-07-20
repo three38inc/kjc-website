@@ -84,8 +84,89 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Academic<strong> Calendar </strong></span></h4>
+                                    
+                                    
+                                    <table border="1" class="table table-bordered table-hover">
+  <tr>
+    <td width="64"><p align="center">Sl. No</p></td>
+    <td width="266"><p align="center">Title of the Event</p></td>
+    <td width="164"><p align="center">Date</p></td>
+    <td width="167"><p align="center">Organizing Department</p></td>
+    <td width="217"><p align="center">Convener<br />
+      (Name, Contact No., E-mail ID)</p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">1</p></td>
+    <td width="266"><p align="center">Industrial Visit to ISRO</p></td>
+    <td width="164"><p align="center">10-07-2017</p></td>
+    <td width="167"><p align="center">Computer Science Dept</p></td>
+    <td width="217"><p align="center">Dr. Anthony -9845332389<br />
+      <a href="mailto:anthonyvincent@kristujayanti.com">anthonyvincent@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">2</p></td>
+    <td width="266"><p align="center">&ldquo;Workshop on Hardware Descriptive    Language - Verilog&rdquo;</p></td>
+    <td width="164"><p align="center">21-08-2017 to 24-08-2017</p></td>
+    <td width="167"><p align="center">Electronics Department</p></td>
+    <td width="217"><p align="center">Mr. Nagendra -9342044199<br />
+      <a href="mailto:nagendra@kristujayanti.com">nagendra@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">3</p></td>
+    <td width="266"><p align="center">&nbsp;</p>
+      <p align="center">&ldquo;Workshop on Statistical Computing and    Graphics tool – R&rdquo;</p></td>
+    <td width="164"><p align="center">28-08-2017 to 31-08-2017</p></td>
+    <td width="167"><p align="center">Statistic Department</p></td>
+    <td width="217"><p align="center">Mrs. Suni – 9342981869<br />
+      <a href="mailto:suni.a@kristujayanti.com">suni.a@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">4</p></td>
+    <td width="266"><p align="center">&nbsp;</p>
+      <p align="center">&ldquo;National Conference on Computing    Intelligence&rdquo; NCCI 2017</p></td>
+    <td width="164"><p align="center">15-09-2017</p></td>
+    <td width="167"><p align="center">Computer Science Dept</p></td>
+    <td width="217"><p align="center">Dr. Nagarajan – 8072243785<br />
+      <a href="mailto:nagarajan@kristujayanti.com">nagarajan@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p>&nbsp;</p>
+      <p align="center">5</p></td>
+    <td width="266"><p align="center">FDP on Statistical Computing and    Graphics tool </p></td>
+    <td width="164"><p align="center">16-10-2017 &amp; 17-10-2017</p></td>
+    <td width="167"><p align="center">Statistic Department</p></td>
+    <td width="217"><p align="center">Mrs. Suni – 9342981869<br />
+      <a href="mailto:suni.a@kristujayanti.com">suni.a@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">6</p></td>
+    <td width="266"><p align="center">Workshop on &ldquo;Robotics&rdquo;</p></td>
+    <td width="164"><p align="center">09-12-2017</p></td>
+    <td width="167"><p align="center">Computer Science Dept</p></td>
+    <td width="217"><p align="center">Mrs. Vinothina – 8861511222<br />
+      <a href="mailto:vinothina.v@kristujayanti.com">vinothina.v@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">7</p></td>
+    <td width="266"><p align="center">Xactitude 2K18 – Inter-collegiate Fest</p></td>
+    <td width="164"><p align="center">24-01-2018 </p></td>
+    <td width="167"><p align="center">Computer Science Dept</p></td>
+    <td width="217"><p align="center">Mr. Prathap &amp; Mrs. Kalaiselvi<br />
+      9036967080, 9731778310<br />
+      <a href="mailto:prathap.g@kristujayanti.com">prathap.g@kristujayanti.com</a> <br />
+      <a href="mailto:kalaiselvi@kristujayanti.com">kalaiselvi@kristujayanti.com</a></p></td>
+  </tr>
+  <tr>
+    <td width="64"><p align="center">8</p></td>
+    <td width="266"><p align="center">Galaxia 2K18 – Science Exhibition </p></td>
+    <td width="164"><p align="center">24-01-2018 &amp; 25-01-2018</p></td>
+    <td width="167"><p align="center">Computer Science Dept</p></td>
+    <td width="217"><p align="center">Mr. Amjad Khan – 9986728791<br />
+      <a href="mailto:amjadhkhan@kristujayanti.com">amjadhkhan@kristujayanti.com</a></p></td>
+  </tr>
+</table>
                                
-                                    <iframe src="http://www.google.com/calendar/embed?src=web%40kristujayanti.com&ctz=Asia/Calcutta" style="border: 0;width:100%;" width="750" height="600" frameborder="0" scrolling="no" ></iframe>
+                                    <!--<iframe src="http://www.google.com/calendar/embed?src=web%40kristujayanti.com&ctz=Asia/Calcutta" style="border: 0;width:100%;" width="750" height="600" frameborder="0" scrolling="no" ></iframe>-->
 
 
 

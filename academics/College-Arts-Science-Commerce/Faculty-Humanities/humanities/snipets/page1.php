@@ -245,16 +245,16 @@
                 <h4> Belga Marriya Berk
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/> M.A ENGLISH, UGC NET, Ph.D (ongoing)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> South Asian Literature, Trauma Studies, Minority Literature, Psychoanalysis, Creative Writing, Cultural Studies
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 1year of teaching, 5years of research
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 6 / 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -276,16 +276,16 @@
                 <h4> Paulami Guha Biswas
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  MA English Literature, NET, (PhD) 
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> American Literature & Indian Literature 
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 2 Years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -301,22 +301,22 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/christy.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Christy Glory Santhi D S
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  M.A.,B.Sc.,B.Ed.,
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Public speaking, theatrical events,  events managements, writing articles, fabric painting, creative arts, interior and HR ,life skill
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 27 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> Nil
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -338,16 +338,16 @@
                 <h4> Alna Mariya Isac
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  MA in English Language and Literature
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Modern Fiction, Post -Colonial Criticism, Film and Cultural Studies
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 8 months
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 4
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -355,7 +355,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
+                </ul><br>
             </div>
         </div>
     </div>
@@ -369,16 +369,16 @@
                 <h4> Vidyavathi  R
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  MA, M.Phil, (PhD)
+                    <span>Qualification </span> <br/>  M.A(English), M.Phil(English), (PhD English)
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/>  Indian English literature, non verbal communication
+                    <span>Areas of Interest </span><br/>  Indian English literature, Cultural studies and Non Verbal Communication
                 </p>
                 <p>
-                    <span>Experience </span><br/> 9 yrs and 8 months
+                    <span>Experience </span><br/> 9 years and 8 months
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 4
+                    <span>Papers presented or published </span><br/> 14
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -397,19 +397,19 @@
                 <div class="class-img"><img src="images/faculty/krishna prabha.jpg"></div>
             </div>
             <div class="item-content">
-                <h4> Dr.  Krishna Prabha
+                <h4> Dr. V.P. Krishna  Prabha
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  M.A., Ph. D., BEC.
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Culture Studies, Women’s Writing Across Cultures & Postcolonial studies
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 32 Years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 9 / 5
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -431,16 +431,16 @@
                 <h4> Sachin Mundakkal
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  Bachelor of philosophy, BA English, MA English
+                    <span>Qualification </span> <br/>  Bachelor of Philosophy, MA in English Literature.
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> Eco Literature, Phonetics,Cultural Studies,Children's Literature,Drama and Theater and Film Studies
+                    <span>Areas of Interest </span><br/> Eco Literature, Cultural Studies, Comparative Literature and Women Studies.
                 </p>
                 <p>
                     <span>Experience </span><br/> 2 years
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> 3
+                    <span>Papers presented or published </span><br/> 2
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
@@ -456,22 +456,80 @@
 	<div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/faculty/.jpg"></div>
+                <div class="class-img"><img src="images/faculty/Chithra.jpg"></div>
             </div>
             <div class="item-content">
                 <h4> Chithra P
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/>  -
+                    <span>Qualification </span> <br/>  MA English Literature & M Phil
                 </p>
                 <p>
-                    <span>Areas of Interest </span><br/> -
+                    <span>Areas of Interest </span><br/> Phonetics, Linguistics & Modern English 
                 </p>
                 <p>
-                    <span>Experience </span><br/> -
+                    <span>Experience </span><br/> 5 years 
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> -
+                    <span>Papers presented or published </span><br/> 2
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	
+	<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Sruthi.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Sruthi B Guptha
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> Intersectional studies, gender studies, Post colonial Studies, Cultural Studies and Travel Literature
+                </p>
+               
+				<p>
+                    <span>Papers presented or published </span><br/> 06
+                </p>
+                <ul class="list-inline social-light ">
+                    <li>
+                        <a class=" social-icon" href="mailto:#"> <i class="fa fa-envelope"></i></a>
+                    </li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	
+	<div class="member-item col-md-4 ">
+        <div class="member-item-inner">
+            <div class="item-thumbnail">
+                <div class="class-img"><img src="images/faculty/Aujo.jpg"></div>
+            </div>
+            <div class="item-content">
+                <h4> Aujo Philip
+                </h4>
+                <p>
+                    <span>Qualification </span> <br/> MA English , MPhil. , (PhD)
+                </p>
+                <p>
+                    <span>Areas of Interest </span><br/> American Literature
+                </p>
+                
+				<p>
+                    <span>Papers presented or published </span><br/> 02
                 </p>
                 <ul class="list-inline social-light ">
                     <li>

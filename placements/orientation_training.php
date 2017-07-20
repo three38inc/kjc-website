@@ -112,23 +112,28 @@
                                     <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Placement Orientation & Training Programme(POTP)</span>
-                                    </h4>
-
-<p align="justify">The Centre for Employability & Corporate Relations started the Placement season, Gate 2017, with a fortnight long "Placement Orientation Program" for all Graduates & Post Graduates from the final year class of 2017. The training sessions were handled by the Talent Transformation Team from the CECR.</p>
-
-<p><b style="color: #cd6e08;font-weight: bold;">The main objectives of the program were:</b><br>
+										   <span>&nbsp;Placement Orientation & <strong> Training Programme (POTP)</strong></span>
+									 </h4>
+									
+									<p align=justify>The Centre for Employability & Corporate Relations started the Placement season, Gate 2018, with a three week long "Placement Orientation & Training Program" for all Graduates & Post Graduates from the final year class of 2018. The training sessions are handled by the Talent Transformation Team from the CECR.</p>
+									<p><b style="color: #cd6e08;font-weight: bold;">The main objectives of the program are: </b><br>
 1. Career focus<br>
 2. Corporate expectations<br>
 3. Need analysis<br>
 4. Sessions on Self introduction, Resume writing, Written tests, Group discussion and Mock interview<br>
-5. Awareness of the Placement guidelines - 2017</p>
+										5. Awareness of the Placement guidelines - 2018</p>
+									
+<p>The first round of Intensive POTP started on the 30th of June 2017 and will conclude on the 25th July 2017.</p>
+<p>The Centre for Employability &amp; Corporate Relations will kick-start the Placement season for various disciplines during the last week of July, 2017.</p>
+									
+									<table border="0" align="center">
+									<tr>
+										<center><td width="400"><a href="orientation-schedule-ug.php" class="btn btn-primary">ORIENTATION SCHEDULE – GATE 2018 (UG)</a></td></center>
+										<td width="400"><a href="orientation-schedule-pg.php" class="btn btn-primary">ORIENTATION SCHEDULE – GATE 2018 (PG)</a></td>
+										</tr></table><br>
+									
 
-<p>The first round of Intensive POTP started on 28th of June 2016 and concluded on 8th July 2016.</p>
-
-<p>The Centre for Employability & Corporate Relations will kick-start the Placement season for various disciplines during the last week of July, 2016.</p>
-
-<img src="images/potp.png">
+									<center><img src="images/potp.png"></center>
 
                                 </div>
                             </div>

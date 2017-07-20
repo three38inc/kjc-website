@@ -95,24 +95,17 @@
 									Wi-Fi enabled labs with all necessary software provides effective learning experience and proficiency in handling to real time situations.</p>
 
 								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Student's seminar</b><br>
-									Apart from traditional teaching and training method students are given with opportunity to learn by themselves and present new concepts in students seminar series. These sessions are not only improving the skills to explore new arenas of knowledge, but also helps to elevate one’s confidence level and presentation skill</p>
-
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Assignments</b><br>
-									Assignments are given as part of internal assessment. Assignment topics are given from the topics related to the subjects either from syllabus or from current events.</p>
-
-
-
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Peer group teaching</b><br>
-									Peer group teaching is teaching the students by the students. Students are divided into different groups and those who are good in particular software or subjects will lead the group and help the students to excel in their area of interest. </p>
-
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest Lectures</b><br>
+								Apart from traditional teaching and training method students are given with opportunity to learn by themselves and present new concepts in students seminar series. These sessions are not only improving the skills to explore new arenas of knowledge, but also helps to elevate one’s confidence level and presentation skill</p>
+									 
+									 <p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest Lectures</b><br>
 									Guest lectures are arranged every Saturday where the students gain chance to interact with industry experts, these sessions add more value and provides deeper insights to recent developments and requirements of IT industry. It also open placements and internship opportunities to the aspiring students </p>
-
-								<p><b style="color: #cd6e08;font-weight: bold;">Remedial Classes</b><br>
-									For weak students separate remedial classes are conducted.</p>
-
-								<p align=justify><b style="color: #cd6e08;font-weight: bold;">Discussion forum </b><br>
+									 
+									 	<p align=justify><b style="color: #cd6e08;font-weight: bold;">Discussion forum </b><br>
 									Discussion forum provides a learning platform for students to share their ideas and clarify their doubts on topics of interest. The students group and faculty members have their freedom to reflect their thoughts and read others response from the discussion.</p>
+
+								
+
+							
 
 
 								</div></div>

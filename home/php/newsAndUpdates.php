@@ -145,9 +145,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>PG Programmes:</b> Counselling result held on <b>01<sup>st</sup> July, 2017.</b>
-                                    <a href="../admission/pg_counselling_result_july_01_2017.php">(View result)</a><br>
-								Next Counselling will be held on 10<sup>th</sup> July, 2017 <a href="../admission/admission.php">(Apply online)</a>
+								<td><b>PG Programmes:</b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus. <a href="../admission/admission.php">(Apply online)</a>
 								</td>
                             </tr>
                         </table>
@@ -157,7 +155,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>10<sup>th</sup> July, 2017.</b>
+								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>20<sup>th</sup> July, 2017.</b>
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
@@ -170,6 +168,16 @@
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
                                 <td><b>PGDM Programme: </b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                     <a href="../admission/admission.php">(Apply online)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
+					<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/broucher.png" width="50" height="50" class="img-circle" /></td>
+								<td><b> Centre for NET / SET Training</b>
+                                    <a href="../events/events.php?mode=openlink&year=2017&month=july&url=NET-SET-Training.php" class="read-more">(More details)</a></td>
                             </tr>
                         </table>
                     </li>
@@ -197,14 +205,14 @@
                    
                    
                   
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/clipboard.png" width="50" height="50" class="img-circle" /></td>
                                 <td>3rd Trim MBA/PGDM 2016-18 batch CBCS Course Registration  <a href="http://kristujayanti.edu.in/CBCS/choice_based_credit_mba.php" target="_blank">[CLICK HERE]</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                   
                    
                   
@@ -228,39 +236,84 @@
                             </tr>
                         </table>
                     </li>-->
-					
+                    
+                     <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 12th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>-->
+                    
+                    <!-- <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 15th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-15july.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>-->
+                    
                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 19th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-19july.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 20th 2017</strong> Placement Orientation &amp; Training Programme   
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-20july.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+					
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/clock-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>July 17th 2017</strong> School of Management (MBA & PGDM) Inauguration of Academic Year 2017-18 Commencement of First Trimester Classes</td>
                             </tr>
                         </table>
-                    </li>
-                    <li class="news-item">
+                    </li>-->
+                    
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>July 18th 2017</strong> Commencement of I Sem MA / MSc / MCom / M.Com. (FA)/ MSW programmes</td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01 st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
+                                <td><strong>August 01st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
                             </tr>
                         </table>
                     </li>
-                    <li class="news-item">
+					
+                   <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/star-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01 st 2017</strong> Commencement of I Sem MCA programme</td>
+                                <td><strong>August 02nd 2017</strong> Commencement of I Sem MCA programme</td>
                             </tr>
                         </table>
-                    </li>
+					</li>
+					
+					   
                 </ul>
             </div>
         </div>

@@ -115,7 +115,11 @@
                                         <span>&nbsp; Academic Project</span>
                                     </h4>
 
-                                    <p align=justify>With an objective to provide the practical knowledge of operations of business organisations, department of management initiated a two week internship for IV Semester BBM students as part of their curriculum. Each student must select an organisation strictly from the suggested list of industries and do the internship between 4th May, 2018 and 6th June, 2018</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;"> Internship</b><br>
+                                        With an objective to provide the practical knowledge on the operations of business organisations, department of management initiated a two week internship for IV Semester BBM students as part of their curriculum. Each student must select organisations strictly from the suggested list of industries and do the internship between 4th May, 2018 and 6th June, 2018.</p>
+                                    <p><b style="color: #cd6e08;font-weight: bold;">Project Work</b><br>
+                                        Students are also supposed to undertake a project work in a company during their VI semester. They are encouraged to choose and work on topics in their area of specialization (Finance, HR and Marketing). The project work fulfills a purpose of synthesis of all the knowledge they have acquired throughout the different years. Besides, this knowledge is put in use to analyze specific issues in the company and come up with feasible suggestions. The students are also supposed to submit a detailed report on the project to the college. </p>
+
                                 </div>
                             </div>
                             <div class="col-lg-3">
@@ -187,7 +191,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

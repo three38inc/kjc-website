@@ -115,29 +115,10 @@
                                             <span>&nbsp; Faculty Of <strong>Commerce &amp; Management</strong></span>
                                         </h4>
 
-                                   
-                                        <p align="justify">
-                                            <!--                                        <img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
-                                            The Department of Life Sciences was started in the year 2002, with the aim of providing comprehensive inputs to aspiring students in the field of Life Sciences. Realizing the immense potential of the life science sector in opening up new avenues of employment and the need for skilled and trained human resources the Department of Life Sciences of the college offers B.Sc. programmes and M.Sc. programmes in Biotechnology &amp; Microbiology.   
-                                        </p>
-                                        <p align="justify">
-                                            The Department has been endowed the status of a Research Centre in Biotechnology of Bangalore University. The Department of Life Sciences was established with a vision to provide 'Knowledge and excellence in basic and applied sciences' and functions towards its mission to educate students through their graduate and postgraduate programmes by providing experienced advisors, state-of-the-art laboratory facilities and a rationalized curriculum that helps build confidence in them to take up challenges and excel in their career.  With the commitment of the faculty members to educational excellence, well equipped high tech laboratory and research laboratories the Department strives to serve the students in enhancing their scientific temperament and enable them to prove scholarly knowledge in various emerging fields of Life Sciences.
-                                        </p>
-                                        <p align="justify">
-                                            The syllabus of programmes covers the latest technical innovations in the respective streams of Microbiology and Biotechnology. The curriculum is designed based on current needs so that employability can be improved. There is also an emphasis on student research activities through add on programmes and minor research projects. The other priorities include developing entrepreneurship skills and grooming students to become future scientists.. 
-                                        </p>
-                                        <!--
-<p><strong>Adding feather to the cap, the department was ranked as:</strong></p>
-<ul>
-<li>Coffee</li>
-<li>Tea</li>
-<li>Milk</li>
-</ul>
--->
-                                        <!--                                
-<p align="justify">
-The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded with gratitude by the Government of India and to honour him, the Government released a postal stamp with his portrait in 1986. The CMI congregation with a membership of 2300, serves humanity in educational, social, healthcare and other activities, aiming the prosperity and well-being of the society. Though Kristu Jayanti College is a minority institution, it strives to impart quality education without distinction of religion, caste or creed.</p>
--->
+										<p align=justify>The faculty of commerce and management offers leading academic courses in commerce and management as a core field of study. The Faculty of Commerce & Management (FCM) offers programmes designed to provide students with a sound understanding of the functions of Business and their inter-relationships. All business and economic activities, whether in the private or public sector, utilizes the functions to plan, organize, administer, control, produce, market and distribute goods or services. As corporations grow larger and more complex, as government regulations become more pervasive, and national and international firms compete for markets – the principles and techniques in business become more critical for success.</p>
+										<p align=justify>The FCM strives to develop in its students an understanding of nature of modern business, including an awareness of emerging business opportunities and the constraints within those opportunities may be explored. It requires students to apply the analytical skills developed in study of general education to real business situation.</p>
+										<p align=justify>At present the FCM offers different commerce and management courses such as B.Com , B.Com – Professional, B.Com Tourism, B.Com (Integrated with ACCA), BBA, BBA with CIMA, BA HTJ and HEP – Economics and Tourism major  at UG Level. At PG Level FCM offers MBA, PGDM, M.Com, M.Com Financial Analysis (FA),  M.Com FA with CIMA and  MA Economics.  It also offers   one year executive program for industry professionals. </p>
+
 
 
 
@@ -150,12 +131,20 @@ The service of Saint Kuriakose Elias Chavara has been acknowledged and lauded wi
                                             <span>&nbsp;<strong>Departments</strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="commerce/commerce.php">Department of Commerce</a></p>
+                                            <p><a class="a-link-arrow" href="commerce/commerce.php">Department of Commerce (UG)</a></p>
+                                        </section>
+										
+										<section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="commerce-pg/commerce-pg.php">Department of Commerce (PG)</a></p>
                                         </section>
 
 
                                         <section class="link-arrow">
                                             <p><a class="a-link-arrow" href="management/management.php">Department of Management</a></p>
+                                        </section>
+										
+										<section class="link-arrow">
+                                            <p><a class="a-link-arrow" href="economics/economics.php">Department of Economics</a></p>
                                         </section>
 
                                     </div>

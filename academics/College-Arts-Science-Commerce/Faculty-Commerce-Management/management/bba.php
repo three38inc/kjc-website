@@ -119,7 +119,7 @@
                                     <p><b style="color: #cd6e08;font-weight: bold;">Eligibility Criteria:</b><br>
                                         Students securing 40% aggregate marks including languages in PUC/10+2/ any equivalent is eligible.</p>
 									
-									
+								<center><p><a href="curriculum/BBA-Curriculum-2017-2020.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA 2017 - 20</a></p></center>	
 								<center><p><a href="curriculum/bba_curriculum_2014-17_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA 2014 - 17</a></p></center>
 								<center><p><a href="curriculum/bba_curriculum_2015-18_batch.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of BBA   2015 - 18</a></p></center>
                                     
@@ -194,7 +194,7 @@
                                     </section> 
                                     
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_development_courses.php">Career Development Courses</a></p>
+                                        <p><a class="a-link-arrow" href="career_development_courses.php">Certificate and Credit Courses</a></p>
                                     </section> 
                                     
                                     <section class="link-arrow">

@@ -1,0 +1,284 @@
+/* custom styles for law page */
+
+
+.mainImg{
+    width: 100%;
+    position: relative;
+    z-index: 0;
+}
+
+.mainImg:before{
+    content: " ";
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 200px;
+    height: 100px;
+    background-color: rgba(52, 73, 94, 0.6);
+    z-index: 99;
+}
+
+center .mainheading h4{
+    text-align: center;
+}
+
+center .mainheading span{
+    font-size: 20px;
+}
+
+center .mainheading span strong{
+    font-size: 24;
+}
+
+
+
+/*floating division styling */
+
+.floatDiv{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 100%;
+    padding: 50px 0;
+    background: linear-gradient(90deg,transparent,rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+}
+
+
+.deanary{
+    text-align: center;
+    margin: 20px 0;
+    padding: 0 20px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.deanary>.iconDiv>i{
+    background-color: transparent;
+    text-align: center;
+    padding: 25px;
+    border-radius: 50%;
+    font-size: 1.6em;
+    color: #fff;
+    border: 1px solid #e79800;
+    transition: all ease-in-out .3s;
+}
+
+.deanary:hover>.iconDiv>i{
+    background-color: #fff;
+    color: #e79800;
+    border: 1px solid #c7c7c7;
+    box-shadow: 0px 4px 10px #c7c7c7;
+}
+
+.deanary>h3{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all ease-in-out .3s;    
+}
+
+.deanary:hover>h3{
+    color: #e79800;
+}
+
+.deanary>p{
+    font-size: 12px;
+    margin: 20px 0;
+    font-weight: thin;
+    letter-spacing: 1px;
+    line-height: 1.6em;
+    color: #ccc;
+}
+
+.deanary>a{
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    transition: all ease-in-out .3s;
+}
+
+.deanary:hover>a{
+    color: #e79800;
+}
+
+/* custom styles for course Details Divison starts here */
+
+.courseDetails{
+    padding-top: 5px;
+    min-height: 385px;
+}
+
+.courseDetails .filters{
+    text-align: right;
+    padding: 5px 0px;
+}
+
+.courseDetails .filters a{
+    width: 100%;
+    text-align: center;
+    color: #333;
+    display: block;
+    font-size: 16px;
+    padding: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0 10px;
+    margin-top: 10px;
+    position: relative;
+    border-bottom: 1px solid #777;
+    transition: all ease-in-out .5s;
+}
+
+.courseDetails .filters a:hover, .courseDetails .filters .active{
+    color: #e79800;
+    border-bottom: 2px solid #e79800;   
+}
+
+.courseDetails .grid{
+    width: 100%;
+    clear: both;
+    padding: 0;
+    text-align: justify;
+}
+
+.courseDetails .grid a{
+    text-decoration: none;
+}
+
+.courseDetails .grid a:hover{
+    text-decoration: none;
+}
+
+.courseDetails .courseTitle{
+    width: 100%;
+    height: 125px;
+    padding: 20px 10px;
+    color: #333;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: #f8f8f8;
+    transition: all ease-in-out .3s;
+}
+                                                        
+.color-1{
+    border-right: 1px solid  #10c45c;
+}
+
+.color-1:hover{
+    background-color: #10c45c;
+    border-right: 5px solid  #0eb053;
+    color: #fff;
+}
+
+.color-2{
+    border-right: 1px solid  #24ccc0;
+}
+
+.color-2:hover{
+    background-color: #24ccc0;
+    border-right: 5px solid  #079d92;
+    color: #fff;
+}
+
+.color-3{
+    border-right: 1px solid  #fc5f42;
+}
+
+.color-3:hover{
+    background-color: #fc5f42;
+    border-right: 5px solid  #fd2a03;
+    color: #fff;
+}
+
+.color-4{
+    border-right: 1px solid  #45aef4;
+}
+
+.color-4:hover{
+    background-color: #45aef4;
+    border-right: 5px solid  #008be7;
+    color: #fff;
+}
+
+.color-5{
+    border-right: 1px solid  #ad33c6;
+}
+
+.color-5:hover{
+    background-color: #ad33c6;
+    border-right: 5px solid  #9000ae;
+    color: #fff;
+}
+
+.color-6{
+    border-right: 1px solid  #f8c331;
+}
+
+.color-6:hover{
+    background-color: #f8c331;
+    border-right: 5px solid  #e1a500;
+    color: #fff;
+}
+
+.color-7{
+    border-right: 1px solid  #e1001a;
+}
+
+.color-7:hover{
+    background-color: #e1001a;
+    border-right: 5px solid  #a1001a;
+    color: #fff;
+}
+
+.courseDetails .courseTitle i{
+    font-size: 2.5em;
+    padding: 23px 25px;
+    padding-right: 35px;
+    transition: all ease-in-out .3s;
+}
+
+.courseDetails .courseTitle:hover i{     
+    color: #fff;
+}
+
+.c1{
+    color: #10c45c;
+}
+
+.c2{
+    color: #24ccc0;
+}
+
+.c3{
+    color: #fc5f42;
+}
+
+.c4{
+    color: #45aef4;
+}
+
+.c5{
+    color: #ad33c6;
+}
+
+.c6{
+    color: #f8c331;
+}
+
+.c7{
+    color: #e1001a;
+}
+
+.courseDetails .courseTitle h2{
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    line-height: 1.7;
+}
+
+.courseDetails .courseTitle p{
+    font-size: 14px;
+    text-align: left;
+}

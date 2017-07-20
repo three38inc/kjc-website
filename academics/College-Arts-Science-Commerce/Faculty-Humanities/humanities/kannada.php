@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,6);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,2);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -79,7 +79,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								 <div class="content-left myWelcome wow fadeIn">
-<img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                             <img src="images/kannada/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; <strong>Kannada</strong></span></h4>
                                 
@@ -89,7 +89,7 @@
                                 <p>Department of Kannada also organizes National Level Seminar every year on language and cultural related topics. Well known writers, speakers visit the College to address the students. Rangantharanga- the annual theatrical performance of the department provides the opportunity for the students to exhibit their talents.</p>
                                 <p>Every year Kannada students will have a chance to attend theater workshop and a play to practice. Students also perform in Ravindrakalaakshethra, Rangashakara and Kalaagrama. </p>
 
-                                <p><b style="color: #cd6e08;font-weight: bold;">>Activities </b><br>
+                                <p><b style="color: #cd6e08;font-weight: bold;">Activities </b><br>
 1.	Kannada Habba<br>
 
 2.	Kuppali Field visit<br>
