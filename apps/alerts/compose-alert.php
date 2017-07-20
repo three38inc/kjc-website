@@ -1,3 +1,8 @@
+<?php
+    session_start();
+    if(!isset($_SESSION["logged-user"]))
+        header("Location: page-login.php");
+?>
 <!DOCTYPE html>
 <html>
 
@@ -111,11 +116,15 @@
                                     </div>
                                     <div class="form-group">
                                         <label class="col-lg-3 control-label">Subject</label>
-                                        <div class="col-lg-9">
+                                        <div class="col-lg-4" style="display:inline;">
                                             <input type="text" class="form-control" name="subject" value="" placeholder="The Subject Matter of the Alert" id="alert-subject" />
                                         </div>
+                                        <label class="col-lg-1 control-label">Label</label>
+                                        <div class="col-lg-4" style="display:inline;">
+                                            <input type="text" class="form-control" name="label" value="" placeholder="Type of alert" id="alert-label" />
+                                        </div>
                                     </div>
-                                    <div class="form-group">
+                                   <div class="form-group">
                                         <label class="col-lg-3 control-label" style="padding-top:0px;">Message</label>
                                         <div class="inline-editor">
                                             <p>
@@ -281,21 +290,24 @@
                             beforeSend: function() {
                                 $('.ajax-loader').css("visibility", "visible");
                             },
-                            url: "includes/save_alert_info.php",
+                            url: "snippets/save_alert_info.php",
                             data: ({
                                 visibility_period: $('.input-daterange-timepicker').val(),
                                 subject: $('#alert-subject').val(),
+                                label: $('#alert-label').val(),
                                 message: $('.note-editable').html()
 
                             }),
                             cache: false,
                             success: function(e) {
+                                console.log(e);
                                 if (e == "error1") {
                                     if (!alert("Oops ! Multiple Student Entry Found \n Failed to Register :)"))
                                         location.reload();
                                 } else {
                                     if (!alert("Oops something went wrong !!! Please do try again \n "))
-                                        location.reload();
+                                        //location.reload();
+                                        ;
                                 }
                             },
                             complete: function() {
