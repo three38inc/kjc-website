@@ -6,7 +6,7 @@
     <div class="col-lg-1 col-md-1 hidden-xs hidden-sm"></div>
     <div class="col-lg-5 col-md-5 deanary" id="mba">
         <div class="iconDiv">
-            <i class="fa fa-folder-open-o" aria-hidden="true"></i>
+            <img src="images/icons/MBA_international.png" width="75px"/>
         </div>
         <h3>PGDM &amp; MBA</h3>
         <p>School of Management is designed for those, aspiring a vocation in management, creating opportunities to lift one’s career </p>
@@ -15,7 +15,7 @@
     
     <div class="col-lg-5 col-md-5 deanary" id="pgdm">
         <div class="iconDiv">
-            <i class="fa fa-folder-open-o" aria-hidden="true"></i>
+            <img src="images/icons/MBA_international.png" width="75px"/>
         </div>
         <h3>International PGDM &amp; MBA</h3>
         <p>MBA/PGDM International Finance enables the students to obtain ACCA  qualification along with MBA/PGDM programme.</p>
