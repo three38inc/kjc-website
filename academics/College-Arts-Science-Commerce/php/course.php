@@ -28,7 +28,7 @@
         <div class="col-lg-4 col-md-4 science"></div>
 
         <div class="col-lg-12 science" data-category="science">
-            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php">Department Of Computer Science [UG]</a></h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php" style="cursor:pointer;">Department Of Computer Science [UG]</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -74,7 +74,7 @@
         
         
         <div class="col-lg-12 science" data-category="science">
-            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/">Department Of Computer Science [PG]</a></h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/"  style="cursor:pointer;">Department Of Computer Science [PG]</a></h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -89,7 +89,7 @@
         
 
         <div class="col-lg-12 science" data-category="science">
-            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php">Department Of Life-Science</a></h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php"  style="cursor:pointer;">Department Of Life-Science</a></h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
