@@ -155,7 +155,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>20<sup>th</sup> July, 2017.</b>
+								<td><b>Law Programmes:</b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>

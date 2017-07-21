@@ -206,7 +206,7 @@
                                             </div>
 											
 								 <p><font color="#FF0000" size="2"><u>B.A., LL.B. / B.B.A., LL.B. / B.Com LL.B. Programmes: </u> </font><br />
-                                                            <font size="2" color="#990000"><b>Next Counselling will be held on 20<sup>th</sup> July, 2017</b> </font>
+                                   <b>Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                                            
                                                                <a href="admission_guidelines.php" class="btn btn-primary btn-xs">Apply Online</a>
                                                            <br />

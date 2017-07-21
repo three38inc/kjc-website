@@ -124,7 +124,7 @@ win=window.open(mypage,myname,settings);}
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;PG<strong> Admission</strong></span>
                                     </h4>
-     <p><b>Note: Admissions to M.Sc Psychology, MSW, English Literature Programmes for the academic year 2017 has been closed</b></p>
+     <p><b>Note: Admissions to M.Sc Psychology Programme for the academic year 2017 has been closed</b></p>
 									
      <table border="0" cellpadding="0" cellspacing="0" class="table table-striped table-bordered table-condensed" style="margin:auto;">
   <tr>
