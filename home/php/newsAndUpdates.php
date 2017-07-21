@@ -276,6 +276,16 @@
                             </tr>
                         </table>
                     </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 22nd 2017</strong> Department of Computer Science [PG] organizing Student Seminar Series "IOT, WOT and Cloud Computing"  
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=IOT-WOT.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>
 					
                     <!--<li class="news-item">
                         <table cellpadding="4">

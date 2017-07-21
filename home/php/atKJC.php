@@ -102,11 +102,21 @@
         </div>
         
         <div class="item">
-			<img src="../images/events-banner/kristu-jayanti-college-india-costa.jpg"/>
+			<img src="../images/events-banner/kristu-jayanti-college-student-seminar-series.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
+        
+        
+        
+        
+        <!--<div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-india-costa.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>-->
         
         <div class="item">
 			<img src="../images/events-banner/kristu-jayanti-college-attitudinal-workshop.jpg"/>
@@ -114,6 +124,15 @@
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
         </div>
+        
+         <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-hardware-networking.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+        
         
          <div class="item">
 			<img src="../images/events-banner/kristu-jayanti-college-rural-exposure.jpg"/>
@@ -124,6 +143,13 @@
         
          <div class="item">
 			<img src="../images/events-banner/kristu-jayanti-college-computational-intelligence.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+          <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-synchronize2k17.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>

@@ -32,12 +32,12 @@
         </div>
 		
 		
-        <div class="item">
+        <!--<div class="item">
 			<img src="images/events-banner/kristu-jayanti-college-india-costa.jpg"/>
             <div class="carousel-caption">
                 <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
             </div>
-        </div>
+        </div>-->
         
         <div class="item">
 			<img src="images/events-banner/kristu-jayanti-college-attitudinal-workshop.jpg"/>

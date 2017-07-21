@@ -837,6 +837,46 @@
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								 Department of Computer Science (UG) Organizing Workshop on "Hardware &amp; Networking" on July 31 &amp; August 1, 2017
+								</p>
+								<!--<a href="#" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>-->
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">AUG</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">11</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+							SYNCHRONIZE 2K17 is an intra-collegiate IT fest organized by the Computer Academy- the auspicious club of the Department of Computer Science (UG)
+								</p>
+							<a href="../events/events.php?mode=openlink&year=2017&month=august&url=synchronize2k17.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">AUG</p>
                                 <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">18</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
