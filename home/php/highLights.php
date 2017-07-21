@@ -8,6 +8,16 @@
 <div class="frame-testimonials" style="margin-top: 10px;">
     <ul id="frameHighLights" class="owl-carousel">
         
+        <li>
+            <img src="../highlights/2017/kristu-jayanti-college-AWS-educate.jpg" class="img-responsive"/>
+            <span class="date"></span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=AWS-educate.php">
+              <h4>Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate <br/><small>
+        Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate to provide teaching and learning resources and AWS..  </small></h4></a>
+            </div>
+        </li>
+        
          <li>
             <img src="../highlights/2017/kristu-jayanti-college-clean-campus.jpg" class="img-responsive"/>
             <span class="date">15<sup>th</sup> July 2017</span>
