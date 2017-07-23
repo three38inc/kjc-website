@@ -3,6 +3,8 @@
     if(!isset($_SESSION["logged-user"]))
         header("Location: page-login.php");
     
+    require("snippets/connect.php");
+    
 ?>
 <!DOCTYPE html>
 <html>
@@ -61,14 +63,7 @@
                 <div class="col-lg-3 col-md-4">
                     <div class="p-20">
                         <a href="compose-alert.php" class="btn btn-danger btn-rounded btn-custom btn-block waves-effect waves-light">Compose Alert</a>
-                        <h3 class="panel-title m-t-40">Labels</h3>
-                        <div class="list-group b-0 mail-list">
-                            <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-info m-r-10"></span>Web App</a>
-                            <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-warning m-r-10"></span>Project 1</a>
-                            <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-purple m-r-10"></span>Project 2</a>
-                            <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-pink m-r-10"></span>Friends</a>
-                            <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-success m-r-10"></span>Family</a>
-                        </div>
+                        <?php include('snippets/tags.php');?>
                     </div>
                 </div>
                 <!-- End Left sidebar -->
@@ -149,8 +144,26 @@
     <script src="assets/js/jquery.app.js"></script>
     
     <script src="assets/js/custom.js"></script>
-
+    
+    <script type="text/javascript">
+        $('.converter').each(function(){
+            var $this = $(this);
+            var t = $this.text();
+            $this.html(t.replace('&lt;','<').replace('&gt;', '>').replace('&#10;',''));
+        });
+    </script>
 </body>
 
 
 </html>
+<!--
+$now=strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d H:i:s a'));
+$alertDateBegin = strtotime("2017-07-23 12:00:00 am");
+$alertDateEnd = strtotime("2017-07-23 11:59:59 pm");
+
+if($now > $alertDateBegin && $now < $alertDateEnd) {
+   echo "Show the Alert";
+} else {
+    echo "Don't Show Alert";  
+}
+-->

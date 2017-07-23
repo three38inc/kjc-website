@@ -1,41 +1,47 @@
 <?php 
     session_start();
+
     require('snippets/connect.php');
+    
     if(isset($_SESSION["logged-user"]))
         header("Location: index.php");
+    
     if(isset($_POST['log-in']))
     { 
-        $user=$_POST["username"];
-        $pass=$_POST["password"];
-        //isset($_POST["checkbox-signin"])?$remember="yes":$remember="no";
+        $username=$_POST["username"];
+        $password=$_POST["password"];
         
-        /* Select queries return a resultset */
-        if ($result = $link->query("SELECT * FROM `login` WHERE `user`= '".$user."' and `pass`= '".$pass."' LIMIT 1")) {
-            if($result->num_rows){
-                $res=mysqli_fetch_array($result);
-                if($res['pass']==$pass){
-                    $_SESSION["logged-user"]=$user;
-                    //$_SESSION["preserve-session"]=$remember;
-                    header("Location: index.php");
-                }
-                else
-                {
-                    $notification1="error1";
-                }
+        
+        /* Validate the Username & Password */
+        $stmt = $connector->prepare('SELECT * FROM `login` WHERE `user` = :username and `pass` = :password');
+        $stmt->bindValue(":username",$username,PDO::PARAM_STR);
+        $stmt->bindValue(":password",$password,PDO::PARAM_STR);
+        $res = $stmt->execute();
+        
+        if($res) {
+            $login_info = $stmt->fetch(PDO::FETCH_ASSOC);// (This stmt can be used to take only one row)
+//            $login_info = $stmt->fetchAll();
+            if($login_info["pass"]==$password){
+                $_SESSION["logged-user"]=$username;
+                header("Location: index.php");
             }
-            else{
-
-                $notification1="error2";
+            else
+            {
+                $notification1="error1";
             }
-            /* free result set */
-            $result->close();
         }
+        else{
+                $notification1="error2";
+        }
+            
     }
     else
     { 
        $error="undefined"; 
     }
-    $link->close();
+    $connector=null;
+    $stmt=null;
+    $res=null;
 ?>
 <!DOCTYPE html>
 <html>

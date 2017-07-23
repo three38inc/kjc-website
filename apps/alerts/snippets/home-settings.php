@@ -2,8 +2,6 @@
     <div class="col-lg-12">
         <div class="btn-toolbar m-t-20" role="toolbar">
             <div class="btn-group">
-                <button type="button" class="btn btn-primary waves-effect waves-light "><i class="fa fa-star"></i> Star</button>
-                <button type="button" class="btn btn-primary waves-effect waves-light "><i class="fa fa-star-o"></i> Unstar</button>
                 <button type="button" class="btn btn-primary waves-effect waves-light "><i class="fa fa-trash-o"></i>  Delete</button>
             </div>
 
