@@ -11,15 +11,16 @@
                                         <b class="caret"></b>
                                          Label</button>
                 <ul class="dropdown-menu" role="menu">
-                    <li><a href="#" class="list-group-item b-0"><span class="fa fa-circle text-info m-r-10"></span>Web App</a></li>
-                    <li>
-                        <a href="#" class="list-group-item b-0"><span class="fa fa-circle text-warning m-r-10"></span>Project 1</a>
-                    </li>
-                    <li><a href="#" class="list-group-item b-0"><span class="fa fa-circle text-purple m-r-10"></span>Project 2</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li><a href="#" class="list-group-item b-0"><span class="fa fa-circle text-pink m-r-10"></span>Friends</a>
-                    </li>
+                    <?php 
+                    /* Get the Tags stored */
+                        $stmt = $connector->query('SELECT * FROM `tags`');
+                        if($stmt){
+                            while($row=$stmt->fetch()){
+                                echo '<li><a href="#" class="list-group-item b-0"><span class="fa fa-circle m-r-10" style="color:'.$row["color"].'"></span>'.$row["name"].'</a></li>';
+                            }
+                        }
+                    ?>
+                    <li><a href="#" class="list-group-item b-0"><span class="fa fa-circle m-r-10" style="color:#b2b2b2"></span>All</a></li>
                 </ul>
             </div>
             <div class="btn-group">

@@ -145,13 +145,7 @@
     
     <script src="assets/js/custom.js"></script>
     
-    <script type="text/javascript">
-        $('.converter').each(function(){
-            var $this = $(this);
-            var t = $this.text();
-            $this.html(t.replace('&lt;','<').replace('&gt;', '>').replace('&#10;',''));
-        });
-    </script>
+    
 </body>
 
 
