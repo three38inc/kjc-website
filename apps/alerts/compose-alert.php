@@ -134,7 +134,7 @@
                                                         }
                                                         else{
                                                     ?>
-                                                            <option value="None" data-color="#b2b2b2"></option>
+                                                            <option value="All" data-color="#b2b2b2"></option>
                                                     <?php
                                                         }
                                                     ?>
