@@ -8,13 +8,16 @@
                 <h4>  Dr. Ashokkumar J
                 </h4>
                 <p>
-                    <span>Qualification </span> <br/> MBA PhD NET(JRF)
+                    <span>Qualification </span> <br/> BE., MBA., MBA., PhD., NET+JRF
                 </p>
                 <p>
-                    <span>Areas of interest </span><br/> Marketing and Operations
+                    <span>Areas of interest </span><br/> Operations Management, Marketing and Internatioanl Business 
                 </p>
                 <p>
-                    <span>Experience </span><br/>17 years
+                    <span>Experience </span><br/> 7 years
+                </p>
+                <p>
+                    <span>Papers presented &amp; published </span><br/> 26 / 16
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
