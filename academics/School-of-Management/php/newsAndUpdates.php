@@ -140,7 +140,7 @@
             <div class="col-xs-12">
                 <ul class="demo1" >
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
@@ -149,9 +149,9 @@
 
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
@@ -160,9 +160,9 @@
 
                             </tr>
                         </table> 
-                    </li>
+                    </li>-->
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
@@ -171,10 +171,10 @@
 
                             </tr>
                         </table> 
-                    </li>
+                    </li>-->
                     
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
 
@@ -183,7 +183,7 @@
 
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                   
                     <li class="news-item">
