@@ -2,6 +2,48 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+        <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                <div class="panel-heading" role="tab" id="heading15">
+                    <h4 class="panel-title">
+                    July 24<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse15" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading15">
+                <div class="panel-body">
+                    <p><b>For all UG & PG classes (except MBA & PGDM)</b><br>
+
+                        <b>Entrepreneurship and Innovation Centre (EIC)</b><br>
+                        Students registered for Entrepreneurship and Innovation Centre (EIC) are requested to assemble in Mini Auditorium II on Wednesday, 26/07/2017 at 3.30 p.m. for the formal orientation programme.</p>
+
+                    <p><b>For all UG classes</b><br>
+                        Kristu Jayanti College “INVESTORS CLUB” is organizing Investor Training Programme to bridge the gap between the classroom and the financial workplace for all UG students to train on Basics of Investment channels and develop skills. Aspiring traders/students are invited to be a part of Investor’s Club and can register their names with following Club Coordinators.<br>
+
+                        <b>Club Coordinators:</b><br>
+    K. Kiran Kumar (Staff Room No. 4, II Floor)<br>
+    Dr. Arti Singh (Staff Room No. 4, II Floor)<br>
+                        Ms. Maria Monica (Staff Room No. 1, I Floor)</p>
+
+                    <p>Kirstu Jayanti College – Film and Photography Club is organizing a two-day film festival ‘Fade in’ on July 27 and 28, 2017. This year being the 25th death anniversary of legendary film maker Satyajit Ray, the annual film fest will pay a tribute by screening the notable works of Ray ‘Pather Panchali’, and ‘Charulatha’. Film fest will also screen masterpieces like Charlie Chaplin’s ‘The Great Dictator’, Tom Tykwer’s ‘Run Lola Run’, Asghar Farhadi’s ‘Salesman’ and M. Manikandan’s ‘Kaka Muttai’. Interested students can register their names in the UG Block Reception Counter on or before July 26, 2017. The admission will be on first come first serve basis.</p>
+
+                    <p><b>For all B.Com classes</b><br>
+ Let us salute our nation by celebrating Independence Day. Department of Commerce is organizing Jai Hind programme to enhance the spirit of patriotism among the students. It is a one week programme comprising of various events like quiz, tableau, poster making, group dance, group song, skit & mime commencing from 8th August 2017. Interested students are requested to register their names with the faculty coordinators. For further details please contact the following Faculty in-charge:<br>
+
+    <b>*</b> Prof. Preethi, Staff Room No. 1, First floor, UG Block<br>
+    <b>*</b> Prof. Thanuja, Staff Room No. 1, First floor, UG Block<br>
+    <b>*</b> Prof. Saranya, Staff Room No. 1, First floor, UG Block<br>
+    <b>*</b> Prof. Padmanagendra, Staff Room No. 1, First floor, UG Block<br>
+                        <b>*</b> Prof. Naveen, Staff Room No. 3, First floor, UG Block</p>
+                    
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
          <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse14" aria-expanded="false" aria-controls="collapse14">
                 <div class="panel-heading" role="tab" id="heading14">
