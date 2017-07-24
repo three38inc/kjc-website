@@ -67,9 +67,8 @@
 }
 .back__bg-1,
 .front__bg-1 {
-  background-image: url('slider-images/slider.png');
+  background-image: url('slider-images/slider-1.jpg');
 }
-/*
 .back__bg-2,
 .front__bg-2 {
   background-image: url('slider-images/slider-2.jpg');
@@ -82,7 +81,6 @@
 .front__bg-4 {
   background-image: url('slider-images/slider-4.jpg');
 }
-*/
 
 .back__bg.hidden {
   display: none;
@@ -99,7 +97,6 @@
 .back__bg-1 {
   top: 0%;
 }
-/*
 .back__bg-2 {
   top: 100%;
 }
@@ -109,7 +106,6 @@
 .back__bg-4 {
   top: 300%;
 }
-*/
 
 .front__bg {
   -webkit-transform: scale(0.8);
@@ -412,11 +408,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
   <div class="content">
     <div class="back">
       <div class="back__bg back__bg-1 active"></div>
-      
+      <div class="back__bg back__bg-2"></div>
+      <div class="back__bg back__bg-3"></div>
+      <div class="back__bg back__bg-4"></div>
     </div>
     <div class="front">
       <div class="front__bg front__bg-1 active"></div>
-      
+      <div class="front__bg front__bg-2"></div>
+      <div class="front__bg front__bg-3"></div>
+      <div class="front__bg front__bg-4"></div>
     </div>
 <!--
     <div class="nav">
