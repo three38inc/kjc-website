@@ -85,19 +85,45 @@
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;Industrial <strong> Exposure </strong></span></h4>
+                                    
+                                    
+                                	<div class="inner-content">
+											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+												<div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="heading7">
+														<h5 class="panel-title">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="true" aria-controls="collapse7">
+														International Internship Programme 2017
+															</a>
+														</h5>
+													</div>
+													<div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+							<div class="panel-body">
+                                <p>Kristu Jayanti School of Management has organized an International Internship Programme for the first year MBA/PGDM students (Batch 16-18) to Germany, France & Spain from 01/07/2017 to 16/07/2017. Students of MBA/PGDM, 18 in numbers led by Rev Fr. Lijo P Thomas, started from Bangalore on July 01, 2017.  The programme consisted of 32 teaching units at the Hochschule Neu-Ulm University (HNU) of Applied Sciences and at the Ulm Chamber of Commerce and industry including a visit to Audi AG in Ingolstadt.</p>
+                                <p>The University programme commenced on 3rd July, 2017 at HNU with an Introduction by the President & Dean, International Office of the University. Ms. Nertinger delivered her speech on the ‘Cultural Specifics of Germany’. Prof. Dr. Steurer delivered a lecture of International Finance Management. Students were also taken for a campus tour and also for a city tour in Germany. The course on International Finance Management continued on 4th July, 2017. On 5th July, 2017 Dr. Kaulitz conducted a session on ‘Commerce & Industry in Germany’. On 6th July, 2017, Prof. Dr. Achim Dehnert conducted a session on ‘International Business Management’. </p>
+                                <p>On 7th July 2017, students were taken to the Audi AG in Ingolstadt. Students spent their time till 12th July in Germany visiting many places of Business & Cultural importance in the cities of Berlin, Cologne and Munich. Between 12th July to 16th July 2017, students were taken to France (Paris) & Spain (Madrid & Barcelona) and they returned back to India on 17th July 2017 morning.</p>
+                                <p>Students had a great Learning Experience, International Exposure & fun visiting many historic places and business places in Germany, France & Spain. </p>
+                                <p>‘It was indeed a life time experience to learn the culture, business and financial management with international perspectives’ shares Kevin Sunny & Joice Jose</p>
+
+																
+														</div>
+													</div>
+												</div></div></div>
+
+
 								
 	
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading1">
+													<div class="panel-heading" role="tab" id="heading6">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
 																2016-17
 															</a>
 														</h5>
 													</div>
-													<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
+													<div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
 							<div class="panel-body">
 		to be update
 																
@@ -110,14 +136,14 @@
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading2">
+													<div class="panel-heading" role="tab" id="heading5">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
 																2015-16
 															</a>
 														</h5>
 													</div>
-													<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
+													<div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
 							<div class="panel-body">
 		to be update
 														</div>
@@ -127,14 +153,14 @@
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading3">
+													<div class="panel-heading" role="tab" id="heading4">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse4">
 																2014-15
 															</a>
 														</h5>
 													</div>
-													<div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
+													<div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
 							<div class="panel-body">
 								<p><b>Industrial Visits (2014 -2015)</b><br>
 									<b>06.08.2014</b> - Unibic Biscuits India Pvt. Ltd, Bangalore</p>
@@ -158,14 +184,14 @@
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading4">
+													<div class="panel-heading" role="tab" id="heading3">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="true" aria-controls="collapse4">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="true" aria-controls="collapse3">
 																2013-14
 															</a>
 														</h5>
 													</div>
-													<div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
+													<div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
 							<div class="panel-body">
 								<p><b>Industrial Visits (2013 -2014)</b></p>
 
@@ -195,14 +221,14 @@
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading5">
+													<div class="panel-heading" role="tab" id="heading2">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" aria-controls="collapse5">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="true" aria-controls="collapse2">
 																2012-13
 															</a>
 														</h5>
 													</div>
-													<div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
+													<div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
 							<div class="panel-body">
 								<p><b>Industrial Visits (2012 -2013)</b></p>
 
@@ -238,14 +264,14 @@
 								<div class="inner-content">
 											<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 												<div class="panel panel-default">
-													<div class="panel-heading" role="tab" id="heading6">
+													<div class="panel-heading" role="tab" id="heading1">
 														<h5 class="panel-title">
-															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="true" aria-controls="collapse6">
+															<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
 																International Visit 2014
 															</a>
 														</h5>
 													</div>
-													<div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
+													<div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
 							<div class="panel-body">
 								<p><b>International Industrial Visit Singapore & Malaysia</b><br>
 									<b>Date:</b> july 02nd to 09th - 2014</p>

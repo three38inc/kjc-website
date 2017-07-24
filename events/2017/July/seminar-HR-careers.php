@@ -1,7 +1,7 @@
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 event-tab">
 	<div class="panel panel-primary">
 		<div class="panel-heading">
-  Workshop on ‘Writing for Newspapers 
+  Proprium Series
 
             <b class="panel-title pull-right">July 26<sup>th</sup> 2017</b>
             <div style="clear:both"></div>
@@ -18,7 +18,7 @@
                 <b>Date and time</b> – Wednesday, 26 July 2017 from 11 AM onwards</p>
 
 
-			<img src="images/kristu-jayanti-college-pradeep.jpg">
+			
 
 			
 			<!--<center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1390413994370802" target="_blank" class="btn btn-primary btn-sm">PHOTO GALLERY</a></center>-->
