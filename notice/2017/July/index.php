@@ -2,6 +2,47 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+        
+               <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse16" aria-expanded="false" aria-controls="collapse16">
+                <div class="panel-heading" role="tab" id="heading16">
+                    <h4 class="panel-title">
+                    July 25<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse16" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading16">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+                        CSA meeting is scheduled today (25/07/2017). All CSA volunteers are requested to attend the meeting in Room No. 301 at 4.30 p.m.</p>
+
+                    <p><b>Environment Club</b><br>
+
+                        <b>Registration for Environment Club</b><br>
+
+                        <b>The objectives of the Environment Club are:</b><br>
+    1. Raise awareness and understanding of environmental issues.<br>
+                        2. Instill a sense of responsibility for the environment and a personal commitment to protect and preserve the environment. The club will be involved in a diversity of programmes aimed at promoting environmental consciousness and protecting the environment. Members will contribute by providing creative ideas on how to initiate and organise programmes in line with the Club’s objectives as well as in participating in hands-on “green” activities. Students who wish to enroll in the Environment Club are requested to register their names at the Reception Counter, UG Block on or before Thursday, July 27, 2017.</p>
+
+                    <p>Kirstu Jayanti College – Film and Photography Club is organizing a two-day film festival ‘Fade in’ on July 27 and 28, 2017. This year being the 25th death anniversary of legendary film maker Satyajit Ray, the annual film fest will pay a tribute by screening the notable works of Ray ‘Pather Panchali’, and ‘Charulatha’. Film fest will also screen masterpieces like Charlie Chaplin’s ‘The Great Dictator’, Tom Tykwer’s ‘Run Lola Run’, Asghar Farhadi’s ‘Salesman’ and M. Manikandan’s ‘Kaaka Muttai’. Interested students can register their names in the UG Block Reception Counter on or before July 26, 2017. The admission will be on first come first serve basis.</p>
+
+                    <p><b>For all B.Com classes</b><br>
+  Let us salute our nation by celebrating Independence Day. Department of Commerce is organizing Jai Hind programme to enhance the spirit of patriotism among the students. It is a one week programme comprising of various events like quiz, tableau, poster making, group dance, group song, skit & mime commencing from 8th August 2017. Interested students are requested to register their names with the faculty coordinators. For further details please contact the following Faculty in-charge:<br>
+
+    > Prof. Preethi, Staff Room No. 1, First floor, UG Block<br>
+    > Prof. Thanuja, Staff Room No. 1, First floor, UG Block<br>
+    > Prof. Saranya, Staff Room No. 1, First floor, UG Block<br>
+    > Prof. Padmanagendra, Staff Room No. 1, First floor, UG Block<br>
+                        > Prof. Naveen, Staff Room No. 3, First floor, UG Block</p>
+                    
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse15" aria-expanded="false" aria-controls="collapse15">
                 <div class="panel-heading" role="tab" id="heading15">

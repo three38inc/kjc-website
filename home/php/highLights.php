@@ -9,6 +9,16 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-training-research-society.jpg" class="img-responsive"/>
+            <span class="date">21<sup>st</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-functional-vocational-training.php">
+              <h4>Department of Social Work | Orientation Visit to Functional Vocational Training and Research Society (FVTRS) <br/><small>
+       The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
             <img src="../highlights/2017/kristu-jayanti-college-AWS-educate.jpg" class="img-responsive"/>
             <span class="date"></span>
             <div class="quote">
