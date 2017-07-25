@@ -3,8 +3,7 @@
         margin-bottom: 3px;
         font-size: .9em;
         font-weight: bolder;
-/*        color: #3498db;*/
-        color: #2c3e50;;
+        color: #e9d460;
         cursor: pointer;
         font-family: 'PT Sans', sans-serif;
         transition: all ease-in-out 0.2s;
@@ -15,7 +14,7 @@
     }
     
     .prog-background-1 {
-        background-color: #65C6BB;
+       background: #3a539b;
         padding: 1px 2px;
         margin-left: -11px;
         margin-top: 11px;
@@ -23,16 +22,20 @@
     }
     
     .prog-background-2 {
-        background-color: #65C6BB;
+        background: #4b77be;
         padding: 1px 2px;
         margin-left: -11px;
         margin-top: 11px;
         margin-right: 15px;
         min-height: 146px;
     }
-    
+    .prog-background-2 h6,.prog-background-1 h6{
+        padding-left: 5px;
+    }.prog-background-2 h5,.prog-background-1 h5{
+        padding-left: 12px;
+    }
     .prog-background-17 {
-        background-color: #65C6BB;
+        background: #2547a9;
         padding: 1px 2px;
         margin-left: -11px;
         margin-top: 11px;
@@ -317,81 +320,61 @@
                                         </div>
                                         <div class="col-lg-3">
                                             <div class="prog-background-6">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Computer Science [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">Bachelor of Computer Application [BCA]</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Sc Computer Science,Mathematics &amp;<br/>Electronics</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Sc Computer Science,Mathematics &amp;<br/>Statistics</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php">Department Of Computer Science [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bca.php">Bachelor of Computer Application [BCA]</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bsc_csme.php">B.Sc Computer Science,Mathematics &amp;<br/>Electronics</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/bsc_csms.php">B.Sc Computer Science,Mathematics &amp;<br/>Statistics</a></h5>
                                             </div>
                                             <div class="prog-background-7">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Life Science [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Sc Biotechnology <br/>Biochemistry ,Genetics</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Sc Microbiology<br/>Biochemistry ,Genetics</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php">Department Of Life Science [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/bsc_bio.php">B.Sc Biotechnology <br/>Biochemistry ,Genetics</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/bsc_micro.php">B.Sc Microbiology<br/>Biochemistry ,Genetics</a></h5>
                                             </div>
                                             <div class="prog-background-15">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Psychology [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">M.Sc Psychology</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/psychology/psychology.php">Department Of Psychology [PG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/psychology/msc_program.php">M.Sc Psychology</a></h5>
                                             </div>
                                         </div>
                                         <div class="col-lg-3">
                                             <div class="prog-background-8">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department of Commerce [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">Bachelor Of Commerce [B.Com]</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Com Professional [B.Com Prof.]</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Com ACCA Integrated</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">B.Com Tourism</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/commerce.php">Department of Commerce [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/bcom.php">Bachelor Of Commerce [B.Com]</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/bcom_professioal.php">B.Com Professional [B.Com Prof.]</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/bcom_integrated_bcom_acca.php">B.Com ACCA Integrated</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/bcom_tourism.php">B.Com Tourism</a></h5>
                                             </div>
                                             <div class="prog-background-9">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department of Management [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">Bachelor Of Busines Administration [BBA]</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/management/management.php">Department of Management [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/management/bba.php">Bachelor Of Busines Administration [BBA]</a></h5>
                                             </div>
                                             <div class="prog-background-10">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Journalism &amp; Mass-Communication [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">MA Mass Communication &amp; Journalism</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/journalism.php">Department Of Journalism &amp; Mass-Communication [PG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/ma_journalism_mass_communication.php">MA Mass Communication &amp; Journalism</a></h5>
                                             </div>
                                             <div class="prog-background-14">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Social Work [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">Master of Social Work [MSW]</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/socialwork/social_work.php">Department Of Social Work [PG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/socialwork/master_socialwork.php">Master of Social Work [MSW]</a></h5>
                                             </div>
                                         </div>
                                         <div class="col-lg-3">
                                             <div class="prog-background-11">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Journalism &amp; Mass-Communication [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">BA History, Tourism, Journalism</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">BA Journalism, Psychology, Computer Science</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">BA Journalism, Political Science, English Literature</a></h5>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">BA Journalism, Psychology, English Literature</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/journalism.php">Department Of Journalism &amp; Mass-Communication [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/ba_htj.php">BA History, Tourism, Journalism</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/ba_jpcs.php">BA Journalism, Psychology, Computer Science</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/ba_jpoleng.php">BA Journalism, Political Science, English Literature</a></h5>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/ba_jpeng.php">BA Journalism, Psychology, English Literature</a></h5>
                                             </div>
                                             <div class="prog-background-12">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Humanities [UG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">BA History, Economics, Political Science</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/humanities/humanities.php">Department Of Humanities [UG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/humanities/ba_hep.php">BA History, Economics, Political Science</a></h5>
                                             </div>
                                             <div class="prog-background-13">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department of Management [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">1 Year PG Diploma for Working Executives</a></h5>
+                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/management/management.php">Department of Management [PG]</a></h6>
+                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/management/pg_diploma.php">1 Year PG Diploma for Working Executives</a></h5>
                                             </div>
 
                                         </div>
-<!--
-                                        <div class="col-lg-3">
-                                            <div class="prog-background-13">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department of Management [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">1 Year PG Diploma for Working Executives</a></h5>
-                                            </div>
-                                            <div class="prog-background-14">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Social Work [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">Master of Social Work [MSW]</a></h5>
-                                            </div>
-                                            <div class="prog-background-15">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/#">Department Of Psychology [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/#">M.Sc Psychology</a></h5>
-                                            </div>
-                                            <div class="prog-background-16">
-                                                <h6 class="all-prog-head" style="color:#3498db;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/">Department Of Computer Science [PG]</a></h6>
-                                                <h5 style="padding-left:5px;"><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/index.php">Master Of Computer Application [MCA]</a></h5>
-                                            </div>
 
-                                        </div>
--->
                                     </div>
                                 </div>
                             </div>

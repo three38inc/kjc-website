@@ -23,7 +23,7 @@
             </div>
         </div>
         <h3>Faculty Of Commerce &amp; <br>  Management  </h3>
-        <p>Faculty of Commerce &amp; Management offers M.Com, B.Com, B.Com Professional, BBA, B.Com Tourism ..</p>
+        <p>Faculty of Commerce &amp; Management offers M.Com, B.Com, B.Com Professional, BBA ..</p>
         <a href="Faculty-Commerce-Management/index.php">Know More</a>
     </div>
 
@@ -35,7 +35,7 @@
             </div>
         </div>
         <h3>Faculty Of Humanities</h3>
-        <p>The Faculty of Humanities offers Social Work, Psychology, Mass Communication, Literature and Languages, History, Culture and Political Science..</p>
+        <p>The Faculty of Humanities offers Social Work, Psychology, Mass Communication, Literature and Languages, History, ..</p>
         <a href="Faculty-Humanities/index.php">Know More</a>
     </div>
 

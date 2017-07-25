@@ -165,13 +165,13 @@
                                             <h4>Media Room</h4>
                                         </div>
                                         <ul style="margin-top:10px;font-size:1.2em;">
-                                            <li style="list-style-type: none;"><a href="../media_room/news.php"  class="read-more" target="_blank" style="text-decoration:none;">News  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/in_house_publications.php"  class="read-more" target="_blank" style="text-decoration:none;">Publications  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/photographs.php"  class="read-more" target="_blank" style="text-decoration:none;">Photographs  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/press_releases.php"  class="read-more" target="_blank" style="text-decoration:none;">Press Releases  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/in_the_news.php"  class="read-more" target="_blank" style="text-decoration:none;">In the News  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/social_media.php"  class="read-more" target="_blank" style="text-decoration:none;">Social Media  <i class="fa fa-angle-double-right"></i></a></li>
-                                            <li style="list-style-type: none;padding-top: 5px;text-align: center;"><a href="../media_room/index.php" class="read-more" style="font-weight:.8em;">Read More <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/news.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> News </a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/in_house_publications.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> Publications </a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/photographs.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> Photographs </a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/press_releases.php"  class="read-more" target="_blank" style="text-decoration:none;">  <i class="fa fa-angle-double-right"></i> Press Releases</a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/in_the_news.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> In the News </a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/social_media.php"  class="read-more" target="_blank" style="text-decoration:none;">  <i class="fa fa-angle-double-right"></i> Social Media</a></li>
+                                            <li style="list-style-type: none;padding-top: 5px;text-align: center;"><a href="../media_room/index.php" class="read-more" style="font-size:13px;">Read More <i class="fa fa-angle-double-right"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

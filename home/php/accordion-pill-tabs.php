@@ -344,35 +344,39 @@
 
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="../achivements/college.php">
-                            <div class="accTabs color-1">
+                            <div class="accTabs color-1" style="text-align:center;">
                                 <h2><i class="flaticon-kjc-collaborations c1"></i>College</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="../achivements/students.php">
-                            <div class="accTabs color-2">
+                            <div class="accTabs color-2" style="text-align:center;">
                                 <h2><i class="flaticon-kjc-iqac c2"></i>Students</h2>
                             </div>
                         </a>
                     </div>
                     <div class=" col-lg-4 col-xs-12 mis">
                         <a href="../achivements/faculty.php">
-                            <div class="accTabs color-3">
+                            <div class="accTabs color-3" style="text-align:center;">
                                 <h2><i class="flaticon-kjc-gallery c3"></i>Faculty</h2>
 								
                             </div>
 						</a>
 					</div>
-                    <div class=" col-lg-12 col-xs-12 mis hidden-xs hidden-sm">
+                    <div class=" col-lg-4 mis hidden-xs hidden-sm">
                         <a href="../achivements/college.php">
-<!--
-                            <div class="accTabs color-3">
-                                <h2><i class="flaticon-kjc-gallery c3"></i>Faculty</h2>
-								
-                            </div>
--->
-                            <img src="<?php echo $ROOT;?>/images/achievements-banner.jpg" class="img-responsive"/>
+                            <img src="<?php echo $ROOT;?>/images/achievements/college_achievement.png" class="img-responsive" style="max-width: 40%;height: auto;margin: auto;"/>
+						</a>
+					</div>
+                    <div class=" col-lg-4 mis hidden-xs hidden-sm">
+                        <a href="../achivements/students.php">
+                            <img src="<?php echo $ROOT;?>/images/achievements/students_achievement.png" class="img-responsive" style="max-width: 40%;height: auto;margin: auto;"/>
+						</a>
+					</div>
+                    <div class=" col-lg-4 mis hidden-xs hidden-sm">
+                        <a href="../achivements/faculty.php">
+                            <img src="<?php echo $ROOT;?>/images/achievements/faculty_achievement.png" class="img-responsive" style="max-width: 40%;height: auto;margin: auto;"/>
 						</a>
 					</div>
                     
