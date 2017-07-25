@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,19);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,8);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -80,14 +80,17 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
-									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+									 <img src="images/achievements/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp;  <strong> Achievements  </strong></span></h4>
                                
                                 <p align=justify>Kristu Jayanti College is known by the quality of the students it produces. The students of the Computer Science Department have proved themselves to be the best in Bangalore and in different parts of the country over and over again. The professionalism and competitive spirit that demonstrates a successful IT professional has been exuded by the students in the recent competitions and events conducted by various educational institutions.</p>
                                     
-                                    <p><b>Achievements in Academic Year 2017-18</b></p>
+                                    <p><b><u>Achievements in Academic Year 2017-18</u></b></p>
+                                    
+                                    <p><b style="color: #cd6e08;font-weight: bold;"><font size="3"> <center>Kristu Jayanti College(Autonomous) New Initiative in Partnering with ICT Academy Karnataka</center></font></b>
+                                    Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate to provide teaching and learning resources and AWS Promotional Credit to deliver cloud computing to the faculty members and students. This initiative is taken to strengthen India's four important visions on Skill India, Digital India, Startup India and Make in India.</p>
                                     
                                     <center><p><b> In India Today - Nielsen survey-2017, the college is ranked 2nd Best BCA College in India.</b></p></center>
                                     

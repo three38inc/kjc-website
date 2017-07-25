@@ -185,15 +185,15 @@
                                 </a>
                             </div>
                             <div class="col-lg-3 card-mba cardBg">
-                                <a href="interactive-group-learning.php" style="text-decoration:none;color:#FFF;">
+                                <a href="international-internship-programme.php" style="text-decoration:none;color:#FFF;">
                                 <div class="card-img2">
-                                    <img src="images/mba/3i4-600x400.jpg" class="card-img-top">
+                                    <img src="images/mba/international-exposure.jpg" class="card-img-top">
                                 </div>
                                 <div class="card-block">
                                     <h4 class="card-title">International Internship and Exposure</h4>
                                     <!--<h5 class="card-subtitle">intellectually engaged community</h5>-->
                                     <p class="card-text">Kristu Jayanti School of Management offers unique for budding managers to widen their horizons through International internship.....</p>
-                                    <div class="card-btn"><a href="interactive-group-learning.php" class="btn btn-primary" style="background: #fff;
+                                    <div class="card-btn"><a href="international-internship-programme.php" class="btn btn-primary" style="background: #fff;
     border-color: #fff;
     color: #2c3e50;
     font-weight: bold;

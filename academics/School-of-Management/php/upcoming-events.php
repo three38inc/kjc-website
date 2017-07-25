@@ -299,7 +299,7 @@
                         </table>
                     </li>
                     
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -311,14 +311,14 @@
 								   School of Management (MBA & PGDM) & Department of Economics in Association with Indian Economic Trade Organization (IETO)
     organize India & Costa Rica Conclave at 10.30 am in SKE Auditorium 
 								</p>
-								<!--<a href="#" class="read-more">
+								<a href="#" class="read-more">
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
-								</a>-->
+								</a>
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
 				
 					
                     <li class="news-item">
@@ -336,6 +336,26 @@
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>-->
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">JUL</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">29</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								   School of Management ( MBA & PGDM) 3i - Industry - Institute Interface 
+								</p>
+								<a href="../../events/events.php?mode=openlink&year=2017&month=july&url=3i-kulkarni.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 								</td>
 							</tr>
                         </table>
