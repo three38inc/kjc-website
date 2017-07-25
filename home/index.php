@@ -164,101 +164,15 @@
                                         <div class="placementTitle">
                                             <h4>Media Room</h4>
                                         </div>
-                                        <div class="owl-carousel owl-theme" id="MediaSlider">
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="<?php echo $ROOT ; ?>/images/weekly-calendar.png" class="media-room-icon" />
-                                                    <span class="media-room-heading">Glimpses</span>
-
-                                                </div>
-                                                <div style="clear:both;"></div>
-
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                  Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
-                                                </p>
-                                            </div>
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="<?php echo $ROOT ; ?>/images/newspaper.png" class="media-room-icon" />
-                                                    <div class="media-room-heading">KJC IN NEWS</div>
-                                                </div>
-
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
-                                                </p>
-                                            </div>
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="../images/publications.png" class="media-room-icon" />
-                                                    <div class="media-room-heading">Publications</div>
-                                                </div>
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
-                                                </p>
-                                            </div>
-
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="../images/play-button.png" class="media-room-icon" />
-                                                    <div class="media-room-heading">Videos</div>
-                                                </div>
-
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
-                                                </p>
-                                            </div>
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="../images/networking.png" class="media-room-icon" />
-                                                    <div class="media-room-heading">Social Media</div>
-                                                </div>
-
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
-                                                </p>
-                                            </div>
-                                            <div class="item">
-                                                <div class="media-room">
-                                                    <img src="../images/broucher.png" class="media-room-icon" />
-                                                    <div class="media-room-heading">Brochures</div>
-                                                </div>
-
-                                                <div style="clear:both;"></div>
-                                                <p style="text-align:center; font-size: 1em;position:relative;">
-                                                    Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison..
-                                                </p>
-                                                <p class="text-center">
-                                                    <!--
-                                                    <a href="../admission/admission.php" class="label label-primary text-center" style="font-size: 1em;">
-                                                        Click Here</a>
--->
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a></p>
-
-
-                                            </div>
-
-
-
-                                        </div>
+                                        <ul style="margin-top:10px;font-size:1.2em;">
+                                            <li style="list-style-type: none;"><a href="../media_room/news.php"  class="read-more" target="_blank" style="text-decoration:none;">News  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/in_house_publications.php"  class="read-more" target="_blank" style="text-decoration:none;">Publications  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/photographs.php"  class="read-more" target="_blank" style="text-decoration:none;">Photographs  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/press_releases.php"  class="read-more" target="_blank" style="text-decoration:none;">Press Releases  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/in_the_news.php"  class="read-more" target="_blank" style="text-decoration:none;">In the News  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;"><a href="../media_room/social_media.php"  class="read-more" target="_blank" style="text-decoration:none;">Social Media  <i class="fa fa-angle-double-right"></i></a></li>
+                                            <li style="list-style-type: none;padding-top: 5px;text-align: center;"><a href="../media_room/index.php" class="read-more" style="font-weight:.8em;">Read More <i class="fa fa-angle-double-right"></i></a></li>
+                                        </ul>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 space">
