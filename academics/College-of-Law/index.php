@@ -33,7 +33,11 @@
 		<script src="../../js/respond.js"></script>
 		<script src="../../js/custom.js"></script>
 		<script src="../../js/fakeLoader.js"></script>
-
+        <style>
+         .container .row .col-lg-3 {
+    background-color: transparent;
+}
+        </style>
 	</head>
 	<body>
 		<div id="fakeLoader"></div>

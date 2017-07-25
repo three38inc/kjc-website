@@ -241,37 +241,37 @@
                                 <div class="row">
                                     <div class="col-lg-4">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/">
+                                            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" target="_blank">
                                                 <h4>School of Management</h4>
                                             </a>
                                             <p>
                                                 The school of Management offers two years Management Programme MBA &amp; PGDM.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="<?php echo $ROOT; ?>/academics/School-of-Management/" class="read-more" target="_blank">Read More <i class='fa fa-angle-double-right' ></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-4">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/">
+                                            <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" target="_blank">
                                                 <h4>College of Arts, Science &amp; Commerce</h4>
                                             </a>
                                             <p>
                                                 Kristu Jayanti College (Autonomous) offers various undergraduate and postgraduate programmes in Commerce, Management, Science, Humanities &amp; one year executive programmes in management.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/" class="read-more" target="_blank">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-4">
                                         <div class="menu-alt">
-                                            <a href="<?php echo $ROOT; ?>/academics/College-of-Law/">
+                                            <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" target="_blank">
                                                 <h4>College of Law</h4>
                                             </a>
                                             <p>
                                                 Kristu Jayanti College of Law offers 5 years integrated BA LL.B., BBA LL.B., B.Com LL.B.
                                             </p>
-                                            <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" class="read-more">Read More <i class='fa fa-angle-double-right'></i></a>
+                                            <a href="<?php echo $ROOT; ?>/academics/College-of-Law/" class="read-more" target="_blank">Read More <i class='fa fa-angle-double-right'></i></a>
                                         </div>
                                     </div>
 
