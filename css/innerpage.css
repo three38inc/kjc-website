@@ -90,11 +90,13 @@ section a.a-link-arrow::after {
     transform: translateX(1em);
     color:#2980b9;
 }
+/*
 
 .link-arrow a.a-link-arrow::after {
     -webkit-transform: translateX(-1em);
     transform: translateX(-1em);
 }
+*/
 
 .link-arrow a.a-link-arrow::before,
 .link-arrow a.a-link-arrow::after {
@@ -109,6 +111,7 @@ section a.a-link-arrow::after {
     width: 100%;
     background: #fff;
 }
+/*
 
 .link-arrow a.a-link-arrow::after {
     left: 100%;
@@ -128,6 +131,7 @@ section a.a-link-arrow::after {
     -webkit-transform: translateX(0);
     transform: translateX(0);
 }
+*/
 
 .link-arrow a.a-link-arrow::before {
     left: 0px;

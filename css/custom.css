@@ -2509,7 +2509,7 @@ a.read-more:hover i {
     left: 0px;
     z-index: -1;
     width: 100%;
-    background: #f3f3f3;
+    background: transparent!important;;
 }
 
 .link-arrow {
@@ -2676,3 +2676,12 @@ a.read-more:hover i {
 
 
 /*media-room icon #END*/
+.container .row .col-lg-3{
+    background-color:rgba(218, 223, 225,1);
+}
+.yamm-content .row .col-lg-3{
+    background-color:transparent;
+}
+.branchDiv~.row .col-lg-3{
+    background-color:transparent;
+}

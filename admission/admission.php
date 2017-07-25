@@ -37,7 +37,7 @@
             left: 0px;
             z-index: -1;
             width: 100%;
-            background: #f3f3f3;
+            background: transparent;
         }
         
         .link-arrow {
@@ -275,7 +275,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 </blockquote>
                                 </div>
                             </div>
-                            <div class="col-lg-3" style="background-color:rgba(218, 223, 225,0.5);">
+                            <div class="col-lg-3" style="background-color:rgba(218, 223, 225,1);">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     
                                      <?php include('right-admission.php');?>
