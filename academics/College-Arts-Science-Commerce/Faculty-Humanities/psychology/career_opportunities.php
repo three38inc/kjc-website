@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,9);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -84,44 +84,18 @@
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Career <strong>Opportunities </strong></span></h4>
                                     
-                                <p align=justify><b>The course offers opportunities to the students to work in the following fields</b><br>
-                                    <b style="color: #cd6e08;font-weight: bold;">Industrial Psychology & HRDM</b><br>
-                                    Industrial Psychology discipline has expanded to broader domain and currently comprises six widely acknowledged sub-fields: Personnel Psychology, Organizational Psychology, Career Psychology, Consumer Psychology, Ergonomics and Psychometrics. </p>
-                                    
-                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">Job Niches</b><br>
-                                     <ul><li>HR consultant</li>
-                                         <li>HR manager</li>
-                                         <li>OD manager</li>
-                                         <li>Compensation and Benefits Managers</li>
-                                         <li>I/O Psychology Scientist / Researcher</li>
-                                         <li>Strategic partner</li>
-                                         <li>Academic advisor</li>
-                                         <li>Awareness Creator</li>
-                                         <li>Counselor / Mentor </li>
-                                         <li>Assessment and selection specialists </li>
-                                         <li>Job Analyst  </li>
-                                         <li>Career or leadership coaches</li>
-                                         <li>Trainers and facilitators. </li>
-                                         <li>Psychometric development and evaluators  </li>
-                                         <li>Lecturer </li></ul>
-                                     
-                                     <p align=justify><b style="color: #cd6e08;font-weight: bold;">Clinical Psychology & Counselling Psychology</b><br>
-                                         Psychologists aim to reduce the distress and improve the psychological wellbeing of their clients. By assessing a client's needs, abilities or behaviour using a variety of methods, including psychometric tests, interviews and direct observation of behaviour. They use psychological methods and research to make positive changes to their clients' lives and offer various forms of treatment.</p>
-                                     <p align=justify><b style="color: #cd6e08;font-weight: bold;">Job Niches</b><br>
-                                     <ul><li>Hospitals</li>
-                                         <li>Health and care services</li>
-                                         <li>Prisons and probation services</li>
-                                         <li>Corporate institutions</li>
-                                         <li>Private practice</li>
-                                         <li>Education and Research</li>
-                                         <li>Forensic settings</li>
-                                         <li>Consultancy</li>
-                                         <li>Lecturer  </li>
-                                         <li>Psychometric development and evaluators</li></ul>
-                                     
-                                       <p align=justify><b style="color: #cd6e08;font-weight: bold;">PLACEMENT CELL</b><br>
-                                           The in-house placement team works towards a 100% placement of students in various work-related opportunities. Regular placement drives are organized to facilitate students with the exploring possible scope in their related fields.</p>
-
+                                <p><b>The course offers opportunities in the following fields</b><br>
+                                    <b style="color: #cd6e08;font-weight: bold;">Counselling Psychologist</b><br>
+* Special School Facilitators<br>
+* HR Specialist<br>
+* Teacher/Lecturer<br>
+* Rehabilitation Specialist<br>
+* Career Counsellor<br>
+* Psychology Consultant<br>
+* Life Skill Facilitator<br>
+                                    * Research & Development</p>
+                                <p align=justify><b style="color: #cd6e08;font-weight: bold;">PLACEMENT CELL</b><br>
+                                    The in-house placement team works towards a 100% placement of students in various work-related opportunities. Regular placement drives are organized to facilitate students with the exploring possible scope in their related fields.</p>
                                 
                                 <img src="images/psychology_placement.jpg">
 
@@ -133,15 +107,12 @@
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Programs <strong> Offered </strong></span>
                                     </h4>
-                                   <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPEng.</a></p>
-                                        </section>
-										<section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="msc_program.php">M.Sc Psychology</a></p>
-                                        </section>  </div>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ba_program.php">BA - program offered</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="msc_program.php">M.Sc - program offered</a></p>
+                                    </section> </div>
                                 
                                  <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -151,54 +122,34 @@
                                         </h4>
                                         
                                         
-                                      <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
-                                            </section>
+                                         <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
-                                            </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                            </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                            </section>
-                                            
-                                             <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
-                                            </section>
-                                            
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="research-activities.php">Research activities</a></p>
-                                            </section>
-                                            
-                                             <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="upcoming-events.php">Upcoming Events</a></p>
-                                            </section>
-                                            
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="curriculum.php">Curriculum for UG and PG programs</a></p>
-                                            </section>
-
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
-                                            </section>
-
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="career_opportunities.php" style="color: #2980b9;font-weight: bold;">Career Opportunities</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
+                                    </section>
+                                        
+                                       
                                         
                                         
                                     </div>

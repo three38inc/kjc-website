@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?>
+<?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?>
 <html lang="en" class="no-js">
 
 <head>
@@ -37,7 +37,9 @@
     <script src="../../js/fakeLoader.js"></script>
     <style>
         
-
+        .container .row .col-lg-3 {
+    background-color: transparent;
+}
         
         .card-img img {
             width: 80%;
@@ -51,7 +53,7 @@
         }
         
         .card-mba {
-            background: #fff;
+            background: #fff!important;
             padding: 10px;
             text-align: center;
             padding-top: 50px;
@@ -64,8 +66,8 @@
             cursor: pointer
         }
         .cardBg {
-            background-color: #34495e;
-            color: #fff;
+            background-color: #34495e!important;
+            color: #fff!important;
         }
         
         .card-block {

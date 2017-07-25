@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
@@ -90,7 +90,7 @@
                         </div>
                         
                         <div class="container">
-                            <div class="row" >
+                            <div class="row hoverDiv" >
                                 <div class="col-lg-12">
                                     <div class="content-spl courseDetails wow fadeIn">
                                         <?php include ('php/course.php'); ?>

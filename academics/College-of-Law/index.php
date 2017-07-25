@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
@@ -33,7 +33,11 @@
 		<script src="../../js/respond.js"></script>
 		<script src="../../js/custom.js"></script>
 		<script src="../../js/fakeLoader.js"></script>
-
+        <style>
+         .container .row .col-lg-3 {
+    background-color: transparent;
+}
+        </style>
 	</head>
 	<body>
 		<div id="fakeLoader"></div>

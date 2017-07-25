@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,9);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -99,30 +99,30 @@
 													<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 														<div class="panel-body">
                                                             <p align=justify>The department conducts Research Colloquium for the Postgraduate students The event brings students together to share their research across disciplines and Schools. The Colloquium has a number of academic and social objectives that include:</p>
-                                                            <p align=justify><b>AIM</b><br>
-                                                                To impart quality research and development skills with hands-on-experience in research and experiential learning</p>
-                                                           <p align=justify><b>Objectives </b><br>
-• To provide a venue for students to present their work, in a supportive environment, to a wide audience including their peers, supervisors. <br>
+                                                            <p><b>AIM</b><br>
+                                                                To impart quality research and development skills with hands-on-experience in research and experiential learning </p>
+                                                            <p align=justify><b>Objectives </b><br>
+• To provide a venue for students to present their work, in a supportive environment, to a wide audience including their peers, supervisors . <br>
 • To foster peer-support and networking between students and staff across the Department<br>
-• To provide an opportunity for interaction and discussion amongst researchers and supervisors who embrace different approaches to research.<br>
+• To provide an opportunity for interaction and discussion amongst researchers and supervisers who embrace different approaches to research.<br>
                                                                 • To provide an exciting and professional venue for post graduate students to present their scholarly work, and to promote the importance of research skills within both academic and professional forums</p>
                                                             <p align=justify><b>The Context</b><br>
-                                                                Knowledge Base of students: As they do not have a research paper in the undergraduate programme it is a great challenge to bridge the gap between the knowledge and skill they have on research and knowledge required for the research colloquium</p>
-                                                           <p align=justify>The colloquium offers an opportunity for post graduate students to present research in the current areas. While faculty and community members attend the colloquium, only students present.</p>
-                                                           <p align=justify><b>The Practice</b><br>
-                                                                Two hours of every week is dedicated for the research colloquium. Weekly seminar attendance by students is mandatory. Faculty are expected to attend and participate in two sessions.</p>
-                                                           <p align=justify>At the first of these sessions they will present the context for their research question, at the second they will support their respective students in presenting their research design and at the last session they will support student presentations of findings and implications. Faculty-student presentations will be approximately 45 minutes. The audience are encouraged to give feedback. The research colloquium overall develops the students</p>
-                                                           <p align=justify>Subject specific networking skills - students will be required to attend the full programme of events, and to think actively about intersections and interfaces between the represented disciplines. Students will be required to respond to and reflect on how their research connects with other research undertaken in their discipline. In particular, by incorporating the theme of knowledge transfer and research accessibility, speakers will be asked to address the theme of the outreach of research explicitly. The development of this skill will be demonstrated by participation in the event.</p>
-                                                           <p align=justify>Abstract-writing Skill - the ability to condense research themes into a short summary and to write to the requirements of an event will be developed and demonstrated by the submission of an abstract. All postgraduates in the Department will be invited to submit a 200 word Abstract (in advance of Colloquium to the Colloquium Committee). Students submitting an abstract but not intending to give a paper can be offered feedback on their abstract for further skills development.</p>
-                                                           <p align=justify>Oral presentation skills - all students offering papers and chairing panels will gain experience of oral presentation demonstrated by participation, and all attendees are encouraged to develop this skill by offering questions. Students giving papers will have to respond to questions appropriately and work with the chair of the session. Peer review will be used to ensure that speakers gain the maximum benefit from their participation: it will provide all speakers who agree to be reviewed with anonymous comments and assessment of their presentation (generally and in terms of specific features such as use of visual aids) from members of the audience. In addition, this will develop the skill of active listening among audience members, and may help to stimulate more reflective questions. Chairs of sessions will develop skills including offering questions and introducing speakers.</p>
-                                                            <p align=justify><b>Technical skills developed will include:</b><br>
-• MS PowerPoint (compulsory)<br>
-• Handouts (optional)<br>
-• Other A/V aids (where appropriate)<br>
-                                                                • Use of microphones (optional)</p>
-                                                            <p align=justify> Writing for publication Skill - by submitting an abstract students are encouraged.to follow APA style. They will also help students to develop the skills of writing concisely, following style guides and where appropriate, learning about and dealing with copyright issues and plagiarisms. Working with an editorial team and working to deadlines are further aspects of writing for publication and dissemination of research, of which students will gain experience. This set of skills is demonstrated by the published (or publishable) output.</p>
-
-
+                                                                Knowledge Base of students: As they do not have a research paper in the undergraduate programme it is a great challenge to brigde the gap between the knowelge and skill they have on research and knowelege required for the research colloquim</p>
+                                                            <p align=justify>The colloquium offers an opportunity for post graduate students to present research in the current areas . While faculty and community members attend the colloquium, only students present.</p>
+                                                            <p align=justify><b>The Practice</b><br>
+                                                                Two hours of Every week is dedicated for the research colloquim.Weekly seminar attendance by students is mandatory. Faculty are expected to attend and participate in two sessions.</p>
+                                                            
+                                                            <p align=justify>At the first of these sessions they will present the context for their research question, at the second they will support their respective students in presenting their research design and at the last session they will support student presentations of findings and implications. Faculty-student presentations will be approximately 45 minutes. The audience are encouraged to give feed back. The research colloquim overall develops the students</p>
+                                                            
+                                                            <p align=justify><b>Subject specific networking skills</b> - students will be required to attend the full programme of events, and to think actively about intersections and interfaces between the represented disciplines.Students will be required to respond to and reflect on how their research connects with other research undertaken in their discipline. In particular, by incorporating the theme of knowledge transfer and research accessibility, speakers will be asked to address the theme of the outreach of research explicitly. The development of this skill will be demonstrated by participation in the event.</p>
+                                                            <p align=justify><b> Abstract-writing Skill</b> - the ability to condense research themes into a short summary and to write to the requirements of an event will be developed and demonstrated by the submission of an abstract. All postgraduates in the Department will be invited to submit a 200 word Abstract (in advance of Colloquium to the Colloquium Committee). Students submitting an abstract but not intending to give a paper can be offered feedback on their abstract for further skills development.</p>
+                                                            <p align=justify><b> Oral presentation skills</b> - all students offering papers and chairing panels will gain experience of oral presentation demonstrated by participation, and all attendees are encouraged to develop this skill by offering questions. Students giving papers will have to respond to questions appropriately and work with the chair of the session. Peer review will be used to ensure that speakers gain the maximum benefit from their participation: it will provide all speakers who agree to be reviewed with anonymous comments and assessment of their presentation (generally and in terms of specific features such as use of visual aids) from members of the audience. In addition, this will develop the skill of active listening among audience members, and may help to stimulate more reflective questions. Chairs of sessions will develop skills including offering questions and introducing speakers.</p>
+                                                            <p><b>Technical skills developed will include:</b><br>
+                                                                <li> MS PowerPoint (compulsory)</li>
+                                                                <li> Handouts (optional)</li>
+                                                                <li> Other A/V aids (where appropriate)</li>
+                                                                <li> Use of microphones (optional)</li>
+                                                            <p align=justify><b> Writing for publication Skill</b> - by submitting an abstract students are encouraged.to follow APA style . They will also help students to develop the skills of writing concisely, following style guides and where appropriate, learning about and dealing with copyright issues and plagarisms. Working with an editorial team and working to deadlines are further aspects of writing for publication and dissemination of research, of which students will gain experience. This set of skills is demonstrated by the published (or publishable) output.</p>
                                                         </div>
 													</div>
 												</div>
@@ -138,18 +138,20 @@
 													</div>
 													<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
 														<div class="panel-body">
-                                                            <p align=justify>Introduced in the year 2013 the department conducts Interdisciplinary Enrichment Program for the Postgraduate students. The event brings students together to share their research across disciplines and Schools. The Program has a number of academic and social objectives that include:</p>
-                                                            <p><b>Aim </b><br>
+                                                            <p align=justify><b>(Introduced in the year 2013)</b><br>
+                                                                The department conducts Interdisciplinary Enrichment Program for the Postgraduate students. The event brings students together to share their research across disciplines and Schools. The Program has a number of academic and social objectives that include:</p>
+                                                            <p align=justify><b>Aim </b><br>
                                                                 The mission of the Enrichment program at psychology department is to enrich gifted and motivated youth by challenging them academically, developing them personally, and inspiring them with a different experience.</p>
-                                                            <p><b>Objectives </b><br>
+                                                            <p align=justify><b>Objectives </b><br>
 • To provide an experience that is beyond the regular class room seminar or presentation. <br>
 • To foster Bright students to learn faster in different ways by intellectual stimulation not always available in classroom teaching<br>
 • To provide an opportunity for Graduate students to develop quality curriculum and deliver education programs to interested and eager UG students.<br>
                                                                 • To provide an exciting and professional venue for post graduate students to present their teaching skills and to promote the importance of teaching skills within both academic and professional forums.</p>
-                                                            <p><b>The Context</b><br>
-Students potential of preparing modules and effective delivery of the same in a very dynamic way was noticed and hence the need for such a program was realized The Practice
-                                                                Students would prepare a module on a given topic and facilitate the same session with PG and UG students of other discipline (M.Com, BBM, BA). M.Sc. Students are divided into different groups and are assigned topics based on which they would prepare a module or presentation material. Students a well prepared for the classes and as and when there is a demand the students would be allotted</p>
-
+                                                            <p align=justify><b>The Context</b><br>
+Students potential of preparing modules and effective delivery of the same in a very dynamic way was noticed and hence the need for such a program was realized
+                                                                The Practice</p>
+<p align=justify>Students would prepare a module on a given topic and facilitate the same session with PG and UG students of other discipline (M.Com, BBM, BA).
+    M.Sc. Students are divided into different groups and are assigned topics based on which they would prepare a module or presentation material. Students a well prepared for the classes and as and when there is a demand the students would be allotted </p>
 
                                                         </div>
 													</div>
@@ -168,7 +170,7 @@ Students potential of preparing modules and effective delivery of the same in a 
 													<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
 														<div class="panel-body">
                                                             <p><b>List of organizations and institutions associated with field visits and internship for students</b></p>
-                                                            <table border="0" class="table table-bordered table-hover" >
+                                                            <table border="1" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="590" colspan="2" valign="top"><p align="center"><strong>INTERNSHIP</strong></p></td>
   </tr>
@@ -178,11 +180,11 @@ Students potential of preparing modules and effective delivery of the same in a 
   </tr>
   <tr>
     
-    <td width="511" valign="top"><p>Schizophrenia Research foundation (SCARF)</p></td>
+    <td width="511" valign="top"><p>Schizophrenia&nbsp; research foundation (SCARF)</p></td>
   </tr>
   <tr>
    
-    <td width="511" valign="top"><p>Pepsi co India	</p></td>
+    <td width="511" valign="top"><p>Pepsi co India</p></td>
   </tr>
   <tr>
     
@@ -205,7 +207,7 @@ Students potential of preparing modules and effective delivery of the same in a 
   </tr>
   <tr>
     
-    <td width="511" valign="top"><p>FAR	</p></td>
+    <td width="511" valign="top"><p>FAR</p></td>
   </tr>
   <tr>
    
@@ -213,11 +215,11 @@ Students potential of preparing modules and effective delivery of the same in a 
   </tr>
   <tr>
    
-    <td width="511" valign="top"><p>Kempagowda Institute of medical Sciences (KIMS)</p></td>
+    <td width="511" valign="top"><p>Kempagowda Institute of medical    Sciences (KIMS)</p></td>
   </tr>
   <tr>
    
-    <td width="511" valign="top"><p>Daksh</p></td>
+    <td width="511" valign="top"><p>Daksh </p></td>
   </tr>
   <tr>
    
@@ -233,22 +235,26 @@ Students potential of preparing modules and effective delivery of the same in a 
   </tr>
   <tr>
  
-    <td width="511" valign="top"><p>Peejays Policlinic &amp; Child Guidance Clinic</p></td>
+    <td width="511" valign="top"><p>Peejays Policlinic &amp; Child    Guidance Clinic</p></td>
   </tr>
 </table>
 
 
- <table border="0" class="table table-bordered table-hover">
+<table border="1" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="590" colspan="2" valign="top"><p align="center"><strong>FEILDWORK</strong></p></td>
   </tr>
   <tr>
    
-    <td width="511" valign="top"><p><strong>NAME OF THE ORGANIZATION</strong></p></td>
+    <td width="511" valign="top"><p><strong>NAME OF THE    ORGANIZATION</strong></p></td>
   </tr>
   <tr>
    
-    <td width="511" valign="top"><p>Karnataka Rehabilitation Centre</p></td>
+    <td width="511" valign="top"><p>Vidyaniketan Special School</p></td>
+  </tr>
+  <tr>
+   
+    <td width="511" valign="top"><p>Karnataka Rehabilitation Center</p></td>
   </tr>
   <tr>
    
@@ -259,19 +265,19 @@ Students potential of preparing modules and effective delivery of the same in a 
     <td width="511" valign="top"><p>Ashalaya Trust</p></td>
   </tr>
   <tr>
-   
+  
     <td width="511" valign="top"><p>Medico Pastoral Association</p></td>
   </tr>
   <tr>
-  
+   
     <td width="511" valign="top"><p>Narayanapura Government School</p></td>
   </tr>
   <tr>
-   
-    <td width="511" valign="top"><p>Chandrashekar Speech And hearing Institute</p></td>
+    
+    <td width="511" valign="top"><p>Chandrashekar Speech And hearing    Institute</p></td>
   </tr>
   <tr>
-    
+   
     <td width="511" valign="top"><p>Abhayashrama</p></td>
   </tr>
   <tr>
@@ -283,10 +289,9 @@ Students potential of preparing modules and effective delivery of the same in a 
     <td width="511" valign="top"><p>Alamba</p></td>
   </tr>
   <tr>
-   
+    
     <td width="511" valign="top"><p>Home of Hope</p></td>
   </tr>
-  
 </table>
 
 
@@ -309,13 +314,13 @@ Students potential of preparing modules and effective delivery of the same in a 
 														<div class="panel-body">
                                                             <p><b>AIM</b><br>
                                                                 To empower students and others who need emotional support, by utilizing the talent pool of faculties in their specified domain of expertise.</p>
-                                                            <p><b>OBJECTIVES</b><br>
-• To build solution- oriented skills in counselling individual groups and organizational members<br>
-• To provide professional expertise in domain specific consulting and counselling<br>
-                                                                • To cater to the counselling needs of students both graduate and post-graduate.</p>
+                                                            <p align=justify><b>OBJECTIVES</b><br>
+• To build solution- oriented skills in counseling individual groups and organizational members<br>
+• To provide professional expertise in domain specific consulting and counseling<br>
+                                                                • To cater to the counseling needs of students both graduate and post-graduate.</p>
                                                             <p><b>THE CONTEXT</b><br>
-                                                                Providing counselling and consulting services beyond the academic activities help the others in the society.</p>
-                                                            <p><b>THE PRACTICE</b><br>
+                                                                Providing counseling and consulting services beyond the academic activities help the others in the society.</p>
+                                                            <p align=justify><b>THE PRACTICE</b><br>
                                                                 Faculty members are connected with various external organizations in order to cater to their consulting needs. Assessments of children, adolescents and adults are conducted using standardized psychological scales.</p>
 
 
@@ -334,29 +339,22 @@ Students potential of preparing modules and effective delivery of the same in a 
 													</div>
 													<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
 														<div class="panel-body">
-                                                            <p><b>AIM</b><br>
+                                                            <p align=justify><b>AIM</b><br>
                                                                 The membership built with different professional bodies helps faculties to keep themselves abreast with the latest information about the on-going researches and development.</p>
-                                                            <p><b>OBJECTIVES</b><br>
+                                                            <p align=justify><b>OBJECTIVES</b><br>
 • To build association with the various professional bodies in the field of psychology<br>
 • To disseminate knowledge gained from the recent research and development <br>
                                                                 • To provide opportunity to students by conducting certificate courses and value added program.</p>
-                                                            <p><b>THE CONTEXT</b><br>
-                                                                The benefits of such memberships helps getting information on the latest conferences and workshops that can be shared with the students as well</p>
-                                                            <p><b>THE PRACTICE</b><br>
-                                                                Faculties having training in different practices get themselves associated with professional bodies in their respective fields. Beside this, certain common professional memberships are also taken by the faculty members.</p>
+                                                            <p align=justify><b>THE CONTEXT</b><br>
+                                                                The benefits of such memberships helps getting information on the latest conferences and workshops that can be shared with the students as well </p>
+                                                            <p align=justify><b>THE PRACTICE</b><br>
+                                                                Faculties having training in different practices get themselves associated with professional bodies in their respective fields. Beside this, certain common professional memberships are also taken by the faculty members. </p>
                                                             <p><b>MEMBERSHIPS:</b><br>
 * Trainer at California Hypnotherapy Institute of India (EKKA)<br>
 * Bangalore Psychology Forum (BPF)<br>
 * Indian Psychologist (IP)<br>
 * International Association of Holistic Psychology (IAHP)<br>
-* National Association of Psychological Science (NAPS)<br>
-* Indian Association of Applied Psychology<br>
-* National Academy of Psychology<br>
-* Indian Association of Clinical Psychology<br>
-                                                                * Indian Society for Clinical and Experimental Hypnosis</p>
-
-
-
+                                                                * National Association of Psychological Science (NAPS)</p>
 
 
                                                         </div>
@@ -364,7 +362,47 @@ Students potential of preparing modules and effective delivery of the same in a 
 												</div>
 
                                 
-                            
+                              <div class="panel panel-default">
+													<div class="panel-heading" role="tab" id="headingSix">
+														<h5 class="panel-title">
+															<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+
+																Research Colloquium
+															</a>
+														</h5>
+													</div>
+													<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+														<div class="panel-body">
+                                                            <p align=justify>The department conducts Research Colloquium for the Postgraduate students The event brings students together to share their research across disciplines and Schools. The Colloquium has a number of academic and social objectives that include:</p>
+                                                            <p><b>AIM</b><br>
+                                                                To impart quality research and development skills with hands-on-experience in research and experiential learning </p>
+                                                            <p align=justify><b>Objectives </b><br>
+• To provide a venue for students to present their work, in a supportive environment, to a wide audience including their peers, supervisors . <br>
+• To foster peer-support and networking between students and staff across the Department<br>
+• To provide an opportunity for interaction and discussion amongst researchers and supervisers who embrace different approaches to research.<br>
+                                                                • To provide an exciting and professional venue for post graduate students to present their scholarly work, and to promote the importance of research skills within both academic and professional forums</p>
+                                                            <p align=justify><b>The Context</b><br>
+                                                                Knowledge Base of students: As they do not have a research paper in the undergraduate programme it is a great challenge to brigde the gap between the knowelge and skill they have on research and knowelege required for the research colloquim</p>
+                                                            <p align=justify>The colloquium offers an opportunity for post graduate students to present research in the current areas . While faculty and community members attend the colloquium, only students present.</p>
+                                                            <p align=justify><b>The Practice</b><br>
+                                                                Two hours of Every week is dedicated for the research colloquim.Weekly seminar attendance by students is mandatory. Faculty are expected to attend and participate in two sessions.</p>
+                                                            
+                                                            <p align=justify>At the first of these sessions they will present the context for their research question, at the second they will support their respective students in presenting their research design and at the last session they will support student presentations of findings and implications. Faculty-student presentations will be approximately 45 minutes. The audience are encouraged to give feed back. The research colloquim overall develops the students</p>
+                                                            
+                                                            <p align=justify><b>Subject specific networking skills</b> - students will be required to attend the full programme of events, and to think actively about intersections and interfaces between the represented disciplines.Students will be required to respond to and reflect on how their research connects with other research undertaken in their discipline. In particular, by incorporating the theme of knowledge transfer and research accessibility, speakers will be asked to address the theme of the outreach of research explicitly. The development of this skill will be demonstrated by participation in the event.</p>
+                                                            <p align=justify><b> Abstract-writing Skill</b> - the ability to condense research themes into a short summary and to write to the requirements of an event will be developed and demonstrated by the submission of an abstract. All postgraduates in the Department will be invited to submit a 200 word Abstract (in advance of Colloquium to the Colloquium Committee). Students submitting an abstract but not intending to give a paper can be offered feedback on their abstract for further skills development.</p>
+                                                            <p align=justify><b> Oral presentation skills</b> - all students offering papers and chairing panels will gain experience of oral presentation demonstrated by participation, and all attendees are encouraged to develop this skill by offering questions. Students giving papers will have to respond to questions appropriately and work with the chair of the session. Peer review will be used to ensure that speakers gain the maximum benefit from their participation: it will provide all speakers who agree to be reviewed with anonymous comments and assessment of their presentation (generally and in terms of specific features such as use of visual aids) from members of the audience. In addition, this will develop the skill of active listening among audience members, and may help to stimulate more reflective questions. Chairs of sessions will develop skills including offering questions and introducing speakers.</p>
+                                                            <p><b>Technical skills developed will include:</b><br>
+                                                                <li> MS PowerPoint (compulsory)</li>
+                                                                <li> Handouts (optional)</li>
+                                                                <li> Other A/V aids (where appropriate)</li>
+                                                                <li> Use of microphones (optional)</li>
+                                                            <p align=justify><b> Writing for publication Skill</b> - by submitting an abstract students are encouraged.to follow APA style . They will also help students to develop the skills of writing concisely, following style guides and where appropriate, learning about and dealing with copyright issues and plagarisms. Working with an editorial team and working to deadlines are further aspects of writing for publication and dissemination of research, of which students will gain experience. This set of skills is demonstrated by the published (or publishable) output.</p>
+
+                                                        </div>
+													</div>
+												</div>  
+
                                    
                                   
                                     
@@ -376,15 +414,12 @@ Students potential of preparing modules and effective delivery of the same in a 
                                         <i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Programs <strong> Offered </strong></span>
                                     </h4>
-                                   <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPEng.</a></p>
-                                        </section>
-										<section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
-                                        </section>
-                                        <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="msc_program.php">M.Sc Psychology</a></p>
-                                        </section>  </div>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="ba_program.php">BA - program offered</a></p>
+                                    </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="msc_program.php">M.Sc - program offered</a></p>
+                                    </section> </div>
                                 
                                  <div class="row" style="margin-left:2px; margin-right: 2px;">
                                     <div class="content-right wow fadeIn">
@@ -395,53 +430,31 @@ Students potential of preparing modules and effective delivery of the same in a 
                                         
                                         
                                          <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
-                                            </section>
+                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
-                                            </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                            </section>
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="best_practices.php" style="color: #2980b9;font-weight: bold;">Best Practices</a></p>
+                                    </section>
 
 
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                            </section>
-                                            
-                                             <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
-                                            </section>
-                                            
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="research-activities.php">Research activities</a></p>
-                                            </section>
-                                            
-                                             <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="upcoming-events.php">Upcoming Events</a></p>
-                                            </section>
-                                            
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="curriculum.php">Curriculum for UG and PG programs</a></p>
-                                            </section>
-
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
-                                            </section>
-
-                                            <section class="link-arrow">
-                                                <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
-                                            </section>
-
+                                    <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
+                                    </section>
+                                        
+                                        <section class="link-arrow">
+                                        <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
+                                    </section>
                                         
                                        
                                         

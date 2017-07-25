@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    <link rel="stylesheet" href="../css/morphing.css">
+    
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -37,7 +37,7 @@
             left: 0px;
             z-index: -1;
             width: 100%;
-            background: #f3f3f3;
+            background: transparent;
         }
         
         .link-arrow {
@@ -95,7 +95,7 @@
             s = d.createElement("script");
             s.src = "https://client.crisp.im/l.js";
             s.async = 1;
-            d.getElementsByTagName("head")[0].appendChild(s);
+            //d.getElementsByTagName("head")[0].appendChild(s);
         })();
 
     </script>
@@ -189,8 +189,8 @@
                                         </div>
                                     </div>-->
 
-                                    <div class="panel panel-info">
-                                        <div class="panel-heading">
+                                    <div class="panel panel-info" style="border-color:#336E7B!important">
+                                        <div class="panel-heading" style="border-color:#336E7B!important;background-color:#336E7B!important">
                                             <h2 class="panel-title">Counselling / Interview Schedules</h2>
                                         </div>
                                         <div class="panel-body">
@@ -275,7 +275,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
 </blockquote>
                                 </div>
                             </div>
-                            <div class="col-lg-3">
+                            <div class="col-lg-3" style="background-color:rgba(218, 223, 225,1);">
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     
                                      <?php include('right-admission.php');?>
@@ -324,7 +324,7 @@ Contact Mob No: +91 9449451111<br> E-mail: admission@kristujayanti.com
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    <script src="../js/morphingSearch.js"></script>
+    
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
