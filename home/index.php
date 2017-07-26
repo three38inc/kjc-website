@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -164,15 +164,22 @@
                                         <div class="placementTitle">
                                             <h4>Media Room</h4>
                                         </div>
-                                        <ul style="margin-top:10px;font-size:1.2em;">
-                                            <li style="list-style-type: none;"><a href="../media_room/news.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> News </a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/in_house_publications.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> Publications </a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/photographs.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> Photographs </a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/press_releases.php"  class="read-more" target="_blank" style="text-decoration:none;">  <i class="fa fa-angle-double-right"></i> Press Releases</a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/in_the_news.php"  class="read-more" target="_blank" style="text-decoration:none;"> <i class="fa fa-angle-double-right"></i> In the News </a></li>
-                                            <li style="list-style-type: none;"><a href="../media_room/social_media.php"  class="read-more" target="_blank" style="text-decoration:none;">  <i class="fa fa-angle-double-right"></i> Social Media</a></li>
-                                            <li style="list-style-type: none;padding-top: 5px;text-align: center;"><a href="../media_room/index.php" class="read-more" style="font-size:13px;">Read More <i class="fa fa-angle-double-right"></i></a></li>
-                                        </ul>
+                                        
+                                       <div class="item">
+                                                <div class="media-room">
+                                                    <img src="<?php echo $ROOT ; ?>/images/mediaroom.png" class="media-room-icon" />
+                                                    <span class="media-room-heading">Media Room</span>
+
+                                                </div>
+                                                <div style="clear:both;"></div>
+
+                                                <p style="text-align:center; font-size: 1em;position:relative;">
+                                                  Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
+                                                </p>
+                                                <p class="text-center">
+                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                </p>
+                                            </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 space">

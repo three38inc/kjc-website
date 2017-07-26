@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."/Github/kjc-website"; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 	<head>
 		<meta charset="UTF-8" />
@@ -101,12 +101,13 @@
 								<div class="marginTopDiv">&nbsp;</div>
 								<div class="col-lg-9">
 
-									<div class="content-left myWelcome wow fadeIn" style="min-height:750px;">
+									<div class="content-left myWelcome wow fadeIn">
+                                          <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 										<h4>
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
 											<span>&nbsp;<strong>Vision, Mission and Goals</strong></span>
 										</h4>
-										<hr />
+									
 										<div class="inner-content">
 											<p align="justify"> 
 												<!--												<img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
