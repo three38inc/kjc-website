@@ -188,9 +188,15 @@
                                             </p>
                                         </div>
                                     </div>-->
+                                  
+                                    
+                                    
+                                    
+                                    
+                                    
 
-                                    <div class="panel panel-info" style="border-color:#336E7B!important">
-                                        <div class="panel-heading" style="border-color:#336E7B!important;background-color:#336E7B!important">
+                                    <div class="panel panel-info">
+                                        <div class="panel-heading">
                                             <h2 class="panel-title">Counselling / Interview Schedules</h2>
                                         </div>
                                         <div class="panel-body">

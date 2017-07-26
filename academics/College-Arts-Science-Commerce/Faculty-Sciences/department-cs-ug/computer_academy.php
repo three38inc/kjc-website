@@ -87,7 +87,7 @@
                                     <p align=justify><b>COMPUTER ACADEMY</b> is the computer science club maintained by the Department of Computer Science(UG) having more than 800 members. The students of Department of computer science are encouraged to undertake a multitude of curricular and extracurricular activities beyond their syllabus to enrich their knowledge base as well as skills. This serves as a forum to interact and harness their lateral talents and strengths through various activities. Many Interactive, innovative and intellectual sessions are conducted in technology on diversified areas.</p>
                                     
                                     
-                                    <p align=justify>Experience confined to the academic environment of a class room is insufficient to keep pace with the rapid changes in the information technology sector. Keeping this in mind the Department of Computer Science (UG) has an auspicious computer science club “COMPUTER ACADEMY “with more than 800 members.</p>
+                                  
                                     <p><b>The students are encouraged to participate, organize and be part of confluence between technology and academics through a series of programmes like:</b></p>
                                     
                                     <p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest lectures,Workshops, Seminars and Technical video sessions:</b> These enhances the educational experience by providing students with the current industry experiences, insights and perspectives on their domain.</p>
@@ -112,14 +112,14 @@
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bca.php">BCA
-                                            <font size=2>(Bachelor of Computer Applications)</font></a></p>
+                                            <font size=1>(Bachelor of Computer Applications)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=2>(Computer Science, Mathematics, Electronics)</font></a></p>
+                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=1>(Computer Science, Mathematics, Electronics)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_csms.php">B.Sc. CSMS
-                                            <font size=2>(Computer Science, Mathematics, Statistics)</font></a></p>
+                                            <font size=1>(Computer Science, Mathematics, Statistics)</font></a></p>
                                     </section>
                                 </div>
                                 

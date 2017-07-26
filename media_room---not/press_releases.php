@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Press <strong>releases</strong></span>
@@ -119,7 +119,7 @@
                                  
 									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
                                     
-                                    <div style="height:500px;width:800px;border:1px solid #ccc;overflow:auto;">
+                                    <div style="height:400px;width:800px;border:1px solid #ccc;overflow:auto;">
                                    <!--------------------------------------------------scroll------------------------------------------->
                                         
                                         
