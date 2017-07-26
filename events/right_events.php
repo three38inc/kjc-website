@@ -25,6 +25,28 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="workshop-research-proposal.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 25 </span></td>
+                <td class="event-dates">
+                  <p>Department of Psychology Proprium Series In-house Workshop on Research Proposal</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 25 </span></td>
+                <td class="event-dates">
+                  <p> Pooled Campus Hiring" for the BCA &amp; B.SC (Computer Science) students from Larsen & Toubro Infotech Limited</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="television-programme-production.php">
         <table cellpadding="4">
             <tr>

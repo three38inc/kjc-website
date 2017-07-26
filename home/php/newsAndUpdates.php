@@ -305,20 +305,20 @@
                         </table>
                     </li>-->
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
         <td><strong>July 25th 2017</strong> Pooled Campus Hiring" for the BCA &amp; B.SC (Computer Science) students from Larsen & Toubro Infotech Limited at 8:30 am in SKE Auditorium,  PG Block </td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
+                                <td><strong>August 01st 2017</strong> School of Management (MBA &amp; PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
                             </tr>
                         </table>
                     </li>
