@@ -8,7 +8,7 @@
     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="filters filter-button-course">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <a class="button active" data-filter=".science">Faculty Of Science</a>
+                <a class="button active" data-filter=".science">Faculty of Science</a>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <a class="button" data-filter=".commerce">Facuty Of Commerce</a>
@@ -28,7 +28,7 @@
         <div class="col-lg-4 col-md-4 science"></div>
 
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Computer Science [UG]</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-ug/computer_science.php" style="cursor:pointer;">Department of Computer Science [UG]</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -74,7 +74,7 @@
         
         
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Computer Science [PG]</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-cs-pg/"  style="cursor:pointer;">Department of Computer Science [PG]</a></h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -89,7 +89,7 @@
         
 
         <div class="col-lg-12 science" data-category="science">
-            <h4>Department Of Life-Science</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/Faculty-Sciences/department-lifescience/Lifescintro.php"  style="cursor:pointer;">Department of Life-Science</a></h4><br/>        
         </div>
         
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 science" data-category="science">
@@ -147,33 +147,10 @@
         <div class="col-lg-4 col-md-4 arts"></div>
         <div class="col-lg-4 col-md-4 arts"></div>
         <div class="col-lg-4 col-md-4 arts"></div>
-        <div class="col-lg-12 arts" data-category="science">
-            <h4>Department Of Humanities</h4><br/>        
-        </div>
-
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="faculty-humanities/english/ma_english_literature.php">
-                <div class="courseTitle color-3">
-                    <i class="fa fa-book c3" style="float: left;"></i>
-                    <h2>MA</h2>
-                    <p>English Literature</p>
-                </div>           
-            </a>
-        </div>
         
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
-            <a href="faculty-humanities/humanities/ba_hep.php">
-                <div class="courseTitle color-1">
-                    <i class="fa fa-book c1" style="float: left;"></i>
-                    <h2>BA</h2>
-                    <p>History, Economics, Political Science</p>
-                </div>           
-            </a>
-        </div>
-
 
         <div class="col-lg-12 arts" data-category="science">
-            <h4>Department Of Journalism &amp; Mass-Communication</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/journalism/journalism.php" style="cursor:pointer;">Department of Journalism &amp; Mass-Communication</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
@@ -228,7 +205,31 @@
 
 
         <div class="col-lg-12 arts" data-category="science">
-            <h4>Department Of Social Work</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/humanities/humanities.php" style="cursor:pointer;">Department of Humanities</a></h4><br/>        
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
+            <a href="faculty-humanities/english/ma_english_literature.php">
+                <div class="courseTitle color-3">
+                    <i class="fa fa-book c3" style="float: left;"></i>
+                    <h2>MA</h2>
+                    <p>English Literature</p>
+                </div>           
+            </a>
+        </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
+            <a href="faculty-humanities/humanities/ba_hep.php">
+                <div class="courseTitle color-1">
+                    <i class="fa fa-book c1" style="float: left;"></i>
+                    <h2>BA</h2>
+                    <p>History, Economics, Political Science</p>
+                </div>           
+            </a>
+        </div>
+
+        <div class="col-lg-12 arts" data-category="science">
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/socialwork/social_work.php" style="cursor:pointer;">Department of Social Work</a></h4><br/>        
         </div>
 
 
@@ -254,7 +255,7 @@
 
 
         <div class="col-lg-12 arts" data-category="science">
-            <h4>Department Of Psychology</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-humanities/psychology/psychology.php" style="cursor:pointer;">Department of Psychology</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 arts" data-category="arts">
@@ -274,7 +275,7 @@
         <div class="col-lg-4 col-md-4 commerce"></div>
         
         <div class="col-lg-12 commerce" data-category="commerce">
-            <h4>Department of Commerce</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/commerce/commerce.php" style="cursor:pointer;">Department of Commerce</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">
@@ -362,13 +363,13 @@
                 <div class="courseTitle color-1">
                     <i class="fa fa-line-chart c1" style="float: left;"></i>
                     <h2>Certification Course</h2>
-                    <p><span style="font-size: 12px;">NSDC On BFSI (Banking Financial Services and Insurance)</span></p>
+                    <p><span style="font-size: 12px;">NSDC on BFSI (Banking Financial Services and Insurance)</span></p>
                 </div>  
             </a>
         </div>
 
         <div class="col-lg-12 commerce" data-category="commerce">
-            <h4>Department of Management</h4><br/>        
+            <h4><a href="<?php echo $ROOT; ?>/academics/College-Arts-Science-Commerce/faculty-commerce-management/management/management.php" style="cursor:pointer;">Department of Management</a></h4><br/>        
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 commerce" data-category="commerce">

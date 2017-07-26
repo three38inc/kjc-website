@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -22,7 +22,6 @@
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
-    <link rel="stylesheet" href="../css/socialmedia.css">
     <!--        <link rel="stylesheet" href="css/res-navtabs.css">-->
     <!--custom css-->
     <link href="../css/custom.css" rel="stylesheet">
@@ -113,7 +112,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                     <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Social <strong>Media </strong></span>
@@ -121,37 +120,20 @@
 
                                  
 									<p align=justify>The social media hub of Kristu Jayanti College provides an overview of events and activities happening in the college through its Facebook, twitter, and YouTube platforms.  </p>
-                                    
-          
-<center><div class="wrapper">
-<ul class="social-icons icon-circle icon-zoom list-unstyled list-inline"> 
-<li> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><i class="fa fa-facebook"></i></a></li> 
-<li> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
-<li> <a href="https://plus.google.com/+KristuJayantiCollegeBengaluru" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-<li> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><i class="fa fa-youtube"></i></a></li>
-<li> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><i class="fa fa-twitter"></i></a></li>
-
-</ul>
-</div>
-                                    </center>
-
                                 
                                     
-                                   <!-- <table border="0" align="center">
+                                    <table border="0" align="center">
                                     <tr>
                                         
                     <td width="150"> <a href="https://www.facebook.com/KristuJayantiCollege/" target="_blank"><img src="images/facebook.png" title="Facebook"></a></td>
                                         <td width="150"> <a href="https://www.youtube.com/user/kristujayanticollege" target="_blank"><img src="images/youtube.png" title="YouTube"></a></td>
                                         <td width="150"> <a href="https://in.linkedin.com/in/kristujayanti" target="_blank"><img src="images/linkedin.png" title="Linkedin"></a></td>
-                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>-->
+                                        <td width="150"> <a href="https://twitter.com/kristujayanti99?lang=en" target="_blank"><img src="images/twitter.png" title="Twitter"></a></td></tr></table>
 
 
                                    
-        
-
-
-
-
+                                     
+                                   
                                     
                                    
                                     
@@ -194,10 +176,6 @@
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="social_media.php" style="color: #2980b9;font-weight: bold;">Social Media</a></p>
-                                    </section>
-                                    
-                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc-television.php">KJC Television</a></p>
                                     </section>
 
 

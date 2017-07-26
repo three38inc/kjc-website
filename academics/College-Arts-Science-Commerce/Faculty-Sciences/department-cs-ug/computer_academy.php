@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,19);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; /*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -79,7 +79,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
-									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+									 <img src="images/computer-academy.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Computer <strong> Academy  </strong></span></h4>
@@ -87,15 +87,15 @@
                                     <p align=justify><b>COMPUTER ACADEMY</b> is the computer science club maintained by the Department of Computer Science(UG) having more than 800 members. The students of Department of computer science are encouraged to undertake a multitude of curricular and extracurricular activities beyond their syllabus to enrich their knowledge base as well as skills. This serves as a forum to interact and harness their lateral talents and strengths through various activities. Many Interactive, innovative and intellectual sessions are conducted in technology on diversified areas.</p>
                                     
                                     
-                                    <p align=justify>Experience confined to the academic environment of a class room is insufficient to keep pace with the rapid changes in the information technology sector. Keeping this in mind the Department of Computer Science (UG) has an auspicious computer science club “COMPUTER ACADEMY “with more than 800 members.</p>
+                                  
                                     <p><b>The students are encouraged to participate, organize and be part of confluence between technology and academics through a series of programmes like:</b></p>
                                     
-                                    <p align=justify><b><u>Guest lectures,Workshops, Seminars and Technical video sessions:</u></b> These enhances the educational experience by providing students with the current industry experiences, insights and perspectives on their domain.</p>
-                                    <p align=justify><b><u>Industrial visits:</u></b> Students are exposed to a different landscape, variety of people thereby encouraging interaction, exchange of ideas and to acquire the knowledge about the basic functionality of an organization.</p>
-                                    <p align=justify><b><u>Inter and intra collegiate fests:</u></b> An intra-collegiate fest "Synchronize" is organized for the first and second year students of computer science by the third year students where they get an opportunity to organize, participate and showcase their potentials. "Xactitude" is National level inter collegiate computer science fest envisaged by the academy where students from other colleges can showcase their intelligence and creativity in myriad facets of information technology.</p>
-                                    <p align=justify><b><u>Science exhibition:</u></b> ”Galaxia" is a two day science exhibition in which students from our college and other colleges develop computer science, electronics, statistics and mathematics projects which provide them an opportunity to experiment and innovate along with the curriculum learning.</p>
-                                    <p align=justify><b><u>Technical communities:</u></b> Technical communities provide a platform for the students to discuss, share and update their knowledge in various domains of information technology.</p>
-                                    <p align=justify><b><u>Social outreach programmes:</u></b> This programme provides the students an opportunity to recognize their social responsibility to give back and contribute to the development of the society. </p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Guest lectures,Workshops, Seminars and Technical video sessions:</b> These enhances the educational experience by providing students with the current industry experiences, insights and perspectives on their domain.</p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Industrial visits:</b> Students are exposed to a different landscape, variety of people thereby encouraging interaction, exchange of ideas and to acquire the knowledge about the basic functionality of an organization.</p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Inter and intra collegiate fests:</b> An intra-collegiate fest "Synchronize" is organized for the first and second year students of computer science by the third year students where they get an opportunity to organize, participate and showcase their potentials. "Xactitude" is National level inter collegiate computer science fest envisaged by the academy where students from other colleges can showcase their intelligence and creativity in myriad facets of information technology.</p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Science exhibition:</b> ”Galaxia" is a two day science exhibition in which students from our college and other colleges develop computer science, electronics, statistics and mathematics projects which provide them an opportunity to experiment and innovate along with the curriculum learning.</p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Technical communities:</b> Technical communities provide a platform for the students to discuss, share and update their knowledge in various domains of information technology.</p>
+                                    <p align=justify><b style="color: #cd6e08;font-weight: bold;">Social outreach programmes:</b> This programme provides the students an opportunity to recognize their social responsibility to give back and contribute to the development of the society. </p>
                                   
                                         <p align=justify>As a whole computer academy is a gateway which allows our next generation scientists, engineers, teachers, entrepreneurs and artists to be able to innovate using computation, have excellent communication skills, be professional in approach and attitude, spotlight in big picture.</p>
                                         <p><b>For any Queries and Feedback Mail to</b><br>
@@ -112,14 +112,14 @@
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bca.php">BCA
-                                            <font size=2>(Bachelor of Computer Applications)</font></a></p>
+                                            <font size=1>(Bachelor of Computer Applications)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=2>(Computer Science, Mathematics, Electronics)</font></a></p>
+                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=1>(Computer Science, Mathematics, Electronics)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_csms.php">B.Sc. CSMS
-                                            <font size=2>(Computer Science, Mathematics, Statistics)</font></a></p>
+                                            <font size=1>(Computer Science, Mathematics, Statistics)</font></a></p>
                                     </section>
                                 </div>
                                 

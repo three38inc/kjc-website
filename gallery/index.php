@@ -20,7 +20,7 @@ if(!session_id()){
         <link rel="stylesheet" href="../css/font-awesome.min.css">
         <link rel="stylesheet" href="assets/album.css"/>
         <link rel="stylesheet" href="../css/roundIcons.css">
-        <link rel="stylesheet" href="../css/morphing.css">
+        
         <link rel="stylesheet" href="../css/fakeLoader.css">
 
 
@@ -111,7 +111,7 @@ if(!session_id()){
         <script src="../js/swipeview.js"></script>
         <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
         <script src="../js/classie.js"></script>
-<!-- <script src="../js/morphingSearch.js"></script>-->
+<!-- -->
         <script src="../js/sidebarEffects.js"></script>
         <script src="../js/transit.js"></script>
         <script src="../js/sly.js"></script>

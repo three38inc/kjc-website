@@ -155,7 +155,7 @@
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/news/interview.png" width="50" height="50" class="img-circle" /></td>
-								<td><b>Law Programmes:</b> Next Counselling will be held on  <b>20<sup>th</sup> July, 2017.</b>
+								<td><b>Law Programmes:</b> Aspiring Candidates can apply online and walk-in for an interview with the admission officer in the college campus.
                                     <a href="../admission/admission.php">(Apply online)</a></td>
                             </tr>
                         </table>
@@ -257,7 +257,7 @@
                         </table>
                     </li>-->
                     
-                    <li class="news-item">
+                   <!-- <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
@@ -265,9 +265,9 @@
                             <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-19july.php" class="read-more">(More details)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
@@ -275,7 +275,17 @@
                             <a href="../events/events.php?mode=openlink&year=2017&month=july&url=placement-orientation-20july.php" class="read-more">(More details)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
+                    
+                    <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/shop-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 22nd 2017</strong> Department of Computer Science [PG] organizing Student Seminar Series "IOT, WOT and Cloud Computing"  
+                            <a href="../events/events.php?mode=openlink&year=2017&month=july&url=IOT-WOT.php" class="read-more">(More details)</a></td>
+                            </tr>
+                        </table>
+                    </li>-->
 					
                     <!--<li class="news-item">
                         <table cellpadding="4">
@@ -295,11 +305,20 @@
                         </table>
                     </li>-->
                     
+                     <!--<li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
+        <td><strong>July 25th 2017</strong> Pooled Campus Hiring" for the BCA &amp; B.SC (Computer Science) students from Larsen & Toubro Infotech Limited at 8:30 am in SKE Auditorium,  PG Block </td>
+                            </tr>
+                        </table>
+                    </li>-->
+                    
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
-                                <td><strong>August 01st 2017</strong> School of Management (MBA & PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
+                                <td><strong>August 01st 2017</strong> School of Management (MBA &amp; PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
                             </tr>
                         </table>
                     </li>

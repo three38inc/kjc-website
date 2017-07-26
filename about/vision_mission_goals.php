@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="../css/font-awesome.min.css">
 		<link rel="stylesheet" href="../css/roundIcons.css">
 		<link rel="stylesheet" href="../css/hoverEffect.css">
-		<link rel="stylesheet" href="../css/morphing.css">
+		
 		<link rel="stylesheet" href="../css/navTabs.css">
 		<link rel="stylesheet" href="../css/animate.css">
 		<link rel="stylesheet" href="../css/fakeLoader.css">
@@ -101,12 +101,13 @@
 								<div class="marginTopDiv">&nbsp;</div>
 								<div class="col-lg-9">
 
-									<div class="content-left myWelcome wow fadeIn" style="min-height:750px;">
+									<div class="content-left myWelcome wow fadeIn">
+                                          <img src="../images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 										<h4>
 											<i class="fa fa-bookmark" style="color:#2980b9"></i>
 											<span>&nbsp;<strong>Vision, Mission and Goals</strong></span>
 										</h4>
-										<hr />
+									
 										<div class="inner-content">
 											<p align="justify"> 
 												<!--												<img src="../images/saint_chavara.jpg" alt="Kristu Jayanti College Founder" align="left" class="img2">-->
@@ -246,7 +247,7 @@
 <script src="../js/swipeview.js"></script>
 <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
 <script src="../js/classie.js"></script>
-<script src="../js/morphingSearch.js"></script>
+
 <script src="../js/sidebarEffects.js"></script>
 <script src="../js/transit.js"></script>
 <script src="../js/sly.js"></script>

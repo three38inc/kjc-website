@@ -181,14 +181,14 @@
                         </table>
                     </li>-->
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>July 18th 2017</strong>  Department of Computer Science [PG] and IIT, Bombay Organizing "Spoken Tutorial Software Training  on JAVA" <br> <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=spoken-tutorial-software-training.php">(Read More)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
 					
                     <li class="news-item">
@@ -196,6 +196,15 @@
                             <tr>
                                 <td><img src="../../../../images/compose-icon.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>July 20th - 21st 2017</strong> Department of Computer Science[PG] organizing Two day National Level Workshop on "Data Science & Analytics".<br> <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=data-science-analytics.php">(Read More)</a></td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/compose-icon.png" width="50" height="50" class="img-circle" /></td>
+                               <td><strong>July 22nd 2017</strong>  Department of Computer Science [PG] organizing Student Seminar Series "IOT, WOT and Cloud Computing" <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=IOT-WOT.php">(Read More)</a></td>
                             </tr>
                         </table>
                     </li>

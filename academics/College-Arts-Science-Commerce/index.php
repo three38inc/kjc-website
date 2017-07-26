@@ -90,7 +90,7 @@
                         </div>
                         
                         <div class="container">
-                            <div class="row" >
+                            <div class="row hoverDiv" >
                                 <div class="col-lg-12">
                                     <div class="content-spl courseDetails wow fadeIn">
                                         <?php include ('php/course.php'); ?>

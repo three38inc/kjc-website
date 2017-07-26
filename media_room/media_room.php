@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+=======
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
+>>>>>>> origin/master
 <html lang="en" class="no-js">
 
 <head>

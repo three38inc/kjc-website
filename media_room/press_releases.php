@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -110,7 +110,7 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                   <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp; Press <strong>releases</strong></span>
@@ -119,211 +119,17 @@
                                  
 									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
                                     
-                                    <div style="height:500px;width:800px;border:1px solid #ccc;overflow:auto;">
-                                   <!--------------------------------------------------scroll------------------------------------------->
-                                        
-                                        
-                                       <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading6">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                                                    FDP on GST at Kristu Jayanti College, Bengaluru
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading6">
-                                                    <div class="panel-body">
-                                                        
-                                                      <p align=justify>Kristu Jayanti College organized ‘Shubh Aarambh’, the inaugural gathering for the academic year 2017-18, for the Post Graduate students of MA, MSc, MSW and M.Com, on July 18, 2017. The inauguration fest is a part of College’s higher intentions wherein the new students are introduced to the campus culture, values and best practices.</p>
-                                                        <p align=justify>During ‘Shubh Aarambh’, Fr. Josekutty P.D, Principal, elaborated on the importance of education on the overall development of an individual. He mentioned that education can only be fruitful when one realizes the real attitudes and values in life coupled with continuous strive for excellence. Kristu Jayanti College aims at the continuous and comprehensive training in knowledge and skills along with morale training, thus motivating the students to achieve their life goals. “The college purposes to empower every student, to make them realize their potential, so that in the future they can empower others in their life,” he added.</p>
-                                                        <p align=justify>He further explained the significance of the three ‘R’s in a student’s life. They stand for Resourcefulness, Responsibility and Respectability. When a student is resourceful, he is keeping up to the expectations of his parents and teachers. Being resourceful alone cannot make a person complete, one needs to have the courage to take up responsibilities, at the same time giving and taking respect. “When these three elements are blended together, you will be molding yourself for the future challenges in life,” reminded the Principal.</p>
-                                                        <p align=justify>The principal introduced the students to the theme of academic year 2017-18, ‘wellness through academic excellence’; emphasizing that real wellness is the combination of physical, spiritual and emotional wellbeing. The college’s anti ragging committee was also familiarized to the students in the attempt of making the campus hundred percent ragging free.</p>
-                                                        <p align=justify>The program also included prayers concerning every religion to evoke almighty’s blessing for the new start and to bring in the idea of secularism among students. Fr. Augustine George, Vice Principal, gave the introductory prayer, while the Deaneries from various departments quoted verses from Quran, Bible and Rig Veda.</p>
-                                                        <p align=justify>The Post Graduate students are also provides life skills training aiming at their overall personality development. The one week program focuses on several life skills sessions like: self-awareness, empathy, creative thinking, critical thinking, problem solving, decision making, effective communication, inter-personal relationship, coping with emotions and stress management.</p>
-                                                        <p align=justify>"Shubh Aaramb was a really great experience and I feel like really being a part of this college," said Ms. Gayanthri. M, a 1st year MA Literature student, expressing her joy in being a part of the college.</p>
-                                                        
-                                                        <center><img src="images/release/kristu-jayanti-college-shubh-aarambh.jpg"></center>
+                                   <!-- <div class="well">
+ <ul class="nav nav-pills">
+  <li class="active"><a href="#">July <span class="badge">01</span></a></li>
+  
+</ul>
 
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    
-                                    
-                                      <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading5">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                                    FDP on GST at Kristu Jayanti College, Bengaluru
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse5" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading5">
-                                                    <div class="panel-body">
-                                                        
-                                                        <p align=justify>At Kristu Jayanti College we have always kept the faculty and student abreast with the challenges and opportunities in relation to trade, industry and commerce in Faculty Development Program (FDP) on the topic GST for the Students and Faculty members. </p>
-                                                        <p align=justify>GST stands for “Goods and Services Tax”, and is proposed to be a comprehensive indirect tax levy on manufacture, sale and consumption of goods as well as services at the national level. It will replace all indirect taxes levied on goods and services by the Indian Central and State governments. It is aimed at being comprehensive for most goods and services.</p>
-                                                        <p><b>The long-awaited GST regime is all set to roll out with the President assent to the following four GST related Bills :</b><br>
-•	Central GST Bill, 2017<br>
-•	The Integrated GST Bill, 2017<br>
-•	Union Territory GST Bill, 2017<br>
-                                                            •	GST (Compensation to States) Bill, 2017</p>
-                                                        <p align=justify>The law will replace various indirect taxes with one simple tax, creating a boundary less and a unified national market that will also lead to increase in country’s GDP. Implementation of GST would bring many professionals opportunities for Company Secretaries in Practice and employment in terms of compliance, advisory, tax planning, etc.</p>
-
-                                                        <center><img src="images/release/kristu-jayanti-college-gst.jpg"></center>
-
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    
-                                     <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading4">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                                       Kristu Jayanti College (Autonomous), Bengaluru signs membership with ICT Academy
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
-                                                    <div class="panel-body">
-                                                        
-                                                        <p align=justify><b>Focus on making the Arts and Science students Industry Ready stands crucial for the holistic development of students passing out of college.</b><br>
-                                                            <b>As a first step to it, Kristu Jayanti College (Autonomous), Bengaluru signs membership with ICT Academy</b></p>
-
-                                                        <p><b>Bengaluru</b><br>
-                                                            <b>23rd  June 2017</b><br>
-                                                            Of late with the growing importance for the Arts and Science colleges across India, majority of the students are enrolled in the Arts and Science Colleges. It has also been stated that the maximum number of Ph.D has been enrolled from the Science streams.</p>
-                                                        <p align=justify>As per the All India Survey on Higher education report by Ministry of Human Resource Development, GOI, it is stated that</p> 
-                                                        <p align=justify>“At Undergraduate level the highest number (40%) of students is enrolled in Arts/Humanities/Social Sciences courses followed by Science (16%), Engineering and Technology (15.6%) and Commerce (14.1%). At Ph.D. level, maximum number of students is enrolled in Science stream followed by Engineering and Technology.”</p>
-                                                        <p align=justify>Realizing this various arts and science colleges gives a special focus on training the students in various industry relevant skill development courses. Kristu Jayanti College (Autonomous), Bengaluru has signed the Membership with ICT Academy on June 23, 2017. The membership is signed to benefit Faculty Members and Students through various initiatives of ICT Academy which includes Faculty Development, Student Skill Development, Industry-Institute Collaboration, Research etc.</p>
-                                                        <p align=justify>Kristu Jayanti College (Autonomous), Bengaluru is the first Arts & Science College in the State of Karnataka to sign the membership with ICT Academy.</p>
-                                                        <p align=justify>The Certificate of Membership was exchanged between Fr. Josekutty P.D the Principal of the institution and Mr. Suresh Babu, Regional Head – Karnataka & Telangana, ICT Academy. Speaking on the occasion, Mr. Suresh Babu said, “ICT Academy the non-profit organization is happy to sign its first arts & science college membership in the state of Karnataka. We are committed to provide full support to the faculty and students of the college by providing world class training and delivering courses directly from the global corporate house. We strive to bring down the skill gap by being a bridge between academia and corporate, and this occasion is the first step towards that.” Mr. Vishnu Prasad, State Head – Karnataka, ICT Academy was also present on the occasion.</p>
-                                                        <p align=justify><b>About ICT Academy</b><br>
-                                                            ICT Academy is an initiative of the Government of India in collaboration with the state Governments and Industries. ICT Academy was started to meet the skill requirements of the industry and generate more employment especially in tier 2 and 3 towns, the rural parts of the country. </p>
-                                                        <p align=justify>As recommended by NITI Aayog, as one of the unique organization for dissemination and replication, ICT Academy is spreading its wings across the country for the empowerment of students through faculty members of higher education institutions. </p>
+</div>-->
 
 
 
 
-                                                        
-                                                        <center><img src="images/release/kristu-jayanti-collegge-ICT-Academy.jpg"></center>
-
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    
-                                    
-                                       <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading3">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
-                                                        Commemorating International Yoga Day at Kristu Jayanti College 
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
-                                                    <div class="panel-body">
-                                                        
-                                                        <p align=justify>On the occasion of International Yoga Day, the Jayantian Extension Service of Kristu Jayanti College organized a Yoga session aimed at creating awareness on the ancient science of breathing. The event attended by over 150 students was presided over by Yogi Sanyasi Charnashrit.</p>
-                                                        <p align=justify>The brief session included the practice of three Asanas, namely Thalasana (upper body stretch), Thriyanka Asana (lateral body stretch), Katti Chakrasana (waist). Sanyasi Charnashrit stressed on the importance of practicing yoga in daily life as it is beneficial for both mind and body. Compared to the recent trend of extreme physical exertion for fitness purposes, the yogi suggested yoga as a healthy alternative that can improvise our breathing, blood circulation which in turn helps in better concentration, memory and physical fitness. </p>
-                                                        <p align=justify>“Yoga helps in removing toxins from the body. It also regulates energy flow and aids in better mind-body programming,” remarked the yogi. Physical exercise can lead to serious physical concerns like, neuron damage and unhealthy body proportions. Being internationally recognized as an art of breathing.</p>
-                                                        <p align=justify>Fr. Josekutty PD, Principal, Fr. Augustine George, Vice Principal; Fr. Immanuel PJ, Fr. Som Zachariah along with various faculty coordinators and students attended the occasion. </p>
-
-
-
-                                                        
-                                                        <center><img src="images/release/kristu-jayanti-college-yogaday.jpg"></center>
-
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    
-                                              <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading2">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                                         National level workshop on management of change for progressive secondary education
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
-                                                    <div class="panel-body">
-                                                        
-                                                        <p align=justify>A three day National level workshop on management of change for progressive secondary education was inaugurated by Shri B.C Rao, Managing Director; Kennametal on May 4 2017 at Kristu Jayanti College was organized by Internal Quality Assurance Cell (IQAC) of the College.</p>
-                                                        <p align=justify>Shri B.C Rao Managing Director, Kennametal, bequeathed an introduction of change in the way of life and change in education, primary education give the literacy, secondary education is very impactful in molding the future career as well shaping a good citizen. He additionally said their driver of future development is innovation, vehicle and computerized in all line of business. With the correct identity, rate, relational abilities and additional roundabout exercises have a weightage on their determination procedure and future profession. In organization their lean toward workers who go past their limits and their engine, on the off chance that anything turns out badly in the event that there is no pay straightforwardly they will be expelled from their individual posts. He likewise engages a disturbance has he trusts it can bring a change.</p>
-                                                        <p align=justify>Guest of honor Henrique’s Van Gurd Vice President Indian Economic Trade, said when he was small he was a very restless student and told by his teacher to listen which brought him to the position what he is today, and likewise give us the context to do the same and think out of the box. </p>
-                                                        <p align=justify>In the welcome address by Dr. Aloysius Edward briefed on the present education management system and employability requirement from the educational institutions apart from theory and to bridge the gap between the institutional training and industry working skills. </p>
-                                                        <p>Fr. Josekutty P.D, Principal, Dr. Calistus Jude, Dean Faculty of Sciences and member of IQAC were also present in the inauguration. </p>
-                                                        <p>The inaugural Program was followed by keynote sessions like Reaching out to the learners through aptitude testing and counseling by Dr. Ashok H.S, Chairman and Prof. Department of Psychology. Classroom management for effective learning by Dr. H.S Ganesha Bhatta, Principal, MES Teacher’s College, Role of Multiple intelligence in achieving sustainable development of the learner by Dr. Shakuntala Katre former senior academic consultant, NAAC. Group work and exercise handled by Dr. Shakuntala Katre and Dr. Ravichandra Reddy.</p>
-                                                        <p>On May 5, 6 the keynote sessions are on online education resource by Dr.Aravind Srinivas, Tata consultancy services, Intuitional management by Shri S Giridhar Chief Operating Officer, Azim Premji University, Assessment and Accreditation of Schools by Dr. A Senthil Kumaran, Chief Confluence the learner’s confluence and Group work and exercise by Dr. A Senthil Kumaran. And on the last day Digital Learning Devices by Dr.Ravichandra Reddy, former acting director, NAAC, Motivation of Teachers by Dr.Mariamma A Varghese former Vice Chancellor, SNDT share their experience and thoughts.</p>
-
-
-                                                        
-                                                        <center><img src="images/release/kristu-jayanti-college-national-level-workshop.jpg"></center>
-
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    
-                                                <div class="panel panel-default">
-                                                <div class="panel-heading" role="tab" id="heading1">
-                                                    <h5 class="panel-title">
-                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" aria-controls="collapse1">
-                                                          Women’s Day Celebration at Kristu Jayanti College
-                                                        </a>
-                                                    </h5>
-                                                </div>
-                                                <div id="collapse1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading1">
-                                                    <div class="panel-body">
-                                                        
-                                                        <p align=justify>“Enjoy and be yourself” was the message given to the women by Ms. Salma Moosa, Founder and Managing Director, Startups Club Pvt. Ltd., as she addressed the Post Graduate girl students at the International Women’s Day celebrations, organized by the Women Empowerment Cell of Kristu Jayanti College on March 8, 2017.</p>
-
-                                                        <p align=justify>Rev. Fr. Augustine George, in his address emphasized on the inner strength within every woman. “There is divinity within ourselves, Honour and respect that divinity,” he said. He further said that no one can change the situation that one is in, except that person themselves.</p>
-
-                                                        <p align=justify>There was a cultural program in the morning where iconic women who have had an impact on the world were celebrated. The function later in the day consisted of an inspirational talk by Ms. Salma Moosa, followed by a workshop on self-defense for the women conducted by the School of Martial Arts.</p>
-
-                                                        <p align=justify>Ms. Moosa, in her inspirational talk gave three points for the gathering. The first, she said, was to be oneself, and to do what one wants one to do. The second was to start doing what one wants to do in small things. And the final point from her was that women don’t need empowerment, but need to start respecting each other.</p>
-
-                                                        <p align=justify>The workshop on self-defense for the Post Graduate women students was conducted by a team from the School of Martial Arts, led by Master Poondhanam, Senior Black Belt, and Master Balraj, Senior Black Belt, Senior Black Belt. They taught 30 basic techniques of self-defense within a period of one hour, preparing the students for the dangers they might encounter on the road.</p>
-
-                                                        
-                                                        <center><img src="images/release/kristu-jayanti-college-womens-day-celebration.jpg"></center>
-
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
-<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
-
-                                    </div>
-                              
-<!----------------------------------------- scroll end--------------------------------->
 
                                 </div>
                             </div>
@@ -360,10 +166,6 @@
 
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="social_media.php">Social Media</a></p>
-                                    </section>
-                                    
-                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="kjc-television.php">KJC Television</a></p>
                                     </section>
 
 
@@ -412,7 +214,7 @@
         <!-- this is the wrapper for the content-->
     </div>
     <!--st-pusher-->
-   
+    </div>
     <!--st-container-->
 
     <script src="../js/cbpFWTabs.js"></script>

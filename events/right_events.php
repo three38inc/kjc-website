@@ -25,6 +25,106 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="workshop-research-proposal.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 25 </span></td>
+                <td class="event-dates">
+                  <p>Department of Psychology Proprium Series In-house Workshop on Research Proposal</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 25 </span></td>
+                <td class="event-dates">
+                  <p> Pooled Campus Hiring" for the BCA &amp; B.SC (Computer Science) students from Larsen & Toubro Infotech Limited</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="television-programme-production.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 24 </span></td>
+                <td class="event-dates">
+                  <p> Department of Journalism and Mass Communication is organizing a workshop on ‘Television Programme Production’ </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 22 </span></td>
+                <td class="event-dates">
+                  <p>School of Management (MBA & PGDM) & Department of Economics in Association with Indian Economic Trade Organization (IETO)
+    organize India &amp; Costa Rica Conclave at 10.30 am in SKE Auditorium   </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="IOT-WOT.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 22 </span></td>
+                <td class="event-dates">
+                  <p> Department of Computer Science [PG] organizing Student Seminar Series "IOT, WOT and Cloud Computing"  </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="data-science-analytics.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 20 </span></td>
+                <td class="event-dates">
+                  <p>  Department of Computer Science[PG] organizing Two day National Level Workshop on "Data Science & Analytics"</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="placement-orientation-20july.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 20</span></td>
+                <td class="event-dates">
+                  <p> Placement Orientation &amp; Training Programme</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="kalajyothi_2017.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 17 </span></td>
+                <td class="event-dates">
+                  <p> KALAJYOTHI - Intracollegiate Literary, Cultural & Gospel Festival</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="placement-orientation-19july.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 19</span></td>
+                <td class="event-dates">
+                  <p> Placement Orientation &amp; Training Programme</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
      <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="machine-learning-tech-giants.php">
         <table cellpadding="4">
             <tr>

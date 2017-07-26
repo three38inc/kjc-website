@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,19);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,4);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -80,7 +80,7 @@
                         <div class="row">
                             <div class="col-lg-9">
 								<div class="content-left myWelcome wow fadeIn">
-									 <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+									 <img src="images/fest/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
                                 <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                     <span>&nbsp; Department<strong> Fests  </strong></span></h4>
@@ -106,14 +106,14 @@
                                     </h4>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bca.php">BCA
-                                            <font size=2>(Bachelor of Computer Applications)</font></a></p>
+                                            <font size=1>(Bachelor of Computer Applications)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=2>(Computer Science, Mathematics, Electronics)</font></a></p>
+                                        <p><a class="a-link-arrow" href="bsc_csme.php">B.Sc. CSME <font size=1>(Computer Science, Mathematics, Electronics)</font></a></p>
                                     </section>
                                     <section class="link-arrow">
                                         <p><a class="a-link-arrow" href="bsc_csms.php">B.Sc. CSMS
-                                            <font size=2>(Computer Science, Mathematics, Statistics)</font></a></p>
+                                            <font size=1>(Computer Science, Mathematics, Statistics)</font></a></p>
                                     </section>
                                 </div>
                                 

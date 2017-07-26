@@ -68,7 +68,7 @@ Computer Networks, Data Mining
                 <div class="class-img"><img src="images/faculty/Muruganantham.jpg"></div>
             </div>
             <div class="item-content">
-                <h4>Prof. A.Muruganantham
+                <h4>Prof. A. Muruganantham
                 </h4>
                 <p>
                     <span>Qualification </span> <br/>M.Sc.,M.Phil (Computer Science)., Pursing Ph.D(CS)
@@ -127,7 +127,7 @@ Computer Networks, Data Mining
 <div class="member-item col-md-4 ">
         <div class="member-item-inner">
             <div class="item-thumbnail">
-                <div class="class-img"><img src="images/fr_Augustine.png"></div>
+                <div class="class-img"><img src="images/faculty/jyothi-manoj.jpg"></div>
             </div>
             <div class="item-content">
                 <h4>Prof. Jyothi Manoj 
