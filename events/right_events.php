@@ -25,6 +25,17 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="television-programme-production.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 24 </span></td>
+                <td class="event-dates">
+                  <p> Department of Journalism and Mass Communication is organizing a workshop on ‘Television Programme Production’ </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="#">
         <table cellpadding="4">
             <tr>

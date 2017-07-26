@@ -24,16 +24,22 @@
                 </p>
 				
 				<p>
-                    <span> Research articles presented </span><br/> 09
+                    <span> Research articles presented </span><br/> 14
                 </p>
 				<p>
-                    <span> Research articles published </span><br/> 11
+                    <span> Research articles published </span><br/> 12
                 </p>
 				<p>
                     <span> Books published </span><br/> 01
                 </p>
 				<p>
                     <span> Books chapters published </span><br/> 01
+                </p>
+                <p>
+                    <span> Seminar/Conference/Symposia organized  </span><br/> 06
+                </p>
+                <p>
+                    <span> Patent  </span><br/> 01
                 </p>
 				
 				
@@ -80,7 +86,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </div>
         </div>
     </div>
@@ -115,7 +121,7 @@
                     </li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-twitter"></i></a></li>
                     <li><a class=" social-icon" href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                </ul><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             </div>
         </div>
     </div>

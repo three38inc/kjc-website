@@ -690,7 +690,7 @@
                         </table>
                     </li>-->
                     
-                    <li class="news-item">
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
@@ -708,7 +708,7 @@
 								</td>
 							</tr>
                         </table>
-                    </li>
+                    </li>-->
 					
                     <li class="news-item">
                         <table cellpadding="4">
@@ -908,6 +908,25 @@
                                     Read More 
                                     <i class='fa fa-angle-double-right'></i>
 								</a>-->
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 2em;font-weight: bold;">AUG</p>
+                                <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">03</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+							Department of Management Acumen 2017 Intracollegiate fest </p>
+							<a href="../events/events.php?mode=openlink&year=2017&month=august&url=acumen-2017.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
 								</td>
 							</tr>
                         </table>
