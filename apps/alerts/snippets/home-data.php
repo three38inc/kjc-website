@@ -5,24 +5,55 @@
                 <tbody>
                     <?php
                         /*Get the available alerts*/
-                        $stmt = $connector->query('SELECT * FROM `alerter`');
-                        if($stmt){
+                        if(isset($_GET['label-selection']) && !empty($_GET['label-selection'])){
+                            $stmt = $connector->prepare('SELECT * FROM `alerter` WHERE `tag_id`=:tag_id');
+                            $stmt->bindValue(":tag_id",$_GET['label-selection'],PDO::PARAM_INT);
+                        }
+                        else if(isset($_GET['status-selection']) && !empty($_GET['status-selection'])){
+                            $stmt = $connector->prepare('SELECT * FROM `alerter` WHERE `star`=:star');
+                            $stmt->bindValue(":star",$_GET['status-selection'],PDO::PARAM_INT);
+                        }
+                        else{
+                            $stmt = $connector->prepare('SELECT * FROM `alerter`');
+                        }
+                        $stmt->execute();
+                        if($stmt->rowCount()>=1){
                             while($row = $stmt->fetch()){
                             ?>
                             <tr class="unread">
                                 <td class="mail-select" style="width:20%;">
                                     <div class="checkbox checkbox-primary m-r-15">
-                                        <input id="checkbox1" type="checkbox">
-                                        <label for="checkbox1"></label>
+                                        <input class="checkbox" type="checkbox" data-id="<?php echo $row['id'];?>">
+                                        <label for="checkbox"></label>
                                     </div>
                             <?php
-                                if($row['star']==1){
+
+                                $now=strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d H:i:s a'));
+                                
+                                $alertDateBegin = strtotime(explode("<to>",$row['visibility_period'])[0]);
+                                $alertDateEnd = strtotime(explode("<to>",$row['visibility_period'])[1]);
+
+                                if($now > $alertDateBegin && $now < $alertDateEnd) {
+                                    $star=1;
+                                } else if($now < $alertDateBegin && $now < $alertDateEnd){
+                                    $star=0;  
+                                }
+                                else if($now > $alertDateBegin && $now > $alertDateEnd){
+                                    $star=2;  
+                                }
+                                $sql = "UPDATE `alerter` SET `star` = ? WHERE `id` = ?";
+                                $connector->prepare($sql)->execute([$star, $row['id']]);
+                                if($star==1){
                             ?>
-                                    <i class="fa fa-star m-r-15 text-warning"></i>
+                                    <i class="fa fa-star m-r-15 text-success"></i>
                             <?php
-                                }else{
+                                }else if($star==2){
                             ?>
                                     <i class="fa fa-star m-r-15 text-muted"></i>
+                            <?php
+                                }else if($star==0){
+                            ?>
+                                <i class="fa fa-star m-r-15 text-warning"></i>
                             <?php
                                 }
                             ?>
@@ -72,33 +103,20 @@
                             }
                                 
                         }
+                        else{
+                        ?>
+                            <tr class="unread">
+                                <td style="text-align:center;"> No data Available ....!</td>
+                            </tr>
+                        <?php
+                        }
                     ?>
-<!--
-                    <tr class="unread">
-                        <td class="mail-select">
-                            <div class="checkbox checkbox-primary m-r-15">
-                                <input id="checkbox1" type="checkbox">
-                                <label for="checkbox1"></label>
-                            </div>
 
-                            <i class="fa fa-star m-r-15 text-warning"></i>
-
-                            <i class="fa fa-circle m-l-5 text-warning"></i>
-                        </td>
-
-                        <td class="hidden-xs">
-                            <a href="compose-alert.php?alert-no=1" class="email-msg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</a>
-                        </td>
-
-                        <td class="text-right">
-                            07:23 AM
-                        </td>
-                    </tr>
--->
                 </tbody>
+                
             </table>
         </div>
-
+        
     </div>
     <!-- panel body -->
 </div>

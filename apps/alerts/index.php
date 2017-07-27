@@ -73,20 +73,9 @@
                     <?php include('snippets/home-settings.php');?>
 
                     <?php include('snippets/home-data.php'); ?>
-
-                    <!--
-                    <div class="row">
-                        <div class="col-xs-7">
-                            Showing 1 - 20 of 289
-                        </div>
-                        <div class="col-xs-5">
-                            <div class="btn-group pull-right">
-                                <button type="button" class="btn btn-default waves-effect"><i class="fa fa-chevron-left"></i></button>
-                                <button type="button" class="btn btn-default waves-effect"><i class="fa fa-chevron-right"></i></button>
-                            </div>
-                        </div>
-                    </div>
--->
+                    
+                    
+                    
 
 
 
@@ -124,8 +113,7 @@
         </div>
         <!-- end container -->
     </div>
-    <?php include('snippets/create-label-modal.php');?>
-
+    
 
     <!-- jQuery  -->
     <script src="assets/js/jquery.min.js"></script>
@@ -147,17 +135,5 @@
     
     
 </body>
-
-
+<?php include('snippets/delete-tag-modal.php'); ?>
 </html>
-<!--
-$now=strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d H:i:s a'));
-$alertDateBegin = strtotime("2017-07-23 12:00:00 am");
-$alertDateEnd = strtotime("2017-07-23 11:59:59 pm");
-
-if($now > $alertDateBegin && $now < $alertDateEnd) {
-   echo "Show the Alert";
-} else {
-    echo "Don't Show Alert";  
-}
--->
