@@ -317,7 +317,35 @@
                     <li class="news-item">
                         <table cellpadding="4">
                             <tr>
-                                <td><img src="../images/bookshelf-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><img src="../images/calendar-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 28th 2017</strong>  Department of Computer Science[PG] Organizing "Gramasamveditha" - Village Exposure Programme at Kiranagere, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                      <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/genius-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 28th 2017</strong>  Department of Computer Science[PG] Organizing " Study on  M-Governance services in Agriculture" at Kiranagere, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    
+                      <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 29th 2017</strong>  Department of Computer Science[PG] Organizing "Kishora Ganakajnana Camp" - Computer Literacy Programme at Government Middle School, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../images/brush-pencil-icon.png" width="50" height="50" class="img-circle" /></td>
                                 <td><strong>August 01st 2017</strong> School of Management (MBA &amp; PGDM) Commencement of IV Trimester Classes 2017 - 18</td>
                             </tr>
                         </table>
