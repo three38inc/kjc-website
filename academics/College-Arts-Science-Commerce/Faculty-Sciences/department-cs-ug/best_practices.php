@@ -86,7 +86,7 @@
                                     <span>&nbsp; Best  <strong> Practices  </strong></span></h4>
 									
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Computer Academy</b><br>
-										The Department of Computer Science (UG) has a computer science club "COMPUTER ACADEMY" with more than 600 members where students participate, organize and be part of confluence between technology and academics through a series of programmes like guest lectures, workshops, seminars, industrial visits, inter and intra collegiate fests, science exhibition, computer simulations, technical communities, technical video sessions, social outreach programmes etc. </p>
+										The Department of Computer Science (UG) has a computer science club "COMPUTER ACADEMY" with more than 800 members where students participate, organize and be part of confluence between technology and academics through a series of programmes like guest lectures, workshops, seminars, industrial visits, inter and intra collegiate fests, science exhibition, computer simulations, technical communities, technical video sessions, social outreach programmes etc. </p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Innovative Club</b><br>
 										The innovative club aims to foster innovation in the young minds of the students by providing them opportunity to do projects as diverse as robotics and animated games pertaining to the fields of Mathematics, Statistics, Electronics and Computer Science. Galaxia is the Intra College Science Project Exhibition which offers the passionate a stage to display what they find fascinating.</p>
 									<p align=justify><b style="color: #cd6e08;font-weight: bold;">Technical Community</b><br>

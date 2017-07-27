@@ -2,6 +2,83 @@
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse18" aria-expanded="false" aria-controls="collapse18">
+                <div class="panel-heading" role="tab" id="heading18">
+                    <h4 class="panel-title">
+                    July 27<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse18" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading18">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+
+                        There will be an audition for students in mime and skit between 10.00 a.m. and 1.00 p.m. today in the Mini Auditorium I. Those who are interested to be part of the college mime and skit teams may attend the audition.</p>
+
+                    <p><b>For all UG & PG classes</b><br>
+                        There will be a prayer meeting in the CMI Ashram Chapel today (27/07/2017) at 3.40 p.m.</p>
+
+                    <p><b>UG V Semester classes</b><br>
+                        The supplementary results are announced online.  Students willing to apply for revaluation has to do the same on or before 2nd August 2017. Guidelines regarding the same is published in the Examination Office notice board.</p>
+
+                    <p><b>For all UG & PG classes (Except MBA/PGDM and I year PG classes)</b><br>
+
+
+                        <b>Tuition /Admission Fee</b><br>
+
+    Defaulters of tuition/admission fee should pay the same on or before 10th August 2017 with late fee of Rs. 1000/-. <br>
+
+                        <b>Venue:</b> Counter No. 2 (UG Office)<br>
+                        <b>Time:</b>   12.45 p.m. to 1.40 p.m.<br>
+
+                        Students who have transferred tuition/admission fee directly to the college account (online payment mode) for this academic year are requested to collect the fee receipt from Counter No. 2 (UG Office) today itself by showing valid transaction details.</p>
+                    <b>Time:</b> 3.00 p.m. to 4.00 p.m.
+                    
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse17" aria-expanded="false" aria-controls="collapse17">
+                <div class="panel-heading" role="tab" id="heading17">
+                    <h4 class="panel-title">
+                    July 26<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse17" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading17">
+                <div class="panel-body">
+                    <p><b>For all UG classes</b><br>
+                        There will be an audition for students to form the college mime and skit teams between 10.00 a.m. and 1.00 p.m. on Thursday, 27th July 2017 in the Mini Auditorium I. Those who are interested to participate college team should attend the audition.</p>
+
+                    <p><b>Civil Service Orientation Programme</b><br>
+                        Students who have registered for Civil Service Coaching are requested to attend an orientation programme on ‘Civil Service Training’ on July 28, 2017 (Friday) at 3.30 p.m. in Room No. 409, UG Block.</p>
+
+                    <p><b>Environment Club</b><br>
+                        Students who wish to enroll in the Environment Club are requested to register their names at the Reception Counter, UG Block on or before Thursday, July 27, 2017.</p>
+
+                    <p><b>For all UG & PG classes</b><br>
+                        Students who are willing to participate in the Bangalore University Inter collegiate sports competitions are requested meet the Physical Education Director in the staff room, at UG Block, Ground Floor near Library on 26th and 27th July 2017.  </p>
+
+                    <p>There will be a meeting of all Tibetan National Students today (26/07/2017) at 4.30 p.m. in Room No. 413.</p>
+
+                    <p><b>For all UG & PG classes (except MBA & PGDM)</b><br>
+                        <b>Entrepreneurship and Innovation Centre (EIC)</b><br>
+                        Students registered for Entrepreneurship and Innovation Centre (EIC) are requested to assemble in Mini Auditorium II today (26/07/2017) at 3.30 p.m. for the formal orientation programme.</p>
+                    
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
         
                <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse16" aria-expanded="false" aria-controls="collapse16">

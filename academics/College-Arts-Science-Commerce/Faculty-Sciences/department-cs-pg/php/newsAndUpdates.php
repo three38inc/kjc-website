@@ -190,24 +190,52 @@
                         </table>
                     </li>-->
                     
-					
                     <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/calendar-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 28th 2017</strong>  Department of Computer Science[PG] Organizing "Gramasamveditha" - Village Exposure Programme at Kiranagere, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                      <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/genius-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 28th 2017</strong>  Department of Computer Science[PG] Organizing " Study on  M-Governance services in Agriculture" at Kiranagere, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+                    
+                      <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td><img src="../../../../images/brightness-icon.png" width="50" height="50" class="img-circle" /></td>
+                                <td><strong>July 29th 2017</strong>  Department of Computer Science[PG] Organizing "Kishora Ganakajnana Camp" - Computer Literacy Programme at Government Middle School, Harohalli (hobli), Kanakapura (PO), Ramanagara(Dist). </td>
+                            </tr>
+                        </table>
+                    </li>
+                    
+					
+                    <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/compose-icon.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>July 20th - 21st 2017</strong> Department of Computer Science[PG] organizing Two day National Level Workshop on "Data Science & Analytics".<br> <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=data-science-analytics.php">(Read More)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>-->
                     
-                     <li class="news-item">
+                     <!--<li class="news-item">
                         <table cellpadding="4">
                             <tr>
                                 <td><img src="../../../../images/compose-icon.png" width="50" height="50" class="img-circle" /></td>
                                <td><strong>July 22nd 2017</strong>  Department of Computer Science [PG] organizing Student Seminar Series "IOT, WOT and Cloud Computing" <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=IOT-WOT.php">(Read More)</a></td>
                             </tr>
                         </table>
-                    </li>
+                    </li>--->
                    
                    <li class="news-item">
                         <table cellpadding="4">
