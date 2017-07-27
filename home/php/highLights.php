@@ -9,6 +9,16 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-writing-newspapers.jpg" class="img-responsive"/>
+            <span class="date">26<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=workshop-writing-newspapers.php">
+              <h4>Workshop on ‘Writing for Newspapers - Professional Perspectives'<br/><small>
+             The Department of Journalism and Mass Communication organised a workshop on ‘Writing for Newspapers - Professional Perspectives'..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
             <img src="../highlights/2017/kristu-jayanti-college-NPTEL.jpg" class="img-responsive"/>
             <span class="date">26<sup>th</sup> July 2017</span>
             <div class="quote">

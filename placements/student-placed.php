@@ -114,121 +114,121 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>Students &nbsp; Placed 2017 - 18</span>
                                     </h4>
-                                    <table border="0" cellspacing="0" cellpadding="0" class="table table-bordered table-hover">
+                                <table border="0" cellspacing="0" cellpadding="0" class="table table-bordered table-hover">
   <tr>
     <td width="187"><p align="center"><strong>NAME </strong></p></td>
     <td width="282"><p align="center"><strong>COMPANY</strong></p></td>
     <td width="162"><p align="center"><strong>STREAM</strong></p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>AHALYA AUGUSTINE</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>AHALYA AUGUSTINE</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>RAMYA DHAYALAN</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>RAMYA DHAYALAN</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>ZAINAB KHANUM</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>ZAINAB KHANUM</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>EUREKAMARY ACHARYA</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>EUREKAMARY ACHARYA</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>BLESSEN PAUL</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>BLESSEN PAUL</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>YAMINI BHASKAR</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>YAMINI BHASKAR</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>BENSON GEORGE</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>BENSON GEORGE</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>MAGGI WILSON</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>MAGGI WILSON</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>NOOPURA JOY</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>NOOPURA JOY</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>MOUSUMI CHOWDHURY</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>MOUSUMI CHOWDHURY</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>ALVIN PHILIP</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>ALVIN PHILIP</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>HEMANT KUMAR</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>HEMANT KUMAR</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>ROOPA R</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>ROOPA R</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>VANLAL ROKIMA</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>VANLAL ROKIMA</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>MARY CHAMMANY</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>MARY CHAMMANY</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>RAGESH MEKKATTUKULAM</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>RAGESH MEKKATTUKULAM</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>SOUNDARYA E</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>SOUNDARYA E</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>KIRAN KUMAR</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>KIRAN KUMAR</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>MOUNIKA K</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>MOUNIKA K</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>ALVIN PAUL</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>ALVIN PAUL</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>MARTIN THOMAS</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>MARTIN THOMAS</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
   <tr>
-    <td width="187" nowrap="nowrap" valign="bottom"><p><strong><em>DIVYA V VIJAY KUMAR</em></strong></p></td>
-    <td width="282" nowrap="nowrap"><p><strong><em>LARSEN &amp; TOUBRO INFOTECH    LIMITED </em></strong></p></td>
-    <td width="162" nowrap="nowrap"><p><strong><em>COMPUTER SCIENCE</em></strong></p></td>
+    <td width="187" nowrap="nowrap" valign="bottom"><p><strong>DIVYA V VIJAY KUMAR</strong></p></td>
+    <td width="282" nowrap="nowrap"><p>LARSEN &amp; TOUBRO INFOTECH LIMITED </p></td>
+    <td width="162" nowrap="nowrap"><p>COMPUTER SCIENCE</p></td>
   </tr>
 </table>
                       

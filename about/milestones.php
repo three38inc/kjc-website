@@ -121,134 +121,49 @@
 															Achievement
 														</th>
 													</tr>
-													<tr >
-														<td >
-															1999
+                                                    
+                                                    <tr >
+														<td>
+															2015
 														</td>
 														<td>
-															*Beginning of the college with 3 courses<br/> 
-															B.Com.,<br/>
-															B.Sc. (CSMS),<br/>
-															BA(HEP)
+															* B.Com Integrated (B.Com with ACCA)<br/>
+															* M.Com (Financial Analysis)<br/>
+															* MA Mass Communication &amp; Journalism<br/>
+															* M.A Programme in Economics<br/>
+															* M.A English Literature
 														</td>
 													</tr>
-													<tr >
+                                                    <tr >
 														<td>
-															2000
+															2013
 														</td>
 														<td>
-															*BCA course started
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2001
-														</td>
-														<td>
-															*BBM course started<br/>
-															*B.Sc. (CSME) course started<br/>
-															*BA (JPCS) course started<br/>
+															*B.Com (Professional course started<br/>
+															*Commencement of Autonomous Batches<br/>
 														</td>
 													</tr>
-													<tr >
+                                                    <tr >
 														<td>
-															2002
+															2012
 														</td>
 														<td>
-															*MBA course started<br/>
-															*B.Sc. (BT) course started
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2003
-														</td>
-														<td>
-															*MSW course started <br/>
-															*M.Sc. (Biotechnology) course started<br/>
-															*BA (JPEng), course started
+															*Autonomous Status Received
 														</td>
 													</tr>
-													<tr >
+                                                    <tr >
 														<td>
-															2004
+															2012
 														</td>
 														<td>
-															*MCA course started <br/>
-															*B.Sc. (MB) course started
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2005
-														</td>
-														<td>
-															*M.Sc. (Microbiology),
+															*UGC Autonomy Inspection Committee visited on June 22 &amp; 23, 2012<br/>
+															*BU Autonomy Inspection Committee visited on September 26, 2012<br/>
+															*Overall Champions for 5th Consecutive Year (University Youth Festival) 07 - 10<br/>
+															*India today _Nielsen Survey- One of the Best Colleges in India and Top Ten Commerce College in Bangalore (2012 Survey)<br/>
+															*National Youth Festival - Champions - Western Vocals
 														</td>
 													</tr>
-													<tr >
-														<td>
-															2006
-														</td>
-														<td>
-															*BA (HTJ) course started<br/>
-															* Research Centre Status awarded to Department of Social Work<br/>
-															*Permanent Affiliation<br/>
-															*Runners -up - Bangalore University youth Festival<br/>
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2007	
-														</td>
-														<td>
-															*M.Com. , course started<br/>
-															*BA(JPsEng) course started<br/>
-															*PG Diploma - Business Administration<br/>
-															Marketing Management<br/>
-															Human Recourse Management<br/>
-															* Collaborations with Foreign Institutions<br/>
-															*Overall Champions - Bangalore University Youth Festival<br/>
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2008
-														</td>
-														<td>
-															*Rated one of the top best business schools in India<br/>
-															* Overall Champions - Bangalore University Youth Festival<br/>
-															* National Youth Festival - Champions - Western Vocals<br/>
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2009
-														</td>
-														<td>
-															* NAAC Accreditation with ‘A’ Grade [CGPA 3.21]<br/>
-															GHRD rated rank 1 among promising B- Schools<br/>
-															*M.Sc.(Psy) course started<br/>
-															*B.Com. (Tourism) (Vocational course started<br/>
-															* Overall Champions - Bangalore University Youth Festival<br/>
-															* National Youth Festival - Champions - Western Vocals<br/>
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2010
-														</td>
-														<td>
-															* B.S. (Bachelor of Science) (4 year programme)<br/>
-															*Biotechnology Research Centre<br/>
-															* India today _Nielsen Survey- One of the Best<br/>
-															Colleges in India and Top Ten Commerce<br/>
-															College in Bangalore (2010 survey)<br/>
-															* Overall Champions -Bangalore University Youth Festival<br/>
-															* National Youth Festival - Champions - Western Vocals<br/>
-														</td>
-													</tr>
-													<tr >
+                                                    <tr >
 														<td>
 															2011
 														</td>
@@ -262,47 +177,136 @@
 															* Former President of the Republic of India - Dr. A.P.J. Abdul Kalam visits our college<br/>
 														</td>
 													</tr>
-													<tr >
+                                                    <tr >
 														<td>
-															2012
+															2010
 														</td>
 														<td>
-															*UGC Autonomy Inspection Committee visited on June 22 &amp; 23, 2012<br/>
-															*BU Autonomy Inspection Committee visited on September 26, 2012<br/>
-															*Overall Champions for 5th Consecutive Year (University Youth Festival) 07 - 10<br/>
-															*India today _Nielsen Survey- One of the Best Colleges in India and Top Ten Commerce College in Bangalore (2012 Survey)<br/>
-															*National Youth Festival - Champions - Western Vocals
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2012
-														</td>
-														<td>
-															*Autonomous Status Received
+															* B.S. (Bachelor of Science) (4 year programme)<br/>
+															*Biotechnology Research Centre<br/>
+															* India today _Nielsen Survey- One of the Best<br/>
+															Colleges in India and Top Ten Commerce<br/>
+															College in Bangalore (2010 survey)<br/>
+															* Overall Champions -Bangalore University Youth Festival<br/>
+															* National Youth Festival - Champions - Western Vocals<br/>
 														</td>
 													</tr>
-													<tr >
+                                                    <tr >
 														<td>
-															2013
+															2009
 														</td>
 														<td>
-															*B.Com (Professional course started<br/>
-															*Commencement of Autonomous Batches<br/>
-														</td>
-													</tr>
-													<tr >
-														<td>
-															2015
-														</td>
-														<td>
-															* B.Com Integrated (B.Com with ACCA)<br/>
-															* M.Com (Financial Analysis)<br/>
-															* MA Mass Communication &amp; Journalism<br/>
-															* M.A Programme in Economics<br/>
-															* M.A English Literature
+															* NAAC Accreditation with ‘A’ Grade [CGPA 3.21]<br/>
+															GHRD rated rank 1 among promising B- Schools<br/>
+															*M.Sc.(Psy) course started<br/>
+															*B.Com. (Tourism) (Vocational course started<br/>
+															* Overall Champions - Bangalore University Youth Festival<br/>
+															* National Youth Festival - Champions - Western Vocals<br/>
 														</td>
 													</tr>
+                                                    
+                                                    <tr >
+														<td>
+															2008
+														</td>
+														<td>
+															*Rated one of the top best business schools in India<br/>
+															* Overall Champions - Bangalore University Youth Festival<br/>
+															* National Youth Festival - Champions - Western Vocals<br/>
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2007	
+														</td>
+														<td>
+															*M.Com. , course started<br/>
+															*BA(JPsEng) course started<br/>
+															*PG Diploma - Business Administration<br/>
+															Marketing Management<br/>
+															Human Recourse Management<br/>
+															* Collaborations with Foreign Institutions<br/>
+															*Overall Champions - Bangalore University Youth Festival<br/>
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2006
+														</td>
+														<td>
+															*BA (HTJ) course started<br/>
+															* Research Centre Status awarded to Department of Social Work<br/>
+															*Permanent Affiliation<br/>
+															*Runners -up - Bangalore University youth Festival<br/>
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2005
+														</td>
+														<td>
+															*M.Sc. (Microbiology),
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2004
+														</td>
+														<td>
+															*MCA course started <br/>
+															*B.Sc. (MB) course started
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2003
+														</td>
+														<td>
+															*MSW course started <br/>
+															*M.Sc. (Biotechnology) course started<br/>
+															*BA (JPEng), course started
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2002
+														</td>
+														<td>
+															*MBA course started<br/>
+															*B.Sc. (BT) course started
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2001
+														</td>
+														<td>
+															*BBM course started<br/>
+															*B.Sc. (CSME) course started<br/>
+															*BA (JPCS) course started<br/>
+														</td>
+													</tr>
+                                                    <tr >
+														<td>
+															2000
+														</td>
+														<td>
+															*BCA course started
+														</td>
+													</tr>
+                                                     <tr >
+														<td >
+															1999
+														</td>
+														<td>
+															*Beginning of the college with 3 courses<br/> 
+															B.Com.,<br/>
+															B.Sc. (CSMS),<br/>
+															BA(HEP)
+														</td>
+													</tr>
+													
+													
 												</table>
 											</div>
 
