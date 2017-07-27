@@ -114,8 +114,13 @@
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
                                         <span>&nbsp;Photo Gallery</span>
                                     </h4>
-                                    
+                    
 <table border="1" cellpadding="0" cellspacing="0" class="table table-bordered">
+    
+     <tr>
+     <td width="500"><p><font size="3" color="#006699"><b>&nbsp;  Larsen &amp; Toubro Infotech Limited </b></font></p></td>
+       <td width="500"><center><a href="https://www.facebook.com/pg/KristuJayantiCollege/photos/?tab=album&album_id=1440183636060504" target="_blank">(VIEW GALLERY)</a></center></td>
+       </tr>
        
        <tr>
      <td width="500"><p><font size="3" color="#006699"><b>&nbsp; ICICI Prudential</b></font></p></td>
