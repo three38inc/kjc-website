@@ -10,7 +10,7 @@
                 Principal
                
                 <p>
-                    <span>Qualification </span> <br/>M.Com. (Ph. D.), Principal
+                    <span>Qualification </span> <br/>M.Com. (Ph. D.)
                 </p>
 				<p>
                     <span>Experience </span><br/> 25 Years
