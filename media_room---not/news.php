@@ -125,6 +125,28 @@
 
                                   
 <ul class="list-group">
+    
+    <li class="list-group-item">
+   
+         <b>Workshop on ‘Writing for Newspapers - Professional Perspectives'</b><br>
+    The Department of Journalism and Mass Communication organised a workshop on ‘Writing for Newspapers - Professional Perspectives'..
+         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=workshop-writing-newspapers.php">Read More</a>
+  </li>
+    
+    <li class="list-group-item">
+   
+         <b>Kristu Jayanti College (Autonomous) established a Local Chapter for NPTEL (National Programme on Technology Enhanced Learning)</b><br>
+   Kristu Jayanti College (Autonomous) established a Local Chapter for NPTEL (National Programme on Technology Enhanced Learning) a project funded by the MHRD..
+         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=nptel.php">Read More</a>
+  </li>
+    
+     <li class="list-group-item">
+   
+         <b>Workshop on   ‘Television  Programme Production’  </b><br>
+     The Department of Journalism and Mass Communication organized a workshop on ‘television programmes production’.. 
+         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=television-programme-production.php">Read More</a>
+  </li>
+    
     <li class="list-group-item">
    
          <b>Department of Social Work | Orientation Visit to Functional Vocational Training and Research Society (FVTRS) </b><br>
