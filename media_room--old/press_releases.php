@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    
+    <link rel="stylesheet" href="../css/morphing.css">
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -110,17 +110,24 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; In the <strong> news</strong></span>
+                                        <span>&nbsp; Press <strong>releases</strong></span>
                                     </h4>
 
                                  
-									<p align=justify>Kristu Jayanti College activities and other initiatives are carried in various newspapers. This section showcases news and other write ups carried across media platforms.  </p>
+									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
+                                    
+                                   <!-- <div class="well">
+ <ul class="nav nav-pills">
+  <li class="active"><a href="#">July <span class="badge">01</span></a></li>
+  
+</ul>
+
+</div>-->
 
 
-                  <a href="../pdf/2017/kristu-itc-academy.pdf" target="_blank" class="btn btn-primary btn-sm">Kristu Jayanti College signed the Membership with ICT Academy</a>
 
 
 
@@ -148,12 +155,12 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="press_releases.php">Press releases</a></p>
+                                        <p><a class="a-link-arrow" href="press_releases.php" style="color: #2980b9;font-weight: bold;">Press releases</a></p>
                                     </section>
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="in_the_news.php" style="color: #2980b9;font-weight: bold;">In the news</a></p>
+                                        <p><a class="a-link-arrow" href="in_the_news.php">In the news</a></p>
                                     </section>
 
 
@@ -227,7 +234,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    
+    <script src="../js/morphingSearch.js"></script>
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>

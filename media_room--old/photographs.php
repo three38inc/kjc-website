@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    
+    <link rel="stylesheet" href="../css/morphing.css">
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -110,109 +110,16 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                    <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;News<strong></strong></span>
+                                        <span>&nbsp; Photographs<strong></strong></span>
                                     </h4>
 
                                  
-									<p align=justify>Regular updates of the activities and events of the college are carried in this section to inform the student community, staffs, parents and other stakeholders.  </p>
-                                    
-                                    
-                                    
-  <div style="width:800px;height:200px;overflow:scroll;padding:0px;">
+									<p align=justify>Our dedicated photographers provide a visual experience about the college infrastructure, campus life, events and other co-curricular and extracurricular activities. Images are available to the interested community members and media upon request.</p>
 
-                                  
-<ul class="list-group">
-    
-    <li class="list-group-item">
-   
-         <b>Workshop on ‘Writing for Newspapers - Professional Perspectives'</b><br>
-    The Department of Journalism and Mass Communication organised a workshop on ‘Writing for Newspapers - Professional Perspectives'..
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=workshop-writing-newspapers.php">Read More</a>
-  </li>
-    
-    <li class="list-group-item">
-   
-         <b>Kristu Jayanti College (Autonomous) established a Local Chapter for NPTEL (National Programme on Technology Enhanced Learning)</b><br>
-   Kristu Jayanti College (Autonomous) established a Local Chapter for NPTEL (National Programme on Technology Enhanced Learning) a project funded by the MHRD..
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=nptel.php">Read More</a>
-  </li>
-    
-     <li class="list-group-item">
-   
-         <b>Workshop on   ‘Television  Programme Production’  </b><br>
-     The Department of Journalism and Mass Communication organized a workshop on ‘television programmes production’.. 
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=television-programme-production.php">Read More</a>
-  </li>
-    
-    <li class="list-group-item">
-   
-         <b>Department of Social Work | Orientation Visit to Functional Vocational Training and Research Society (FVTRS) </b><br>
-     The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students..
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-functional-vocational-training.php">Read More</a>
-  </li>
-    
-     <li class="list-group-item">
-   
-         <b>Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate  </b><br>
-     Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate to provide teaching and learning resources and AWS.. 
-          <a href="../events/events.php?mode=openlink&year=2017&month=july&url=AWS-educate.php">Read More</a>
-  </li>
-     <li class="list-group-item">
-   
-         <b>Centre for Social Activities Swatch K.J.C campus "CLEAN CAMPUS" </b><br>
-    Centre for Social Activities of Kristu Jayanti College had organised “swatch K.J.C campus “ CLEAN CAMPUS on 15th July 2017 at college campus.. 
-          <a href="../events/events.php?mode=openlink&year=2017&month=july&url=swatch-kjc-clean-campus.php">Read More</a>
-  </li>
-    <li class="list-group-item">
-   
-         <b>Department of Computer Science (UG) Machine learning under Tech Giants</b><br>
-     The session started with the speaker prompting for a difference between rule based learning and adaptable learning..
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=machine-learning-tech-giants.php">Read More</a>
-  </li>
-    
-    <li class="list-group-item">
-   
-         <b>Guest Lecture on  "Significance of  Numismatics in History" </b><br>
-    Numismatics is the study or collection of currency, including coins, tokens, paper money, and related objects.. 
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=significance-numismatics-history.php">Read More</a>
-  </li>
-     <li class="list-group-item">
-   
-         <b>Centre for Social Activities<br> VANMAHOTSAV 2017</b><br>
-  Centre for Social Activities of Kristu Jayanti College had organised “Van-Mohotsava” on 8th July 2017 at Nagenahalli Lake Belt..
-          <a href="../events/events.php?mode=openlink&year=2017&month=july&url=van-mahotsav-2017.php">Read More</a>
-  </li>
-    
-    <li class="list-group-item">
-   
-         <b>Department of Management (BBA) organized a management workshop “Virtuoso 2017”</b><br>
-Department of Management (BBA) organized a management workshop “Virtuoso 2017” for the freshers (I semester students) on 14th July 2017. Mr. John Santhosh,..
-         <a href="../events/events.php?mode=openlink&year=2017&month=july&url=Virtuoso-2017.php">Read More</a>
-  </li>
-    
-     <li class="list-group-item">
-   
-         <b>Industrial Visit to ISRO, Bangalore</b><br>
-          The students of fifth semester BCA and BSc (CSMS/CSME) accompanied by three faculty members visited ISRO, Bangalore as part of the industrial visit on 10th July 2017..
-          <a href="../events/events.php?mode=openlink&year=2017&month=july&url=industrial-visit-ISRO.php">Read More</a>
-  </li>
-  <li class="list-group-item">
-      <b>Orientation Visit to Indian Social Institute (ISI), Bangalore</b><br>
-       The Department of Social Work of Kristu Jayanti College, Bangalore has organized an orientation visit for the third semester students to Indian Social Institute.. 
-       <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-indian-social-institute.php">Read More</a>
-  </li>
-  <li class="list-group-item">
-   
-      <b>Department of Social Work | Orientation Visit to Schneider Electric</b><br>
-        The Department of Social Work has organized an Orientation Visit for the 3rd Semester of MSW students to Schneider Electric on the 1st of July 1, 2017.. 
-      <a href="../events/events.php?mode=openlink&year=2017&month=july&url=orientation-visit-schneider-electric.php">Read More</a>
-  </li>
- 
-</ul>
-                                    </div>
+									<p align=justify><b>Filming and Photographing on Campus:</b> Kristu Jayanti College’s primary mission is to support teaching and learning activities. For this reason, the college has put in place a number of restrictions on photographing and filming to ensure that students, faculty, and staff can pursue academic endeavors with as little hindrance as possible. Reporting, photographing, and videotaping are prohibited on campus without prior permission. In accordance with Kristu Jayanti College media policy, photographers and videographers must request for a permission to videograph or photograph the campus. </p>
 
 
 
@@ -226,7 +133,7 @@ Department of Management (BBA) organized a management workshop “Virtuoso 2017�
                                         <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news.php" style="color: #2980b9;font-weight: bold;">News</a></p>
+                                        <p><a class="a-link-arrow" href="news.php">News</a></p>
                                     </section>
 
 
@@ -236,7 +143,7 @@ Department of Management (BBA) organized a management workshop “Virtuoso 2017�
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="photographs.php">Photographs</a></p>
+                                        <p><a class="a-link-arrow" href="photographs.php" style="color: #2980b9;font-weight: bold;">Photographs</a></p>
                                     </section>
 
 
@@ -320,7 +227,7 @@ Department of Management (BBA) organized a management workshop “Virtuoso 2017�
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    
+    <script src="../js/morphingSearch.js"></script>
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>

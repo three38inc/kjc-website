@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    
+    <link rel="stylesheet" href="../css/morphing.css">
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -110,25 +110,17 @@
                             <div class="col-lg-9">
 
                                 <div class="content-left myWelcome wow fadeIn" style="min-height:820px;">
-                                  <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                    <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp; In-house <strong>publications</strong></span>
+                                        <span>&nbsp; In the <strong> news</strong></span>
                                     </h4>
 
                                  
-									<p>Kristu Jayanti College Media Room also manages in-house multi-media platforms like -  The Quadrangle, Glimpses, KJC Television and KJC Radio.  </p>
-									<p><b>The Quadrangle:</b> an in-house annual print newsletter published by the Department of Journalism and Mass Communication to facilitate the undergraduate journalism students in rporting. The Quadrangle covers all major events and other activities of the campus in a journalistic angle. The newsletter also carries a supplement page where it provides the students to showcase their feature writing skills.  </p>
-
-									<p><b>Glimpses:</b>  A weekly published e- newsletter, where news reports of all major events and activities of the college are covered by journalism students.</p>
-
-									
-									<p><b>KJC Radio:</b> an offline radio programming and production started with an objective to reach out students, by streaming infotainment programme on events conducted, upcoming events and music tapes. KJC Radio will provide an opportunity for the students and staff to know the various programmes that are organized at Kristu Jayanti College. The programme are infotainment nature it will be played in the college cafeteria. </p>
-                                    
-                                    <center><a href="http://glimpses.kristujayanti.edu.in/KJCnews/glimpses/volume_3/issue_5/stories/story_main.php" target="_blank" class="btn btn-primary">Click here for Glimpses</a></center>
+									<p align=justify>Kristu Jayanti College activities and other initiatives are carried in various newspapers. This section showcases news and other write ups carried across media platforms.  </p>
 
 
-                                 
+                  <a href="../pdf/2017/kristu-itc-academy.pdf" target="_blank" class="btn btn-primary btn-sm">Kristu Jayanti College signed the Membership with ICT Academy</a>
 
 
 
@@ -146,7 +138,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="in_house_publications.php" style="color: #2980b9;font-weight: bold;">In-house publications</a></p>
+                                        <p><a class="a-link-arrow" href="in_house_publications.php">In-house publications</a></p>
                                     </section>
 
 
@@ -161,7 +153,7 @@
 
 
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="in_the_news.php">In the news</a></p>
+                                        <p><a class="a-link-arrow" href="in_the_news.php" style="color: #2980b9;font-weight: bold;">In the news</a></p>
                                     </section>
 
 
@@ -235,7 +227,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    
+    <script src="../js/morphingSearch.js"></script>
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>

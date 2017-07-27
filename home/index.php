@@ -177,7 +177,7 @@
                                                   Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public..
                                                 </p>
                                                 <p class="text-center">
-                                                    <a href="../media_room/media_room.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
+                                                    <a href="../media_room/index.php" class="read-more">Read More <i class="fa fa-angle-double-right"></i></a>
                                                 </p>
                                             </div>
                                     </div>

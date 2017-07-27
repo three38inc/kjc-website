@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,5); /*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST']."";/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="stylesheet" href="../css/roundIcons.css">
     <link rel="stylesheet" href="../css/hoverEffect.css">
-    
+    <link rel="stylesheet" href="../css/morphing.css">
     <link rel="stylesheet" href="../css/navTabs.css">
     <link rel="stylesheet" href="../css/animate.css">
     <link rel="stylesheet" href="../css/fakeLoader.css">
@@ -101,7 +101,7 @@
                 <!-- this is the wrapper for the content -->
                 <div class="st-content-inner">
                     <div class="container">
-                        <!--<div class="row">-->
+                        <!--        <div class="row">-->
                         <div class="row" style="margin-top: 100px; padding-left: 10px; padding-right: 10px;">
 
                         </div>
@@ -113,31 +113,11 @@
                                     <img src="../images/clg_history.jpg" class="img-responsive" style="margin-bottom:20px;" />
                                 
                                     <h4 class="mainheading"><i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Media <strong>Room</strong></span>
+                                        <span>&nbsp;News<strong></strong></span>
                                     </h4>
 
                                  
-									<p align=justify>Welcome to the Media Room. Kristu Jayanti College Media Room acts as a liaison between the college and the public, especially media and other stakeholders. It also provides details of all major activities of the college through press releases and other multimedia formats. </p>
-                                    
-                                <!-- <a href="#" class="btn btn-primary">News</a>
-                                    
-                                  <a href="#" class="btn btn-primary">In-house publications</a>
-                                  <a href="#" class="btn btn-primary">Photographs</a>
-                                  <a href="#" class="btn btn-primary">Press releases</a><br><br>
-                                   <a href="#" class="btn btn-primary">In the news</a>
-                                   <a href="#" class="btn btn-primary">Social MediaPress releases</a><br><br>-->
-                                    
-<a href="news.php" class="btn btn-primary">News</a>
-<a href="in_house_publications.php" class="btn btn-success">In-house publications</a>
-<a href="photographs.php" class="btn btn-info">Photographs</a>
-<a href="press_releases.php" class="btn btn-warning">Press releases</a>
-<a href="in_the_news.php" class="btn btn-danger">In the news</a>
-<a href="social_media.php" class="btn btn-success">Social Media</a>
-                                        
-
- 
-
-
+									<p align=justify>Regular updates of the activities and events of the college are carried in this section to inform the student community, staffs, parents and other stakeholders.  </p>
 
 
 
@@ -149,10 +129,10 @@
                                 <div class="content-right wow fadeIn" style="background-color: transparent;box-shadow: none;">
                                     <h4 style="margin-left:10px;" class="mainheading">
                                         <i class="fa fa-bookmark"></i>
-                                        <span>&nbsp;Medai <strong>Room</strong></span>
+                                        <span>&nbsp;Media <strong>Room</strong></span>
                                     </h4>
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="news.php">News</a></p>
+                                        <p><a class="a-link-arrow" href="news.php" style="color: #2980b9;font-weight: bold;">News</a></p>
                                     </section>
 
 
@@ -246,7 +226,7 @@
     <script src="../js/swipeview.js"></script>
     <script src="../js/jquery.bootstrap.newsbox.min.js"></script>
     <script src="../js/classie.js"></script>
-    
+    <script src="../js/morphingSearch.js"></script>
     <script src="../js/sidebarEffects.js"></script>
     <script src="../js/transit.js"></script>
     <script src="../js/sly.js"></script>
