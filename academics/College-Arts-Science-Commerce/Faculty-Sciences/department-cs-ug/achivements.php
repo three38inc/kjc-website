@@ -89,6 +89,9 @@
                                     
                                     <p><b><u>Achievements in Academic Year 2017-18</u></b></p>
                                     
+                                    <p>Kristu Jayanti College (Autonomous) established a <b style="color: #cd6e08;font-weight: bold;">Local Chapter for NPTEL (National Programme on Technology Enhanced Learning) a project funded by the MHRD, Govt of India</b> on July 26, 2017 <a href="../../../../events/events.php?mode=openlink&year=2017&month=july&url=nptel.php">[view here]</a></p>
+                                    
+                                    
                                     <p><b style="color: #cd6e08;font-weight: bold;"><font size="3"> <center>Kristu Jayanti College(Autonomous) New Initiative in Partnering with ICT Academy Karnataka</center></font></b>
                                     Kristu Jayanti College (Autonomous) become a member institution to leverage AWS Educate to provide teaching and learning resources and AWS Promotional Credit to deliver cloud computing to the faculty members and students. This initiative is taken to strengthen India's four important visions on Skill India, Digital India, Startup India and Make in India.</p>
                                     
