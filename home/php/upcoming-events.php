@@ -917,6 +917,27 @@
                         <table cellpadding="4">
                             <tr>
                                 <td style="width: 60px; text-align: center; ">
+                                <p style="font-size: 1.2em;font-weight: bold;">JUL-AUG</p>
+                                <p style="font-size: 1.7em;color: #2980b9;margin-top: -20px;padding: 7px 0px;">29..</p>
+                                <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
+								<td>
+								<p style="margin-top: 2px; margin-bottom: 0px;">
+								Department of Psychology Proprium Series Guest Lecture Series on Applied Behavioural Analysis
+
+								</p>
+								<a href="../events/events.php?mode=openlink&year=2017&month=july&url=applied-behavioural-analysis.php" class="read-more">
+                                    Read More 
+                                    <i class='fa fa-angle-double-right'></i>
+								</a>
+								</td>
+							</tr>
+                        </table>
+                    </li>
+                    
+                    <li class="news-item">
+                        <table cellpadding="4">
+                            <tr>
+                                <td style="width: 60px; text-align: center; ">
                                 <p style="font-size: 2em;font-weight: bold;">JUL</p>
                                 <p style="font-size: 2em;color: #2980b9;margin-top: -20px;padding: 0;">31</p>
                                 <p style="font-size: 1em;color: #2980b9;margin-top: -20px;padding: 0;">2017</p></td>
