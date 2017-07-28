@@ -25,6 +25,50 @@
 <div class="list-group">
     <a href="#" class="list-group-item active" style="padding: 10px 15px;">	Recent Events  of July</a>
     
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="multi-commodity-exchange.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 27 </span></td>
+                <td class="event-dates">
+                  <p> 	Department of Commerce (UG) Investors Club In Association with Multi Commodity Exchange (MCX), Mumbai </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="entrepreneurship-innovation-center.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 26 </span></td>
+                <td class="event-dates">
+                  <p> Entrepreneurship And Innovation Center (EIC) </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="workshop-writing-newspapers.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 26 </span></td>
+                <td class="event-dates">
+                  <p> The Department of Journalism and Mass Communication, is organizing a workshop on ‘Writing for Newspapers’ </p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
+    <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="seminar-HR-careers.php">
+        <table cellpadding="4">
+            <tr>
+                <td class="event-dates"><span> 26 </span></td>
+                <td class="event-dates">
+                  <p> Department of Psychology Proprium Series Seminar on HR - Careers</p>
+                </td>
+            </tr>
+        </table>
+    </a>
+    
     <a class="list-group-item a-link-date event-links" data-year="2017" data-month="July" href="workshop-research-proposal.php">
         <table cellpadding="4">
             <tr>

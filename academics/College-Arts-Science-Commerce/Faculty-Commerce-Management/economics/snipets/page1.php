@@ -134,7 +134,7 @@
                     <span>Teaching Experience </span><br/> Nil
                 </p>
 				<p>
-                    <span>Papers presented or published </span><br/> Nil
+                    <span>Papers presented or published </span><br/> 6
                 </p>
                 <ul class="list-inline social-light ">
                     <li>
