@@ -3,6 +3,28 @@
 	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->
         
          <div class="panel panel-default">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse19" aria-expanded="false" aria-controls="collapse19">
+                <div class="panel-heading" role="tab" id="heading19">
+                    <h4 class="panel-title">
+                    July 28<sup>th</sup>
+                        <i class="fa fa-caret-right pull-right "></i>
+                    </h4>
+                </div>
+            </a>
+            <div id="collapse19" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading19">
+                <div class="panel-body">
+                    <p><b>For all UG & I /II year MA (Economics) classes</b><br>
+
+                        <b>Civil Service Coaching</b><br>
+                        Kristu Jayanti IAS Academy is organizing coaching for Civil Service Prelims Examinations. Students who are interested can attend an orientation programme on ‘Civil Service Training’ today (28/07/2017) at 3.30 p.m. in Room No. 409, UG Block. Application forms are available in the Reception Counter, UG Block. For more details and the submission of the duly filled application kindly contact Prof. Praveen Abraham, Faculty, Department of Journalism (Staff Room No: 9, Fourth Floor, UG Block).</p>
+                </div>
+            </div>
+        </div>
+		
+	<!-------------------------------------------------------------------end-------------------------------------------------------------------------------------->	
+
+        
+         <div class="panel panel-default">
             <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse18" aria-expanded="false" aria-controls="collapse18">
                 <div class="panel-heading" role="tab" id="heading18">
                     <h4 class="panel-title">
