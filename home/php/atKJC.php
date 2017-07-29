@@ -176,6 +176,15 @@
             </div>
         </div>
         
+        <div class="item">
+			<img src="../images/events-banner/kristu-jayanti-college-shubh-aarambhpmba.jpg"/>
+            <div class="carousel-caption">
+                <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+            </div>
+        </div>
+        
+        
+        
          <div class="item">
 			<img src="../images/events-banner/kristu-jayanti-college-acumen17.jpg"/>
             <div class="carousel-caption">

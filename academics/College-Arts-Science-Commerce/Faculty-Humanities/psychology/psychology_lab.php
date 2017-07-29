@@ -85,6 +85,8 @@
                                     <span>&nbsp; Psychology  <strong>Lab</strong></span></h4>
                                     
                                 <p align=justify>The department is furnished with a well equipped, ICT enabled lab, which caters to empirical testing, with immense potential to generate various studies on, attributes such as intelligence, aptitude, personality, memory, perception and other behavioural dimensions. Lab facilities are revamped and updated periodically.</p>
+                                     
+                                <center><p><a href="curriculum/Lab-Index.pdf" target="_blank" class="btn btn-primary btn-xs"> Psychology Lab Index 2017 - 2018</a></p></center>     
 
 
 								</div></div>
