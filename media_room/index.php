@@ -69,7 +69,7 @@
                                 <div id="lawCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 0;">
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
-                                            <img src="images/img1.jpg" class="img-responsive"/>
+                                            <img src="images/img2.jpg" class="img-responsive"/>
                                         </div>
                                       
                                     </div>

@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,9);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
 <head>
@@ -162,33 +162,54 @@ JPCS (Journalism, Psychology, Computer Science), and<br>
                                             <span> <strong>Activities</strong></span>
                                         </h4>
                                         
-                                        
-                                         <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
-                                    </section>
-
-
                                     <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
-                                    </section>
+                                                <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
+                                            </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
-                                    </section>
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="activities.php">Activities</a></p>
+                                            </section>
 
 
-                                    <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
-                                    </section>
-                                        
-                                        <section class="link-arrow">
-                                        <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
-                                    </section>
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="faculty.php">Faculty Profile</a></p>
+                                            </section>
+
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                            </section>
+                                            
+                                             <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                            </section>
+                                            
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="research-activities.php">Research activities</a></p>
+                                            </section>
+                                            
+                                             <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="upcoming-events.php">Upcoming Events</a></p>
+                                            </section>
+                                            
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="curriculum.php">Curriculum for UG and PG programs</a></p>
+                                            </section>
+
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="career_opportunities.php">Career Opportunities</a></p>
+                                            </section>
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="psychology_lab.php">Psychology Lab</a></p>
+                                            </section>
+
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="academic_calendar.php">Academic Calendar</a></p>
+                                            </section>
+
                                         
                                        
                                         

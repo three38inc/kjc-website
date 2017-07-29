@@ -1,4 +1,4 @@
-<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,10);/*$ROOT is the base URL & should on top of every PAGE */?> 
+<!DOCTYPE html> <?php  $ROOT="http://".$_SERVER['HTTP_HOST'].""; $imgNum = mt_rand(1,9);/*$ROOT is the base URL & should on top of every PAGE */?> 
 <html lang="en" class="no-js">
 
     <head>
@@ -79,7 +79,7 @@
                             <div class="row">
                                 <div class="col-lg-9">
                                     <div class="content-left myWelcome wow fadeIn">
-                                        <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
+                                      <img src="images/<?php echo $imgNum; ?>.jpg" class="img-responsive" style="margin-bottom:20px;" />
 
 
                                         <h4 class="mainheading"><i class="fa fa-bookmark"></i>
@@ -90,9 +90,11 @@
                                         <p align=justify>The Department aims to develop a holistic outlook toward life and prepare the students for their careers by imparting in-depth knowledge, critical thinking, research inquiry, and skills in various fields of Psychology and to develop sensitivity to psychological dynamics for better individual and societal wellbeing.</p>
 
                                         <p align=justify>Psychology was introduced as one of the core subjects for the Under Graduate programme during the academic year 2002-2003 and the post graduate programme with specializations in Clinical Psychology, Industrial Psychology and counseling psychology. To facilitate experiential learning we have a well-equipped Psychology lab which is updated periodically. </p>
+                                        
+                                       <!-- <center><p><a href="journalism/curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2017 -20</a></p></center>-->
 
-                                        <center><p><a href="curriculum/psychology_curriculum_2016_18.pdf" target="_blank" class="btn btn-primary btn-xs">Curriculum of Psychology  2016 -18</a></p></center>
-                                        <center><p><a href="curriculum/scope_psychologist.pdf" target="_blank" class="btn btn-primary btn-xs">Scope of Specializations of Psychology </a></p></center>
+                                        <center><p><a href="curriculum/BA-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">BA Course Matrix</a></p></center>
+                                        <center><p><a href="curriculum/MSc-Course-Matrix.pdf" target="_blank" class="btn btn-primary btn-xs">MSc Course Matrix</a></p></center>
 
                                     </div></div>
                                 <div class="col-lg-3" style="margin-top:1em;">
@@ -102,7 +104,7 @@
                                             <span>&nbsp;Programs <strong> Offered </strong></span>
                                         </h4>
                                         <section class="link-arrow">
-                                            <p><a class="a-link-arrow" href="ba_program.php">BA JPEng.</a></p>
+                                            <p><a class="a-link-arrow" href="../journalism/ba_jpeng.php">BA JPEng.</a></p>
                                         </section>
 										<section class="link-arrow">
                                             <p><a class="a-link-arrow" href="../journalism/ba_jpcs.php">BA JPCS</a></p>
@@ -120,6 +122,10 @@
                                                 <i class="fa fa-bookmark"></i>
                                                 <span> <strong>Activities</strong></span>
                                             </h4>
+                                            
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="vision-mission-goal.php">Vision, Mission and Goal </a></p>
+                                            </section>
 
 
                                             <section class="link-arrow">
@@ -134,6 +140,22 @@
 
                                             <section class="link-arrow">
                                                 <p><a class="a-link-arrow" href="best_practices.php">Best Practices</a></p>
+                                            </section>
+                                            
+                                             <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="achievements.php">Achievements</a></p>
+                                            </section>
+                                            
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="research-activities.php">Research activities</a></p>
+                                            </section>
+                                            
+                                             <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="upcoming-events.php">Upcoming Events</a></p>
+                                            </section>
+                                            
+                                            <section class="link-arrow">
+                                                <p><a class="a-link-arrow" href="curriculum.php">Curriculum for UG and PG programs</a></p>
                                             </section>
 
 

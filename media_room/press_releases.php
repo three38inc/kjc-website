@@ -127,7 +127,7 @@
                                                 <div class="panel-heading" role="tab" id="heading6">
                                                     <h5 class="panel-title">
                                                         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                                                    FDP on GST at Kristu Jayanti College, Bengaluru
+                                                  Shubh Aarambh 
                                                         </a>
                                                     </h5>
                                                 </div>
