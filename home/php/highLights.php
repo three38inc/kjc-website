@@ -9,6 +9,16 @@
     <ul id="frameHighLights" class="owl-carousel">
         
         <li>
+            <img src="../highlights/2017/kristu-jayanti-college-fadein.jpg" class="img-responsive"/>
+            <span class="date">27<sup>th</sup>- 28<sup>th</sup> July 2017</span>
+            <div class="quote">
+				 <a href="../events/events.php?mode=openlink&year=2017&month=july&url=Fade-in.php">
+              <h4>‘Fade in', Film Festival<br/><small>
+             Film and Photography Club of Kristu Jaynti College is organizing a two-day film festival ‘Fade in:’ on July 27 and 28. Shri. Georgekutty AL,..  </small></h4></a>
+            </div>
+        </li>
+        
+        <li>
             <img src="../highlights/2017/kristu-jayanti-college-writing-newspapers.jpg" class="img-responsive"/>
             <span class="date">26<sup>th</sup> July 2017</span>
             <div class="quote">

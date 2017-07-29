@@ -119,8 +119,64 @@
                                  
 									<p align=justify>We would like to publish the events and activities beyond the boundaries of our campus to a greater community. We strongly believe that media institutions will share all the major proceedings and other potential news stories about the college. To cater this, all the details of major events, activities and initiatives are provided in the form of press releases.</p>
                                     
-                                    <div style="height:400px;width:800px;border:1px solid #ccc;overflow:auto;">
+                                    <div style="height:390px;width:800px;border:1px solid #ccc;overflow:auto;">
                                    <!--------------------------------------------------scroll------------------------------------------->
+                                        
+                                         <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading8">
+                                                    <h5 class="panel-title">
+                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                                               Kargil Vijay Diwas at Kristu Jayanti College
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8">
+                                                    <div class="panel-body">
+                                                        
+                                                        <p align=justify>The NCC Department of Kristu Jayanti College observed the ‘Kargil Vijay Diwas’ as a tribute to the soldiers who sacrificed their life for the country in the Kargil war, one of the greatest Indo-Pak conflicts in history.</p>
+                                                        <p align=justify>This year being the 18th anniversary of Kargil Vijay, the NCC department commemorated the great military power and unparalleled martyrdom of soldiers by enacting the complete chapter of the war that took place in the year 1999. “The event was well organized and systematically planned out, giving every student a glimpse of what happened on the fated day” observed Fr. Augustine George, Vice Principal.  The college provides the students a great opportunity to honour the heroes of ‘Operation Vijay’, thus instilling in them a sense of pride and patriotism for the country.</p>
+                                                        <p align=justify>“Kristu Jayanti College has been venerating this great day for the past five years. This year too witnessed a positive response from the students, which is the result of prodigious effort of both the NCC Cadets and teachers in charge,” stated Prof. Sarvesh, Faculty in Charge, National Cadet Corps. Mr. Amar, who is a part of NCC commented the event as great and innovative effort from the college to help one understand the value of patriotism. “This year it was more engaging as the Cadets themselves portrayed the happenings of the operation. One could experience the joy and pain of the day from the very enactment,” said Mr. Yash Timothy Jai, a final year student from the department of Management.</p>
+                                                        <p align=justify>The ceremony also witnessed the presence of Fr. Josekutty PD, Principal; Dr. Gopakumar A.V, Dean, Dept. of Humanities; Prof. Ponni Thomas, Faculty, Dept. of Tourism; Dr. Joseph Charles; Faculty, School of Management.</p>
+
+                                                        <center><img src="images/release/kristu-jayanti-collegge-kargil-vijay-diwas.jpg"></center>
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
+
+                                        
+                                          <div class="panel panel-default">
+                                                <div class="panel-heading" role="tab" id="heading7">
+                                                    <h5 class="panel-title">
+                                                        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                                                KALAJYOTHI 2017
+                                                        </a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse7" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading7">
+                                                    <div class="panel-body">
+                                                        
+                                                        <p align=justify>Kristu Jayanti College concluded its annual cultural and literary fest ‘Kalajyothi 2017’ on July 22, 2017. Kalajyothi opens a platform for the students to showcase their talents through various events. The week long fest saw the participation of hundreds of students from the different departments of the college. The fest incorporated both secular and gospel events in three major languages, English, Kannada and Hindi.</p>
+                                                        <p align=justify>Kalajyothi was officially inaugurated on July 16. Events took place throughout the week each day with both individual and group participation. The highlights of the fest were ’60 seconds to fame’, where the participants had to make an impression on the crowd with any of their abilities, ‘Personality contest’, in which students were judged based on their capability to handle stressful situations given to them.</p>
+                                                        <p align=justify>The fest also hosted many fine arts events like face painting, masquerade, jewellery designing, costume designing, cartooning, painting and such. Creative writing saw the most participants with 223 aspirants with topics relevant to the current situations in the country like GST. Another event which caught the attention of the crowd was ‘Adaptune’, where dancers had to use their improvisational skills of dancing and were put to test, which was zealous fun for the participants and audience alike. </p>
+                                                        <p align=justify>The fest ended with an engraving show by various band performances and dance. Various Guests were called to judge events and validate the skills of the participants. “Kalajyothi opens a vast opportunity to the aspiring students, especially the fresher as it allows them to experience competitive festing,” said Samson Easo, student co-ordinator, literary and cultural association. </p>
+                                                        <p align=justify>“It is the culmination of all excitement at Kristu Jayanti College. And what makes this year’s edition special is that, it had the maximum participation since the 15 years of when it started,” commented Calistus  Jude, dean of the life science department, and faculty co-ordinator of the literary and cultural association of the college. “There was an air of motivation amongst the students to take part in various events of the fest. We also saw a majority of the international students joining-in in the competition”. The faculty of the college along with various student co-ordinators, contributed to their fullest to make the fest a grand success. Kalajyothi received excellent response from the students and participants, the fest will be much awaited next year as well.</p>
+
+                                                        
+                                                        <center><img src="images/release/kristu-jayanti-collegge-kalajyothi-2017.jpg"></center>
+
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+<!---------------------------------------------------------------------end--------------------------------------------------------------------------------------->
+
                                         
                                         
                                        <div class="panel panel-default">
