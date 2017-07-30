@@ -35,13 +35,13 @@
     /* Get the dateCreatedTime to store */
     $date = date_create('now', timezone_open('Asia/Calcutta'));
     date_timezone_set($date, timezone_open('Asia/Calcutta'));
-    $date_created = date_format($date, 'Y-m-d H:i:s');
+    $date_created = date_format($date, 'Y-m-d h:i:s a');
 
     /* Inserting Data into Table Alerter */
     $sql="INSERT INTO `alerter`(`id`, `star`,  `tag_id`, `message`, `date_created`, `visibility_period`) VALUES (null,1,:tag_id,:message,:date_created,:visibility_period)";
     
     $stmt= $connector->prepare($sql);
-    $stmt->bindValue(":tag_id",$tag_info['id'],PDO::PARAM_INT);
+    $stmt->bindValue(":tag_id",$tag_id,PDO::PARAM_INT);
     $stmt->bindValue(":message",$message,PDO::PARAM_STR);
     $stmt->bindValue(":visibility_period",$visibility_period,PDO::PARAM_STR);
     $stmt->bindValue(":date_created",$date_created,PDO::PARAM_STR);

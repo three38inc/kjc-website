@@ -5,11 +5,11 @@
                 <tbody>
                     <?php
                         /*Get the available alerts*/
-                        if(isset($_GET['label-selection']) && !empty($_GET['label-selection'])){
+                        if(isset($_GET['label-selection']) && ($_GET['label-selection'])!=""){
                             $stmt = $connector->prepare('SELECT * FROM `alerter` WHERE `tag_id`=:tag_id');
                             $stmt->bindValue(":tag_id",$_GET['label-selection'],PDO::PARAM_INT);
                         }
-                        else if(isset($_GET['status-selection']) && !empty($_GET['status-selection'])){
+                        else if(isset($_GET['status-selection']) && ($_GET['status-selection'])!=""){
                             $stmt = $connector->prepare('SELECT * FROM `alerter` WHERE `star`=:star');
                             $stmt->bindValue(":star",$_GET['status-selection'],PDO::PARAM_INT);
                         }
@@ -28,19 +28,21 @@
                                     </div>
                             <?php
 
-                                $now=strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d H:i:s a'));
+                                $now=strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d h:i:s a'));
                                 
                                 $alertDateBegin = strtotime(explode("<to>",$row['visibility_period'])[0]);
                                 $alertDateEnd = strtotime(explode("<to>",$row['visibility_period'])[1]);
-
+                                $star=0;
                                 if($now > $alertDateBegin && $now < $alertDateEnd) {
                                     $star=1;
+                                    
                                 } else if($now < $alertDateBegin && $now < $alertDateEnd){
                                     $star=0;  
                                 }
                                 else if($now > $alertDateBegin && $now > $alertDateEnd){
                                     $star=2;  
                                 }
+                                echo "<script>console.log('star=". $star ." | begin=".$alertDateBegin." | now=".$now." | end=".$alertDateEnd."');</script>";
                                 $sql = "UPDATE `alerter` SET `star` = ? WHERE `id` = ?";
                                 $connector->prepare($sql)->execute([$star, $row['id']]);
                                 if($star==1){
@@ -84,7 +86,7 @@
                                 <?php
                                 
                                     
-                                    $now_time = strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d H:i:s'));
+                                    $now_time = strtotime((date_timezone_set(new DateTime(),timezone_open('Asia/Calcutta')))->format('Y-m-d h:i:s a'));
                                     $from_time = strtotime($row['date_created']);
                                     if(round(abs($now_time - $from_time) / 60,2)<1440){
                                       echo "Today";

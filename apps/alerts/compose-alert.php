@@ -343,6 +343,7 @@
                                 }),
                                 cache: false,
                                 success: function(e) {
+                                    console.log(e);
                                     if (e == "success") {
                                         if (!alert("Success ! Alert has been Updated .Please Check the website :)"))
                                             location.reload();

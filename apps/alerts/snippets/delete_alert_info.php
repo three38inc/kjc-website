@@ -5,6 +5,7 @@
     
     require('connect.php');
     $Selected = json_decode($_POST['Selected'],true);
+    $error=false;
     foreach($Selected as $id)
     {
         $stmt = $connector->prepare('DELETE FROM `alerter` WHERE `id` = :id');
